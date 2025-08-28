@@ -1,0 +1,27 @@
+DEBUG = False
+LLM_TYPE = "gpt-4o-mini"
+MAX_TOKENS = 300
+# DEPLOYMENT_NAME = "gpt-35-turbo-1106"
+DEPLOYMENT_NAME = "gpt-4o-mini"
+#DEPLOYMENT_NAME = "DeepSeek-R1-qcbar"
+N_VALIDATORS = 3
+# "gpt-35-turbo-1106"
+# "gpt-4o-mini"
+LLM_OLLAMA = "llama3.2"
+LLM_SAMPLING = "gpt-4o-mini"
+# LLM_MUTATOR = "gpt-35-turbo-1106"
+LLM_MUTATOR = "gpt-4o-mini" #"gpt-35-turbo-1106"
+LLM_CROSSOVER = "gpt-4o-mini"#"gpt-35-turbo-1106"
+LLM_VALIDATOR = "gpt-4o-mini"#"gpt-35-turbo-1106"
+LLM_IPA = DEPLOYMENT_NAME#"gpt-4o-mini"#"gpt-35-turbo-1106"
+
+CONTEXT = {
+    "location" : {
+        "position" : "Marienplatz, Munich, Germany",
+        "time" : "2025-03-19T09:00:00Z",
+    }
+}
+###############
+
+EXAMPLE = "I am hungry and like Pizza."
+USER_PROFILE  = "The user is a medium aged IT employee at BMW."

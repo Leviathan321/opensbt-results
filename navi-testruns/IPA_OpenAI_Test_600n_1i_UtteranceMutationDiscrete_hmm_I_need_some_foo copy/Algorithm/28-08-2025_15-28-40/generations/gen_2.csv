@@ -1,0 +1,61 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Could you please find me a bakery with cash payment?,1.0,1.0,-0.0,0
+1,"Hey there, could you help me find some high-end bars that accept contactless payments around here?",0.0,1.0,-0.0,1
+2,Can you find open restaurants nearby?,1.0,0.7712742805480957,-0.0,0
+3,Find me a medium-priced French supermarket that's open for mobile payment.,0.8333333333333334,1.0,-0.0,0
+4,"Excuse me, could you please help me find an Indian supermarket with parking available?",1.0,1.0,-0.0,0
+5,"Could you kindly assist me in locating some medium-priced Mexican cafes that accept contactless payment, please?",1.0,1.0,-0.0,0
+6,Could you please help me find a medium-priced American supermarket that accepts contactless payments?,1.0,1.0,-0.0,0
+7,"Please provide me with nearby bars that accept mobile payments, are affordable, and have parking available.",0.3333333333333333,1.0,-0.0,1
+8,Please find open Thai cafes with parking.,0.8333333333333334,1.0,-0.0,0
+9,"Hey, where can I find cheap Indian cafes that accept cards?",1.0,1.0,-0.0,0
+10,"Excuse me, could you kindly point me to some open middle eastern cafes that are reasonably priced?",1.0,1.0,-0.0,0
+11,"Hey, find me open supermarkets that accept contactless payments.",0.8333333333333334,1.0,-0.0,0
+12,Could you please find open Thai cafes that accept contactless payments?,1.0,1.0,-0.0,0
+13,Could you please help me find an open middle eastern restaurant that accepts mobile payments?,1.0,1.0,-0.0,0
+14,"Hey there, can you help me find some open bakeries nearby that won't break the bank?",0.75,0.6252301037311554,-0.0,1
+15,"Hey, where can I find some open bakeries that take credit cards and have parking available?",0.3333333333333333,1.0,-0.0,1
+16,Could you please help me find medium-priced bakeries with parking?,0.8333333333333334,1.0,-0.0,0
+17,Could you kindly direct me to open supermarkets?,0.6666666666666666,0.9264510273933411,-0.0,1
+18,Could you please assist me in finding bakeries that accept mobile payments?,0.8333333333333334,1.0,-0.0,0
+19,Could you kindly direct me to nearby petrol stations?,0.4166666666666667,0.9058768510818481,-0.0,1
+20,"Hey, where's a high-priced bar with parking?",1.0,1.0,-0.0,0
+21,"Hey, where can I find cheap bakeries that accept cash?",1.0,1.0,-0.0,0
+22,Can you find some low-cost bars nearby?,0.8333333333333334,1.0,-0.0,0
+23,Could you please find open Chinese restaurants for me?,0.6666666666666666,0.8093952337900797,-0.0,1
+24,Could you please locate petrol stations with fuel prices?,0.8333333333333334,1.0,-0.0,0
+25,"Hey there, where's a nearby Japanese supermarket?",1.0,1.0,-0.0,0
+26,Can you find a medium-priced French supermarket with mobile payment and parking?,0.8333333333333334,1.0,-0.0,0
+27,"Hey there, could you help me find a high-end Greek restaurant with mobile payment and parking?",1.0,1.0,-0.0,0
+28,Please direct me to any open cafes serving low-priced German food that accept credit cards.,1.0,1.0,-0.0,0
+29,Can you find open cafes with German food and parking?,1.0,1.0,-0.0,0
+30,Could you please find a cafe?,0.5,1.0,-0.0,1
+31,Can you find a medium-priced Thai cafe with parking available nearby?,1.0,1.0,-0.0,0
+32,Find an open petrol station with SP98 fuel priced at one dollar.,1.0,1.0,-0.0,0
+33,Could you please direct me to an open petrol station nearby?,0.6666666666666666,0.9327691793441772,-0.0,1
+34,"Find me medium-priced Thai cafes, cash.",0.8333333333333334,1.0,-0.0,0
+35,"Please direct me to some medium-priced bakeries that accept mobile payments, if you can.",1.0,1.0,-0.0,0
+36,Could you please locate some high-priced Chinese cafes that are currently open?,0.8333333333333334,1.0,-0.0,0
+37,Please find open bars accepting contactless payments.,0.8333333333333334,1.0,-0.0,0
+38,"Hey there, can you find me some open Thai restaurants with cash parking options?",1.0,1.0,-0.0,0
+39,"Hey there, can you find an open Chinese supermarket with parking for me?",1.0,1.0,-0.0,0
+40,Could you please find some low-priced Turkish restaurants nearby that accept cash and have available parking?,1.0,1.0,-0.0,0
+41,Could you kindly help me find bakeries with mobile payment options?,1.0,1.0,-0.0,0
+42,Could you kindly recommend a medium-priced Chinese restaurant with parking?,1.0,1.0,-0.0,0
+43,Could you please find me some low-priced Vietnamese supermarkets that accept contactless payments? Thank you.,1.0,1.0,-0.0,0
+44,Can you tell me where the high-priced bars accepting credit cards are located around here?,1.0,1.0,-0.0,0
+45,Could you please find an open Indian supermarket with parking and credit card?,1.0,1.0,-0.0,0
+46,Could you please locate nearby petrol stations with LPG available?,0.8333333333333334,1.0,-0.0,0
+47,Can you tell me where to find open middle eastern restaurants that are medium priced around here?,1.0,1.0,-0.0,0
+48,Could you kindly assist me in finding some open bars within a medium price range?,0.8333333333333334,1.0,-0.0,0
+49,Could you kindly assist me in finding medium-priced bars nearby?,0.8333333333333334,1.0,-0.0,0
+50,Find an open petrol station with available parking.,1.0,1.0,-0.0,0
+51,Could you please find nearby petrol stations accepting credit cards?,1.0,0.9058768510818481,-0.0,0
+52,Could you kindly assist me in locating some low-priced Mexican cafes that accept cash?,1.0,1.0,-0.0,0
+53,Find open Vietnamese cafes with mobile payment.,0.8333333333333334,1.0,-0.0,0
+54,Could you kindly guide me to open bakeries with mobile payment and parking?,1.0,1.0,-0.0,0
+55,"Hey there, can you find me some open Middle Eastern restaurants with parking for credit cards?",1.0,1.0,-0.0,0
+56,Could you find me a cafe?,0.5,1.0,-0.0,1
+57,Could you please find a high-priced Chinese restaurant with cash payment and parking available?,1.0,1.0,-0.0,0
+58,"Find me a petrol station with SP98 fuel priced at 1.0, and parking available, now!",1.0,1.0,-0.0,0
+59,Could you kindly locate supermarkets with parking?,1.0,0.9509673515955607,-0.0,0

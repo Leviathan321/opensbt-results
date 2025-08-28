@@ -1,0 +1,61 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Where's the nearest supermarket for cash?,0.6666666666666666,0.9264510273933411,-0.0,1
+1,"Hey there, can you find a petrol station with E85 for cash?",1.0,1.0,-0.0,0
+2,"Find me an open petrol station that sells SP95 fuel at 1.4 per liter, now.",1.0,1.0,-0.0,0
+3,Could you please find nearby petrol stations?,1.0,0.9058768510818481,-0.0,0
+4,"Hey, where can I find some Vietnamese supermarkets that take cash and aren't too pricey?",1.0,1.0,-0.0,0
+5,Could you kindly assist me in finding open bars that accept contactless payments?,0.8333333333333334,1.0,-0.0,0
+6,Find me some high-priced bars that accept mobile payments and are open.,1.0,1.0,-0.0,0
+7,Please direct me to high-end bars with available parking.,0.8333333333333334,1.0,-0.0,0
+8,Could you please guide me to nearby bars that accept contactless payments and have parking?,0.8333333333333334,1.0,-0.0,0
+9,Can you find open bars that accept cash?,0.8333333333333334,1.0,-0.0,0
+10,"Find me some high-priced cafes with contactless payment and parking available, will you?",0.8333333333333334,1.0,-0.0,0
+11,"Find me open bakeries with available parking, please.",1.0,1.0,-0.0,0
+12,Find me some high-end bars nearby.,0.8333333333333334,1.0,-0.0,0
+13,"Hey, find me some high-priced Mexican cafes with parking that accept credit cards, alright?",0.8333333333333334,1.0,-0.0,0
+14,"Find me a cafe that's open and has parking available, will you?",1.0,1.0,-0.0,0
+15,Could you please find nearby supermarkets with parking?,1.0,0.9411608219146729,-0.0,0
+16,Could you kindly assist me in finding a nearby supermarket?,0.6666666666666666,0.784300684928894,-0.0,1
+17,Could you please find low-priced Middle Eastern restaurants with contactless payment nearby?,1.0,1.0,-0.0,0
+18,"Could you kindly guide me to any open bakeries that accept credit cards, please?",1.0,1.0,-0.0,0
+19,Could you kindly assist me in locating open petrol stations offering E85 fuel at a price of 1.9?,0.0,1.0,-0.0,1
+20,"Hey there, can you point me to some open bakeries with medium prices around here?",1.0,1.0,-0.0,0
+21,Could you kindly assist me in locating open Thai cafes with contactless payment and available parking?,1.0,1.0,-0.0,0
+22,"Hey there, could you help me find some medium-priced Turkish cafes that accept contactless payments?",1.0,1.0,-0.0,0
+23,Could you kindly assist me in locating high-priced Turkish cafes with available parking and mobile payment options?,0.0,1.0,-0.0,1
+24,"Hey, find me a medium-priced Greek supermarket where I can pay cash, will ya?",1.0,1.0,-0.0,0
+25,Could you please help me find some low-priced Greek cafes nearby?,1.0,1.0,-0.0,0
+26,"Hey, where can I find open American restaurants with parking?",1.0,1.0,-0.0,0
+27,"Hey, find me an open Turkish supermarket that accepts mobile payments and has low prices, will you?",0.3333333333333333,1.0,-0.0,1
+28,Could you please find open bars?,0.8333333333333334,1.0,-0.0,0
+29,"Hey, find me some bars with mobile payment and parking available.",0.8333333333333334,1.0,-0.0,0
+30,Could you kindly help me find a medium-priced American supermarket with contactless payment?,1.0,1.0,-0.0,0
+31,Could you please help me find an open CNG petrol station that accepts credit cards?,0.0,1.0,-0.0,1
+32,"Find me some medium-priced bakeries that accept credit cards, and do it quickly, please.",0.8333333333333334,1.0,-0.0,0
+33,Can you find open bars for mobile payment?,0.6666666666666666,1.0,-0.0,1
+34,Find me a petrol station with contactless payment and parking.,1.0,1.0,-0.0,0
+35,Could you please locate nearby petrol stations offering CNG at a price of 1.9 with mobile payment?,0.0,1.0,-0.0,1
+36,Could you point me to some high-end bars?,1.0,1.0,-0.0,0
+37,Can you find open bars with cash payment and parking?,0.8333333333333334,1.0,-0.0,0
+38,"Hey, find me some medium-priced Mexican cafes where I can pay with cash, alright?",1.0,1.0,-0.0,0
+39,Please find me some medium-priced bars with mobile payment and parking available.,0.8333333333333334,1.0,-0.0,0
+40,"Hey there, where's an open bakery nearby?",0.8333333333333334,1.0,-0.0,0
+41,Could you kindly find open Chinese supermarkets accepting mobile payments?,0.6666666666666666,1.0,-0.0,1
+42,"Hey, find me a German supermarket with parking, medium prices, and I can pay with a credit card.",1.0,0.9509673515955607,-0.0,0
+43,Could you kindly direct me to a petrol station with available parking and cash?,1.0,0.9215640425682068,-0.0,0
+44,Could you please recommend some French restaurants that accept credit cards?,1.0,1.0,-0.0,0
+45,"Hey, where can I find a medium-priced Greek supermarket with cash parking?",1.0,1.0,-0.0,0
+46,Could you please locate nearby petrol stations with contactless payment and parking?,1.0,0.9215640425682068,-0.0,0
+47,"Find me a Vietnamese supermarket nearby that accepts cash payments, will you?",1.0,1.0,-0.0,0
+48,Can you find open Turkish restaurants that accept credit cards?,1.0,1.0,-0.0,0
+49,Could you please find Vietnamese restaurants with available parking?,1.0,1.0,-0.0,0
+50,Could you kindly direct me to some open bars with available parking?,1.0,1.0,-0.0,0
+51,"Find me an open petrol station with CNG, parking available, and mobile payment options at 1.2 per liter.",0.3333333333333333,1.0,-0.0,1
+52,"Hey, where's the nearest diesel station with that cheap 1.1 price?",0.0,1.0,-0.0,1
+53,Could you please find medium-priced cash restaurants?,1.0,0.9640928506851196,-0.0,0
+54,Please provide me with low-priced Japanese restaurants that accept contactless payments and have parking.,0.8333333333333334,1.0,-0.0,0
+55,Could you please guide me to nearby bakeries that accept mobile payments?,0.8333333333333334,1.0,-0.0,0
+56,Could you please find high-end Mexican restaurants with contactless payment?,0.8333333333333334,1.0,-0.0,0
+57,"Hey there, can you find me an open American supermarket that accepts mobile payments?",1.0,1.0,-0.0,0
+58,"Hey, where can I find high-end Japanese supermarkets nearby?",0.0,1.0,-0.0,1
+59,"Find me an open supermarket that accepts cash and serves Italian food, will you?",0.3333333333333333,1.0,-0.0,1

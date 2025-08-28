@@ -1,0 +1,28 @@
+Index,vars,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you please help me find a petrol station with CNG available, and the fuel price is 1.8?",0.0,1.0,-0.0,1
+1,"Hey, where can I find a CNG station with contactless payment at 1.5 per liter?",0.0,1.0,-0.0,1
+2,"Hey, where's the nearest open LPG station with cheap fuel prices?",0.0,1.0,-0.0,1
+3,Can you find CNG stations nearby?,0.0,1.0,-0.0,1
+4,"Hey, where can I find a diesel station that accepts mobile payments at 1.6?",0.0,1.0,-0.0,1
+5,"Hey there, could you help me find some high-end bars that accept contactless payments around here?",0.0,1.0,-0.0,1
+6,"Find me a CNG station, please.",0.0,1.0,-0.0,1
+7,Could you kindly assist me in locating open petrol stations offering E85 fuel at a price of 1.9?,0.0,1.0,-0.0,1
+8,Could you kindly assist me in locating high-priced Turkish cafes with available parking and mobile payment options?,0.0,1.0,-0.0,1
+9,Could you please help me find an open CNG petrol station that accepts credit cards?,0.0,1.0,-0.0,1
+10,Could you please locate nearby petrol stations offering CNG at a price of 1.9 with mobile payment?,0.0,1.0,-0.0,1
+11,"Hey, where's the nearest diesel station with that cheap 1.1 price?",0.0,1.0,-0.0,1
+12,"Hey, where can I find high-end Japanese supermarkets nearby?",0.0,1.0,-0.0,1
+13,"Hey there, could you help me find some LPG petrol stations that accept mobile payments? Fuel's only 1.1!",0.0,1.0,-0.0,1
+14,"Please direct me to a supermarket with contactless payment, medium prices, French food, and available parking.",0.0,1.0,-0.0,1
+15,Could you kindly assist me in locating some low-priced bars that accept contactless payments?,0.0,1.0,-0.0,1
+16,Could you please help me find some open cafes serving high-priced Greek food with contactless payment?,0.0,1.0,-0.0,1
+17,Could you kindly direct me to an open LPG petrol station that accepts mobile payments at one dollar?,0.0,1.0,-0.0,1
+18,Can you tell me where the nearest bakeries are located?,0.0,1.0,-0.0,1
+19,"Hey, can you just find me some medium-priced bars that accept cash? It's not that hard!",0.0,1.0,-0.0,1
+20,Find me an open petrol station that accepts mobile payment and has SP95 E10 for 1.6.,0.0,1.0,-0.0,1
+21,Could you kindly assist me in finding low-priced bars that accept mobile payments?,0.0,1.0,-0.0,1
+22,Could you please locate nearby petrol stations offering CNG?,0.0,1.0,-0.0,1
+23,"Hey, where can I find some open Thai supermarkets around here that won't break the bank?",0.0,1.0,-0.0,1
+24,"Hey, find me some cheap bakeries with parking, or are you just slacking off?",0.3333333333333333,0.8752301037311554,-0.0,1
+25,"Hey there, where's an open cafe nearby?",0.6666666666666666,0.7684483130772909,-0.0,1
+26,"Hey there, can you help me find some open bakeries nearby that won't break the bank?",0.75,0.6252301037311554,-0.0,1

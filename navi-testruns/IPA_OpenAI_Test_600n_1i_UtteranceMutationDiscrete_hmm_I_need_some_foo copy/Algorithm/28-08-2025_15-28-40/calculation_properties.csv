@@ -1,0 +1,14 @@
+Attribute,Value
+Id,28fcb9c5-d00a-4183-b1bf-1c2e72de489e
+Timestamp,28-08-2025_15:28:41
+Problem,IPA_OpenAI_Test_600n_1i_UtteranceMutationDiscrete_hmm_I_need_some_foo
+Algorithm,Algorithm
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,FitnessMerged
+Critical function,CriticalMerged
+Search time,5063.88 sec
+sample_size,600
+algorithm_name,RS
+Seed Utterances,"['hmm I need some food', 'yeah I need some burgers', 'oh some burger would be great']"
+Names Dimension Utterances,['utterance']
