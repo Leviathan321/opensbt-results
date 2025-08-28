@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Find open petrol stations offering SP98 at 1.8.,0.0,1.0,-0.11980564224035728,1
+1,"Yo, where's an open petrol station with contactless payment, huh?",0.3333333333333333,0.8823460638523102,-0.08329175659424437,1
+2,"Hey, find me an open petrol station for SP98, now!",0.3333333333333333,0.9058768510818481,-0.09659759445987404,1
+3,"Hey, where's the nearest open petrol station with SP98?",0.4166666666666667,0.8823460638523102,-0.10435827392214225,1
+4,"Yo, show me an open supermarket, alright?",0.6666666666666666,0.7411608219146728,-0.08525183406713321,1
+5,"Hey, point me to the nearest open gas station!",0.6666666666666666,0.8431280851364136,-0.09105254896092818,1
+6,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17154752555976693,1
+7,"Hey, where's a damn petrol station with that SP98 fuel?",1.0,0.8431280851364136,-0.11713391231055259,0
+8,"Hey, where the hell can I find CNG stations?",0.0,1.0,-0.10037378086549775,1
+9,Locate nearby petrol stations that are currently open.,1.0,0.8431280851364136,-0.09782501059050486,0
+10,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+11,"Hey, point me to an open gas station, will ya?",0.6666666666666666,0.8823460638523102,-0.08481295745383688,1
+12,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+13,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+14,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+15,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+16,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+17,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+18,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+19,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1

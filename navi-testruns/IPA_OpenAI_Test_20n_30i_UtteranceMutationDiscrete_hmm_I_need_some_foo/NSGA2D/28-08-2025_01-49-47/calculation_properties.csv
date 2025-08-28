@@ -1,0 +1,21 @@
+Attribute,Value
+Id,2f5da9b6-69a1-40c5-bead-047b4fbae311
+Timestamp,28-08-2025_01:49:48
+Problem,IPA_OpenAI_Test_20n_30i_UtteranceMutationDiscrete_hmm_I_need_some_foo
+Algorithm,NSGA2D
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,FitnessMerged
+Critical function,CriticalMerged
+Search time,4364.85 sec
+Population size,20
+Number of generations,30
+Number of offsprings,None
+Crossover probability,0.7
+Crossover eta,20
+Mutation probability,1.0
+Mutation eta,15
+Seed,None
+Operators,crossover=UtteranceCrossoverDiscrete() sampling=UtteranceSamplingDiscrete() duplicate_elimination=UtteranceDuplicateEliminationLocalDiscreteWithContent() mutation=UtteranceMutationDiscrete()
+Seed Utterances,"['hmm I need some food', 'yeah I need some burgers', 'oh some burger would be great']"
+Names Dimension Utterances,['utterance']

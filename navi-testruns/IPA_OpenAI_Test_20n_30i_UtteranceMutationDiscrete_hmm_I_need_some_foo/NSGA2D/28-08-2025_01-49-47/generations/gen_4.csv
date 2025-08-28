@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Locate open LPG stations accepting cash nearby.,0.0,1.0,-0.08653517753319229,1
+1,Show me some open eateries with cash and parking options.,0.4166666666666667,0.9188329458236695,-0.048544239260788435,1
+2,"Find me some open Turkish restaurants, please.",0.6666666666666666,0.8093952337900797,-0.0,1
+3,Find me an open supermarket with mobile payment now.,0.6666666666666666,0.8151148727961949,-0.07840349546343717,1
+4,Locate nearby restaurants with contactless payment available.,1.0,0.9712742805480957,-0.0940849947647282,0
+5,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+6,Find me an open supermarket with contactless payment.,1.0,0.784300684928894,-0.07677265356970753,0
+7,"Show me a petrol station accepting credit cards, please.",1.0,0.8431280851364136,-0.08615852677845326,0
+8,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+9,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+10,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+11,"Locate a pricey bakery that’s currently open, takes cash, and has parking for me.",0.3333333333333333,1.0,-0.03534333077105334,1
+12,Please locate an open supermarket with cash.,0.6666666666666666,0.9411608219146729,-0.06327018559326303,1
+13,"Yo, show me some open Greek joints, alright?",1.0,0.8093952337900797,-0.0,0
+14,"Excuse me, could you point me to nearby petrol stations with cash?",1.0,0.8823460638523102,-0.06990397277903604,0
+15,Please locate open Turkish restaurants with contactless payment.,0.6666666666666666,1.0,-0.0906075599619085,1
+16,Locate open petrol stations with SP95 E10.,1.0,1.0,-0.1135318016933804,0
+17,Locate open bakeries that accept cash and provide parking for customers.,0.3333333333333333,1.0,-0.033159025311171764,1
+18,Find open petrol stations with SP95 fuel and parking.,1.0,1.0,-0.09788181044872202,0
+19,Find me open restaurants with contactless payments.,0.6666666666666666,1.0,-0.07480796395688616,1

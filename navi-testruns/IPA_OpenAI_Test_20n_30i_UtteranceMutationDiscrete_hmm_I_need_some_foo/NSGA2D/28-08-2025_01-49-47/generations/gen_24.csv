@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Find open petrol stations offering SP98 at 1.8.,0.0,1.0,-0.11980564224035728,1
+1,"Yo, where the hell can I score some cafes?",0.3333333333333333,0.6607826948165894,-0.08967191170909605,1
+2,"Yo, where's the closest gas station with cheap fuel?",0.3333333333333333,0.7646921277046204,-0.10573368480936707,1
+3,"Hey, where's the closest SP98 petrol station, huh?",0.3333333333333333,0.8431280851364136,-0.1108287514077837,1
+4,Locate the nearest open SP98 petrol station immediately.,0.3333333333333333,0.9058768510818481,-0.11167533558262732,1
+5,"Yo, where's a damn petrol station with cheap fuel prices?",0.5833333333333334,0.7646921277046204,-0.10900974349814518,1
+6,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17154752555976693,1
+7,"Hey, where's a damn petrol station with that SP98 fuel?",1.0,0.8431280851364136,-0.11713391231055259,0
+8,Find the nearest open SP98 petrol station now.,0.3333333333333333,0.8823460638523102,-0.1112896009993094,1
+9,"Hey, where's a damn CNG station with cheap fuel prices?",0.0,1.0,-0.11209718303499816,1
+10,"Yo, show me an open supermarket, alright?",0.6666666666666666,0.7411608219146728,-0.08525183406713321,1
+11,"Hey, where can I find some dope cafes around here?",1.0,0.6607826948165894,-0.08934807186622573,1
+12,"Hey, show me where the nearest petrol station is!",0.4166666666666667,0.7646921277046204,-0.10371154153233841,1
+13,"Hey, where the hell can I find petrol stations nearby?",0.3333333333333333,0.8431280851364136,-0.09587514497362204,1
+14,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+15,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+16,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+17,"Hey, find me an open petrol station for SP98, now!",0.3333333333333333,0.9058768510818481,-0.09659759445987404,1
+18,Locate the nearest open SP98 fuel station.,0.4166666666666667,0.8823460638523102,-0.11078379801379223,1
+19,"Hey, where's a damn petrol station with SP95 for credit?",1.0,0.9058768510818481,-0.10760986840194953,0

@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Locate open LPG stations accepting cash nearby.,0.0,1.0,-0.08653517753319229,1
+1,Show me some open eateries with cash and parking options.,0.4166666666666667,0.9188329458236695,-0.048544239260788435,1
+2,"Get me an open petrol station, now!",0.6666666666666666,0.8823460638523102,-0.0873438034550893,1
+3,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+4,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+5,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+6,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+7,Locate an LPG station accepting credit cards.,0.4166666666666667,1.0,-0.10210531279241541,1
+8,"Hey, point me to an open Turkish joint!",1.0,0.8093952337900797,-0.09971608266281395,0
+9,"Yo, show me an open supermarket, alright?",0.6666666666666666,0.7411608219146728,-0.08525183406713321,1
+10,"Hey, where can I find some high-priced bars with cash and parking open now?",0.0,1.0,-0.06074105434589239,1
+11,"Yo, point me to some pricey bars that take cash and got parking open now!",0.3333333333333333,1.0,-0.06771832991686877,1
+12,Locate nearby LPG stations that accept credit cards.,0.8333333333333334,1.0,-0.10275327198450501,0
+13,Show me a petrol station with credit card.,1.0,0.8431280851364136,-0.09891746944937485,0
+14,Find me open Italian restaurants nearby.,1.0,0.8093952337900797,-0.08701849617514856,0
+15,"Find me some open Turkish restaurants, please.",0.6666666666666666,0.8093952337900797,-0.0,1
+16,Find me an open supermarket with mobile payment now.,0.6666666666666666,0.8151148727961949,-0.07840349546343717,1
+17,Find me an open supermarket with contactless payment.,1.0,0.784300684928894,-0.07677265356970753,0
+18,"Yo, show me an open gas spot, cash!",0.6666666666666666,0.9058768510818481,-0.07863261884756378,1
+19,Could you kindly direct me to an open petrol station?,0.6666666666666666,0.9215640425682068,-0.07254439289151493,1

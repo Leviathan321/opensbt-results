@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,234
+Number Critical Scenarios (duplicate free),216
+Number All Scenarios,759
+Number All Scenarios (duplicate free),745
+Number Best Critical Scenarios,10
+Number Best Critical Scenarios (duplicate free),8
+Number Best Scenarios,10
+Number Best Scenarios (duplicate free),8
+Ratio Critical/All scenarios,0.31
+Ratio Critical/All scenarios (duplicate free),0.29
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.33333333  1.         -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Could you please help me find an open bakery that accepts cash and has parking available?', answer=""I couldn't find any bakeries nearby that meet your criteria of being open"", seed=None, ordinal_vars=[0.3828155576295283, 0.7274749129064578, 0.7860037104403821, 0.8284173019413497, 0.1108337880827917], categorical_vars=[4, 1, 1, 0, 0, 0, 1, 3], content_input=NaviContentInput(title=None, category='bakeries', address=None, location=None, business_hours_status='open', payment_method='CASH', rating=None, price_range='high', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking='available', charging=None, availability=None), content_output_list=[], raw_output=None)]"

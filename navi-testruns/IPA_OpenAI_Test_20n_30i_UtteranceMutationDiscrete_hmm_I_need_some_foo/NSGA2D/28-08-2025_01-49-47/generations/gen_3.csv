@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Find me some open Turkish restaurants, please.",0.6666666666666666,0.8093952337900797,-0.0,1
+1,Please locate open Turkish restaurants with contactless payment.,0.6666666666666666,1.0,-0.0906075599619085,1
+2,"Hey, find me some open Greek spots, cool?",1.0,1.0,-0.09367101948351908,0
+3,Locate open LPG stations accepting cash nearby.,0.0,1.0,-0.08653517753319229,1
+4,Find me an open supermarket with mobile payment now.,0.6666666666666666,0.8151148727961949,-0.07840349546343717,1
+5,Show me some open eateries with cash and parking options.,0.4166666666666667,0.9188329458236695,-0.048544239260788435,1
+6,"Yo, show me some open Greek joints, alright?",1.0,0.8093952337900797,-0.0,0
+7,Find nearby petrol stations with cash payments.,0.8333333333333334,1.0,-0.08850393550384683,0
+8,Locate open bakeries that accept cash and provide parking for customers.,0.3333333333333333,1.0,-0.033159025311171764,1
+9,Please locate an open supermarket with cash.,0.6666666666666666,0.9411608219146729,-0.06327018559326303,1
+10,"Excuse me, could you point me to nearby petrol stations with cash?",1.0,0.8823460638523102,-0.06990397277903604,0
+11,Locate open bars with available parking nearby.,0.8333333333333334,1.0,-0.07672211117894989,0
+12,Locate restaurants offering contactless payment and parking.,1.0,1.0,-0.0823265110213085,0
+13,Could you please help me find an open bakery that accepts cash and has parking available?,0.3333333333333333,1.0,-0.0,1
+14,"Find me a Greek restaurant that’s open, accepts cash, and has parking available, if you can.",0.3333333333333333,1.0,-0.0,1
+15,"Hey, can you find me some cheap bakeries with cash and parking?",0.3333333333333333,1.0,-0.0,1
+16,"Could you locate nearby bakeries that are open, accept cash, and offer parking?",0.3333333333333333,1.0,-0.0,1
+17,Find open petrol stations accepting credit cards nearby.,1.0,0.9215640425682068,-0.0,0
+18,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.0,1
+19,Could you kindly assist me in locating some medium-priced bars that are currently open for mobile payment?,1.0,1.0,-0.0713425663940156,0

@@ -1,0 +1,5635 @@
+[
+    {
+        "utterance": {
+            "question": "Could you please help me find an open bakery that accepts cash and has parking available?",
+            "answer": "I couldn't find any bakeries nearby that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.3828155576295283,
+                0.7274749129064578,
+                0.7860037104403821,
+                0.8284173019413497,
+                0.1108337880827917
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "slang": "neutral",
+            "politeness": "polite",
+            "anthropomorphism": "empathetic",
+            "num_words": 16,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me some open Turkish restaurants, please.",
+            "answer": "I found a Turkish restaurant that is currently open: Kebab Haus",
+            "seed": null,
+            "ordinal_vars": [
+                0.9723936390466288,
+                0.35217099082379705,
+                0.6158664653445047,
+                0.10002436567831235,
+                0.19352024822605124
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                3,
+                0,
+                0,
+                12,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "turkish",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Kebab Haus",
+                    "categories": [
+                        "restaurant",
+                        "turkish"
+                    ],
+                    "address": "Schillerstraße 10",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.2,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "turkish",
+            "parking": null,
+            "price_range": "high",
+            "slang": "slangy",
+            "politeness": "rude",
+            "anthropomorphism": "empathetic",
+            "num_words": 7,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.8093952337900797,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you find some cheap bakeries with cash and parking nearby?",
+            "answer": "I couldn't find any bakeries that match your criteria of being cheap",
+            "seed": null,
+            "ordinal_vars": [
+                0.6984407891867824,
+                0.5781179599690689,
+                0.30620549583404594,
+                0.5223155892877771,
+                0.333653315764357
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "slang": "slangy",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "num_words": 12,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please find open restaurants nearby for me?",
+            "answer": "The closest open restaurant is El Giovanni Pizzeria",
+            "seed": null,
+            "ordinal_vars": [
+                0.332186010423815,
+                0.5177683487303537,
+                0.7297602668172285,
+                0.2386365586146155,
+                0.6412189941850005
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "El Giovanni Pizzeria",
+                    "categories": [
+                        "restaurant"
+                    ],
+                    "address": "Via Roma 12",
+                    "location": {
+                        "lat": 41.8902,
+                        "lng": 12.4924
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "visa"
+                    ],
+                    "rating": 4.5,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": "open",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "neutral",
+            "anthropomorphism": "empathetic",
+            "num_words": 9,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9521238009134928,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, where can I find a CNG station with contactless payment at 1.5 per litre?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.7186693902454411,
+                0.24776968524758125,
+                0.5638517288003743,
+                0.8120243765063866,
+                0.6027301365143882
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                3,
+                6,
+                6,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.5,
+                "fuel_type": "CNG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": "CONTACTLESS",
+            "fuel_type": "CNG",
+            "fuel_price": 1.5,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "rude",
+            "anthropomorphism": "intentional",
+            "num_words": 16,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me a cheap Turkish supermarket with parking that accepts credit cards, will you?",
+            "answer": "I couldn't find any Turkish supermarkets that meet your criteria for being cheap",
+            "seed": null,
+            "ordinal_vars": [
+                0.6520135437187728,
+                0.31487344071911516,
+                0.5359897928050853,
+                0.7609351834577401,
+                0.9821435792981411
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                2,
+                0,
+                0,
+                12,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "turkish",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "turkish",
+            "parking": "available",
+            "price_range": "low",
+            "slang": "neutral",
+            "politeness": "rude",
+            "anthropomorphism": "intentional",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, where's the nearest diesel station that accepts mobile payments? Fuel's pricey at 1.6!",
+            "answer": "The nearest diesel station that accepts mobile payments is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.8959844747734819,
+                0.37620611741872734,
+                0.5762860241299694,
+                0.7084750033464277,
+                0.25759514308508163
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                4,
+                3,
+                7,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.6,
+                "fuel_type": "DIESEL",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Shell",
+                    "categories": [
+                        "fuel station"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5505
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "mobile",
+                        "cash",
+                        "visa"
+                    ],
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": "DIESEL",
+            "fuel_price": 1.6,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "rude",
+            "anthropomorphism": "intentional",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 0.9058768510818481,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey there, can you help me find some cool bakeries around here?",
+            "answer": "I couldn't find any bakeries near Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.7198018503553323,
+                0.4707249764873105,
+                0.7074111124365001,
+                0.6789222137912758,
+                0.6668385387907674
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "neutral",
+            "anthropomorphism": "empathetic",
+            "num_words": 14,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Where's the nearest open petrol station, huh?",
+            "answer": "The nearest open petrol station is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.8256583669459145,
+                0.026207664003764133,
+                0.33032372996389714,
+                0.17342942686707294,
+                0.7850204632121268
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                0,
+                2,
+                9,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.8,
+                "fuel_type": "SP95",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Shell",
+                    "categories": [
+                        "fuel station"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5501
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": null,
+            "fuel_type": "SP95",
+            "fuel_price": 1.8,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 0.9215640425682068,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please find me some bakeries with cash parking?",
+            "answer": "I couldn't find any bakeries that specifically mention cash parking. Would you like to search for something else?",
+            "seed": null,
+            "ordinal_vars": [
+                0.7690138057186544,
+                0.9221323778027134,
+                0.448441539158795,
+                0.3099020149297038,
+                0.2854539078992489
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "slang": "slangy",
+            "politeness": "very polite",
+            "anthropomorphism": "intentional",
+            "num_words": 10,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.5833333333333334,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please help me find some medium-priced American supermarkets that accept contactless payments?",
+            "answer": "I couldn't find any medium-priced American supermarkets that accept contactless payments in Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.5084976149180156,
+                0.8110100893187612,
+                0.13578214811047518,
+                0.7841051342346291,
+                0.05075865479063616
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                3,
+                0,
+                0,
+                13,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "american",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "american",
+            "parking": null,
+            "price_range": "medium",
+            "slang": "neutral",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "num_words": 16,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly direct me to open supermarkets?",
+            "answer": "The nearest open supermarket is Edeka",
+            "seed": null,
+            "ordinal_vars": [
+                0.03133956214086875,
+                0.8252737575275138,
+                0.7561966337329054,
+                0.17715088559852643,
+                0.6294354134193214
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Edeka",
+                    "categories": [
+                        "supermarket"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5502
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "visa",
+                        "mastercard"
+                    ],
+                    "rating": 4.2,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "empathetic",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9264510273933411,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please direct me to nearby petrol stations?",
+            "answer": "The closest petrol station is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.26031403211609816,
+                0.8514415705966814,
+                0.19776989494595695,
+                0.23579140610737073,
+                0.12930099997737163
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                2,
+                9,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.8,
+                "fuel_type": "SP95",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Shell",
+                    "categories": [
+                        "fuel station"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5502
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": "SP95",
+            "fuel_price": 1.8,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "num_words": 9,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 0.9058768510818481,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find an open petrol station accepting mobile payment with SP98 for $1.",
+            "answer": "I couldn't find any petrol stations in Munich that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.5265769070777724,
+                0.18710909053681313,
+                0.608515493920526,
+                0.5290349428447793,
+                0.9146136722248683
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                4,
+                4,
+                1,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.0,
+                "fuel_type": "SP98",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": "SP98",
+            "fuel_price": 1.0,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "very rude",
+            "anthropomorphism": "empathetic",
+            "num_words": 12,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please direct me to an open petrol station nearby?",
+            "answer": "The closest open petrol station is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.8106648757583406,
+                0.9413779987165909,
+                0.11790159515862556,
+                0.5066833136139895,
+                0.1524925296130043
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                1,
+                2,
+                4,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.3,
+                "fuel_type": "SP95",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Shell",
+                    "categories": [
+                        "fuel station"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5502
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": "SP95",
+            "fuel_price": 1.3,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "num_words": 12,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9327691793441772,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you just tell me where the high-priced bars accepting credit cards are located?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.44215732309093786,
+                0.3998730555839525,
+                0.36434296988795944,
+                0.876304405358015,
+                0.8072181219399572
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bars",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bars",
+            "business_hours_status": null,
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "slang": "neutral",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "num_words": 17,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you find me a cafe?",
+            "answer": "I found a nearby cafe called Cafe Central",
+            "seed": null,
+            "ordinal_vars": [
+                0.6904867493382172,
+                0.9991912647633951,
+                0.9881170911305436,
+                0.011562150712036898,
+                0.25816365642423345
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                1,
+                0,
+                0,
+                3,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafes",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "italian",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Cafe Central",
+                    "categories": [
+                        "cafe"
+                    ],
+                    "address": "Karlsplatz 1",
+                    "location": {
+                        "lat": 48.1371,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.7,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafes",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "italian",
+            "parking": "available",
+            "price_range": "medium",
+            "slang": "slangy",
+            "politeness": "very polite",
+            "anthropomorphism": "very empathic",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9351149797439575,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly find supermarkets nearby, please?",
+            "answer": "I found a nearby supermarket called Edeka",
+            "seed": null,
+            "ordinal_vars": [
+                0.3190316089277146,
+                0.8175064934985776,
+                0.9220873718855849,
+                0.025940497107394364,
+                0.9983140174089734
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                3,
+                0,
+                0,
+                9,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "mexican",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Edeka",
+                    "categories": [
+                        "supermarket"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5502
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.2,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "mexican",
+            "parking": "available",
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "very empathic",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9509673515955607,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me a bakery that's open with mobile payment and parking.",
+            "answer": "I couldn't find any bakeries that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.6964124300907455,
+                0.0002083414452386939,
+                0.15668593449795842,
+                0.425362559179179,
+                0.33522701283957257
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "num_words": 11,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>",
+            "answer": "It seems there was an error processing your request. Could you please try again or specify what you need help with?",
+            "seed": null,
+            "ordinal_vars": [
+                0.3469548594721009,
+                0.16327936950441996,
+                0.6927460327872534,
+                0.0005958785344040568,
+                0.6463911658723906
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                3,
+                6,
+                7,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.6,
+                "fuel_type": "CNG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": "CONTACTLESS",
+            "fuel_type": "CNG",
+            "fuel_price": 1.6,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "very rude",
+            "anthropomorphism": "empathetic",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please help me find an open Indian restaurant that accepts cash and has parking available?",
+            "answer": "I couldn't find any Indian restaurants that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.16133068225070696,
+                0.42788795480051345,
+                0.44832416415899584,
+                0.8902101205903385,
+                0.6410738143289663
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                2,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "indian",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "indian",
+            "parking": "available",
+            "price_range": "high",
+            "slang": "formal",
+            "politeness": "neutral",
+            "anthropomorphism": "intentional",
+            "num_words": 17,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>",
+            "answer": "It seems there was an error processing your request. Could you please try again or specify what you need help with?",
+            "seed": null,
+            "ordinal_vars": [
+                0.35150502536501904,
+                0.32336229972689556,
+                0.08720586572020826,
+                0.04156449027971527,
+                0.7625119809350089
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                3,
+                6,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": "CNG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": "CNG",
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, find me a German restaurant that takes cash!",
+            "answer": "I found a German restaurant that accepts cash. It's called Hofbräuhaus München",
+            "seed": null,
+            "ordinal_vars": [
+                0.8655698481911058,
+                0.16030594795672506,
+                0.7746731845233923,
+                0.1952990510953473,
+                0.35273876208591176
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "german",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Hofbräuhaus München",
+                    "categories": [
+                        "restaurant",
+                        "german"
+                    ],
+                    "address": "Platzl 9",
+                    "location": {
+                        "lat": 48.1371,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "visa"
+                    ],
+                    "rating": 4.6,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "german",
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "very rude",
+            "anthropomorphism": "empathetic",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9640928506851196,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly direct me to an open petrol station nearby?",
+            "answer": "The closest open petrol station is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.056984974081465745,
+                0.8195087463413461,
+                0.7815502467806015,
+                0.4707652780434519,
+                0.6992529505768619
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                1,
+                0,
+                8,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.7,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Shell",
+                    "categories": [
+                        "fuel station"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5505
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": 1.7,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "empathetic",
+            "num_words": 12,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.8823460638523102,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Excuse me, could you kindly help me find some Turkish restaurants that accept credit cards nearby? Thank you!",
+            "answer": "I found a Turkish restaurant nearby called 'Anadolu Grill'",
+            "seed": null,
+            "ordinal_vars": [
+                0.8592246844705277,
+                0.9572291442889692,
+                0.6454650854321268,
+                0.9250315916133827,
+                0.13790461154900582
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                2,
+                0,
+                0,
+                12,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "turkish",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Anadolu Grill",
+                    "categories": [
+                        "restaurant",
+                        "turkish"
+                    ],
+                    "address": "Schillerstraße 10",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "credit card"
+                    ],
+                    "rating": 4.2,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": null,
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "turkish",
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "very polite",
+            "anthropomorphism": "empathetic",
+            "num_words": 18,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 0.9640928506851196,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly guide me to a supermarket?",
+            "answer": "The nearest supermarket is Edeka",
+            "seed": null,
+            "ordinal_vars": [
+                0.30561462222473657,
+                0.8820451728852357,
+                0.603246009645337,
+                0.18347265035693444,
+                0.656531987065316
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                10,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "greek",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Edeka",
+                    "categories": [
+                        "supermarket"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5502
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "visa",
+                        "mastercard"
+                    ],
+                    "rating": 4.2,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "greek",
+            "parking": "available",
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "empathetic",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9411608219146729,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly assist me in finding a French supermarket nearby?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.21525041713703977,
+                0.9457552107774561,
+                0.7036718604762295,
+                0.44571990909169645,
+                0.4648722541781079
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                4,
+                0,
+                0,
+                5,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "french",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "french",
+            "parking": "available",
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "empathetic",
+            "num_words": 11,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please assist me in locating open petrol stations offering E85 fuel at a price of 1.9?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.22916347069346626,
+                0.6444888952002481,
+                0.32272843247749305,
+                0.9762881026826146,
+                0.008417053604810973
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                0,
+                5,
+                10,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.9,
+                "fuel_type": "E85",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": null,
+            "fuel_type": "E85",
+            "fuel_price": 1.9,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "polite",
+            "anthropomorphism": "interrogative",
+            "num_words": 18,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly assist me in locating high-priced Turkish cafes with available parking and mobile payment options?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.2748325977574048,
+                0.7481092547786393,
+                0.9552669921408742,
+                0.931069966685563,
+                0.36657970829415326
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                4,
+                0,
+                0,
+                12,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafes",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "turkish",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafes",
+            "business_hours_status": null,
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "turkish",
+            "parking": "available",
+            "price_range": "high",
+            "slang": "formal",
+            "politeness": "polite",
+            "anthropomorphism": "very empathic",
+            "num_words": 18,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please help me find an open CNG petrol station that accepts credit cards?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.536247187403421,
+                0.5667223855514213,
+                0.9304066171941235,
+                0.67658556722489,
+                0.0023849317074714493
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": "CNG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": "CNG",
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "neutral",
+            "anthropomorphism": "very empathic",
+            "num_words": 14,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey there, can you find me an open American supermarket that accepts mobile payments?",
+            "answer": "I couldn't find any open American supermarkets that accept mobile payments in Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.8693205641452693,
+                0.7685838502846298,
+                0.4563710283419078,
+                0.6654553567887521,
+                0.06384990105334488
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                4,
+                0,
+                0,
+                13,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "american",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "american",
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "polite",
+            "anthropomorphism": "intentional",
+            "num_words": 14,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me an open supermarket nearby that accepts cash and serves Italian food, please.",
+            "answer": "I couldn't find any supermarkets nearby that serve Italian food. However",
+            "seed": null,
+            "ordinal_vars": [
+                0.48966999075421286,
+                0.20159096054084275,
+                0.6486874889029987,
+                0.7427400384218569,
+                0.7435336699929977
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                1,
+                0,
+                0,
+                3,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "italian",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "italian",
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "rude",
+            "anthropomorphism": "empathetic",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Please direct me to open bakeries that accept credit cards and have parking available.",
+            "answer": "I couldn't find any bakeries nearby that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.3027508078610076,
+                0.18913747278176288,
+                0.9017360251989128,
+                0.657785223584259,
+                0.03482459352214765
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                2,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very rude",
+            "anthropomorphism": "very empathic",
+            "num_words": 14,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me an open supermarket that accepts cash and serves American food.",
+            "answer": "I couldn't find any supermarkets that specifically serve American food. However",
+            "seed": null,
+            "ordinal_vars": [
+                0.012376025891681658,
+                0.24742785444312693,
+                0.13948592287315903,
+                0.5224723690942362,
+                0.06815361242253982
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                1,
+                0,
+                0,
+                13,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "american",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "american",
+            "parking": null,
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "num_words": 12,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me some open bakeries that accept credit cards and are in the low price range.",
+            "answer": "I couldn't find any bakeries that are currently open",
+            "seed": null,
+            "ordinal_vars": [
+                0.29298341662030164,
+                0.14421610211333946,
+                0.16432203359059896,
+                0.8325575106777083,
+                0.18664156753948613
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "slang": "formal",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "num_words": 16,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey there, can you find open Mexican restaurants with contactless payment?",
+            "answer": "I couldn't find any open Mexican restaurants that offer contactless payment in Munich at the moment.",
+            "seed": null,
+            "ordinal_vars": [
+                0.757838483334692,
+                0.6340356775045142,
+                0.5026009259920335,
+                0.3522123958685079,
+                0.8101541865252109
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                3,
+                0,
+                0,
+                9,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "mexican",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "mexican",
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "polite",
+            "anthropomorphism": "intentional",
+            "num_words": 10,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey there, could you help me find some LPG petrol stations that accept mobile payments around here?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.8999344880187058,
+                0.7388977073132434,
+                0.5411264304207856,
+                0.9366495405905849,
+                0.2074593597367863
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                4,
+                7,
+                2,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.1,
+                "fuel_type": "LPG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": "LPG",
+            "fuel_price": 1.1,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "polite",
+            "anthropomorphism": "intentional",
+            "num_words": 18,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Please direct me to a supermarket that accepts contactless payments, offers medium-priced French food, and has parking.",
+            "answer": "I couldn't find a supermarket that matches all your criteria for contactless payments",
+            "seed": null,
+            "ordinal_vars": [
+                0.18561835862258907,
+                0.06448604471913227,
+                0.5499748891512872,
+                0.92531423466321,
+                0.9022733304210568
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                3,
+                0,
+                0,
+                5,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "french",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "french",
+            "parking": "available",
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "very rude",
+            "anthropomorphism": "intentional",
+            "num_words": 18,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please recommend some medium-priced Vietnamese restaurants in this area for me?",
+            "answer": "I couldn't find any medium-priced Vietnamese restaurants in Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.3204115586318279,
+                0.5988406434484359,
+                0.5363307582730803,
+                0.7659785256472429,
+                0.34214675957318863
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                11,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "vietnamese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "vietnamese",
+            "parking": null,
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "neutral",
+            "anthropomorphism": "intentional",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.5833333333333334,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me an open petrol station nearby.",
+            "answer": "The closest open petrol station is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.5277351520129616,
+                0.136087037436449,
+                0.8936436775018062,
+                0.122635060653495,
+                0.8340719642270091
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                3,
+                1,
+                2,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.1,
+                "fuel_type": "SP95_E10",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Shell",
+                    "categories": [
+                        "fuel station"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5502
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": "SP95_E10",
+            "fuel_price": 1.1,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "very rude",
+            "anthropomorphism": "very empathic",
+            "num_words": 7,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9327691793441772,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please find German restaurants nearby?",
+            "answer": "I found a German restaurant nearby called Hofbräuhaus München",
+            "seed": null,
+            "ordinal_vars": [
+                0.36598968416450817,
+                0.939384241114444,
+                0.06420710150465056,
+                0.04525014376991858,
+                0.7079402133573189
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "german",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Hofbräuhaus München",
+                    "categories": [
+                        "restaurant",
+                        "german"
+                    ],
+                    "address": "Platzl 9",
+                    "location": {
+                        "lat": 48.1371,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "visa",
+                        "mastercard"
+                    ],
+                    "rating": 4.6,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "german",
+            "parking": "available",
+            "price_range": "low",
+            "slang": "neutral",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.7712742805480957,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me an open Italian supermarket with high prices that accepts cash and has parking available.",
+            "answer": "I couldn't find any Italian supermarkets that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.17351460737973334,
+                0.07673490324336985,
+                0.5354381464004963,
+                0.8243961608077904,
+                0.3479134524864754
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                1,
+                0,
+                0,
+                3,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "italian",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "italian",
+            "parking": "available",
+            "price_range": "high",
+            "slang": "formal",
+            "politeness": "very rude",
+            "anthropomorphism": "intentional",
+            "num_words": 16,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please recommend some high-priced Mexican restaurants in this area?",
+            "answer": "I couldn't find any high-priced Mexican restaurants in Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.27607989129112254,
+                0.4112681122345643,
+                0.3399128376610342,
+                0.6655887857081779,
+                0.9947832857373675
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                9,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "mexican",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "mexican",
+            "parking": null,
+            "price_range": "high",
+            "slang": "formal",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "num_words": 14,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you find me some open cafes with Middle Eastern food that are cheap and have parking?",
+            "answer": "I couldn't find any cafes serving Middle Eastern food that are currently open",
+            "seed": null,
+            "ordinal_vars": [
+                0.8734486971131592,
+                0.4331119470299613,
+                0.056159707289990424,
+                0.9720029397935863,
+                0.17450532260808868
+            ],
+            "categorical_vars": [
+                3,
+                1,
+                0,
+                0,
+                0,
+                4,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafes",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": null,
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "middle_eastern",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafes",
+            "business_hours_status": "open",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "middle_eastern",
+            "parking": "available",
+            "price_range": "low",
+            "slang": "slangy",
+            "politeness": "neutral",
+            "anthropomorphism": "directive",
+            "num_words": 18,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please help me find an open supermarket with contactless payment and parking?",
+            "answer": "I couldn't find any supermarkets that match your criteria for being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.35937935915492153,
+                0.6507445602948653,
+                0.4532475056154173,
+                0.6666699857050128,
+                0.6714122396501504
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                3,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "polite",
+            "anthropomorphism": "intentional",
+            "num_words": 14,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you find petrol stations with fuel price around 1.2?",
+            "answer": "I couldn't find any petrol stations with fuel prices around 1.2 in Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.6008804183864513,
+                0.4653806302639566,
+                0.13740486860827944,
+                0.4452833450071727,
+                0.10283437617407494
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.2,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": 1.2,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "neutral",
+            "anthropomorphism": "directive",
+            "num_words": 11,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly direct me to a petrol station?",
+            "answer": "The nearest petrol station is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.9502402987008284,
+                0.818476926669328,
+                0.19523250133199255,
+                0.2882099372581755,
+                0.49040467610996924
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                1,
+                2,
+                11,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 2.0,
+                "fuel_type": "SP95",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Shell",
+                    "categories": [
+                        "fuel station"
+                    ],
+                    "address": "Landsberger Str. 100",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5502
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": "SP95",
+            "fuel_price": 2.0,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "num_words": 9,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9215640425682068,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me some medium-priced bars around here.",
+            "answer": "I couldn't find any medium-priced bars near Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.3031532494744328,
+                0.01062490322731921,
+                0.11497858816346901,
+                0.1805877531880864,
+                0.16145367106407496
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bars",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bars",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a medium-priced Greek supermarket with mobile payment and parking available?",
+            "answer": "I couldn't find any Greek supermarkets that match your criteria for medium price",
+            "seed": null,
+            "ordinal_vars": [
+                0.4681491129918356,
+                0.12810088219069343,
+                0.276599119143045,
+                0.7572361957619754,
+                0.9863985830619044
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                4,
+                0,
+                0,
+                10,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "greek",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "greek",
+            "parking": "available",
+            "price_range": "medium",
+            "slang": "neutral",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you tell me where the nearest bakeries are located?",
+            "answer": "I'm sorry",
+            "seed": null,
+            "ordinal_vars": [
+                0.22917058987994976,
+                0.16350417114360877,
+                0.3481653976185824,
+                0.38035311092783103,
+                0.5527359849753207
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "num_words": 10,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find an open CNG petrol station with mobile payment and parking available.",
+            "answer": "I couldn't find any CNG petrol stations in Munich that meet your criteria for being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.2561877393449218,
+                0.23261657373181008,
+                0.08967544249368237,
+                0.5010831690684798,
+                0.17512453235513603
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                4,
+                6,
+                9,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.8,
+                "fuel_type": "CNG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": "CNG",
+            "fuel_price": 1.8,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "num_words": 12,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me a petrol station with LPG, cash payment, and parking available, will you?",
+            "answer": "I couldn't find any petrol stations that meet all your criteria for LPG",
+            "seed": null,
+            "ordinal_vars": [
+                0.5930235794721096,
+                0.04916982299571422,
+                0.5011429189183861,
+                0.6464549869015624,
+                0.02222381357455351
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                1,
+                7,
+                2,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.1,
+                "fuel_type": "LPG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": "LPG",
+            "fuel_price": 1.1,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "very rude",
+            "anthropomorphism": "intentional",
+            "num_words": 14,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, where can I find some cheap bars with cash payment and parking available?",
+            "answer": "I couldn't find any bars that match your criteria for being cheap",
+            "seed": null,
+            "ordinal_vars": [
+                0.9271790336244207,
+                0.15792108480711328,
+                0.3294389357953412,
+                0.720034037976252,
+                0.7627589157806258
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bars",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bars",
+            "business_hours_status": null,
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "slang": "slangy",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you find an open Thai supermarket with mobile payment and available parking in the high range?",
+            "answer": "I couldn't find any Thai supermarkets that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.4091797480162973,
+                0.5015506923915266,
+                0.02124934869573794,
+                0.818111391100756,
+                0.10869476054786331
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                4,
+                0,
+                0,
+                8,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "thai",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "thai",
+            "parking": "available",
+            "price_range": "high",
+            "slang": "neutral",
+            "politeness": "neutral",
+            "anthropomorphism": "directive",
+            "num_words": 16,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly assist me in locating open bakeries that accept contactless payments and offer parking?",
+            "answer": "I couldn't find any bakeries that are currently open",
+            "seed": null,
+            "ordinal_vars": [
+                0.2771545296836838,
+                0.6557683456584918,
+                0.4481984742176374,
+                0.8665522026247375,
+                0.2564297160555003
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                3,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "slang": "formal",
+            "politeness": "polite",
+            "anthropomorphism": "intentional",
+            "num_words": 17,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you find open Japanese cafes with contactless payment?",
+            "answer": "I couldn't find any open Japanese cafes that accept contactless payment in Munich at the moment.",
+            "seed": null,
+            "ordinal_vars": [
+                0.47457780719594894,
+                0.6962550010065339,
+                0.8972742657954954,
+                0.16310180389003487,
+                0.10651377109525464
+            ],
+            "categorical_vars": [
+                3,
+                1,
+                3,
+                0,
+                0,
+                7,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafes",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "japanese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafes",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "japanese",
+            "parking": null,
+            "price_range": "low",
+            "slang": "neutral",
+            "politeness": "polite",
+            "anthropomorphism": "very empathic",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Please show me open cafes that accept cash and are affordable.",
+            "answer": "I found a couple of cafes that are currently open",
+            "seed": null,
+            "ordinal_vars": [
+                0.2177525694772672,
+                0.2399439170058552,
+                0.8533026932721356,
+                0.3786138919668533,
+                0.165052631301465
+            ],
+            "categorical_vars": [
+                3,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafes",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Café Frisch",
+                    "categories": [
+                        "cafe"
+                    ],
+                    "address": "Lindwurmstraße 88",
+                    "location": {
+                        "lat": 48.1335,
+                        "lng": 11.5772
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash"
+                    ],
+                    "rating": 4.0,
+                    "price_range": "low",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                },
+                {
+                    "title": "Kaffeeküche",
+                    "categories": [
+                        "cafe"
+                    ],
+                    "address": "Hohenzollernstraße 24",
+                    "location": {
+                        "lat": 48.149,
+                        "lng": 11.5783
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash"
+                    ],
+                    "rating": 4.2,
+                    "price_range": "low\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafes",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "slang": "formal",
+            "politeness": "rude",
+            "anthropomorphism": "very empathic",
+            "num_words": 10,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 0.922137975692749,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly guide me to an open bakery with mobile payment and parking available?",
+            "answer": "I couldn't find any bakeries that match your criteria for being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.19567183375691732,
+                0.6903433362553406,
+                0.8711669765143616,
+                0.7486534221872377,
+                0.5112468006007875
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "slang": "formal",
+            "politeness": "polite",
+            "anthropomorphism": "very empathic",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me diesel stations with fuel price 1.5.",
+            "answer": "I couldn't find any diesel stations with the specified fuel price of 1.5 in Munich",
+            "seed": null,
+            "ordinal_vars": [
+                0.34330625723977654,
+                0.20257660785265014,
+                0.8377277424431241,
+                0.12520545558375837,
+                0.26846157129591075
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.5,
+                "fuel_type": "DIESEL",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": "DIESEL",
+            "fuel_price": 1.5,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "rude",
+            "anthropomorphism": "very empathic",
+            "num_words": 7,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please find open Japanese restaurants nearby?",
+            "answer": "I found a Japanese restaurant nearby called Sushi House",
+            "seed": null,
+            "ordinal_vars": [
+                0.18230914838723736,
+                0.7900620683358675,
+                0.09949601058736222,
+                0.22972686570749468,
+                0.6634696529847989
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                7,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": null,
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "japanese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Sushi House",
+                    "categories": [
+                        "restaurant",
+                        "japanese"
+                    ],
+                    "address": "Schillerstraße 10",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.7,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": "open",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "japanese",
+            "parking": null,
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "polite",
+            "anthropomorphism": "directive",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9712742805480957,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please find open Italian restaurants nearby?",
+            "answer": "I found a couple of Italian restaurants nearby. The closest one is Da Enzo",
+            "seed": null,
+            "ordinal_vars": [
+                0.037506011727313604,
+                0.6375722850897467,
+                0.3769218180948545,
+                0.22024386767220183,
+                0.6665577078930083
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                3,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurants",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "italian",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Da Enzo",
+                    "categories": [
+                        "restaurant",
+                        "italian"
+                    ],
+                    "address": "Lindwurmstraße 88",
+                    "location": {
+                        "lat": 48.1335,
+                        "lng": 11.5772
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.7,
+                    "price_range": "medium",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                },
+                {
+                    "title": "Trattoria Da Michele",
+                    "categories": [
+                        "restaurant",
+                        "italian"
+                    ],
+                    "address": "Hohenzollernstraße 24",
+                    "location": {
+                        "lat": 48.149,
+                        "lng": 11.5783
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "visa"
+                    ],
+                    "rating": 4.5,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurants",
+            "business_hours_status": "open",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "italian",
+            "parking": null,
+            "price_range": "high",
+            "slang": "formal",
+            "politeness": "polite",
+            "anthropomorphism": "interrogative",
+            "num_words": 8,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.7712742805480957,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me some high-end bars, now!",
+            "answer": "I couldn't find any high-end bars near Munich. Would you like to search for something else?",
+            "seed": null,
+            "ordinal_vars": [
+                0.9581209618064813,
+                0.07506015726310028,
+                0.09512500314019644,
+                0.053477638677929526,
+                0.6953873053355349
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bars",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bars",
+            "business_hours_status": null,
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "slang": "slangy",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.5833333333333334,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, find me a diesel station with mobile payment, fuel price is 1.9, please.",
+            "answer": "I couldn't find any diesel stations with mobile payment options in Munich. Would you like to search for something else?",
+            "seed": null,
+            "ordinal_vars": [
+                0.4920215357181093,
+                0.16225887619314583,
+                0.8517202879129312,
+                0.701102061383257,
+                0.90134699972908
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                4,
+                3,
+                10,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.9,
+                "fuel_type": "DIESEL",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": "DIESEL",
+            "fuel_price": 1.9,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "very rude",
+            "anthropomorphism": "very empathic",
+            "num_words": 15,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.5833333333333334,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you find supermarkets with Indian food, credit card payment, and parking?",
+            "answer": "I couldn't find any supermarkets that specifically offer Indian food",
+            "seed": null,
+            "ordinal_vars": [
+                0.2668545887786067,
+                0.2612178207703141,
+                0.20876781762430818,
+                0.544190733625325,
+                0.059219790949046835
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                2,
+                0,
+                0,
+                2,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "indian",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "indian",
+            "parking": "available",
+            "price_range": "medium",
+            "slang": "formal",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "num_words": 13,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you find open LPG stations?",
+            "answer": "I couldn't find any open LPG stations near Munich at the moment.",
+            "seed": null,
+            "ordinal_vars": [
+                0.4795755797872019,
+                0.5396717596860765,
+                0.6092189772707413,
+                0.03633077261760066,
+                0.136680939477498
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                2,
+                7,
+                8,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.7,
+                "fuel_type": "LPG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": "LPG",
+            "fuel_price": 1.7,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "neutral",
+            "anthropomorphism": "empathetic",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you find open diesel stations accepting credit cards?",
+            "answer": "I couldn't find any open diesel stations that accept credit cards in Munich at the moment.",
+            "seed": null,
+            "ordinal_vars": [
+                0.5595496241740697,
+                0.46069315708775216,
+                0.5288888675686196,
+                0.29116774520006644,
+                0.3252748561755721
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                2,
+                3,
+                9,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.8,
+                "fuel_type": "DIESEL",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": "DIESEL",
+            "fuel_price": 1.8,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "neutral",
+            "anthropomorphism": "intentional",
+            "num_words": 9,
+            "wrong_declination_of_verbs": "20 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey there, where's an open cafe nearby?",
+            "answer": "The closest open cafe is Cafe Central",
+            "seed": null,
+            "ordinal_vars": [
+                0.8221936824136455,
+                0.6396323563864761,
+                0.5012209546846513,
+                0.10695345955863088,
+                0.45776269159539745
+            ],
+            "categorical_vars": [
+                3,
+                1,
+                3,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafes",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Cafe Central",
+                    "categories": [
+                        "cafe"
+                    ],
+                    "address": "Karlsplatz 5",
+                    "location": {
+                        "lat": 48.1391,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "credit card"
+                    ],
+                    "rating": 4.7,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafes",
+            "business_hours_status": "open",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "slang": "slangy",
+            "politeness": "polite",
+            "anthropomorphism": "intentional",
+            "num_words": 7,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.7684483130772909,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, where can I find some cheap bars that are open and have mobile payment and parking?",
+            "answer": "I couldn't find any bars that match your criteria of being cheap",
+            "seed": null,
+            "ordinal_vars": [
+                0.8869352266704311,
+                0.1915420947084302,
+                0.3850702072479214,
+                0.8503560035005212,
+                0.7615374263139945
+            ],
+            "categorical_vars": [
+                5,
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bars",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bars",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "slang": "slangy",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "num_words": 17,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me a high-end bakery, now!",
+            "answer": "I couldn't find any high-end bakeries nearby. Would you like to search for something else?",
+            "seed": null,
+            "ordinal_vars": [
+                0.8327916853341236,
+                0.39340130152669,
+                0.18173396498595532,
+                0.006814543182366566,
+                0.8291222768965032
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "slang": "slangy",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "num_words": 6,
+            "wrong_declination_of_verbs": "80 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.5833333333333334,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me some open bakeries that accept credit cards and are cheap.",
+            "answer": "I couldn't find any bakeries that are currently open",
+            "seed": null,
+            "ordinal_vars": [
+                0.36303869896898305,
+                0.005081065418692979,
+                0.6504850478405668,
+                0.4987135820646907,
+                0.5617413792967846
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakeries",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakeries",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "slang": "neutral",
+            "politeness": "very rude",
+            "anthropomorphism": "empathetic",
+            "num_words": 12,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Can you find some high-priced bars that are open, have mobile payment, and parking available?",
+            "answer": "I couldn't find any high-priced bars that meet your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.4214172428383791,
+                0.5232864589662632,
+                0.060054554081969164,
+                0.7863978713125167,
+                0.6490306070833738
+            ],
+            "categorical_vars": [
+                5,
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bars",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bars",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "slang": "neutral",
+            "politeness": "neutral",
+            "anthropomorphism": "directive",
+            "num_words": 16,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you please direct me to nearby petrol stations?",
+            "answer": "The closest petrol station is Shell",
+            "seed": null,
+            "ordinal_vars": [
+                0.9331757047582014,
+                0.997279453308037,
+                0.05714423156135034,
+                0.35153872379012097,
+                0.09936003012468428
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                4,
+                9,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.8,
+                "fuel_type": "SP98",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": null,
+            "payment_method": null,
+            "fuel_type": "SP98",
+            "fuel_price": 1.8,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "num_words": 10,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.4166666666666667,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly direct me to open supermarkets?",
+            "answer": "The nearest open supermarket is Edeka",
+            "seed": null,
+            "ordinal_vars": [
+                0.10632335151069294,
+                0.9894709345221239,
+                0.6587546952868063,
+                0.12225410315320501,
+                0.971312015832722
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                2,
+                0,
+                0,
+                5,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "french",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": "open",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "french",
+            "parking": null,
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "empathetic",
+            "num_words": 7,
+            "wrong_declination_of_verbs": "100 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Could you kindly direct me to nearby supermarkets, please?",
+            "answer": "I found a nearby supermarket called Edeka",
+            "seed": null,
+            "ordinal_vars": [
+                0.16501647283097276,
+                0.898620015087964,
+                0.04800686691203411,
+                0.29446423488178436,
+                0.0714751620024869
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                3,
+                0,
+                0,
+                9,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarkets",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "mexican",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Edeka",
+                    "categories": [
+                        "supermarket"
+                    ],
+                    "address": "Münchener Str. 10",
+                    "location": {
+                        "lat": 48.1351,
+                        "lng": 11.5755
+                    },
+                    "business_hours_status": "open",
+                    "payment_methods": [
+                        "cash",
+                        "visa",
+                        "mastercard"
+                    ],
+                    "rating": 4.2,
+                    "price_range": "medium\n    }",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": null,
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarkets",
+            "business_hours_status": null,
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "mexican",
+            "parking": "available",
+            "price_range": null,
+            "slang": "formal",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "num_words": 9,
+            "wrong_declination_of_verbs": "0 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 0.9411608219146729,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey, find me an open CNG station with mobile payment, parking, and fuel price around 1.2!",
+            "answer": "I couldn't find any CNG stations that match your criteria for mobile payment",
+            "seed": null,
+            "ordinal_vars": [
+                0.8892451795756876,
+                0.3169168231409986,
+                0.13188596812609898,
+                0.8955478792425295,
+                0.6417592198011439
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                4,
+                6,
+                3,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.2,
+                "fuel_type": "CNG",
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": "CNG",
+            "fuel_price": 1.2,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "slang": "slangy",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "num_words": 17,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Find me an open petrol station that accepts cash and has fuel priced at 1.9, please.",
+            "answer": "I couldn't find any petrol stations that match your criteria of being open",
+            "seed": null,
+            "ordinal_vars": [
+                0.4796269439617314,
+                0.3326309480809536,
+                0.6481855820966509,
+                0.856380198847929,
+                0.46955887020492715
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                1,
+                0,
+                10,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "petrol_stations",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": 1.9,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "petrol_stations",
+            "business_hours_status": "open",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": 1.9,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "slang": "neutral",
+            "politeness": "rude",
+            "anthropomorphism": "empathetic",
+            "num_words": 17,
+            "wrong_declination_of_verbs": "40 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.3333333333333333,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    },
+    {
+        "utterance": {
+            "question": "Hey there, where's an open cafe nearby?",
+            "answer": "The closest open cafe is Cafe Central",
+            "seed": null,
+            "ordinal_vars": [
+                0.8456417117241485,
+                0.6363686748054461,
+                0.49312678594704307,
+                0.10222211168428497,
+                0.5656732914230831
+            ],
+            "categorical_vars": [
+                3,
+                1,
+                4,
+                0,
+                0,
+                13,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafes",
+                "address": null,
+                "location": null,
+                "business_hours_status": "open",
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "american",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafes",
+            "business_hours_status": "open",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "american",
+            "parking": "available",
+            "price_range": "low",
+            "slang": "slangy",
+            "politeness": "polite",
+            "anthropomorphism": "intentional",
+            "num_words": 7,
+            "wrong_declination_of_verbs": "60 per cent"
+        },
+        "fitness": {
+            "answer_fitness": 0.6666666666666666,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true
+    }
+]

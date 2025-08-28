@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Could you please help me find an open bakery that accepts cash and has parking available?,0.3333333333333333,1.0,-0.0,1
+1,"Find me a Greek restaurant that’s open, accepts cash, and has parking available, if you can.",0.3333333333333333,1.0,-0.0,1
+2,"Hey, can you find me some cheap bakeries with cash and parking?",0.3333333333333333,1.0,-0.0,1
+3,"Find me some open Turkish restaurants, please.",0.6666666666666666,0.8093952337900797,-0.0,1
+4,"Could you locate nearby bakeries that are open, accept cash, and offer parking?",0.3333333333333333,1.0,-0.0,1
+5,"Yo, show me some open Greek joints, alright?",1.0,0.8093952337900797,-0.0,0
+6,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.0,1
+7,Find open petrol stations accepting credit cards nearby.,1.0,0.9215640425682068,-0.0,0
+8,"Hey there, where can I find cheap Chinese food?",0.75,1.0,-0.0,0
+9,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.75,1.0,-0.0,0
+10,Find me some high-priced bars with cash parking.,0.8333333333333334,1.0,-0.0,0
+11,Find an open petrol station with cash.,1.0,0.9327691793441772,-0.0,0
+12,Could you locate some bakeries nearby with low prices and parking available?,0.8333333333333334,1.0,-0.0,0
+13,Could you please locate some bakeries nearby that accept credit cards and offer parking?,0.8333333333333334,1.0,-0.0,0
+14,Show me open bakeries with high prices.,0.8333333333333334,1.0,-0.0,0
+15,Find high-priced Vietnamese cafes with parking.,0.8333333333333334,1.0,-0.0,0
+16,Could you please help me find high-end American cafes?,0.8333333333333334,1.0,-0.0,0
+17,Show me an open bakery with cash and parking available.,0.8333333333333334,1.0,-0.0,0
+18,Could you please help me find some high-priced bakeries with mobile payment and available parking?,0.8333333333333334,1.0,-0.0,0
+19,"Show me cheap bakeries with parking, if you can.",0.8333333333333334,1.0,-0.0,0

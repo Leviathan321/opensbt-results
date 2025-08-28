@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Could you please help me find an open bakery that accepts cash and has parking available?,0.3333333333333333,1.0,-0.0,1
+1,"Find me some open Turkish restaurants, please.",0.6666666666666666,0.8093952337900797,-0.0,1
+2,"Find me a Greek restaurant that’s open, accepts cash, and has parking available, if you can.",0.3333333333333333,1.0,-0.0,1
+3,"Hey, can you find me some cheap bakeries with cash and parking?",0.3333333333333333,1.0,-0.0,1
+4,Find open petrol stations accepting credit cards nearby.,1.0,0.9215640425682068,-0.0,0
+5,Find me some high-priced bars with cash parking.,0.8333333333333334,1.0,-0.0,0
+6,"Hey, where can I find high-priced Mexican cafes that accept cash?",0.8333333333333334,1.0,-0.0,0
+7,Can you find some medium-priced bakeries that accept credit cards nearby?,0.8333333333333334,1.0,-0.0,0
+8,"Find me some open bakeries with parking available, will you?",0.8333333333333334,1.0,-0.0,0
+9,Could you find nearby bakeries with mobile payment?,0.8333333333333334,1.0,-0.0,0
+10,Could you please help me find high-end American cafes?,0.8333333333333334,1.0,-0.0,0
+11,Could you please help me find some high-priced bakeries with mobile payment and available parking?,0.8333333333333334,1.0,-0.0,0
+12,Find high-priced Vietnamese cafes with parking.,0.8333333333333334,1.0,-0.0,0
+13,Find an open petrol station with cash.,1.0,0.9327691793441772,-0.0,0
+14,"Hey, where's an open LPG station with parking?",1.0,1.0,-0.0,0
+15,"Could you please guide me to a petrol station with CNG available, and the fuel price is 1.8?",1.0,1.0,-0.0,0
+16,"Hey there, can you find some low-priced bars for mobile payment?",1.0,1.0,-0.0,0
+17,"Hey, find me some open bars that take contactless payments, alright?",1.0,1.0,-0.0,0
+18,Please direct me to an open supermarket with Turkish food and cash parking.,1.0,1.0,-0.0,0
+19,Find me an open Turkish supermarket with mobile payment.,1.0,1.0,-0.0,0

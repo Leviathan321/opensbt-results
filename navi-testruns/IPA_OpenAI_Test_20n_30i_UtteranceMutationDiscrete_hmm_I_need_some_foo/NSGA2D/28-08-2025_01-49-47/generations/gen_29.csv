@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Find LPG stations with a price of 1.9 right now.,0.0,1.0,-0.12416743210628867,1
+1,"Yo, where the hell can I score some cafes?",0.3333333333333333,0.6607826948165894,-0.08967191170909605,1
+2,"Yo, where's the closest gas station with cheap fuel?",0.3333333333333333,0.7646921277046204,-0.10573368480936707,1
+3,"Hey, where's the closest SP98 petrol station, huh?",0.3333333333333333,0.8431280851364136,-0.1108287514077837,1
+4,Find the nearest open SP98 petrol station now.,0.3333333333333333,0.8823460638523102,-0.1112896009993094,1
+5,Locate the nearest open SP98 petrol station immediately.,0.3333333333333333,0.9058768510818481,-0.11167533558262732,1
+6,"Yo, where's a damn petrol station with cheap fuel prices?",0.5833333333333334,0.7646921277046204,-0.10900974349814518,1
+7,Find the nearest open petrol station with SP98.,0.6666666666666666,0.9058768510818481,-0.11409854817186638,1
+8,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17154752555976693,1
+9,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17154752555976693,1
+10,Could you kindly assist me in locating some low-priced bars that accept mobile payments in this area?,0.0,1.0,-0.07282062911341758,1
+11,"Yo, where the hell can I score a gas station?",0.4166666666666667,0.7646921277046204,-0.09772224026142251,1
+12,Locate the closest open SP95 E10 petrol station.,0.4166666666666667,0.8431280851364136,-0.10955235736634372,1
+13,"Hey, where the hell can I find gas stations, huh?",1.0,0.7646921277046204,-0.09958713212347625,0
+14,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+15,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.6666666666666666,1.0,-0.17151441789125066,1
+16,"Hey, find me a gas station that's open, you got that, right?",1.0,0.7646921277046204,-0.08818182716011602,0
+17,Locate nearby petrol stations with CNG priced at 1.9.,1.0,1.0,-0.12613395402089478,0
+18,Could you kindly assist me in locating open bakeries that accept contactless payments and offer parking?,0.3333333333333333,1.0,-0.022964023626713348,1
+19,"Hey, where's the nearest damn petrol station for mobile payment?",0.6666666666666666,0.8431280851364136,-0.09586566121228501,1
