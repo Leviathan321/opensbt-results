@@ -1,0 +1,14 @@
+Attribute,Value
+Id,71ecfba7-a754-4e21-9888-f02c1ec147bf
+Timestamp,02-09-2025_10:16:41
+Problem,IPA_LOS_gpt-4o-mini_400n_1i_10
+Algorithm,Algorithm
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,FitnessMerged
+Critical function,CriticalMerged
+Search time,2161.84 sec
+sample_size,400
+algorithm_name,RS
+Seed Utterances,"['hmm I need some food', 'yeah I need some burgers', 'oh some burger would be great']"
+Names Dimension Utterances,['utterance']

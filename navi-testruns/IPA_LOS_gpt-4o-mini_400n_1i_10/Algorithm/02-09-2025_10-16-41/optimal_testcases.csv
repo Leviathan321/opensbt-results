@@ -1,0 +1,6 @@
+Index,vars,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Find a low-priced hotel, cash only, 5 stars.",0.0,1.0,-0.0,1
+1,"Find me a bakery, will ya?",0.0,1.0,-0.0,1
+2,Could you point me to a high-priced Italian cafe that accepts cash and has a 4-star rating?,0.0,1.0,-0.0,1
+3,"Hey, where's the nearest bakery, huh?",0.0,1.0,-0.0,1
+4,"Could you help me find a supermarket nearby, please?",0.8,0.75,-0.0,0

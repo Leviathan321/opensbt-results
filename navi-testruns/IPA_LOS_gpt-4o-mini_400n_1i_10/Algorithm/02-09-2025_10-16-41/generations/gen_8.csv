@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Find a museum with a 4.5 rating.,1.0,1.0,-0.0,0
+1,Could you help me find a high-priced bar that accepts cash and has a 3.5 rating?,0.4,1.0,-0.0,1
+2,Please direct me to a low-priced supermarket that accepts credit cards.,1.0,1.0,-0.0,0
+3,Could you please direct me to a medium-priced bar with a 4-star rating and available parking?,1.0,1.0,-0.0,0
+4,Find a museum with a 4-star rating and parking.,1.0,1.0,-0.0,0
+5,"Could you find a low-priced hotel with contactless payment and parking, rated around 3.5?",1.0,1.0,-0.0,0
+6,Could you help me find a 5-star museum nearby?,1.0,1.0,-0.0,0
+7,Could you please direct me to a museum with a 3.5 rating and parking available?,1.0,1.0,-0.0,0
+8,Find a hotel with low prices and mobile payment.,1.0,1.0,-0.0,0
+9,Could you please direct me to a low-priced bakery?,1.0,1.0,-0.0,0
+10,Could you please guide me to a high-rated bar?,1.0,1.0,-0.0,0
+11,"Hey, can you find me a medium-priced bakery?",1.0,1.0,-0.0,0
+12,Could you please find a 5-star middle eastern cafe?,1.0,1.0,-0.0,0
+13,Could you please help me find a museum with a solid 4-star rating and parking available?,1.0,1.0,-0.0,0
+14,"Hey, find me a high-end bakery nearby.",1.0,1.0,-0.0,0
+15,Could you please find a low-priced bakery nearby?,0.9,1.0,-0.0,0
+16,"Locate a medium-priced bakery nearby, please.",1.0,1.0,-0.0,0
+17,"Hey, find me a supermarket with credit card payment, medium prices, and parking.",0.4,1.0,-0.0,1
+18,Could you point me to a high-priced Mexican cafe with a solid 4-star rating?,1.0,1.0,-0.0,0
+19,"Find me a bar with mobile payment, 3.5 stars.",1.0,1.0,-0.0,0
+20,Find me a 5-star Indian restaurant that accepts mobile payments.,1.0,1.0,-0.0,0
+21,Could you help me find a nearby museum?,0.9,1.0,-0.0,0
+22,Find a hotel with mobile payment and parking.,1.0,1.0,-0.0,0
+23,"Yo, find me a medium-priced bakery, will ya?",1.0,1.0,-0.0,0
+24,Direct me to a 5-star museum with parking.,1.0,1.0,-0.0,0
+25,Could you please find a hotel with medium pricing and available parking?,1.0,1.0,-0.0,0
+26,"Find a high-priced bar with a 4.5 rating, cash only.",1.0,1.0,-0.0,0
+27,Find me a 5-star museum with parking.,1.0,1.0,-0.0,0
+28,"Hey, where's a medium-priced bakery around here?",1.0,1.0,-0.0,0
+29,Could you point me to a medium-priced Chinese cafe that takes credit cards?,1.0,1.0,-0.0,0
+30,Please locate a museum with a 4.5 rating.,1.0,1.0,-0.0,0
+31,Show me a bar with mobile payment and parking.,1.0,1.0,-0.0,0
+32,Could you help me find a low-priced supermarket with parking?,1.0,1.0,-0.0,0
+33,Could you help me find an Indian cafe with a 4-star rating?,1.0,1.0,-0.0,0
+34,"Yo, find me a high-end bakery, will ya?",1.0,1.0,-0.0,0
+35,"Where's a cheap bakery around here, huh?",1.0,1.0,-0.0,0
+36,Could you help me find a museum with a 4-star rating?,1.0,1.0,-0.0,0
+37,Please find a museum with a 4-star rating and parking available.,1.0,1.0,-0.0,0
+38,Find a supermarket with contactless payment and parking.,1.0,1.0,-0.0,0
+39,Find a medium-priced Vietnamese cafe with contactless payment and a 3.5 rating.,0.4,1.0,-0.0,1

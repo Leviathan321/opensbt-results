@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Could you please find a low-priced bakery nearby?,0.9,1.0,-0.0,0
+1,Could you help me find a high-priced cafe with a 4-star rating that takes credit cards?,0.4,1.0,-0.0,1
+2,Could you direct me to a supermarket with cash payment?,0.8,1.0,-0.0,0
+3,Could you find a cafe with contactless payment and parking?,1.0,1.0,-0.0,0
+4,Could you please find a medium-priced bar with a 4.5 rating?,1.0,1.0,-0.0,0
+5,Please direct me to a medium-priced bakery.,1.0,1.0,-0.0,0
+6,Could you please guide me to a high-rated bar?,1.0,1.0,-0.0,0
+7,"Find me a Vietnamese restaurant, cash only, 4.5 stars.",1.0,1.0,-0.0,0
+8,"Find a medium-priced hotel with a 4-star rating, cash only.",1.0,1.0,-0.0,0
+9,Find a bar with mobile payment and a 3.5 rating.,1.0,1.0,-0.0,0
+10,Could you please find a hotel with a 4.5 rating that accepts contactless payments?,1.0,1.0,-0.0,0
+11,Could you please find a medium-priced Vietnamese restaurant with contactless payment and a rating of 3.5?,0.4,1.0,-0.0,1
+12,"Yo, find me a high-priced cafe with contactless payment, 4.5 stars.",1.0,1.0,-0.0,0
+13,Please find a supermarket with mobile payment and parking.,1.0,1.0,-0.0,0
+14,Find a low-priced bakery nearby.,1.0,1.0,-0.0,0
+15,"Hey, find me an American cafe with contactless payment and parking.",1.0,1.0,-0.0,0
+16,Could you help me find a supermarket that takes contactless?,1.0,1.0,-0.0,0
+17,Please find a medium-priced hotel with a 5-star rating that accepts cash.,1.0,1.0,-0.0,0
+18,Could you help me find a low-priced supermarket that accepts mobile payments?,1.0,1.0,-0.0,0
+19,Could you please direct me to a high-end bakery?,1.0,1.0,-0.0,0
+20,Could you point me to a low-priced bar with parking?,1.0,1.0,-0.0,0
+21,"Hey, can you find a museum with a decent rating, like 3.5, and parking available?",1.0,1.0,-0.0,0
+22,Could you guide me to a highly rated museum?,1.0,1.0,-0.0,0
+23,Where's the nearest bakery around here?,1.0,1.0,-0.0,0
+24,"Hey, find me a hotel with cash payment, parking available.",1.0,1.0,-0.0,0
+25,"Find a hotel with good parking, cash payment, and a 5-star rating.",0.4,1.0,-0.0,1
+26,Could you help me find a supermarket that accepts mobile payment?,1.0,1.0,-0.0,0
+27,"Hey, can you find a supermarket with contactless payment nearby?",1.0,1.0,-0.0,0
+28,Take me to a supermarket with cash payment and parking.,1.0,1.0,-0.0,0
+29,Could you please find a supermarket with mobile payment options?,1.0,1.0,-0.0,0
+30,Please direct me to a medium-priced supermarket that accepts credit cards.,1.0,1.0,-0.0,0
+31,Please direct me to a German restaurant with cash payment and parking available.,1.0,1.0,-0.0,0
+32,Please find a bar with a good rating and parking.,1.0,1.0,-0.0,0
+33,Could you point me to a bar with a credit card option and a decent rating?,1.0,1.0,-0.0,0
+34,Show me a museum with a 5-star rating and parking.,1.0,1.0,-0.0,0
+35,"Hey, find me a supermarket with credit card payment and parking.",1.0,1.0,-0.0,0
+36,Could you please guide me to a highly rated cafe with Italian food and available parking?,1.0,1.0,-0.0,0
+37,"Find me a bar with mobile payment, 4.5 stars.",1.0,1.0,-0.0,0
+38,Locate a low-priced supermarket that accepts cash.,1.0,1.0,-0.0,0
+39,"Hey, where's a museum around here with like, a decent rating?",1.0,1.0,-0.0,0

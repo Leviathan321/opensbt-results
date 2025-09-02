@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,29
+Number Critical Scenarios (duplicate free),29
+Number All Scenarios,400
+Number All Scenarios (duplicate free),398
+Number Best Critical Scenarios,4
+Number Best Critical Scenarios (duplicate free),4
+Number Best Scenarios,5
+Number Best Scenarios (duplicate free),5
+Ratio Critical/All scenarios,0.07
+Ratio Critical/All scenarios (duplicate free),0.07
+Ratio Best Critical/Best Scenarios,0.80
+Ratio Best Critical/Best Scenarios (duplicate free),0.80
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.4  1.  -0. ]
+Input value of critical (first of population of interest),"[Utterance(question='Could you help me find a medium-priced Vietnamese restaurant with contactless payment and a rating of 3.5?', answer=""I couldn't find any Vietnamese restaurants that match your criteria for medium price"", seed=None, ordinal_vars=[0.2959097400282506, 0.2052692917890389, 0.8970279832610365, 0.45275115908250846, 0.7010957286772711, 0.09166927527975044], categorical_vars=[0, 3, 0, 0, 11, 0, 2], content_input=NaviContentInput(title=None, category='restaurant', address=None, location=None, business_hours_status=None, payment_method='CONTACTLESS', rating=3.5, price_range='medium', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type='vietnamese', parking=None, charging=None, availability=None), content_output_list=[], raw_output=None)]"
