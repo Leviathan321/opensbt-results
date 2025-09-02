@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you, like, point me to a low-priced bar with around 3.5 stars?",0.0,1.0,-0.0752806080949675,1
+1,"Hey, could you show me a cheap bakery, yeah?",0.8,1.0,-0.0998080411821144,0
+2,"Could you point me to a bar with a decent rating, perhaps on the pricier side?",0.5,1.0,-0.09110912130181004,1
+3,"Hey, can you show me a bar with mobile payment, like, 3.5 stars and medium prices?",0.4,1.0,-0.0834359929208226,1
+4,"Could you, like, point me to a museum, yeah?",1.0,1.0,-0.12460195464595314,0
+5,"Hey, can you point me to a cheap bakery nearby?",0.9,1.0,-0.0968101019636558,0
+6,Could you help me find a low-priced bakery nearby?,0.5,1.0,-0.0899253452601041,1
+7,Could you help me find a low-priced bakery nearby?,0.5,1.0,-0.0899253452601041,1
+8,"Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",0.4,1.0,-0.07871495945889728,1
+9,Could you kindly direct me to a high-end supermarket?,1.0,1.0,-0.10909044315024152,0
+10,"Could you point me to a bar with low prices and contactless payment, rated around 3.5?",0.4,1.0,-0.07812864476321191,1
+11,Could you please direct me to a high-end supermarket?,1.0,1.0,-0.10837640752708488,0
+12,"Could you direct me to a bar with decent parking, accepting credit cards, and reasonably priced?",0.4,1.0,-0.07807891573970993,1
+13,"Hey, could you point me to a supermarket with card payment, yeah?",1.0,1.0,-0.10569673295405213,0
+14,"Guide me to a cafe with decent parking, accepts credit cards, and has medium prices.",0.4,1.0,-0.07179126141217429,1
+15,"Find a high-end bakery nearby, will you?",1.0,1.0,-0.1041597689279774,0
+16,"Find a bar with decent parking, accepts credit card, medium prices.",0.4,1.0,-0.071238185730925,1
+17,Could you please find a high-end bakery nearby?,1.0,1.0,-0.10071764100253766,0
+18,"Find a bar with mobile payment and parking, 5 stars.",0.4,1.0,-0.06546691725667686,1
+19,Please direct me to a high-end bakery nearby.,1.0,1.0,-0.10048435105001563,0

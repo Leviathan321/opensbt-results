@@ -1,0 +1,4490 @@
+[
+    {
+        "utterance": {
+            "question": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria of low prices",
+            "seed": "Could you find a bar with a low price range and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.2992345610694453,
+                0.15,
+                0.85,
+                0.23,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Locate a Turkish eatery with mobile payment, 4 stars, medium price.",
+            "answer": "I couldn't find any Turkish eateries that match your criteria for mobile payment",
+            "seed": "Find a low-priced Turkish restaurant with mobile payment, 4 stars.",
+            "ordinal_vars": [
+                0.5976985341468254,
+                0.41,
+                0.01,
+                0.04,
+                0.46,
+                0.19
+            ],
+            "categorical_vars": [
+                0,
+                4,
+                0,
+                0,
+                12,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.0,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "turkish",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "turkish",
+            "parking": null,
+            "price_range": "medium",
+            "rating": 4,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, show me a cafe with decent parking, yeah? Credit card's cool, 3.5 stars, medium price.",
+            "answer": "I couldn't find any cafes that match your criteria for decent parking",
+            "seed": "Hey, find me a cafe with decent parking, will ya? Credit card okay, 3.5 stars, medium price.",
+            "ordinal_vars": [
+                0.36207533109100387,
+                0.99,
+                0.47,
+                0.23,
+                0.28,
+                0.39
+            ],
+            "categorical_vars": [
+                2,
+                2,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Locate a cafe with decent parking, credit card's cool, medium price.",
+            "answer": "I couldn't find any cafes that match your criteria for decent parking",
+            "seed": "Find me a cafe with decent parking, credit card's fine, medium price.",
+            "ordinal_vars": [
+                0.15754294222302934,
+                0.42,
+                0.36,
+                0.23,
+                0.23,
+                0.39
+            ],
+            "categorical_vars": [
+                2,
+                2,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07302506122753971
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria for affordable prices",
+            "seed": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.2156687496919298,
+                0.13,
+                0.85,
+                0.23,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07871495945889728
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a bar with decent parking, accepting credit cards, and reasonably priced?",
+            "answer": "I couldn't find any bars that meet your criteria for decent parking",
+            "seed": "Could you point me to a bar with decent parking, credit card accepted, and medium prices?",
+            "ordinal_vars": [
+                0.0029871844523870345,
+                0.16,
+                0.82,
+                0.24,
+                0.51,
+                0.41
+            ],
+            "categorical_vars": [
+                4,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07807891573970993
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you help me find a low-priced bakery nearby?",
+            "answer": "I couldn't find any nearby bakeries. Would you like assistance with something else?",
+            "seed": null,
+            "ordinal_vars": [
+                0.13359590976318703,
+                0.5812195374943587,
+                0.6110864426065785,
+                0.4848507081711365,
+                0.6759452568491147,
+                0.20691244374668044
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.5,
+            "content_fitness": 1.0,
+            "distance": -0.0899253452601041
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you help me find a low-priced bakery nearby?",
+            "answer": "I couldn't find any nearby bakeries. Would you like assistance with something else?",
+            "seed": null,
+            "ordinal_vars": [
+                0.17937110110147003,
+                0.7012733644787716,
+                0.4158204122167675,
+                0.708763376696071,
+                0.715641204363525,
+                0.5266542323082037
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "slightly implicit",
+            "politeness": "polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.5,
+            "content_fitness": 1.0,
+            "distance": -0.0899253452601041
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, point me to a low-priced bar with around 3.5 stars?",
+            "answer": "I'm sorry",
+            "seed": "Find me a bar, low prices, around 3.5 stars.",
+            "ordinal_vars": [
+                0.20633040992150217,
+                0.37,
+                0.85,
+                0.23,
+                0.64,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0752806080949675
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria of low prices",
+            "seed": "Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.33459143547034687,
+                0.09,
+                0.85,
+                0.23,
+                0.51,
+                0.26
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07812864476321191
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Direct me to a bar with decent parking, card accepted, and medium prices.",
+            "answer": "I couldn't find any bars that match your criteria for decent parking",
+            "seed": "Could you direct me to a bar with decent parking, credit card accepted, and medium prices?",
+            "ordinal_vars": [
+                0.05512027136621607,
+                0.16,
+                0.82,
+                0.24,
+                0.48,
+                0.41
+            ],
+            "categorical_vars": [
+                4,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07145705089809595
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a bar with mobile payment and parking, 5 stars.",
+            "answer": "I couldn't find any bars that meet your criteria of having mobile payment",
+            "seed": null,
+            "ordinal_vars": [
+                0.9145929588583974,
+                0.48079434447178987,
+                0.3475138313553843,
+                0.1305998914787255,
+                0.7435872470578343,
+                0.9803554506971126
+            ],
+            "categorical_vars": [
+                4,
+                4,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 5.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": 5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.06546691725667686
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a bar with decent parking, accepts credit card, medium prices.",
+            "answer": "I couldn't find any bars that match your criteria for decent parking",
+            "seed": "Locate a bar with decent parking, credit card accepted, medium prices.",
+            "ordinal_vars": [
+                0.03952596044213508,
+                0.18,
+                0.35,
+                0.23,
+                0.15,
+                0.39
+            ],
+            "categorical_vars": [
+                4,
+                2,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.071238185730925
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point me to a bar with a decent rating, perhaps on the pricier side?",
+            "answer": "I couldn't find any bars in your area. Would you like me to help you with something else?",
+            "seed": "Could you direct me to a high-priced bar, rated around 3.5?",
+            "ordinal_vars": [
+                0.2230287550842347,
+                0.13,
+                0.85,
+                0.23,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 3.5,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.5,
+            "content_fitness": 1.0,
+            "distance": -0.09110912130181004
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Guide me to a cafe with decent parking, accepts credit cards, and has medium prices.",
+            "answer": "I couldn't find any cafes that match your criteria for decent parking",
+            "seed": "Direct me to a cafe with decent parking, credit card accepted, and medium prices.",
+            "ordinal_vars": [
+                0.027788452190280796,
+                0.16,
+                0.36,
+                0.23,
+                0.23,
+                0.39
+            ],
+            "categorical_vars": [
+                2,
+                2,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07179126141217429
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you show me a bar with mobile payment, like, 3.5 stars and medium prices?",
+            "answer": "I couldn't find any bars that match your criteria of mobile payment",
+            "seed": "Hey, point me to a bar with contactless payment, yeah? 3.5 stars, medium price.",
+            "ordinal_vars": [
+                0.2519206832607349,
+                0.97,
+                0.85,
+                0.22,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                4,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.0834359929208226
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Direct me to a bar with decent parking, accepts credit card, medium prices.",
+            "answer": "I couldn't find any bars that match your criteria for decent parking",
+            "seed": "Locate a bar with decent parking, accepts credit card, medium prices.",
+            "ordinal_vars": [
+                0.030204486251708004,
+                0.17,
+                0.35,
+                0.21,
+                0.16,
+                0.39
+            ],
+            "categorical_vars": [
+                4,
+                2,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07117637432484447
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a medium-priced bar with contactless payment, rated around 3.5, and parking available?",
+            "answer": "I couldn't find any bars that match your criteria for medium price",
+            "seed": "Could you point me to a bar with low prices and contactless payment, rated around 3.5, where parking is available?",
+            "ordinal_vars": [
+                0.34478867028396776,
+                0.09,
+                0.84,
+                0.23,
+                0.51,
+                0.26
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.06809694013214784
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you show me a bar with decent parking, card only, and like a 3.5 rating?",
+            "answer": "I couldn't find any bars that match your criteria of decent parking",
+            "seed": "Hey, can you point me to a bar with decent parking, credit card only, and a 3.5 rating?",
+            "ordinal_vars": [
+                0.26179082433096623,
+                0.97,
+                0.88,
+                0.22,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07536463870150167
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Locate a bar with decent parking, accepts credit card, medium prices.",
+            "answer": "I couldn't find any bars that match your criteria for decent parking",
+            "seed": "Find a bar with decent parking, credit card accepted, medium prices.",
+            "ordinal_vars": [
+                0.17001836803889406,
+                0.37,
+                0.84,
+                0.14,
+                0.15,
+                0.24
+            ],
+            "categorical_vars": [
+                4,
+                2,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07083160788380716
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a bar with a medium price and cash only, 5 stars.",
+            "answer": "I couldn't find any bars that match your criteria of medium price",
+            "seed": null,
+            "ordinal_vars": [
+                0.9453886784337668,
+                0.6195021077665556,
+                0.5194436121509732,
+                0.14190791372006423,
+                0.993170618513959,
+                0.7637130247449633
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 5.0,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.06588100471433744
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Direct me to a bar with decent parking and moderate prices.",
+            "answer": "I couldn't find any bars with specific parking and price information nearby. Would you like me to search for bars in general or provide other options?",
+            "seed": "Could you direct me to a bar with decent parking, accepting credit cards, and moderate prices?",
+            "ordinal_vars": [
+                0.17638092693277843,
+                0.16,
+                0.82,
+                0.24,
+                0.48,
+                0.41
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 1.0,
+            "distance": -0.07222081738417752
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria of low prices",
+            "seed": "Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.29285730220639816,
+                0.13,
+                0.87,
+                0.23,
+                0.51,
+                0.31
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07812864476321191
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a bar with low prices and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria for low prices",
+            "seed": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.34002483959345564,
+                0.09,
+                0.35,
+                0.23,
+                0.51,
+                0.26
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07601138479412817
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a bar with decent parking that takes credit cards and is moderately priced?",
+            "answer": "I couldn't find any bars that match your criteria for decent parking",
+            "seed": "Could you point me to a bar with decent parking and a medium price range that accepts credit cards?",
+            "ordinal_vars": [
+                0.15265119048519835,
+                0.09,
+                0.34,
+                0.23,
+                0.51,
+                0.39
+            ],
+            "categorical_vars": [
+                4,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07706889316743726
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you find a bar with a medium price range and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria of a medium price range",
+            "seed": null,
+            "ordinal_vars": [
+                0.39185658380658744,
+                0.028898097215480867,
+                0.45169522930906286,
+                0.06388953218965984,
+                0.5597083900870123,
+                0.4762448633094864
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.08278727341347869
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a bar with low prices, cash only, and a rating around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria of low prices",
+            "seed": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.28828386862206035,
+                0.09,
+                0.85,
+                0.23,
+                0.51,
+                0.26
+            ],
+            "categorical_vars": [
+                4,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.0669813645626669
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find me a cheap Thai spot with mobile payment and parking.",
+            "answer": "I couldn't find any Thai restaurants that meet your criteria for being cheap",
+            "seed": null,
+            "ordinal_vars": [
+                0.01569296232764368,
+                0.9452604477456444,
+                0.7251925303310879,
+                0.1526022955026032,
+                0.3499579153942888,
+                0.9848054222153062
+            ],
+            "categorical_vars": [
+                0,
+                4,
+                0,
+                0,
+                8,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "thai",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "thai",
+            "parking": "available",
+            "price_range": "low",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07044542540539489
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a hotel with a low price and parking, rated 5 stars.",
+            "answer": "I couldn't find any hotels that meet your criteria of being low-priced",
+            "seed": null,
+            "ordinal_vars": [
+                0.9461733967519442,
+                0.025971704996541584,
+                0.819371910859647,
+                0.0007612021423446247,
+                0.06280086104889399,
+                0.24697655374434008
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 5.0,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "rating": 5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.05973349023084085
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you point me to a pricey bakery?",
+            "answer": "I couldn't find any bakeries in your area. Would you like to search for something else?",
+            "seed": "Hey, can you direct me to a high-end bakery?",
+            "ordinal_vars": [
+                0.03975495916155365,
+                0.48,
+                0.07,
+                0.21,
+                0.51,
+                0.25
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.10806890980552719
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria of low prices",
+            "seed": "Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.38343251842559767,
+                0.09,
+                0.85,
+                0.23,
+                0.51,
+                0.26
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07812864476321191
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Locate a bar with medium pricing and contactless payment, rated around 3.5.",
+            "answer": "I couldn't find any bars that match your criteria of medium pricing",
+            "seed": "Could you find a bar with a medium price range and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.3421321869129545,
+                0.03,
+                0.45,
+                0.06,
+                0.56,
+                0.58
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07351747108898388
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you help me find a low-priced bakery nearby?",
+            "answer": "I couldn't find any nearby bakeries. Would you like assistance with something else?",
+            "seed": "Could you please assist me in locating a high-end bakery?",
+            "ordinal_vars": [
+                0.0362749047535605,
+                0.4,
+                0.84,
+                0.9,
+                0.9,
+                0.4
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "empathic",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.5,
+            "content_fitness": 1.0,
+            "distance": -0.0899253452601041
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria for affordable prices",
+            "seed": "Could you point me to a bar with low prices and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.3948475197293139,
+                0.13,
+                0.85,
+                0.23,
+                0.51,
+                0.26
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07871495945889728
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point me to a bar with mobile payment, around 3.5 stars, and medium prices?",
+            "answer": "I couldn't find any bars that match your criteria of mobile payment",
+            "seed": "Could you direct me to a bar with mobile payment, around 3.5 stars, medium pricing?",
+            "ordinal_vars": [
+                0.21508406190117862,
+                0.13,
+                0.85,
+                0.23,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                4,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07958698802607422
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you please find a medium-priced cafe with American food, rated 4 stars, and contactless payment available? Parking would be great too.",
+            "answer": "I couldn't find any cafes that match your criteria for American food",
+            "seed": null,
+            "ordinal_vars": [
+                0.4671999987762123,
+                0.1660364311977698,
+                0.4485322713740706,
+                0.6810991403751149,
+                0.7927719709782742,
+                0.4127258231297928
+            ],
+            "categorical_vars": [
+                2,
+                3,
+                0,
+                0,
+                13,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 4.0,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "american",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "american",
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 4,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "polite",
+            "anthropomorphism": "empathic",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.04831340618965796
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you locate a cafe with a medium price range, contactless payment, and a rating of about 3.5?",
+            "answer": "I couldn't find any cafes that match your criteria of a medium price range",
+            "seed": "Could you find a bar with a medium price range and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.3106255075813368,
+                0.03,
+                0.45,
+                0.06,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                2,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.08063086890507687
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you point me to a bar with decent prices and parking?",
+            "answer": "I couldn't find any bars with specific information about pricing and parking in Munich. Would you like me to look for other types of places or provide more details?",
+            "seed": "Hey, can you direct me to a medium-priced bar with parking?",
+            "ordinal_vars": [
+                0.053252461729827276,
+                0.37,
+                0.85,
+                0.14,
+                0.64,
+                0.25
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.6,
+            "content_fitness": 1.0,
+            "distance": -0.07921170810694234
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point me to a bar that takes contactless payment, with a 3.5-star rating and a medium price range?",
+            "answer": "I couldn't find any bars that match your criteria for contactless payment",
+            "seed": "Could you direct me to a bar that accepts contactless payment, with a rating of 3.5 stars and a medium price range?",
+            "ordinal_vars": [
+                0.2712277889482608,
+                0.07,
+                0.45,
+                0.07,
+                0.56,
+                0.26
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 1.0,
+            "distance": -0.08277850195489567
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a pricey bar?",
+            "answer": "I couldn't find any bars in the vicinity. Would you like to search for a different type of place or provide more details?",
+            "seed": "Can you point me to a high-end bar?",
+            "ordinal_vars": [
+                0.08197052819331485,
+                0.37,
+                0.07,
+                0.21,
+                0.53,
+                0.25
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.6,
+            "content_fitness": 1.0,
+            "distance": -0.10041686117254556
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, direct me to a medium-priced cafe with contactless payment and a 3.5 rating?",
+            "answer": "I couldn't find any cafes that match your criteria for medium price",
+            "seed": "Could you, like, point me to a medium-priced cafe with contactless payment and a 3.5 rating?",
+            "ordinal_vars": [
+                0.30461422558248746,
+                0.03,
+                0.45,
+                0.06,
+                0.58,
+                0.27
+            ],
+            "categorical_vars": [
+                2,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07981028440773819
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point me to a bar that takes contactless payment, with a 3.5-star rating and a medium price range?",
+            "answer": "I couldn't find any bars that match your criteria for contactless payment",
+            "seed": "Could you direct me to a bar that accepts contactless payment, with a rating of 3.5 stars and a medium price range?",
+            "ordinal_vars": [
+                0.374300225904673,
+                0.03,
+                0.45,
+                0.06,
+                0.56,
+                0.48
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.08277850195489567
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you point me to a bar with mobile pay, like, 3.5 stars and medium prices, parking available?",
+            "answer": "I couldn't find any bars that match your criteria of 3.5 stars",
+            "seed": "Hey, can you show me a bar with mobile payment, like, 3.5 stars and medium prices?",
+            "ordinal_vars": [
+                0.34290076595603053,
+                0.97,
+                0.85,
+                0.22,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                4,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07298847832403443
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you just tell me where a hotel is?",
+            "answer": "Could you please provide me with more details about the hotel you're looking for",
+            "seed": "Could you point me to a museum, yeah?",
+            "ordinal_vars": [
+                0.10458456673729662,
+                0.37,
+                0.87,
+                0.16,
+                0.64,
+                0.25
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.11225227308872732
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you direct me to a bar with a medium price range and a 3.5-star rating that accepts contactless payments?",
+            "answer": "I couldn't find any bars that match your criteria of a medium price range",
+            "seed": "Could you point me to a bar that takes contactless payment, with a 3.5-star rating and a medium price range?",
+            "ordinal_vars": [
+                0.2121957703182108,
+                0.03,
+                0.45,
+                0.06,
+                0.56,
+                0.48
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.08083900016799683
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you locate a bar with a medium price range and contactless payment, rated around 3.5?",
+            "answer": "I couldn't find any bars that match your criteria of a medium price range",
+            "seed": "Could you find a bar with a medium price range and contactless payment, rated around 3.5?",
+            "ordinal_vars": [
+                0.26138824712922304,
+                0.03,
+                0.45,
+                0.06,
+                0.56,
+                0.48
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.08185272138821864
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Point me to a bar with contactless payment, parking available, and a decent rating.",
+            "answer": "I couldn't find any bars that match your criteria for contactless payment",
+            "seed": "Could you point me to a bar that takes contactless payments and is reasonably priced?",
+            "ordinal_vars": [
+                0.27531588472241514,
+                0.37,
+                0.85,
+                0.14,
+                0.64,
+                0.24
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07113469851259346
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Where's the closest restaurant, if you don't mind?",
+            "answer": "The closest restaurant is undefined",
+            "seed": "Could you tell me where the nearest bakery is?",
+            "ordinal_vars": [
+                0.16221134307886878,
+                0.06,
+                0.62,
+                0.14,
+                0.64,
+                0.21
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.09694247014061608
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you point me to a pricey bakery?",
+            "answer": "I couldn't find any bakeries in your area. Would you like to search for something else?",
+            "seed": "Could you direct me to a high-end bakery?",
+            "ordinal_vars": [
+                0.08469671774921946,
+                0.37,
+                0.07,
+                0.21,
+                0.51,
+                0.25
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.10806890980552719
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you direct me to a pricey bakery?",
+            "answer": "I couldn't find any bakeries nearby. Would you like to search for a different type of place?",
+            "seed": "Hey, can you point me to a high-end bakery?",
+            "ordinal_vars": [
+                0.1656294271408655,
+                0.38,
+                0.07,
+                0.23,
+                0.64,
+                0.27
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.10592529998519762
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you point out the closest museum, if you please?",
+            "answer": "I'm sorry",
+            "seed": "Could you kindly indicate the nearest museum, please?",
+            "ordinal_vars": [
+                0.005169919593362188,
+                0.14,
+                0.85,
+                0.14,
+                0.51,
+                0.24
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.12203147636017664
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, tell me where the nearest museum is?",
+            "answer": "I'm sorry",
+            "seed": "Could you, like, inform me about the nearest museum?",
+            "ordinal_vars": [
+                0.06306553428594659,
+                0.13,
+                0.83,
+                0.14,
+                0.64,
+                0.25
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.1252014939692856
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, direct me to the closest museum?",
+            "answer": "I couldn't find any museums nearby. Would you like assistance with something else?",
+            "seed": "Could you, like, inform me about the nearest museum?",
+            "ordinal_vars": [
+                0.10271321875765652,
+                0.14,
+                0.85,
+                0.14,
+                0.51,
+                0.24
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 1.0,
+            "distance": -0.12152333287354233
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you point me to a bar with mobile pay, like, 3.5 stars and medium prices?",
+            "answer": "I couldn't find any bars that match your criteria of 3.5 stars",
+            "seed": "Hey, can you show me a bar with mobile payment, like, 3.5 stars and medium prices?",
+            "ordinal_vars": [
+                0.3138449735619217,
+                0.97,
+                0.85,
+                0.22,
+                0.51,
+                0.27
+            ],
+            "categorical_vars": [
+                4,
+                4,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.08196503853590231
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you find a hotel with a 3.5 rating and parking available, accepting credit cards?",
+            "answer": "I couldn't find any hotels that match your criteria of a 3.5 rating",
+            "seed": null,
+            "ordinal_vars": [
+                0.3707389701780794,
+                0.038495204139667255,
+                0.6688939730103405,
+                0.26756149237626997,
+                0.5176447423381747,
+                0.8901212735797617
+            ],
+            "categorical_vars": [
+                5,
+                2,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 3.5,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 1.0,
+            "distance": -0.07825730251167973
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, point me to the nearest bakery?",
+            "answer": "I'm sorry",
+            "seed": "Could you, like, direct me to the closest museum?",
+            "ordinal_vars": [
+                0.17098115854076568,
+                0.13,
+                0.83,
+                0.14,
+                0.59,
+                0.24
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.11983976381540296
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you possibly indicate where the nearest museum is?",
+            "answer": "I'm sorry",
+            "seed": "Could you tell me where the closest museum is?",
+            "ordinal_vars": [
+                0.19921902267235003,
+                0.14,
+                0.85,
+                0.14,
+                0.51,
+                0.24
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.12177057115758849
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, where's a nearby restaurant, huh?",
+            "answer": "The closest restaurant is undefined",
+            "seed": "Hey, where's the closest restaurant around here?",
+            "ordinal_vars": [
+                0.1228268147963117,
+                0.38,
+                0.81,
+                0.23,
+                0.64,
+                0.27
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.09726938172506083
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you, like, point me to a museum, huh?",
+            "answer": "I'm sorry",
+            "seed": "Could you, like, direct me to a museum, huh?",
+            "ordinal_vars": [
+                0.030049372357072945,
+                0.4,
+                0.85,
+                0.19,
+                0.59,
+                0.24
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.1239206007089313
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, direct me to a nearby restaurant?",
+            "answer": "The closest restaurant is undefined",
+            "seed": "Could you, like, point me to the nearest restaurant?",
+            "ordinal_vars": [
+                0.08811518608163907,
+                0.13,
+                0.83,
+                0.14,
+                0.59,
+                0.24
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.09128048568035518
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you, like, show me the nearest museum?",
+            "answer": "I'm sorry",
+            "seed": "Hey, can you, like, point me to the closest museum?",
+            "ordinal_vars": [
+                0.06777457948900159,
+                0.97,
+                0.87,
+                0.22,
+                0.64,
+                0.27
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.12283071042921812
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you perhaps indicate the closest museum?",
+            "answer": "I'm sorry",
+            "seed": "Could you inform me of the nearest museum, perhaps?",
+            "ordinal_vars": [
+                0.09310962222688512,
+                0.12,
+                0.85,
+                0.12,
+                0.51,
+                0.25
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.122325013515723
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Where's the closest restaurant, if you don't mind?",
+            "answer": "The closest restaurant is undefined",
+            "seed": "Could you tell me where the nearest restaurant is?",
+            "ordinal_vars": [
+                0.0007195849072630933,
+                0.13,
+                0.83,
+                0.23,
+                0.64,
+                0.27
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.09694247014061608
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you, like, point me to a museum with a decent rating, huh?",
+            "answer": "I'm sorry",
+            "seed": "Can you, like, direct me to a museum, huh?",
+            "ordinal_vars": [
+                0.38110721380735546,
+                0.36,
+                0.85,
+                0.14,
+                0.51,
+                0.24
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 3.5,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": 3.5,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.1008748070683465
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you indicate the nearest museum, if you would?",
+            "answer": "I'm sorry",
+            "seed": "Could you point out the closest museum, if you please?",
+            "ordinal_vars": [
+                0.12250381150875429,
+                0.14,
+                0.85,
+                0.14,
+                0.51,
+                0.24
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.12308074360971799
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, tell me where the nearest museum is?",
+            "answer": "I'm sorry",
+            "seed": "Could you, like, inform me about the closest museum?",
+            "ordinal_vars": [
+                0.05058865606217362,
+                0.13,
+                0.85,
+                0.12,
+                0.51,
+                0.25
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.1252014939692856
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you, like, direct me to a museum, huh?",
+            "answer": "I couldn't find any museums nearby. Would you like me to help you with something else?",
+            "seed": "Hey, can you point me to a museum, huh?",
+            "ordinal_vars": [
+                0.18430909965535688,
+                0.36,
+                0.85,
+                0.14,
+                0.59,
+                0.24
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.6,
+            "content_fitness": 1.0,
+            "distance": -0.12627687867464799
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Locate the nearest museum, if you would.",
+            "answer": "I'm sorry",
+            "seed": "Could you, like, inform me about the closest museum?",
+            "ordinal_vars": [
+                0.19380448574279002,
+                0.12,
+                0.83,
+                0.12,
+                0.43,
+                0.25
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.11236781897433756
+        },
+        "is_critical": true,
+        "poi_exists": false
+    }
+]

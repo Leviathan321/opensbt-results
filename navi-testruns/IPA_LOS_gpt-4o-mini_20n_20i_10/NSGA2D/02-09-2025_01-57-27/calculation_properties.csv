@@ -1,0 +1,21 @@
+Attribute,Value
+Id,ff4036f1-8199-4ad4-b49f-25a94afeda0c
+Timestamp,02-09-2025_01:57:27
+Problem,IPA_LOS_gpt-4o-mini_20n_20i_10
+Algorithm,NSGA2D
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,FitnessMerged
+Critical function,CriticalMerged
+Search time,3286.45 sec
+Population size,20
+Number of generations,20
+Number of offsprings,None
+Crossover probability,0.7
+Crossover eta,20
+Mutation probability,1.0
+Mutation eta,15
+Seed,None
+Operators,crossover=UtteranceCrossoverDiscrete() sampling=UtteranceSamplingDiscrete() duplicate_elimination=UtteranceDuplicateEliminationLocalDiscreteWithContent() mutation=UtteranceMutationDiscrete()
+Seed Utterances,"['hmm I need some food', 'yeah I need some burgers', 'oh some burger would be great']"
+Names Dimension Utterances,['utterance']

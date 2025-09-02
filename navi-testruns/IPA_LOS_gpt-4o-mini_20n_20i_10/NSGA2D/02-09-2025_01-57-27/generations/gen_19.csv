@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you, like, tell me where the nearest museum is?",0.0,1.0,-0.1252014939692856,1
+1,"Could you, like, inform me about the nearest museum?",0.8,1.0,-0.12730121931053984,0
+2,"Hey, any clue where a museum's hiding, huh?",1.0,1.0,-0.13161763437814444,0
+3,"Hey, can you, like, point me to a museum, huh?",0.0,1.0,-0.1239206007089313,1
+4,"Could you, like, tell me where a museum is?",0.9,1.0,-0.12660594747772047,0
+5,"Hey, got any cool museums around here or what?",1.0,1.0,-0.12871179330924298,0
+6,"Hey, can you, like, show me the nearest museum?",0.0,1.0,-0.12283071042921812,1
+7,Could you perhaps indicate where a museum is situated?,0.8,1.0,-0.1235349345733544,0
+8,"Could you, like, direct me to a museum, huh?",0.9,1.0,-0.12627687867464799,0
+9,"Could you, like, direct me to a museum, huh?",0.9,1.0,-0.12627687867464799,0
+10,"Could you, like, guide me to a museum, huh?",1.0,1.0,-0.12793774591478524,0
+11,Could you perhaps indicate the closest museum?,0.0,1.0,-0.122325013515723,1
+12,"Could you, like, direct me to a museum?",0.8,1.0,-0.12351621563630055,0
+13,"Could you, like, inform me about the closest museum?",1.0,1.0,-0.12782770200007498,0
+14,"Could you point out the closest museum, if you please?",0.0,1.0,-0.12203147636017664,1
+15,"Could you, like, direct me to a museum?",0.9,1.0,-0.12351621563630055,0
+16,"Could you, like, direct me to a museum or whatever?",1.0,1.0,-0.12778108268601018,0
+17,"Hey, can you, like, show me a museum, huh?",1.0,1.0,-0.12670583513244904,0
+18,"Can you, like, point me to a museum with a decent rating, huh?",0.0,1.0,-0.1008748070683465,1
+19,"Could you, like, point me to a nearby museum?",0.8,1.0,-0.11742462936905618,0

@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you, like, point me to a low-priced bar with around 3.5 stars?",0.0,1.0,-0.0752806080949675,1
+1,"Could you, like, point me to a museum, yeah?",1.0,1.0,-0.12460195464595314,0
+2,Can you point me to a pricey bakery?,0.2,1.0,-0.10806890980552719,1
+3,"Can you, like, point me to a museum?",0.9,1.0,-0.12246665178363203,0
+4,"Hey, can you show me a bar with mobile payment, like, 3.5 stars and medium prices?",0.4,1.0,-0.0834359929208226,1
+5,"Could you point me to a bar with a decent rating, perhaps on the pricier side?",0.5,1.0,-0.09110912130181004,1
+6,"Hey, could you show me a cheap bakery, yeah?",0.8,1.0,-0.0998080411821144,0
+7,"Locate a bakery, would ya?",0.9,1.0,-0.11054729726839474,0
+8,"Hey, can you tell me where a museum is?",1.0,1.0,-0.1210818156666349,0
+9,"Could you find a bar with a medium price range and contactless payment, rated around 3.5?",0.4,1.0,-0.08278727341347869,1
+10,Could you help me find a low-priced bakery nearby?,0.5,1.0,-0.0899253452601041,1
+11,Could you help me find a low-priced bakery nearby?,0.5,1.0,-0.0899253452601041,1
+12,Could you help me find a low-priced bakery nearby?,0.5,1.0,-0.0899253452601041,1
+13,"Hey, can you show me a supermarket with card only, yeah?",0.9,1.0,-0.10989211034159008,0
+14,"Point me to a museum that takes cards, huh?",1.0,1.0,-0.11870268825275954,0
+15,"Could you point me to a bar with mobile payment, around 3.5 stars, and medium prices?",0.4,1.0,-0.07958698802607422,1
+16,"Hey, got any high-end bakeries nearby?",1.0,1.0,-0.11769718190493572,0
+17,"Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",0.4,1.0,-0.07871495945889728,1
+18,"Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",0.4,1.0,-0.07871495945889728,1
+19,"Yo, direct me to a bar with card only, yeah?",1.0,1.0,-0.10732162248504351,0

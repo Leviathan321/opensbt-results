@@ -1,0 +1,1322 @@
+[
+    {
+        "utterance": {
+            "question": "Find a high-priced Greek restaurant with a 4.5 rating, accepts credit cards.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.7429151566795382,
+                0.5829346275128706,
+                0.40826554851028257,
+                0.15210614243979176,
+                0.022084953543502567,
+                0.9766966730974682
+            ],
+            "categorical_vars": [
+                0,
+                2,
+                0,
+                0,
+                10,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 4.5,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "greek",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "greek",
+            "parking": null,
+            "price_range": "high",
+            "rating": 4.5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a museum with a 4-star rating and parking available?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.5252574296622785,
+                0.5580445383554484,
+                0.47800466444443124,
+                0.7026276485108782,
+                0.6502597383511362,
+                0.7608235761968171
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 4.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": 4,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a high-priced hotel with a 4-star rating.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.45027482684141185,
+                0.285616767485911,
+                0.5848825638432857,
+                0.3767872959122373,
+                0.2912539744297871,
+                0.04673018727932515
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 4.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": 4,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a high-priced Turkish cafe with 4 stars and contactless payment, parking available.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.4835018287678534,
+                0.530067120995141,
+                0.11906058621151208,
+                0.06109198366856366,
+                0.44345757405264896,
+                0.21474608921581917
+            ],
+            "categorical_vars": [
+                2,
+                3,
+                0,
+                0,
+                12,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 4.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "turkish",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "turkish",
+            "parking": "available",
+            "price_range": "high",
+            "rating": 4,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, can you find me a cheap American restaurant with a 4.5 rating that accepts mobile payments?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.703959397175076,
+                0.4207385537106501,
+                0.008466594016702023,
+                0.2484151750807055,
+                0.6413767549720419,
+                0.14639898814475455
+            ],
+            "categorical_vars": [
+                0,
+                4,
+                0,
+                0,
+                13,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "american",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "american",
+            "parking": null,
+            "price_range": "low",
+            "rating": 4.5,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Please locate a high-end bar with a 4-star rating.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.4730729942428232,
+                0.15484360259311084,
+                0.9062009367940833,
+                0.4074188826468816,
+                0.39079767112318625,
+                0.2561670766367746
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 4.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": 4,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you tell me where a supermarket is, with cash payment and parking available?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.195579852680401,
+                0.2482010802585202,
+                0.5327518904263697,
+                0.03680696441863025,
+                0.5121570015658514,
+                0.2712042581140021
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Where's the nearest bakery, huh?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.08722365106776686,
+                0.6257784138549782,
+                0.5696166087896517,
+                0.0856901477935793,
+                0.5261549361307133,
+                0.08310107385226684
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a bar with a low price range and contactless payment.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.3026245415464491,
+                0.15103500006707782,
+                0.8524318020787989,
+                0.23361455950652377,
+                0.8997629493653732,
+                0.9242545909473573
+            ],
+            "categorical_vars": [
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Please find a low-priced Mexican restaurant with cash payment and parking available, rated 4 stars.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.4186880753887534,
+                0.004878291701083309,
+                0.9142248590998113,
+                0.48337968140987553,
+                0.08466978324733493,
+                0.3579154363756571
+            ],
+            "categorical_vars": [
+                0,
+                1,
+                0,
+                0,
+                9,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 4.0,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "mexican",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "mexican",
+            "parking": "available",
+            "price_range": "low",
+            "rating": 4,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you please guide me to a 5-star museum?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.8138066683234508,
+                0.6214930646006511,
+                0.41910096240166794,
+                0.9472765407677127,
+                0.6610816537603542,
+                0.44785447435177905
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 5.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": 5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find me a medium-priced hotel, credit card accepted, 3.5 stars.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.37835251398713887,
+                0.376737263159865,
+                0.8011566134935553,
+                0.1713662085255505,
+                0.42727649101799764,
+                0.3971545309132671
+            ],
+            "categorical_vars": [
+                5,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you find a high-rated hotel with contactless payment and parking?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.3414592618682875,
+                0.8040920257844668,
+                0.28008243869613014,
+                0.4120100411101639,
+                0.8071955833004913,
+                0.6840133404177298
+            ],
+            "categorical_vars": [
+                5,
+                3,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 3.5,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Find a museum with a decent rating, please.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.2018442203339758,
+                0.658270833132223,
+                0.7310845774288203,
+                0.1905287873541248,
+                0.9569757939371428,
+                0.7994682245363374
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 3.5,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": 3.5,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you please find a Thai cafe with parking, rated 4 stars, accepting credit cards?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.4594968193951844,
+                0.9802356794944076,
+                0.46537259744686565,
+                0.8117644736203694,
+                0.2825438851577281,
+                0.3919821434794939
+            ],
+            "categorical_vars": [
+                2,
+                2,
+                0,
+                0,
+                8,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 4.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "thai",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "thai",
+            "parking": "available",
+            "price_range": null,
+            "rating": 4,
+            "slang": "slangy",
+            "implicitness": "slightly implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Hey, got any low-priced hotels with a solid 4.5 rating?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.6040859937622991,
+                0.8382545832855709,
+                0.7259295828723659,
+                0.0964143939445717,
+                0.6740770679522492,
+                0.3356861649786817
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 4.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 4.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Please locate a medium-priced Thai cafe with contactless payment and a 5-star rating.",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.9773910176937222,
+                0.23329799484308425,
+                0.08553585561633217,
+                0.5990517569640512,
+                0.1123786943996691,
+                0.5486362470699401
+            ],
+            "categorical_vars": [
+                2,
+                3,
+                0,
+                0,
+                8,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 5.0,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "thai",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "thai",
+            "parking": null,
+            "price_range": "medium",
+            "rating": 5,
+            "slang": "formal",
+            "implicitness": "not implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Can you find a high-end supermarket with mobile payment and parking?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.11621158142698099,
+                0.6365541921955181,
+                0.5118229054305743,
+                0.22591535542865204,
+                0.7339175004989124,
+                0.9213692497248822
+            ],
+            "categorical_vars": [
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Could you help me find a bakery nearby, please?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.13576707937859628,
+                0.9109317562655073,
+                0.11915439937329489,
+                0.6262943203223513,
+                0.6886808915567373,
+                0.28325849795366415
+            ],
+            "categorical_vars": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bakery",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bakery",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    },
+    {
+        "utterance": {
+            "question": "Where's a low-priced French restaurant with parking, huh?",
+            "answer": null,
+            "seed": null,
+            "ordinal_vars": [
+                0.450635829261988,
+                0.6126381696553987,
+                0.7738551942373023,
+                0.007466047412854504,
+                0.5402131748171369,
+                0.11785597821799848
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                5,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 4.0,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "french",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "french",
+            "parking": "available",
+            "price_range": "low",
+            "rating": 4,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.0,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false
+    }
+]

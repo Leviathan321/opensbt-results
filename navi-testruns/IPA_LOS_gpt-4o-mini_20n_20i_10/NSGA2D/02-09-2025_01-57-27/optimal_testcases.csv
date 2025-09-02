@@ -1,0 +1,6 @@
+Index,vars,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you, like, tell me where the nearest museum is?",0.0,1.0,-0.1252014939692856,1
+1,"Could you, like, inform me about the nearest museum?",0.8,1.0,-0.12730121931053984,0
+2,"Hey, any clue where a museum's hiding, huh?",1.0,1.0,-0.13161763437814444,0
+3,"Could you, like, tell me where the nearest museum is?",0.0,1.0,-0.1252014939692856,1
+4,"Could you, like, direct me to a museum, huh?",0.6,1.0,-0.12627687867464799,1

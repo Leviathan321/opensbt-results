@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you, like, inform me about the nearest museum?",0.8,1.0,-0.12730121931053984,0
+1,"Could you, like, tell me where the nearest museum is?",0.0,1.0,-0.1252014939692856,1
+2,"Hey, can you, like, show me a museum, huh?",1.0,1.0,-0.12661359445927478,0
+3,"Could you, like, tell me where a museum is?",0.9,1.0,-0.12660594747772047,0
+4,Could you perhaps indicate where a museum is situated?,0.8,1.0,-0.1235349345733544,0
+5,"Could you point out the closest museum, if you please?",0.0,1.0,-0.12203147636017664,1
+6,"Hey, can you show me a museum, yeah?",1.0,1.0,-0.12577514037739412,0
+7,"Could you, like, direct me to a museum?",0.8,1.0,-0.12351621563630055,0
+8,"Where's the closest restaurant, if you don't mind?",0.0,1.0,-0.09694247014061608,1
+9,"Hey, can you just tell me where a hotel is?",0.2,1.0,-0.11225227308872732,1
+10,"Could you, like, direct me to the closest museum?",0.7,1.0,-0.12152333287354233,1
+11,"Could you, like, point me to a museum, huh?",1.0,1.0,-0.12559595114687827,0
+12,"Could you, like, point me to a museum, huh?",1.0,1.0,-0.12559595114687827,0
+13,"Could you, like, point me to a museum, huh?",1.0,1.0,-0.12559595114687827,0
+14,"Could you, like, point me to a low-priced bar with around 3.5 stars?",0.0,1.0,-0.0752806080949675,1
+15,Can you point me to a pricey bakery?,0.2,1.0,-0.10806890980552719,1
+16,Can you point me to a pricey bakery?,0.2,1.0,-0.10806890980552719,1
+17,Could you kindly disclose the location of a museum?,0.8,1.0,-0.1198423787740096,0
+18,Can you direct me to a pricey bakery?,0.2,1.0,-0.10592529998519762,1
+19,"Can you, like, point me to a museum, huh?",1.0,1.0,-0.1252616733178098,0

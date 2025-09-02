@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,68
+Number Critical Scenarios (duplicate free),62
+Number All Scenarios,502
+Number All Scenarios (duplicate free),491
+Number Best Critical Scenarios,3
+Number Best Critical Scenarios (duplicate free),2
+Number Best Scenarios,5
+Number Best Scenarios (duplicate free),4
+Ratio Critical/All scenarios,0.14
+Ratio Critical/All scenarios (duplicate free),0.13
+Ratio Best Critical/Best Scenarios,0.60
+Ratio Best Critical/Best Scenarios (duplicate free),0.50
+Iteration first critical found,1
+Fitness value of critical (first of population of interest),[ 0.4  1.  -0. ]
+Input value of critical (first of population of interest),"[Utterance(question='Could you point me to a bar with low prices and contactless payment, rated around 3.5?', answer=""I couldn't find any bars that match your criteria of low prices"", seed='Could you find a bar with a low price range and contactless payment, rated around 3.5?', ordinal_vars=[0.2992345610694453, 0.15, 0.85, 0.23, 0.51, 0.27], categorical_vars=[4, 3, 0, 0, 0, 0, 1], content_input=NaviContentInput(title=None, category='bar', address=None, location=None, business_hours_status=None, payment_method='CONTACTLESS', rating=3.5, price_range='low', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking=None, charging=None, availability=None), content_output_list=[], raw_output=None)]"

@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you point me to a bar with low prices and contactless payment, rated around 3.5?",0.4,1.0,-0.0,1
+1,"Locate a Turkish eatery with mobile payment, 4 stars, medium price.",0.4,1.0,-0.0,1
+2,"Hey, show me a cafe with decent parking, yeah? Credit card's cool, 3.5 stars, medium price.",0.4,1.0,-0.0,1
+3,"Please find a low-priced Mexican restaurant with cash payment and parking, rated 4 stars.",0.8,1.0,-0.0,0
+4,"Could you help me find a supermarket nearby, please?",0.8,1.0,-0.0,0
+5,"Hey, can you point me to a nearby bakery?",0.9,1.0,-0.0,0
+6,"Locate a bakery nearby, if you would.",0.9,1.0,-0.0,0
+7,Could you find a low-priced Chinese restaurant with a decent rating?,1.0,1.0,-0.0,0
+8,"Find a high-priced Turkish cafe with contactless payment and parking, rated 4 stars.",1.0,1.0,-0.0,0
+9,"Can you find a low-priced German restaurant with parking, like, 4 stars?",1.0,1.0,-0.0,0
+10,"Locate a low-priced bar with contactless payment, please.",1.0,1.0,-0.0,0
+11,Could you assist me in locating a budget-friendly hotel nearby?,1.0,1.0,-0.0,0
+12,Locate a high-end supermarket with mobile payment options.,1.0,1.0,-0.0,0
+13,Could you please locate a high-end bar with a 4-star rating?,1.0,1.0,-0.0,0
+14,"Get me a high-priced Chinese restaurant with mobile payment and a 4-star rating, parking available.",1.0,1.0,-0.0,0
+15,"Hey, can you find me a cheap American restaurant with a 4.5 rating that accepts mobile payments?",1.0,1.0,-0.0,0
+16,Could you please guide me to a bakery nearby?,1.0,1.0,-0.0,0
+17,"Could you tell me where a supermarket is, with cash payment and parking available?",1.0,1.0,-0.0,0
+18,Locate a pricey Greek eatery with a 4.5 score that takes credit cards.,1.0,1.0,-0.0,0
+19,Could you guide me to a museum with a 4-star rating and parking available?,1.0,1.0,-0.0,0

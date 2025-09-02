@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,20
+Number Critical Scenarios (duplicate free),20
+Number All Scenarios,20
+Number All Scenarios (duplicate free),20
+Number Best Critical Scenarios,20
+Number Best Critical Scenarios (duplicate free),20
+Number Best Scenarios,20
+Number Best Scenarios (duplicate free),20
+Ratio Critical/All scenarios,1.00
+Ratio Critical/All scenarios (duplicate free),1.00
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.  1. -0.]
+Input value of critical (first of population of interest),"[Utterance(question='Find a high-priced Greek restaurant with a 4.5 rating, accepts credit cards.', answer=None, seed=None, ordinal_vars=[0.7429151566795382, 0.5829346275128706, 0.40826554851028257, 0.15210614243979176, 0.022084953543502567, 0.9766966730974682], categorical_vars=[0, 2, 0, 0, 10, 0, 3], content_input=NaviContentInput(title=None, category='restaurant', address=None, location=None, business_hours_status=None, payment_method='CREDIT_CARD', rating=4.5, price_range='high', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type='greek', parking=None, charging=None, availability=None), content_output_list=[], raw_output=None)]"

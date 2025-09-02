@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you direct me to a bar with affordable prices and contactless payment, rated around 3.5?",0.4,1.0,-0.07871495945889728,1
+1,Could you help me find a low-priced bakery nearby?,0.5,1.0,-0.0899253452601041,1
+2,Could you please direct me to a high-end supermarket?,1.0,1.0,-0.10837640752708488,0
+3,Could you help me find a low-priced bakery nearby?,0.5,1.0,-0.0899253452601041,1
+4,"Could you, like, point me to a low-priced bar with around 3.5 stars?",0.0,1.0,-0.0752806080949675,1
+5,"Hey, could you show me a cheap bakery, yeah?",0.8,1.0,-0.0998080411821144,0
+6,"Could you point me to a bar with low prices and contactless payment, rated around 3.5?",0.4,1.0,-0.07812864476321191,1
+7,"Hey, could you point me to a supermarket with card payment, yeah?",1.0,1.0,-0.10569673295405213,0
+8,"Hey, can you point me to a cheap bakery nearby?",0.9,1.0,-0.0968101019636558,0
+9,"Could you direct me to a bar with decent parking, accepting credit cards, and reasonably priced?",0.4,1.0,-0.07807891573970993,1
+10,Kindly guide me to a high-end bakery nearby.,1.0,1.0,-0.10510393916352956,0
+11,"Could you, like, point me to a low-priced bakery nearby?",0.9,1.0,-0.0938023983554237,0
+12,"Locate a cafe with decent parking, credit card's cool, medium price.",0.4,1.0,-0.07302506122753971,1
+13,"Find a high-end bakery nearby, will ya?",1.0,1.0,-0.10397719327211985,0
+14,"Locate a bakery that’s affordable, if you please.",0.9,1.0,-0.08807090429461006,0
+15,"Direct me to a bar with decent parking, card accepted, and medium prices.",0.4,1.0,-0.07145705089809595,1
+16,Could you kindly locate a high-end bakery nearby?,1.0,1.0,-0.10305017512459624,0
+17,Locate a fancy bakery around here.,1.0,1.0,-0.10212981509444363,0
+18,"Could you point me to a bar with low prices and contactless payment, rated around 3.5?",0.4,1.0,-0.0,1
+19,"Locate a Turkish eatery with mobile payment, 4 stars, medium price.",0.4,1.0,-0.0,1
