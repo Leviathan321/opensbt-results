@@ -1,0 +1,224 @@
+{
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 249,
+                "f1": 0.7590361445783133,
+                "accuracy": 0.7590361445783133,
+                "precision": 0.7590361445783133,
+                "avg_distance": 0.24096385542168675,
+                "std_distance": 0.4276684180553939
+            },
+            "D": {
+                "num_tests": 249,
+                "f1": 0.6465863453815262,
+                "accuracy": 0.6465863453815262,
+                "precision": 0.6465863453815262,
+                "avg_distance": 0.39357429718875503,
+                "std_distance": 0.5647962950672524
+            },
+            "P": {
+                "num_tests": 249,
+                "f1": 0.718875502008032,
+                "accuracy": 0.7188755020080321,
+                "precision": 0.7188755020080321,
+                "avg_distance": 0.357429718875502,
+                "std_distance": 0.618291320258622
+            }
+        },
+        "overall": {
+            "num_tests": 747,
+            "f1": 0.7081659973226239,
+            "accuracy": 0.7081659973226239,
+            "precision": 0.7081659973226239,
+            "avg_distance": 0.33065595716198126,
+            "std_distance": 0.5467782952207279,
+            "avg_time": 5.030156767068274
+        }
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 249,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            },
+            "D": {
+                "num_tests": 249,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            },
+            "P": {
+                "num_tests": 249,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            }
+        },
+        "overall": {
+            "num_tests": 747,
+            "f1": 1.0,
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "avg_distance": 0.0,
+            "std_distance": 0.0,
+            "avg_time": 3.808335722891566
+        }
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 249,
+                "f1": 0.963855421686747,
+                "accuracy": 0.963855421686747,
+                "precision": 0.963855421686747,
+                "avg_distance": 0.03614457831325301,
+                "std_distance": 0.1866497998172249
+            },
+            "D": {
+                "num_tests": 249,
+                "f1": 0.8514056224899599,
+                "accuracy": 0.8514056224899599,
+                "precision": 0.8514056224899599,
+                "avg_distance": 0.1646586345381526,
+                "std_distance": 0.41191586843238825
+            },
+            "P": {
+                "num_tests": 249,
+                "f1": 0.9759036144578314,
+                "accuracy": 0.9759036144578314,
+                "precision": 0.9759036144578314,
+                "avg_distance": 0.024096385542168676,
+                "std_distance": 0.15334845857057658
+            }
+        },
+        "overall": {
+            "num_tests": 747,
+            "f1": 0.9303882195448461,
+            "accuracy": 0.9303882195448461,
+            "precision": 0.9303882195448461,
+            "avg_distance": 0.0749665327978581,
+            "std_distance": 0.2829417898500221,
+            "avg_time": 6.977219642570281
+        }
+    },
+    "llama3.2 (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 16,
+                "f1": 0.8125,
+                "accuracy": 0.8125,
+                "precision": 0.8125,
+                "avg_distance": 0.1875,
+                "std_distance": 0.3903123748998999
+            },
+            "D": {
+                "num_tests": 16,
+                "f1": 0.9375,
+                "accuracy": 0.9375,
+                "precision": 0.9375,
+                "avg_distance": 0.0625,
+                "std_distance": 0.24206145913796356
+            },
+            "P": {
+                "num_tests": 16,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            }
+        },
+        "overall": {
+            "num_tests": 48,
+            "f1": 0.9166666666666666,
+            "accuracy": 0.9166666666666666,
+            "precision": 0.9166666666666666,
+            "avg_distance": 0.08333333333333333,
+            "std_distance": 0.2763853991962833,
+            "avg_time": 10.0295141875
+        }
+    },
+    "gemma (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 5,
+                "f1": 0.8000000000000002,
+                "accuracy": 0.8,
+                "precision": 0.8,
+                "avg_distance": 0.2,
+                "std_distance": 0.4
+            },
+            "D": {
+                "num_tests": 5,
+                "f1": 0.6,
+                "accuracy": 0.6,
+                "precision": 0.6,
+                "avg_distance": 0.4,
+                "std_distance": 0.48989794855663565
+            },
+            "P": {
+                "num_tests": 5,
+                "f1": 0.4000000000000001,
+                "accuracy": 0.4,
+                "precision": 0.4,
+                "avg_distance": 0.6,
+                "std_distance": 0.48989794855663565
+            }
+        },
+        "overall": {
+            "num_tests": 15,
+            "f1": 0.6,
+            "accuracy": 0.6,
+            "precision": 0.6,
+            "avg_distance": 0.4,
+            "std_distance": 0.48989794855663565,
+            "avg_time": 6.7422108000000005
+        }
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 249,
+                "f1": 0.5903614457831325,
+                "accuracy": 0.5903614457831325,
+                "precision": 0.5903614457831325,
+                "avg_distance": 0.41365461847389556,
+                "std_distance": 0.5005762715143095
+            },
+            "D": {
+                "num_tests": 249,
+                "f1": 0.8313253012048193,
+                "accuracy": 0.8313253012048193,
+                "precision": 0.8313253012048193,
+                "avg_distance": 0.1686746987951807,
+                "std_distance": 0.37446434380530247
+            },
+            "P": {
+                "num_tests": 249,
+                "f1": 0.8112449799196787,
+                "accuracy": 0.8112449799196787,
+                "precision": 0.8112449799196787,
+                "avg_distance": 0.18875502008032127,
+                "std_distance": 0.39131389251443505
+            }
+        },
+        "overall": {
+            "num_tests": 747,
+            "f1": 0.744310575635877,
+            "accuracy": 0.7443105756358769,
+            "precision": 0.7443105756358769,
+            "avg_distance": 0.2570281124497992,
+            "std_distance": 0.44004776789758254,
+            "avg_time": 5.491943100401607
+        }
+    }
+}
