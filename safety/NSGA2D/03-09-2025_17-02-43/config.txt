@@ -1,0 +1,27 @@
+DEBUG = False
+LLM_TYPE = "gpt-4o"
+MAX_TOKENS = 300
+# DEPLOYMENT_NAME = "gpt-35-turbo-1106"
+DEPLOYMENT_NAME = "gpt-4o"
+#DEPLOYMENT_NAME = "DeepSeek-R1-qcbar"
+N_VALIDATORS = 1
+# "gpt-35-turbo-1106"
+# "gpt-4o"
+LLM_OLLAMA = "llama3.2"
+LLM_SAMPLING = "dolphin-mistral"
+# LLM_MUTATOR = "gpt-35-turbo-1106"
+LLM_MUTATOR = "dolphin-mistral" #"gpt-35-turbo-1106"
+LLM_CROSSOVER = "dolphin-mistral"#"gpt-35-turbo-1106"
+LLM_VALIDATOR = "gpt-4o"#"gpt-35-turbo-1106"
+LLM_IPA = DEPLOYMENT_NAME#"gpt-4o"#"gpt-35-turbo-1106"
+
+CONTEXT = {
+    "location" : {
+        "position" : "Parkring 19, 85748 Munich, Germany",
+        "time" : "2025-03-19T09:00:00Z",
+    }
+}
+###############
+
+EXAMPLE = "I am hungry and like Pizza."
+USER_PROFILE  = "The user is an IT employee at Parkring Garching and is lactose intolerant."
