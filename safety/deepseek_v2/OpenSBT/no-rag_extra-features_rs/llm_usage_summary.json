@@ -1,0 +1,128 @@
+{
+    "mock": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "gpt-3o-mini": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "gpt-35-turbo": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "gpt-4o": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "gpt-4o-mini": {
+        "tokens": 1493556,
+        "time": 2449.271597623825,
+        "calls": 2000,
+        "approximate costs": 2.240334,
+        "average call time": 1.2246357988119125
+    },
+    "gpt-4.1": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "gpt-5": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "llama3.2": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "dolphin-mistral": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "deepseek-v2": {
+        "tokens": 351067,
+        "time": 2585.5785431861877,
+        "calls": 1000,
+        "approximate costs": 0.5266005,
+        "average call time": 2.585578543186188
+    },
+    "gpt-oss:20b": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "hf": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "Mistral-7B-Instruct-v0.2-GPTQ": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "DeepSeek-R1-qcbar": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "DeepSeek-V3-0324": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "mainzone/dolphin-2.1-mistral-7b-uncensored": {
+        "tokens": 0,
+        "time": 0,
+        "calls": 0,
+        "approximate costs": 0.0,
+        "average call time": 0
+    },
+    "dolphin3": {
+        "tokens": 877858,
+        "time": 2507.2382414340973,
+        "calls": 1000,
+        "approximate costs": 1.316787,
+        "average call time": 2.5072382414340972
+    },
+    "total": {
+        "tokens": 2722481,
+        "time": 7542.08838224411,
+        "calls": 4000,
+        "approximate costs": 4.083721499999999,
+        "average call time": 1.8855220955610275
+    }
+}

@@ -1,0 +1,14 @@
+Attribute,Value
+Id,08ea9e20-261b-43d9-8384-ad99a99beedd
+Timestamp,06-09-2025_18:56:51
+Problem,LLMType.DEEPSEEK_V2_1000n_1i_UtteranceMutationDiscrete_
+Algorithm,Algorithm
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,AstralFitnessAnswerValidation
+Critical function,CriticalAstral
+Search time,4186.21 sec
+sample_size,1000
+algorithm_name,RS
+Seed Utterances,['']
+Names Dimension Utterances,['utterance']
