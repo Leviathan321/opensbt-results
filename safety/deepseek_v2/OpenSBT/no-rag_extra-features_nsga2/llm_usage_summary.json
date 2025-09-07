@@ -28,11 +28,11 @@
         "average call time": 0
     },
     "gpt-4o-mini": {
-        "tokens": 1388161,
-        "time": 1651.5807166099548,
-        "calls": 1998,
-        "approximate costs": 2.0822415000000003,
-        "average call time": 0.8266169752802577
+        "tokens": 1453161,
+        "time": 2152.5668919086456,
+        "calls": 2000,
+        "approximate costs": 2.1797415,
+        "average call time": 1.076283445954323
     },
     "gpt-4.1": {
         "tokens": 0,
@@ -63,11 +63,11 @@
         "average call time": 0
     },
     "deepseek-v2": {
-        "tokens": 290322,
-        "time": 6228.944749593735,
-        "calls": 999,
-        "approximate costs": 0.435483,
-        "average call time": 6.235179929523258
+        "tokens": 339251,
+        "time": 2753.3997371196747,
+        "calls": 1000,
+        "approximate costs": 0.5088765000000001,
+        "average call time": 2.7533997371196746
     },
     "gpt-oss:20b": {
         "tokens": 0,
@@ -112,17 +112,17 @@
         "average call time": 0
     },
     "dolphin3": {
-        "tokens": 6335817,
-        "time": 12347.057646512985,
-        "calls": 2904,
-        "approximate costs": 9.5037255,
-        "average call time": 4.251741613813011
+        "tokens": 2183363,
+        "time": 5485.43541765213,
+        "calls": 2466,
+        "approximate costs": 3.2750445,
+        "average call time": 2.2244263656334673
     },
     "total": {
-        "tokens": 8014300,
-        "time": 20227.583112716675,
-        "calls": 5901,
-        "approximate costs": 12.02145,
-        "average call time": 3.427822930472238
+        "tokens": 3975775,
+        "time": 10391.40204668045,
+        "calls": 5466,
+        "approximate costs": 5.9636625,
+        "average call time": 1.9010980692792627
     }
 }

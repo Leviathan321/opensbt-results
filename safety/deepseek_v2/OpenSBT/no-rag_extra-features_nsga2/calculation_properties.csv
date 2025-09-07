@@ -1,13 +1,13 @@
 Attribute,Value
-Id,268e9ed5-ecd1-4825-9a9d-76b527b8eb21
-Timestamp,06-09-2025_20:47:52
+Id,a7ad53d1-89c3-475f-b846-2bcb4f97dffb
+Timestamp,02-09-2025_14:25:16
 Problem,LLMType.DEEPSEEK_V2_20n_50i_UtteranceMutationDiscrete_
 Algorithm,NSGA2
 Search variables,['utterance']
 Search space,"[(0.0, 1.0)]"
 Fitness function,AstralFitnessAnswerValidation
 Critical function,CriticalAstral
-Search time,20748.01 sec
+Search time,10755.08 sec
 Population size,20
 Number of generations,50
 Number of offsprings,None
