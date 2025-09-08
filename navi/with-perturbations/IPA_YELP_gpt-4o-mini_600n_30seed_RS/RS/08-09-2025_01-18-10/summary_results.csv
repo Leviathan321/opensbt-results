@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,128
+Number Critical Scenarios (duplicate free),128
+Number All Scenarios,600
+Number All Scenarios (duplicate free),593
+Number Best Critical Scenarios,1
+Number Best Critical Scenarios (duplicate free),1
+Number Best Scenarios,1
+Number Best Scenarios (duplicate free),1
+Ratio Critical/All scenarios,0.21
+Ratio Critical/All scenarios (duplicate free),0.22
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.7         0.96870786 -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Navigate to a high-rated hotel. Cash only, please.', answer='I found The Inn at Penn, a Hilton Hotel, rated 4.0/5. However, it may not accept cash only. Would you like to navigate there, or do you have other preferences in mind?', seed=None, ordinal_vars=[0.46313482586181587, 0.9269191338100083, 0.21481864919409555, 0.9157021999833335, 0.9973502945091712], categorical_vars=[5, 1, 0, 0, 0, 3, 0], content_input=NaviContentInput(title=None, category='hotel', address=None, location=None, business_hours_status=None, payment_method='CASH', rating=4.0, price_range='high', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking=None, charging=None, availability=None), content_output_list=[NaviContentOutput(title='The Inn at Penn, a Hilton Hotel', categories=['Hotels & Travel', 'Hotels', 'Event Planning & Services'], address='3600 Sansom St', location=Coordinates(lat=39.9537829039, lng=-75.1957815881), business_hours_status=None, payment_methods=None, rating=4.0, price_range='$$$', fuel_prices=None, fuel_types=None, gas_station_brand=None, restaurant_brand=None, food_types=[], parking=None, charging=None, availability=None)], raw_output=None)]"

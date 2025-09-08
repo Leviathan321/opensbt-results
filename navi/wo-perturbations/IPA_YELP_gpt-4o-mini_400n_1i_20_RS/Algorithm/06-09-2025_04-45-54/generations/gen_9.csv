@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Take me to a high-priced supermarket nearby.,0.2,1.0,-0.0,1
+1,Please guide me to a high-rated bar accepting contactless payments.,1.0,0.9390982389450073,-0.0,0
+2,Could you guide me to a medium-priced supermarket that accepts mobile payment?,1.0,0.8911634385585785,-0.0,0
+3,Could you guide me to a moderately priced hotel with a 3.5-star rating?,1.0,0.9687078595161438,-0.0,0
+4,I'm looking for a high-end supermarket that accepts credit cards.,0.1,1.0,-0.0,1
+5,Take me to a Japanese restaurant that accepts credit cards.,1.0,0.9640928506851196,-0.0,0
+6,Take me to a high-rated bar that accepts contactless payment.,1.0,0.9390982389450073,-0.0,0
+7,"Could you guide me to a highly rated bar with available parking, accepting cash?",1.0,0.9390982389450073,-0.0,0
+8,I'm looking for a high-priced supermarket nearby.,0.2,1.0,-0.0,1
+9,Take me to a highly-rated Indian restaurant that accepts credit cards.,1.0,0.9640928506851196,-0.0,0
+10,"Where can I find a low-priced hotel with available parking, accepting credit card?",1.0,0.9687078595161438,-0.0,0
+11,Where can I find a museum with a 4.5 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+12,Could you guide me to a moderately rated American restaurant that accepts contactless payment?,1.0,0.9640928506851196,-0.0,0
+13,"Could you guide me to a high-priced cafe with contactless payment, 4-star rating, and available parking?",1.0,0.9026724696159363,-0.0,0
+14,Could you guide me to a moderately priced hotel with contactless payment and available parking?,1.0,0.9249118566513062,-0.0,0
+15,Find me a cozy French cafe that accepts contactless payment.,1.0,0.832989513874054,-0.0,0
+16,Could you guide me to a museum with a 4.5 rating?,1.0,0.7556162178516388,-0.0,0
+17,Take me to a moderately priced bakery nearby.,1.0,0.8752301037311554,-0.0,0
+18,Take me to a 3.5-star American cafe that accepts mobile payment.,1.0,0.9026724696159363,-0.0,0
+19,Where can I find a highly-rated Greek cafe with contactless payment?,1.0,0.9026724696159363,-0.0,0
+20,Where can I find a high-rated bar that accepts contactless payment?,1.0,0.9390982389450073,-0.0,0
+21,Where can I find a 5-star hotel that accepts cash payment?,0.7,0.9249118566513062,-0.0,1
+22,Where can I find a highly rated hotel with medium pricing and available parking?,1.0,0.9687078595161438,-0.0,0
+23,Take me to a low-priced bar where I can pay in cash.,1.0,0.9390982389450073,-0.0,0
+24,Could you guide me to a moderately priced hotel accepting cash?,1.0,0.9687078595161438,-0.0,0
+25,"Take me to a bar with a 4.5 rating and available parking, credit card accepted.",1.0,0.9390982389450073,-0.0,0
+26,Take me to a low-priced bar accepting credit card payments.,1.0,0.9390982389450073,-0.0,0
+27,Take me to a highly rated museum with available parking.,1.0,0.9626623690128326,-0.0,0
+28,I'm looking for a high-priced bakery around here.,1.0,0.8752301037311554,-0.0,0
+29,Could you guide me to a French restaurant accepting mobile payment?,1.0,0.9640928506851196,-0.0,0
+30,Could you guide me to a bakery around here?,1.0,0.8752301037311554,-0.0,0
+31,"I kindly request directions to a highly rated hotel, cash payment.",1.0,0.9249118566513062,-0.0,0
+32,"Could you guide me to a French cafe that accepts cash, with a 4.0 rating and available parking?",1.0,0.9026724696159363,-0.0,0
+33,Could you guide me to a highly-rated museum with available parking?,1.0,0.9626623690128326,-0.0,0
+34,Take me to a high-priced bakery nearby.,1.0,0.8752301037311554,-0.0,0
+35,Take me to a high-rated bar that accepts contactless payment.,1.0,0.9390982389450073,-0.0,0
+36,Take me to a medium-priced bar with contactless payment.,1.0,0.9390982389450073,-0.0,0
+37,Could you guide me to a moderately priced Vietnamese cafe that accepts mobile payment?,1.0,0.832989513874054,-0.0,0
+38,Please guide me to a medium-priced Thai restaurant with contactless payment.,1.0,0.9640928506851196,-0.0,0
+39,"Please guide me to a German cafe with available parking, cash payment.",1.0,0.9026724696159363,-0.0,0

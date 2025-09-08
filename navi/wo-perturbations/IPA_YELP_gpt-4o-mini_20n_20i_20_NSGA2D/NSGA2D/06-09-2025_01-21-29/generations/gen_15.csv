@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+1,"Find a bakery, now!",0.2,0.0,-0.0,1
+2,Take me to a moderately priced bakery nearby.,1.0,0.8752301037311554,-0.0834491594241733,0
+3,Take me to a highly rated hotel with mobile payment and available parking.,0.4,0.9249118566513062,-0.06678043638404907,1
+4,Please guide me to a highly-rated Indian cafe that accepts contactless payment.,1.0,0.832989513874054,-0.08013747134914995,0
+5,"Locate a Mexican restaurant, 3.5 stars, contactless payment, ASAP.",0.2,0.0,-0.0,1
+6,"Find me the closest museum, now!",0.2,0.0,-0.0,1
+7,"Get me to a museum, like, right now!",0.2,0.0,-0.0,1
+8,"Locate a bakery, right now!",0.2,0.0,-0.0,1
+9,"Take me to a museum, ASAP!",0.2,0.0,-0.0,1
+10,"Locate the nearest museum, now!",0.2,0.0,-0.0,1
+11,"Find a medium-priced bakery nearby, like, right now.",0.2,0.0,-0.0,1
+12,"Take me to a moderately priced bakery, now.",0.2,0.0,-0.0,1
+13,"Take me to a museum, now!",0.2,0.0,-0.0,1
+14,"Locate a bakery, now!",0.2,0.0,-0.0,1
+15,"Find a bakery, right now!",0.2,0.0,-0.0,1
+16,Could you kindly direct me to a low-priced supermarket with contactless payment and available parking?,0.2,0.0,-0.0,1
+17,"Yo, find me a bakery, like, right now, buddy!",0.2,0.0,-0.0,1
+18,Could you kindly guide me to a fancy grocery store that accepts cash?,0.2,0.0,-0.0,1
+19,"Locate a bakery with medium prices, like, right now.",0.2,0.0,-0.0,1

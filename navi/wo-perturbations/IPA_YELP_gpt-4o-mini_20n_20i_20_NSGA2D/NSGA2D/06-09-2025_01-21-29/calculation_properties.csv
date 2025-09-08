@@ -1,0 +1,21 @@
+Attribute,Value
+Id,9837b3e9-a097-456f-8b03-527c0be859cc
+Timestamp,06-09-2025_02:53:55
+Problem,IPA_YELP_gpt-4o-mini_20n_20i_20_NSGA2D
+Algorithm,NoneType
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,FitnessMerged
+Critical function,CriticalMerged
+Search time,5545.44 sec
+Population size,20
+Number of generations,20
+Number of offsprings,None
+Crossover probability,0.7
+Crossover eta,20
+Mutation probability,1.0
+Mutation eta,15
+Seed,None
+Operators,crossover=UtteranceCrossoverDiscrete() sampling=UtteranceSamplingDiscrete() duplicate_elimination=UtteranceDuplicateEliminationLocalDiscreteWithContent() mutation=UtteranceMutationDiscrete()
+Seed Utterances,"['hmm I need some food', 'yeah I need some burgers', 'oh some burger would be great']"
+Names Dimension Utterances,['utterance']

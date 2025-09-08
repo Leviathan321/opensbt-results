@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Take me to a high-priced supermarket with mobile payment and available parking.,0.2,1.0,-0.0,1
+1,Where can I find a medium-priced bakery around here?,1.0,0.8752301037311554,-0.0,0
+2,Where can I find a low-priced Mexican restaurant that accepts mobile payment?,1.0,0.9640928506851196,-0.0,0
+3,Could you guide me to a museum nearby?,1.0,0.9626623690128326,-0.0,0
+4,Take me to a Vietnamese restaurant with contactless payment and parking.,1.0,0.9640928506851196,-0.0,0
+5,Take me to a high-priced American cafe that accepts cash.,1.0,0.832989513874054,-0.0,0
+6,Could you guide me to a high-rated hotel with contactless payment?,1.0,0.9687078595161438,-0.0,0
+7,"Take me to a Vietnamese cafe with available parking, cash only.",0.7,0.832989513874054,-0.0,1
+8,Please guide me to a Mexican restaurant that accepts contactless payment.,1.0,0.9640928506851196,-0.0,0
+9,Where can I find a high-priced Middle Eastern cafe with contactless payment?,1.0,0.9026724696159363,-0.0,0
+10,"Take me to a low-priced hotel with a 4.5-star rating, contactless payment.",0.4,0.9249118566513062,-0.0,1
+11,Please guide me to a highly rated hotel that accepts mobile payment.,1.0,0.9249118566513062,-0.0,0
+12,Take me to a museum with a 4.5 rating and available parking.,1.0,0.9626623690128326,-0.0,0
+13,Take me to a low-priced bar with contactless payment and parking.,1.0,0.9390982389450073,-0.0,0
+14,I need to find a low-priced supermarket nearby.,1.0,0.8911634385585785,-0.0,0
+15,Please guide me to a highly rated Italian cafe that accepts contactless payment.,1.0,0.832989513874054,-0.0,0
+16,Take me to a supermarket with mobile payment and available parking.,1.0,0.8911634385585785,-0.0,0
+17,"Locate a Japanese restaurant accepting credit card payments, rated 3.5.",1.0,0.9640928506851196,-0.0,0
+18,"Take me to a low-priced Thai restaurant with parking, rated 4.0.",1.0,0.9640928506851196,-0.0,0
+19,Where can I find a highly-rated medium-priced Mexican restaurant with available parking?,1.0,0.9640928506851196,-0.0,0
+20,Find a high-priced Vietnamese cafe that accepts mobile payment.,0.2,1.0,-0.0,1
+21,Take me to a museum with a 4.5 rating and available parking.,1.0,0.9626623690128326,-0.0,0
+22,Please guide me to a low-priced hotel accepting contactless payment.,1.0,0.9687078595161438,-0.0,0
+23,"I would appreciate directions to the nearest bakery, please.",1.0,0.8752301037311554,-0.0,0
+24,I need to find a high-priced hotel that accepts credit cards.,1.0,0.9687078595161438,-0.0,0
+25,Please guide me to a low-priced supermarket with available parking.,1.0,0.8911634385585785,-0.0,0
+26,Take me to a medium-priced supermarket with contactless payment and available parking.,1.0,0.8911634385585785,-0.0,0
+27,Please find a low-priced hotel accepting mobile payment with a 4-star rating.,0.7,0.9249118566513062,-0.0,1
+28,Where can I find a medium-priced bakery around here?,1.0,0.8752301037311554,-0.0,0
+29,Could you please guide me to a bakery with low prices?,1.0,0.8752301037311554,-0.0,0
+30,Could you guide me to a German restaurant that accepts credit card?,1.0,0.9640928506851196,-0.0,0
+31,Where can I find a Turkish restaurant with medium prices?,1.0,0.9640928506851196,-0.0,0
+32,"Please guide me to a medium-priced Middle Eastern restaurant with a 3.5-star rating, accepting credit cards, and parking available.",1.0,0.9640928506851196,-0.0,0
+33,Take me to a top-rated museum with available parking.,1.0,0.9626623690128326,-0.0,0
+34,Where can I find a high-priced bar that accepts contactless payment?,1.0,0.9390982389450073,-0.0,0
+35,"Take me to a supermarket, mobile payment accepted.",1.0,0.8911634385585785,-0.0,0
+36,Could you guide me to a museum with a 3.5 rating?,1.0,0.9626623690128326,-0.0,0
+37,Where can I find a highly-rated Mexican restaurant that accepts contactless payment?,1.0,0.9640928506851196,-0.0,0
+38,Please guide me to a highly-rated hotel accepting contactless payment.,1.0,0.9249118566513062,-0.0,0
+39,Please guide me to a moderately priced bar accepting mobile payment.,1.0,0.9390982389450073,-0.0,0

@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"I kindly request directions to a low-priced hotel with a 4.5-star rating and available parking, using contactless payment.",1.0,0.9249118566513062,-0.0,0
+1,Take me to a medium-priced supermarket that accepts mobile payment.,1.0,0.8911634385585785,-0.0,0
+2,Could you guide me to a bakery with low prices?,1.0,0.8752301037311554,-0.0,0
+3,Take me to a highly-rated Thai restaurant with mobile payment.,1.0,0.9640928506851196,-0.0,0
+4,"Please guide me to a high-end hotel with available parking, accepting credit card.",1.0,0.9687078595161438,-0.0,0
+5,Where can I find a museum with a 4.0 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+6,Please guide me to a highly-rated Vietnamese restaurant with contactless payment.,1.0,0.9640928506851196,-0.0,0
+7,Take me to a supermarket with mobile payment and available parking.,1.0,0.8911634385585785,-0.0,0
+8,"Find a hotel with a 4.5-star rating and medium price range, mobile payment.",0.4,0.9249118566513062,-0.0,1
+9,Find a high-rated restaurant that accepts contactless payment.,1.0,0.9640928506851196,-0.0,0
+10,Please guide me to a high-priced bakery nearby.,1.0,0.8752301037311554,-0.0,0
+11,Please guide me to a medium-priced supermarket with available parking.,1.0,0.8911634385585785,-0.0,0
+12,"Could you guide me to a moderately priced Thai cafe with a 4.5-star rating and available parking, accepting credit cards?",1.0,0.9026724696159363,-0.0,0
+13,Please guide me to a high-priced supermarket with mobile payment and available parking.,0.2,1.0,-0.0,1
+14,Could you guide me to a top-rated museum nearby?,1.0,0.9626623690128326,-0.0,0
+15,"Take me to a low-priced bar with available parking, cash only.",1.0,0.9390982389450073,-0.0,0
+16,"Find me a museum nearby, please.",1.0,0.9626623690128326,-0.0,0
+17,Take me to a low-priced bar that accepts contactless payment.,1.0,0.9390982389450073,-0.0,0
+18,Could you guide me to a top-rated museum with available parking?,1.0,0.9626623690128326,-0.0,0
+19,Please guide me to a medium-priced supermarket for mobile payment.,1.0,0.8911634385585785,-0.0,0
+20,"Please guide me to a moderately rated hotel with low prices, mobile payment.",1.0,0.9687078595161438,-0.0,0
+21,I'm looking for a bar with a medium price range and a 3.5 rating.,1.0,0.9390982389450073,-0.0,0
+22,"Take me to a medium-priced supermarket, mobile payment accepted.",1.0,0.8911634385585785,-0.0,0
+23,Where can I find a museum with a 4.0 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+24,Could you guide me to a museum with a 4-star rating?,1.0,0.9626623690128326,-0.0,0
+25,Locate a low-priced American cafe with a 4.5 rating.,1.0,0.9026724696159363,-0.0,0
+26,Take me to a high-priced bar with a 5-star rating and available parking.,0.3,0.7290890216827393,-0.0,1
+27,Where can I find a medium-priced bar that accepts credit card?,1.0,0.9390982389450073,-0.0,0
+28,Please guide me to a highly-rated hotel with mobile payment and available parking.,1.0,0.9687078595161438,-0.0,0
+29,"Take me to a medium-priced bar with available parking, cash only.",1.0,0.9390982389450073,-0.0,0
+30,Where can I find a medium-priced Mexican restaurant nearby?,1.0,0.9640928506851196,-0.0,0
+31,Take me to a supermarket that accepts credit card with low prices.,1.0,0.8911634385585785,-0.0,0
+32,Could you guide me to a highly-rated museum with available parking?,1.0,0.9626623690128326,-0.0,0
+33,Take me to a low-priced bar that accepts mobile payment.,1.0,0.9390982389450073,-0.0,0
+34,I would appreciate directions to a highly-rated hotel that accepts credit card payments.,0.4,0.9249118566513062,-0.0,1
+35,Could you guide me to a museum nearby?,1.0,0.9626623690128326,-0.0,0
+36,Take me to a museum with a 4-star rating and available parking.,1.0,0.9626623690128326,-0.0,0
+37,"Take me to a bar that accepts credit card payments, rated 4.0.",1.0,0.9390982389450073,-0.0,0
+38,Where can I find a low-priced Japanese cafe with mobile payment?,0.2,1.0,-0.0,1
+39,Where can I find a medium-priced Thai cafe that accepts contactless payment?,1.0,0.832989513874054,-0.0,0

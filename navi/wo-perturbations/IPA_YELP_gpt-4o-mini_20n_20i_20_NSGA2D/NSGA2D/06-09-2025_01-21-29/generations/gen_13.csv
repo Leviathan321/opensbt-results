@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Find a high-priced Chinese cafe that accepts contactless payment.,0.2,1.0,-0.0911014908393486,1
+1,"Find a bakery, now!",0.2,0.0,-0.0,1
+2,"Take me to a Mexican cafe that accepts credit card, 4.5 stars.",1.0,0.832989513874054,-0.09161277474066798,0
+3,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+4,"Take me to a 5-star hotel with available parking, credit card payment.",0.3,0.9249118566513062,-0.0738909575254707,1
+5,"Take me to a museum, ASAP!",0.2,0.0,-0.0,1
+6,"Find a bakery, right now!",0.2,0.0,-0.0,1
+7,"Take me to a moderately priced bakery, now.",0.2,0.0,-0.0,1
+8,Locate a high-end pub with a 4.5 rating and available parking.,0.2,0.0,-0.0,1
+9,"Locate a bakery, right now!",0.2,0.0,-0.0,1
+10,"Locate a Mexican restaurant, 3.5 stars, contactless payment, ASAP.",0.2,0.0,-0.0,1
+11,"Locate a bakery, now!",0.2,0.0,-0.0,1
+12,"Find me the closest museum, now!",0.2,0.0,-0.0,1
+13,"Take me to a museum, now!",0.2,0.0,-0.0,1
+14,"Locate a bakery with medium prices, like, right now.",0.2,0.0,-0.0,1
+15,"Find a bakery, immediately!",0.2,0.0,-0.0,1
+16,"Locate a Mexican cafe, 3.5 stars, cash payment, with available parking, now.",0.2,0.0,-0.0,1
+17,Find an upscale Chinese lounge with a 4.5 rating and parking.,0.2,0.0,-0.0,1
+18,"Locate a bakery that accepts cash, now!",0.2,0.0,-0.0,1
+19,"Locate a bakery in the vicinity, now!",0.2,0.0,-0.0,1

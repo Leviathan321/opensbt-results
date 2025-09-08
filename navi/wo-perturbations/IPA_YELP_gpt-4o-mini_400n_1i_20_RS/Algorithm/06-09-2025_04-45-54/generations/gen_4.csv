@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Where can I make a low-cost mobile payment at a supermarket?,1.0,0.8911634385585785,-0.0,0
+1,Take me to a museum with a 4.5 rating and available parking.,1.0,0.9626623690128326,-0.0,0
+2,Please guide me to a medium-priced supermarket with mobile payment and available parking.,1.0,0.8911634385585785,-0.0,0
+3,Take me to a low-priced Vietnamese cafe with credit card payment.,1.0,0.832989513874054,-0.0,0
+4,Where can I find a low-priced Mexican cafe with a 4.5 rating and available parking?,1.0,0.832989513874054,-0.0,0
+5,Take me to a low-priced Italian cafe with a 4.5-star rating.,1.0,0.832989513874054,-0.0,0
+6,Please guide me to a highly-rated museum with available parking.,1.0,0.9626623690128326,-0.0,0
+7,Could you guide me to a highly-rated museum nearby?,1.0,0.7556162178516388,-0.0,0
+8,Could you guide me to a bar that accepts contactless payment and has a 3.5 rating?,1.0,0.9390982389450073,-0.0,0
+9,Please guide me to a bakery with low prices.,1.0,0.8752301037311554,-0.0,0
+10,Where can I find a medium-priced bakery around here?,1.0,0.8752301037311554,-0.0,0
+11,Please guide me to a highly-rated Japanese restaurant accepting credit cards.,1.0,0.9640928506851196,-0.0,0
+12,Where can I find a high-priced bar with contactless payment?,1.0,0.9390982389450073,-0.0,0
+13,Could you kindly guide me to a highly-rated Italian restaurant that accepts cash?,1.0,0.9640928506851196,-0.0,0
+14,Take me to a Greek restaurant with mobile payment and 3.5 stars.,0.7,0.9640928506851196,-0.0,1
+15,Please guide me to a high-priced bakery nearby.,1.0,0.8752301037311554,-0.0,0
+16,Please guide me to a highly-rated Vietnamese restaurant with available parking.,1.0,0.9640928506851196,-0.0,0
+17,Take me to a high-priced Vietnamese cafe that accepts contactless payment.,0.2,1.0,-0.0,1
+18,Take me to a middle eastern restaurant with contactless payment.,1.0,0.9640928506851196,-0.0,0
+19,Take me to a supermarket with credit card payment and available parking.,1.0,0.8911634385585785,-0.0,0
+20,Where can I find a high-priced supermarket that accepts cash?,0.1,1.0,-0.0,1
+21,"Could you kindly guide me to the nearest museum, please?",1.0,0.9626623690128326,-0.0,0
+22,"Could you kindly guide me to a highly-rated Mexican restaurant with low prices and available parking, accepting credit card payments?",1.0,0.9640928506851196,-0.0,0
+23,Where can I find a medium-priced bar with a 3.5 rating and available parking?,0.7,0.9390982389450073,-0.0,1
+24,"Take me to a medium-priced supermarket, cash only.",1.0,0.8911634385585785,-0.0,0
+25,Please guide me to a low-priced bar accepting mobile payment.,1.0,0.9390982389450073,-0.0,0
+26,Find a high-priced Japanese cafe that accepts credit card payments.,1.0,0.9026724696159363,-0.0,0
+27,I'm looking for a highly rated Japanese cafe that accepts cash.,1.0,0.9026724696159363,-0.0,0
+28,"Take me to a low-priced hotel with a 4.5-star rating and available parking, mobile payment.",0.3,0.9249118566513062,-0.0,1
+29,Take me to a museum with a 3.5 rating and available parking.,1.0,0.9626623690128326,-0.0,0
+30,Could you guide me to a Vietnamese restaurant with medium prices?,1.0,0.9640928506851196,-0.0,0
+31,Where can I find a low-priced Mexican cafe that accepts contactless payment?,1.0,0.832989513874054,-0.0,0
+32,Please guide me to a highly rated bar that accepts credit card payments.,1.0,0.9390982389450073,-0.0,0
+33,Where can I find a Japanese restaurant with available parking and a 4-star rating?,1.0,0.9640928506851196,-0.0,0
+34,Where can I find a high-priced supermarket that accepts mobile payment?,0.2,1.0,-0.0,1
+35,"Could you guide me to a museum with available parking, please?",1.0,0.9626623690128326,-0.0,0
+36,Find a highly rated American cafe that accepts mobile payment.,1.0,0.832989513874054,-0.0,0
+37,Please guide me to a highly-rated Chinese cafe accepting mobile payments.,1.0,0.9026724696159363,-0.0,0
+38,Where can I make a high-priced mobile payment at a supermarket?,0.2,1.0,-0.0,1
+39,Find me a highly rated Mexican restaurant that accepts cash payment.,1.0,0.9640928506851196,-0.0,0

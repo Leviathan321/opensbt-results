@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Find a Vietnamese cafe with medium prices, 3.5 stars, and mobile payment.",0.7,0.832989513874054,-0.0,1
+1,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,1.0,0.0,-0.0,1
+2,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+3,"Take me to a 5-star hotel with available parking, credit card payment.",0.3,0.9249118566513062,-0.0738909575254707,1
+4,Could you guide me to the nearest bakery around here?,1.0,0.8752301037311554,-0.09184326961715017,0
+5,"Locate a Chinese cafe with mobile payment, 3.5 stars, medium price.",0.7,0.832989513874054,-0.0,1
+6,Take me to a Mexican cafe that accepts contactless payment.,1.0,0.832989513874054,-0.0,0
+7,"Could you guide me to a museum nearby, please?",1.0,0.9626623690128326,-0.0888106979485126,0
+8,Please guide me to a high-priced Turkish restaurant with available parking.,0.2,1.0,-0.0,1
+9,Could you guide me to a 3.5-star Indian cafe nearby?,0.7,0.9026724696159363,-0.0,1
+10,Please direct me to a Turkish restaurant with high prices and available parking.,0.2,1.0,-0.0,1
+11,Could you kindly direct me to a Chinese cafe nearby?,1.0,0.832989513874054,-0.0,0
+12,Please guide me to a high-priced Turkish restaurant accepting mobile payments.,0.2,1.0,-0.0,1
+13,"Locate a Greek cafe with medium pricing, 3.5-star rating, and mobile payment.",1.0,0.832989513874054,-0.0,0
+14,"Find me a cafe with cash payment, medium price range, and available parking, please.",1.0,0.832989513874054,-0.0,0
+15,Where can I find a Vietnamese cafe with medium prices?,1.0,0.832989513874054,-0.0,0
+16,Could you guide me to a cash-friendly cafe with Indian cuisine?,1.0,0.832989513874054,-0.0,0
+17,Please direct me to a Turkish restaurant with high prices and available parking.,0.2,1.0,-0.0,1
+18,"Locate a Vietnamese cafe with medium prices, 5-star rating, mobile payment, and available parking, please.",0.2,1.0,-0.0,1
+19,"Hey, find a Mexican cafe that accepts contactless payment.",1.0,0.832989513874054,-0.0,0

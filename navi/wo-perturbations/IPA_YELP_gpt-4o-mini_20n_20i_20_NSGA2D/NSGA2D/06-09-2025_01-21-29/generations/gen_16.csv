@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+1,"Find a bakery, now!",0.2,0.0,-0.0,1
+2,"Locate a Mexican restaurant, 3.5 stars, contactless payment, ASAP.",0.2,0.0,-0.0,1
+3,"Find me the closest museum, now!",0.2,0.0,-0.0,1
+4,"Get me to a museum, like, right now!",0.2,0.0,-0.0,1
+5,"Locate a bakery, right now!",0.2,0.0,-0.0,1
+6,"Take me to a museum, ASAP!",0.2,0.0,-0.0,1
+7,"Locate the nearest museum, now!",0.2,0.0,-0.0,1
+8,"Find a medium-priced bakery nearby, like, right now.",0.2,0.0,-0.0,1
+9,"Take me to a moderately priced bakery, now.",0.2,0.0,-0.0,1
+10,Please guide me to a bakery with medium prices.,1.0,0.8752301037311554,-0.07983027361165562,0
+11,I'm looking for a medium-priced supermarket that accepts cash.,1.0,0.8911634385585785,-0.09922976050790067,0
+12,"Find a low-priced Japanese cafe accepting credit card, rated 4.0.",0.2,1.0,-0.10419864236264031,1
+13,"Locate a bakery, like, right this instant, you know.",0.2,0.0,-0.0,1
+14,"Locate the closest bakery, now!",0.2,0.0,-0.0,1
+15,"Locate a museum, now would you?",0.2,0.0,-0.0,1
+16,"Yo, find me a museum, like, right now.",0.2,0.0,-0.0,1
+17,"Locate a nearby bakery, now!",0.2,0.0,-0.0,1
+18,"Locate a bakery, like, right now.",0.2,0.0,-0.0,1
+19,Locate a moderately priced bakery in the vicinity.,1.0,0.8752301037311554,-0.0,0

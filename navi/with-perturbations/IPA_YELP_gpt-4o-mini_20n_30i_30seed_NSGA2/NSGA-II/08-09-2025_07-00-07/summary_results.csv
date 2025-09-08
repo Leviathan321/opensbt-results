@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,379
+Number Critical Scenarios (duplicate free),377
+Number All Scenarios,600
+Number All Scenarios (duplicate free),597
+Number Best Critical Scenarios,9
+Number Best Critical Scenarios (duplicate free),9
+Number Best Scenarios,9
+Number Best Scenarios (duplicate free),9
+Ratio Critical/All scenarios,0.63
+Ratio Critical/All scenarios (duplicate free),0.63
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.7         0.96409285 -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Could you please guide me to a Greek restaurant with a 4.5 rating and parking available? I can pay by credit card.', answer='I recommend ""Greek From Greece,"" rated 5.0/5, located at 107 N 33rd St. It offers a great dining experience. \n\nWould you like me to navigate you there, or do you have other preferences in mind?', seed=None, ordinal_vars=[0.7988387368594724, 0.38788357536758444, 0.7822206134599218, 0.8470115791211291, 0.6016725254063002], categorical_vars=[0, 2, 0, 10, 1, 0, 0], content_input=NaviContentInput(title=None, category='restaurant', address=None, location=None, business_hours_status=None, payment_method='CREDIT_CARD', rating=4.5, price_range=None, fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type='greek', parking='available', charging=None, availability=None), content_output_list=[NaviContentOutput(title='Greek From Greece', categories=['Greek', 'Cafes', 'Food', 'Mediterranean', 'Bakeries', 'Coffee & Tea', 'Restaurants'], address='107 N 33rd St', location=Coordinates(lat=39.9579926, lng=-75.1889787), business_hours_status=None, payment_methods=None, rating=5.0, price_range=None, fuel_prices=None, fuel_types=None, gas_station_brand=None, restaurant_brand=None, food_types=[], parking=None, charging=None, availability=None)], raw_output=None)]"

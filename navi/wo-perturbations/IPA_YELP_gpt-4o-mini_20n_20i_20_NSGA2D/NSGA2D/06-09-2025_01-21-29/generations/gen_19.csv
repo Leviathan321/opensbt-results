@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Take me to a supermarket, payment in cash please.",1.0,0.8911634385585785,-0.10020359239279752,0
+1,"Find a bakery, now!",0.2,0.0,-0.0,1
+2,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+3,I'm looking for a hotel with a 4.5-star rating and low price range.,0.7,0.9687078595161438,-0.09764816161388246,1
+4,"Take me to a bakery, immediately.",0.2,0.0,-0.0,1
+5,"Locate a bakery, like, right this instant, you know.",0.2,0.0,-0.0,1
+6,"Locate the nearest museum, now!",0.2,0.0,-0.0,1
+7,"Find me the nearest museum, right now!",0.2,0.0,-0.0,1
+8,"Find me a bakery nearby, now!",0.2,0.0,-0.0,1
+9,"Take me to a moderately priced bakery, now.",0.2,0.0,-0.0,1
+10,"Get me a restaurant that accepts mobile payments, like, right now.",0.2,0.0,-0.0,1
+11,"Locate a bakery, right now!",0.2,0.0,-0.0,1
+12,"Find me a medium-priced supermarket, now!",0.2,0.0,-0.0,1
+13,"Get me to a bakery, like, right now!",0.2,0.0,-0.0,1
+14,"Get me to the nearest bakery, now!",0.2,0.0,-0.0,1
+15,"Find me the closest museum, now!",0.2,0.0,-0.0,1
+16,"Locate the nearest supermarket, now!",0.2,0.0,-0.0,1
+17,"Locate a museum, right now!",0.2,0.0,-0.0,1
+18,"Locate a bakery, like, right now, please.",0.2,0.0,-0.0,1
+19,"Locate a museum with available parking, now!",0.2,0.0,-0.0,1

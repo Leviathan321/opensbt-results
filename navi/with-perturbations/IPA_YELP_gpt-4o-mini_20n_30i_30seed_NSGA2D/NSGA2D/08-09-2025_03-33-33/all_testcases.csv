@@ -1,0 +1,759 @@
+Index,vars,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"[0.7988387368594724, 0.38788357536758444, 0.7822206134599218, 0.8470115791211291, 0.6016725254063002]",Could you please guide me to a Greek restaurant with good ratings and parking?,1.0,0.9640928506851196,-0.0,0
+1,"[0.3488274008880592, 0.5783175255477132, 0.6770435828058756, 0.8572870655824709, 0.5941050611323858]",Could you please guide a low-priced French restaurant parking?,1.0,0.9640928506851196,-0.0,0
+2,"[0.3628739170221267, 0.11541680797604843, 0.23265005499400032, 0.2534586336652919, 0.3932721266957336]",Navigate museum with a 3.5 rating. Parking is available.,1.0,0.9626623690128326,-0.0,0
+3,"[0.9236002047656797, 0.7883966614633412, 0.08804859546574506, 0.5386710118994141, 0.3656341971297058]",Navigate to a hotel with a 5-star rating and contactless payment.,1.0,0.9249118566513062,-0.0,0
+4,"[0.46817264859524327, 0.3130519092609631, 0.01904486766967564, 0.2714193495032807, 0.9848976593150499]",Navigate to a bar with mobile payment options and 4-star rating.,1.0,0.9390982389450073,-0.0,0
+5,"[0.22687005487490103, 0.31172810357718234, 0.17721301741216494, 0.13829888772848478, 0.048378126916572034]",Navigate to a museum with a rating of at least 3.5.,1.0,0.9626623690128326,-0.0,0
+6,"[0.07985489677826217, 0.14739553199225752, 0.27563411992323844, 0.6538859782365307, 0.9958480643764958]",Navigate to a cafe offering German food with contactless payment.,1.0,0.832989513874054,-0.0,0
+7,"[0.04582598040551627, 0.7822502849027254, 0.23505726960903728, 0.5640184658896512, 0.945086959184623]","Navigate to you know a supermarket that accepts mobile payments, medium prices.",1.0,0.8911634385585785,-0.0,0
+8,"[0.7859055960472797, 0.010355574754471686, 0.924109220779172, 0.8489474511463304, 0.23774331602113416]","Navigate to a medium-priced hotel with a 4.5 rating, please.",0.4,0.6849897503852844,-0.0,1
+9,"[0.14257443037698697, 0.2916421142128312, 0.9297378477716672, 0.7733560847932568, 0.5761278159238264]",Could you please guide me to the nearest museum?,1.0,0.9626623690128326,-0.0,0
+10,"[0.8072544653589137, 0.09686136592844037, 0.9518389445091608, 0.2619176422113198, 0.2650932187295749]",Navigate to museum with 5-star rating. Parking's available.,1.0,0.9626623690128326,-0.0,0
+11,"[0.8130001944684018, 0.6658036540873769, 0.8409172694102376, 0.6274104769318114, 0.6357569352154592]",Could guide me to a museum with perfect rating and parking?,1.0,0.9626623690128326,-0.0,0
+12,"[0.39688959790411027, 0.5259021688550887, 0.7885256314499334, 0.27590518615416043, 0.6263649204442049]",Navigate to a hotel with contactless payment and parking.,1.0,0.9687078595161438,-0.0,0
+13,"[0.08795715463553383, 0.471597318863502, 0.3390909084372762, 0.9874266250155083, 0.5305957582365732]",Could you please guide me thuy a nearby bakery?,1.0,0.8752301037311554,-0.0,0
+14,"[0.30850241259513406, 0.3094659202091002, 0.4638103281354054, 0.7442235381034871, 0.5300606329859239]",Could you please guide to a high-priced bar with mobile payment options? A rating of 3.5 would be ideal.,1.0,0.9390982389450073,-0.0,0
+15,"[0.1675386709834056, 0.6800344114436349, 0.22719334865966906, 0.6085386569556679, 0.4968558286535406]",Navigate to a low-priced Greek restaurant with mobile payment and parking.,1.0,0.9640928506851196,-0.0,0
+16,"[0.14343053489507185, 0.9058007934463087, 0.36878538805560757, 0.0963054185140432, 0.29507855774057723]","Navigate a bakery, will ya? I'm craving something sweet.",1.0,0.8752301037311554,-0.0,0
+17,"[0.11439315403434779, 0.3345468210900049, 0.18413197830741118, 0.9385111719299778, 0.44424674175063605]",Navigate to a museum where parking is available.,1.0,0.9626623690128326,-0.0,0
+18,"[0.41032411449026734, 0.11719649829332135, 0.8820338262733691, 0.6790150997731131, 0.4509628138524907]",Navigate to a bar with a 4-star rating and parking available.,1.0,0.9390982389450073,-0.0,0
+19,"[0.5581609478801284, 0.904157220365346, 0.670105028048477, 0.6236369645969178, 0.8930845248661508]","Navigate to a high-priced Thai cafe with contactless like payment, please.",1.0,0.832989513874054,-0.0,0
+20,"[0.19679251198784725, 0.31945527625686765, 0.6540104562642686, 0.08537437745090404, 0.6273657873443966]",Could you direct me to a high-end hotel like with parking?,1.0,0.9687078595161438,-0.0,0
+21,"[0.17495774161953837, 0.33, 0.34, 0.99, 0.53]",Could you kindly assist me in. locating ay nearby cafe serving Jerman cuisine?,0.7,0.832989513874054,-0.0,1
+22,"[0.09384843407189634, 0.91, 0.37, 0.1, 0.3]","Navigate a bakery, will ya? need goodies.",1.0,0.8752301037311554,-0.0,0
+23,"[0.4252465178956546, 0.31, 0.02, 0.27, 0.98]",Navigate to a bar accepts mobile payments and has a 4-star rating.,1.0,0.9390982389450073,-0.0,0
+24,"[0.6729985414206001, 0.01, 0.92, 0.85, 0.89]",Could you kindly assist me in locating a medium-priced hotel with a 4.5-star rating that accepts contactless payments?,1.0,0.6809072345495224,-0.0,1
+25,"[0.9163666092562913, 0.16, 0.07, 0.65, 0.37]",Navigate to a German cafe with a 5-star rating and you know contactless payment options.,0.2,1.0,-0.0,1
+26,"[0.1671237937221876, 0.33, 0.18, 0.94, 0.44]",Navigate a museum. Parking is accessible there.,1.0,0.9626623690128326,-0.0,0
+27,"[0.5133288652401637, 0.81, 0.09, 0.55, 0.38]","Navigate bar low prices and contactless payment options, please.",0.7,0.6876644194126129,-0.0,1
+28,"[0.14100301087237377, 0.91, 0.37, 0.1, 0.3]","Navigate a bakery, will ya? I'm dying for treat.",1.0,0.8752301037311554,-0.0,0
+29,"[0.5833558435904096, 0.12, 0.92, 0.86, 0.39]",Navigate to a bar with a 4.0 like rating. Parking is available.,1.0,0.9390982389450073,-0.0,0
+30,"[0.03633566692068056, 0.1, 0.3, 0.68, 1.0]",Navigate to a cafe that serves German cuisine and accepts contactless payments.,0.7,0.832989513874054,-0.0,1
+31,"[0.11974466976837875, 0.33, 0.18, 0.94, 0.44]","Navigate to museum has parking available, please.",0.2,0.0,-0.0,1
+32,"[0.1440200696802063, 0.09, 0.37, 0.27, 0.4]",Navigate a bakery. I crave sugary.,1.0,0.8752301037311554,-0.0,0
+33,"[0.9981785180210367, 0.1, 0.95, 0.26, 0.27]",Navigate to a museum with a five-star rating. Parking is available.,1.0,0.9626623690128326,-0.0,0
+34,"[0.6697064178425596, 0.02, 0.66, 0.62, 0.24]",Navigate to a cafe with a 4.5-star rating and contactless payment options. Parking should be I mean available.,1.0,0.9026724696159363,-0.0,0
+35,"[0.8010234891907473, 0.79, 0.11, 0.54, 0.37]",Navigate to a 5-star cafe serving German cuisine with contactless payment and parking.,0.2,1.0,-0.0,1
+36,"[0.012182016764965956, 0.8, 0.24, 0.93, 0.95]",Could you please guide me to a nearby museum? I'm quite intrigued!,1.0,0.9626623690128326,-0.0,0
+37,"[0.42203237669770616, 0.3, 0.09, 0.28, 0.36]","Navigate a bar with medium pricing, mobile payment, 4-star rating, and available parking.",1.0,0.9390982389450073,-0.0,0
+38,"[0.3392616195931584, 0.31, 0.18, 0.14, 0.05]",Navigate thuy a. museum rated at leased 3.5.,0.2,0.0,-0.0,1
+39,"[0.365014432749178, 0.12, 0.23, 0.25, 0.39]",Navigate to a museum rated at 3.5.,1.0,0.9626623690128326,-0.0,0
+40,"[0.1304645922028218, 0.47, 0.34, 0.99, 0.53]",Could you kindly assist mi inn locating ae nearby bakery?,1.0,0.8752301037311554,-0.0,0
+41,"[0.11967653154875975, 0.2563413933971264, 0.7090677860989243, 0.5626076314967461, 0.6333115242004663]",Could you guide a supermarket with contactless payment available?,1.0,0.8911634385585785,-0.1187508354254283,0
+42,"[0.8877811438819899, 0.81, 0.11, 0.55, 0.38]",Navigate to a 5-star cafe contactless payment. Parking's available and it's budget-friendly.,1.0,0.9026724696159363,-0.0,0
+43,"[0.5962091392553104, 0.1, 0.68, 0.62, 1.0]",Navigate to a high-end German cafe with a 4-star rating and parking available.,0.2,1.0,-0.0,1
+44,"[0.7610155381294318, 0.01, 0.36, 0.99, 0.89]",Could yue please guide me to a medium-priced café offering Jerman cuisine with contactless payment and ae rating of 4.5?,0.2,1.0,-0.0,1
+45,"[0.37804536170757386, 0.31, 0.18, 0.14, 0.05]",Navigate to I mean a museum with at least a 3.5 rating.,1.0,0.9626623690128326,-0.0,0
+46,"[0.17983390087688064, 0.3, 0.28, 0.94, 0.99]","Navigate to a museum provides parking facilities, please.",1.0,0.9626623690128326,-0.0,0
+47,"[0.6036183205229096, 0.11, 0.91, 0.68, 1.0]",Could you please direct me to a hotel with a 4.5 rating and contactless payment?,1.0,0.6322984993457794,-0.0,1
+48,"[0.3109094206991281, 0.32, 0.37, 0.08, 0.53]","Navigate to a cafe with, uh, a 3.5 rating for german food.",1.0,0.9026724696159363,-0.0,0
+49,"[0.1693752737426786, 0.33, 0.18, 0.94, 0.43]","Navigate restaurant accepts mobile payments and has parking available, please.",1.0,0.9640928506851196,-0.0,0
+50,"[0.01016400277299398, 0.09, 0.38, 0.28, 0.4]","Navigate bakery. I crave sweet, please.",1.0,0.8752301037311554,-0.0,0
+51,"[0.32534945413538646, 0.31, 0.18, 0.14, 0.05]",Navigate tue a. museum with a rating of at least 3.5.,1.0,0.9626623690128326,-0.0,0
+52,"[0.4463368616261398, 0.79, 0.11, 0.55, 0.37]","Navigate to a bar with contactless payment, a solid 4-star rating, and parking available.",1.0,0.9390982389450073,-0.0,0
+53,"[0.5485204159638031, 0.9, 0.65, 0.62, 0.89]","Navigate to a fancy cafe with Thai cuisine and contactless payment, please.",0.7,0.832989513874054,-0.0,1
+54,"[0.02417843842744058, 0.03, 0.34, 0.85, 0.89]",Could you please help me find a. reasonably priced hotel that accepts cash and has a 4.5 rating?,1.0,0.7119375020265579,-0.0,1
+55,"[0.8084863955823022, 0.16, 0.07, 0.12, 0.14]","Navigate to a I mean German cafe with a perfect 5-star rating, accepting credit cards.",0.2,0.0,-0.0,1
+56,"[0.07621273617884726, 0.33, 0.18, 0.65, 0.98]",Could you please guide me to a museum where parking is available?,1.0,0.9626623690128326,-0.0,0
+57,"[0.1375707191641115, 0.01, 0.93, 0.85, 0.25]",Navigate to a hotel that offers contactless payment and is moderately priced.,1.0,0.9687078595161438,-0.0,0
+58,"[0.16110312301639174, 0.9, 0.37, 0.11, 0.3]","Navigate to a bakery, would ya?",1.0,0.8752301037311554,-0.0,0
+59,"[0.08589515119054943, 0.33, 0.18, 0.94, 0.4]","Navigate museum where parking is accessible, please.",1.0,0.9626623690128326,-0.0,0
+60,"[0.37101496447660237, 0.09, 0.66, 0.27, 0.48]",Navigate to a high-priced hotel with you know a 3.5-star rating nearby.,1.0,0.9687078595161438,-0.0,0
+61,"[0.06413139178338009, 0.31, 0.18, 0.14, 0.05]",Navigate to a bakery. AY require some fresh bred immediately.,1.0,0.8752301037311554,-0.0,0
+62,"[0.23553254464477852, 0.7715714493496544, 0.943259347130655, 0.013304819200401802, 0.5404237253800044]","Navigate to a I mean high-priced German cafe with contactless payment, got it?",0.2,1.0,-0.09329769047141223,1
+63,"[0.00571825436970301, 0.9238214308059838, 0.3986004529281213, 0.6517904884857628, 0.47469326045053345]",Navigate a high-end cafe with American food and contactless payment.,1.0,0.832989513874054,-0.09283446255464134,0
+64,"[0.5441287635528099, 0.6077953345826309, 0.9122188508515552, 0.5237521117471211, 0.07270313649601384]",Navigate to a. bar that accepts cash and has a 4-star rating.,1.0,0.9390982389450073,-0.06307805312943215,0
+65,"[0.06419220139791221, 0.25763501935572114, 0.9253090724330589, 0.06586927545888938, 0.941718027232225]",Navigate to high-end supermarket credit card payment and parking.,0.3,0.7461632192134857,-0.09349442208365888,1
+66,"[0.9604974347796469, 0.5360315069676589, 0.5871514938084622, 0.18487866369993747, 0.6046868281017743]","Navigate to a high-priced cafe with a 5-star rating, please.",0.2,1.0,-0.057512586234582885,1
+67,"[0.10191088488813799, 0.12, 0.07, 0.65, 0.89]",Could you kindly assist me in locating a reasonably I mean priced hotel that accepts contactless payments and has a rating of 4.5?,1.0,0.6809072345495224,-0.0,1
+68,"[0.6181568366156869, 0.9, 0.67, 0.62, 0.89]","Navigate to a high-end Thai cafe with mobile payment options, I mean please.",1.0,0.832989513874054,-0.0,0
+69,"[0.527317180076828, 0.9, 0.65, 0.62, 0.89]","Navigate to a fancy cafe with Thai cuisine, contactless payment, and parking available, please.",1.0,0.832989513874054,-0.0,0
+70,"[0.21897216188682744, 0.31, 0.25, 0.14, 0.05]",Navigate to ay museum withe a rating of at leased 3.5.,1.0,0.7556162178516388,-0.0,0
+71,"[0.8057983050759447, 0.03, 0.09, 0.13, 0.14]",Navigate to a German cafe with a flawless um 5-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+72,"[0.8746246248091667, 0.16, 0.07, 0.12, 0.14]","Navigate uh to a German cafe with a perfect 5-star rating, accepting credit cards.",0.2,0.0,-0.0,1
+73,"[0.9760921287815723, 0.79, 0.11, 0.54, 0.37]",Navigate to a 5-star cafe with mobil payment options.,0.2,0.0,-0.0,1
+74,"[0.1393374449883684, 0.26, 0.71, 0.56, 0.63]",Could assist in locating museum with parking options?,0.7,0.9626623690128326,-0.0,1
+75,"[0.04516326648280895, 0.34, 0.34, 0.62, 0.89]",Navigate to a medium-priced Thai cafe with contactless payment and parking you know available.,1.0,0.832989513874054,-0.0,0
+76,"[0.6337606840505958, 0.01, 0.91, 0.68, 1.0]",Could you help me find a restaurant with a 4.5-star rating and contactless payment? Parking should be available.,1.0,0.9640928506851196,-0.0,0
+77,"[0.003597769910200041, 0.03, 0.04, 0.64, 0.89]",Please navigate I mean to a hotel that accepts cash payments.,1.0,0.9687078595161438,-0.0,0
+78,"[0.06827541459962957, 0.26, 0.71, 0.57, 0.63]",Could you assist locating supermarket offering contactless payment?,1.0,0.8911634385585785,-0.0,0
+79,"[0.599122206170758, 0.9, 0.66, 0.62, 0.53]",Could you guide me to a high-rated Thai cafe that accepts contactless payments?,1.0,0.832989513874054,-0.0,0
+80,"[0.0397158823267719, 0.31, 0.22, 0.14, 0.05]","Navigate to a supermarket with parking available, rated 3.5 stars.",1.0,0.8911634385585785,-0.0,0
+81,"[0.6535561741620571, 0.0, 0.07, 0.85, 0.14]",Navigate to a cafe with uh a 4.5-star rating that accepts credit cards.,1.0,0.9026724696159363,-0.0,0
+82,"[0.9561527902889061, 0.16, 0.07, 0.65, 0.37]",Navigate to an Indian cafe with a 5-star rating that accepts contactless payments.,1.0,0.832989513874054,-0.0,0
+83,"[0.9062600580252158, 0.79, 0.18, 0.54, 0.37]","Navigate tew ay cafe withe a. 5-star rating, offering contactless payment. Parking's available.",0.2,0.0,-0.0,1
+84,"[0.08207100658452762, 0.26, 0.19, 0.54, 0.63]",Please navigate to supermarket that has parking available.,1.0,0.8911634385585785,-0.0,0
+85,"[0.12004384349559688, 0.33, 0.33, 0.95, 0.89]",Could you please guide me to ay nearby cafe offering German dishes with contactless payment?,0.7,0.832989513874054,-0.0,1
+86,"[0.6707248419942494, 0.01, 0.91, 0.85, 1.0]",Could you please guide me to a hotel with a 4.5 rating that accepts like contactless payments?,1.0,0.6322984993457794,-0.0,1
+87,"[0.7510200581237138, 0.08165851079023778, 0.7637835884239089, 0.6847490630108547, 0.7121233767780704]",Could you guide me to a high-rated bar with parking?,1.0,0.9390982389450073,-0.08744975621356277,0
+88,"[0.036580641728169175, 0.21344899089395208, 0.3792004961241118, 0.09286399880006063, 0.33807445173154793]",Navigate to a supermarket with available uh parking and accept credit cards.,1.0,0.8911634385585785,-0.10293599841866086,0
+89,"[0.017412014746219603, 0.26, 0.93, 0.07, 0.94]","Navigate high-end supermarket available parking, if can.",0.4,0.7461632192134857,-0.0,1
+90,"[0.19417918621251998, 0.26, 0.72, 0.65, 0.63]",Could you assist I mean me in locating a supermarket with contactless payment options and available parking?,1.0,0.8911634385585785,-0.0,0
+91,"[0.7660462019933092, 0.0, 0.92, 0.85, 0.89]",Could you please guide me to a medium-priced hotel with a 4.5 rating that accepts contactless payments?,1.0,0.6809072345495224,-0.0,1
+92,"[0.12813466345519486, 0.35, 0.18, 0.89, 0.44]",Navigate to a museum that has parking facility's available.,1.0,0.9626623690128326,-0.0,0
+93,"[0.19045961686326696, 0.79, 0.11, 0.54, 0.37]","Navigate tew a. supermarket that accepts mobil payment, please.",1.0,0.8911634385585785,-0.0,0
+94,"[0.9760974671387317, 0.79, 0.14, 0.53, 0.37]",Navigate to a. medium-priced hotel with a 5-star rating and contactless payment.,0.3,0.6809072345495224,-0.0,1
+95,"[0.14192006290541492, 0.3, 0.71, 0.56, 0.64]",Could you assist in locating a bar with available parking?,1.0,0.7003612071275711,-0.0,1
+96,"[0.8357926568431332, 0.19, 0.07, 0.65, 0.54]",Please navigate to you know a middle eastern cafe with a 5-star rating that accepts contactless payments.,1.0,0.832989513874054,-0.0,0
+97,"[0.8120921869783814, 0.03, 0.09, 0.13, 0.14]",Navigate to a high-end Middle Eastern cafe with a flawless 5-star rating that accepts contactless payments.,0.2,1.0,-0.0,1
+98,"[0.49122421124961135, 0.61, 0.91, 0.52, 0.06]",Navigate to a high-rated bar takes cash.,1.0,0.9390982389450073,-0.0,0
+99,"[0.1918677872493515, 0.3, 0.93, 0.01, 0.54]",Navigate to a high-end supermarket with available parking you know and card only.,1.0,0.7461632192134857,-0.0,1
+100,"[0.14633384911398917, 0.26, 0.71, 0.56, 0.37]",Navigate to a supermarket with medium price's and contactless payment options available.,1.0,0.8911634385585785,-0.0,0
+101,"[0.7405478246250454, 0.49, 0.92, 0.86, 0.89]",Could you please direct me to a hotel with a 4.5 rating? A medium price and contactless payment would be appreciated.,1.0,0.6528076231479645,-0.0,1
+102,"[0.01767375916923472, 0.42, 0.18, 0.14, 0.05]",Navigate a bakery with at least a 3.5 rating. Parking's there.,1.0,0.8752301037311554,-0.0,0
+103,"[0.8426793662652884, 0.79, 0.11, 0.54, 0.37]",Navigate to a you know 5-star cafe serving American food. Mobile payments are good.,0.2,0.0,-0.0,1
+104,"[0.1052296154816273, 0.79, 0.16, 0.54, 0.34]",Navigate to a supermarket that accepts contactless payments.,1.0,0.8911634385585785,-0.0,0
+105,"[0.11603795257147798, 0.33, 0.72, 0.59, 0.44]","Navigate a museum that has parking available, please.",1.0,0.9626623690128326,-0.0,0
+106,"[0.9578161626990975, 0.18, 0.96, 0.04, 0.37]",Navigate to a like medium-priced cafe serving German cuisine with contactless payment. Rating is 5.0.,0.2,1.0,-0.0,1
+107,"[0.8188214229755661, 0.55, 0.09, 0.13, 0.59]",Navigate to a museum with a 5-star rating. like Card only.,1.0,0.9626623690128326,-0.0,0
+108,"[0.42014350987129456, 0.61, 0.91, 0.52, 0.07]",Navigate to a bar that accepts mobile payments and has a. 4-star rating.,1.0,0.9390982389450073,-0.0,0
+109,"[0.0247461225677805, 0.570163335972725, 0.012972272232676912, 0.9849262127228916, 0.6537532869405303]",Could please guide me to medium-priced supermarket with parking?,1.0,0.8911634385585785,-0.08197130653189211,0
+110,"[0.16641767560965065, 0.5086094348800733, 0.8006786552019615, 0.7778503093583619, 0.1985461887824674]",Navigate tu a medium-priced supermarket nearby.,1.0,0.8911634385585785,-0.0741835917667597,0
+111,"[0.3049482626594067, 0.558906457754151, 0.5626691064097867, 0.23580865215740565, 0.41206168361833123]",Navigate to a low-priced German restaurant with mobile payment and parking.,1.0,0.9640928506851196,-0.08763140079076137,0
+112,"[0.11731797725306761, 0.9801072660879276, 0.3255991841275241, 0.8415315591988671, 0.9052355960271428]","Navigate to a like cafe with parking available, please.",1.0,0.832989513874054,-0.08658691785447936,0
+113,"[0.11677912127312731, 0.997392571958507, 0.4239260077693127, 0.6017082938347831, 0.16654017512728342]","Navigate to a high-end supermarket nearby, please.",1.0,0.8911634385585785,-0.07866333806601067,0
+114,"[0.07850595231050828, 0.3163571883841283, 0.8708389658013534, 0.023274096626851065, 0.8334635114215103]",Navigate to a bakery. I need something sweet.,1.0,0.8752301037311554,-0.10645985775015365,0
+115,"[0.5072746647826583, 0.15690819258980118, 0.8917567978473219, 0.5134528040217794, 0.2179310175368258]",Navigate to a high-priced Japanese restaurant with contactless payment and a 4-star rating.,1.0,0.9640928506851196,-0.06750156869206836,0
+116,"[0.2382958899343182, 0.1604006093059225, 0.1528139958862016, 0.2790209718956461, 0.728939918586814]",Navigate to a cafe with a 3.5 rating serving german food.,1.0,0.7143691778182983,-0.07671500567048029,1
+117,"[0.06712126797770282, 0.4720468221283856, 0.3078364370229699, 0.8023675229646962, 0.6566497885061475]",Could you please guide me to a supermarket with available parking?,1.0,0.8911634385585785,-0.10742742842048081,0
+118,"[0.09787974644387698, 0.8982369554468822, 0.8688167006969312, 0.202531061076856, 0.32333779983897865]",Navigate to a low-priced supermarket. Hurry um up!,1.0,0.8911634385585785,-0.09301026953387492,0
+119,"[0.33621402510167075, 0.78, 0.94, 0.02, 0.37]","Navigate to you know a pricey German cafe that takes mobile payments, got it?",0.2,1.0,-0.0,1
+120,"[0.12028771360539287, 0.26, 0.71, 0.56, 0.63]",Could ewe assist mi inn locating a supermarket that accepts contactless payments?,1.0,0.8911634385585785,-0.0,0
+121,"[0.46485830514861015, 0.11, 0.91, 0.68, 1.0]",Could you please guide me to a hotel with a 4-star rating and contactless payment options? Parking should be available.,0.7,0.9249118566513062,-0.0,1
+122,"[0.8384667808050316, 0.79, 0.11, 0.18, 0.29]","Navigate to a cafe with a 5-star like rating and mobile payment. Parking's available, so let's roll!",1.0,0.9026724696159363,-0.0,0
+123,"[0.3128964670236706, 0.31, 0.18, 0.14, 0.44]",Navigate to museum with a 3.5 rating and parking available.,1.0,0.9626623690128326,-0.0,0
+124,"[0.7995136532580079, 0.54, 0.92, 0.8, 0.23]",Navigate a medium-priced cafe with contactless payment and 4.5-star rating.,1.0,0.9026724696159363,-0.0,0
+125,"[0.05691057015653287, 0.16, 0.92, 0.05, 0.95]",Navigate to a supermarket with medium prices and mobile payment options you know available.,0.3,0.8149494528770447,-0.0,1
+126,"[0.060964201904393556, 0.79, 0.11, 0.54, 0.37]",Navigate to a. supermarket with mobil payment and parking available.,0.2,0.0,-0.0,1
+127,"[0.9817409468363901, 0.16, 0.18, 0.93, 0.14]",Navigate to museum boasts a perfect 5-star rating and has available parking.,1.0,0.7556162178516388,-0.0,0
+128,"[0.17466386448254706, 0.26, 0.71, 0.56, 0.63]",Could you assist me in locating a cafe with contactless payment and available parking?,1.0,0.832989513874054,-0.0,0
+129,"[0.3831556903991822, 0.77, 0.94, 0.54, 0.54]","Navigate to a pricey cafe, I mean you know, with American grub and a 3.5 rating?",1.0,0.832989513874054,-0.0,0
+130,"[0.12614377734045068, 0.25, 0.67, 0.56, 0.63]","Navigate to a supermarket where I can use a credit uh card, and parking is available.",1.0,0.8911634385585785,-0.0,0
+131,"[0.918217838087261, 0.03, 0.09, 0.13, 0.14]",Navigate to you know a German cafe with a perfect 5-star rating that accepts card only.,0.2,0.0,-0.0,1
+132,"[0.8604178396614721, 0.79, 0.11, 0.54, 0.37]",Navigate tue a. museum with a perfect rating and parking available.,1.0,0.9626623690128326,-0.0,0
+133,"[0.03255257574714472, 0.33, 0.18, 0.94, 0.44]",Navigate tu a. museum withe ay rating of at leased 3.5.,1.0,0.9626623690128326,-0.0,0
+134,"[0.6942958471118914, 0.01, 0.58, 0.86, 0.24]","Navigate to a highly-rated hotel that accepts mobile payments, please.",1.0,0.9249118566513062,-0.0,0
+135,"[0.12995126994285844, 0.16, 0.07, 0.08, 0.36]",Navigate to a medium-priced cafe offering German cuisine with contactless payment. Parking is um available.,1.0,0.832989513874054,-0.0,0
+136,"[0.11776450803676702, 0.79, 0.06, 0.54, 0.37]",Navigate to a supermarket with mobile payment options and parking I mean available.,1.0,0.8911634385585785,-0.0,0
+137,"[0.9408337920730268, 0.16, 0.07, 0.12, 0.14]",Navigate to a cafe perfect rating and parking available. Accepts credit card.,1.0,0.9026724696159363,-0.0,0
+138,"[0.035558530669640126, 0.26, 0.62, 0.56, 0.63]",Could you assist me locating cafe accepts contactless payments and has parking available?,1.0,0.9026724696159363,-0.0,0
+139,"[0.9451908748439568, 0.44138441476108653, 0.8094847856501395, 0.9170374532237304, 0.02512451027809598]",Navigate Turkish cafe a 5-star rating and contactless payment.,1.0,0.832989513874054,-0.08930938033450075,0
+140,"[0.06827163944073447, 0.6193001728556505, 0.3756964443599329, 0.1926113077217897, 0.6823992739295985]",Navigate to a low-priced cafe with Chinese food uh and mobile payment.,1.0,0.832989513874054,-0.08639822334950298,0
+141,"[0.03562817088796813, 0.3688389349416502, 0.2513779293785249, 0.7297185468755868, 0.9765993408352791]",Navigate to a supermarket with medium prices and contactless payment.,1.0,0.8911634385585785,-0.0838048288612997,0
+142,"[0.13247452872578097, 0.36, 0.15, 0.94, 0.44]",Please navigate to museum that has parking facilities.,0.2,0.0,-0.0,1
+143,"[0.1984177168501279, 0.97, 0.33, 0.83, 0.91]",Could you kindly guide me to a cozy cafe around here?,1.0,0.832989513874054,-0.0,0
+144,"[0.9488208353934222, 0.83, 0.18, 0.54, 0.14]","Navigate to a German cafe a perfect 5-star rating, credit card only.",0.2,0.0,-0.0,1
+145,"[0.004522748498541201, 0.47, 0.31, 0.8, 0.66]",Could you please guide me to a supermarket? I would like to use my credit card.,1.0,0.8911634385585785,-0.0,0
+146,"[0.9701772367273302, 0.79, 0.11, 0.54, 0.37]",Navigate to a 5-star cafe um that takes cash only.,0.2,0.0,-0.0,1
+147,"[0.3613564933583075, 0.16, 0.16, 0.28, 0.73]",Navigate to a cafe rated at um 3.5 stars.,1.0,0.9026724696159363,-0.0,0
+148,"[0.214201846245278, 0.73, 0.94, 0.01, 0.54]","Navigate to a pricey German cafe uh with contactless payment and parking, alright?",0.2,1.0,-0.0,1
+149,"[0.12868923283216224, 0.98, 0.32, 0.84, 0.91]","Navigate to a supermarket, if you could. Is parking available there?",1.0,0.8911634385585785,-0.0,0
+150,"[0.8997365042250755, 0.79, 0.11, 0.53, 0.37]","Navigate I mean to a 5-star museum. Parking's available, you know?",1.0,0.9626623690128326,-0.0,0
+151,"[0.9960248684404867, 0.03, 0.09, 0.13, 0.15]",Navigate to a German cafe with a perfect 5-star um rating that takes credit cards.,0.2,0.0,-0.0,1
+152,"[0.3481530913833388, 0.77, 0.17, 0.98, 0.54]",Could you please guide me to a museum with a decent I mean 3.5 rating?,1.0,0.9626623690128326,-0.0,0
+153,"[0.2997421668186295, 0.99, 0.33, 0.84, 1.0]","Navigate to a cafe with a solid 3.5-star rating, please.",1.0,0.9026724696159363,-0.0,0
+154,"[0.8971518383899276, 0.15, 0.07, 0.12, 0.14]",Navigate two a Vietnamese cafe withe ay 5-star rating. Cash only.,1.0,0.832989513874054,-0.0,0
+155,"[0.17955147796808962, 0.47, 0.11, 0.8, 0.37]",Navigate to a budget-friendly supermarket with parking available. Credit card accepted.,1.0,0.8911634385585785,-0.0,0
+156,"[0.8268760395756092, 0.79, 0.07, 0.52, 0.35]","Navigate to a German cafe I mean with a perfect 5-star rating, accepting mobile payments.",0.2,0.0,-0.0,1
+157,"[0.37786006087174795, 0.16, 0.11, 0.28, 0.73]",Navigate to a cafe with a um 3.5-star rating that serves German cuisine.,1.0,0.832989513874054,-0.0,0
+158,"[0.16563960094418995, 0.26, 0.93, 0.05, 0.92]",Navigate to a high-end supermarket with contactless payment and available parking.,0.7,0.7461632192134857,-0.0,1
+159,"[0.26161654874008244, 0.96, 0.33, 0.84, 0.91]","Navigate to a budget-friendly restaurant with parking, if you please.",1.0,0.9640928506851196,-0.0,0
+160,"[0.8640870163545533, 0.79, 0.11, 0.54, 0.37]",Navigate to uh a hotel with a 5-star rating that takes mobile payments.,1.0,0.9687078595161438,-0.0,0
+161,"[0.9963002430627563, 0.81, 0.09, 0.53, 0.13]",Navigate to a 5-star cafe like that takes credit cards.,0.2,0.0,-0.0,1
+162,"[0.0015073115557773936, 0.2389380197888929, 0.4266934356502581, 0.1250133055718209, 0.2485198662107739]",Navigate to a high-end supermarket with available parking. Credit card like only.,0.2,1.0,-0.09066408196584819,1
+163,"[0.3272250933919572, 0.5956473229684071, 0.6408751610680464, 0.6707015159021632, 0.46508110001807174]",Navigate tu a cafe with a. 3.5-star rating.,1.0,0.9026724696159363,-0.06399635866846887,0
+164,"[0.6507916025680022, 0.5587337138009284, 0.36274486501866965, 0.0419726381793438, 0.384198898652345]",Navigate to a um hotel with a 4.5 rating and parking.,1.0,0.6322984993457794,-0.04006437588441769,1
+165,"[0.33786972797568715, 0.8798647015138056, 0.2471097717472976, 0.11474922600903624, 0.25614577855747156]",Navigate to a bar with a low price range and a 3.5 uh rating. Accept credit card only.,1.0,0.9390982389450073,-0.0680483056271537,0
+166,"[0.7043254530603414, 0.6073512629284754, 0.37828912778579216, 0.38722490338629467, 0.8190828214919257]",Navigate to a bar with mobile payment options and a 4.5 rating.,1.0,0.9390982389450073,-0.054558659657097386,0
+167,"[0.03276539616149217, 0.0618776801215524, 0.31426945834967734, 0.10339710950833512, 0.26886225607720915]",Navigate to bakery. need some fresh bread.,1.0,0.8752301037311554,-0.10931216600523652,0
+168,"[0.4279642358018022, 0.3243071486962117, 0.6711838832675722, 0.766711760321619, 0.2750916908055578]","Navigate to a. cafe with middle eastern food, cash only, 4 stars.",1.0,0.832989513874054,-0.07209288144110193,0
+169,"[0.047847033663848376, 0.09766784577020511, 0.697760860309618, 0.15080507958959255, 0.8335623172257152]",Navigate to a medium-priced like bakery. I need something sweet.,1.0,0.8752301037311554,-0.07782946247388545,0
+170,"[0.8760673338364123, 0.3, 0.09, 0.14, 0.05]",Navigate to a museum with a perfect rating you know of 5.0.,1.0,0.7556162178516388,-0.0,0
+171,"[0.8500185793774532, 0.79, 0.11, 0.54, 0.37]",Navigate to a 5-star cafe like with American food. Mobile payments are fine.,0.2,0.0,-0.0,1
+172,"[0.21199899986623405, 0.77, 0.94, 0.01, 0.54]","Navigate to pricey German cafe with tap-to-pay, alright?",0.2,1.0,-0.0,1
+173,"[0.1880141035010006, 0.32, 0.87, 0.02, 0.41]",Navigate to a bakery. I require something delightful.,1.0,0.8752301037311554,-0.0,0
+174,"[0.002152770080992017, 0.47, 0.31, 0.81, 0.66]",Could you kindly direct me to a low-priced supermarket with parking available?,1.0,0.8911634385585785,-0.0,0
+175,"[0.8616300857448176, 0.03, 0.09, 0.13, 0.14]",Navigate to a German cafe with a perfect 5-star rating that accepts um credit cards and has parking available.,0.2,0.0,-0.0,1
+176,"[0.9569623527608163, 0.79, 0.18, 0.56, 0.15]","Navigate to a 5-star cafe serving American food. Card only, please.",0.2,0.0,-0.0,1
+177,"[0.08749234012722247, 0.14, 0.19, 0.14, 0.44]",Navigate a cafe where parking is available.,1.0,0.9026724696159363,-0.0,0
+178,"[0.32043532264223934, 0.77, 0.97, 0.05, 0.54]","Navigate me to a pricey you know German cafe with contactless payment, yeah?",0.2,1.0,-0.0,1
+179,"[0.11053849331197284, 0.8, 0.1, 0.55, 0.96]",Navigate a high-end supermarket credit card options and parking.,0.2,1.0,-0.0,1
+180,"[0.35968891722143637, 0.31, 0.09, 0.14, 0.05]",Navigate to a museum rated 3.5 stars. Parking is available.,0.7,0.9626623690128326,-0.0,1
+181,"[0.9201527940316352, 0.03, 0.09, 0.13, 0.15]",Navigate to a German cafe with a flawless 5-star rating that accepts like credit cards.,0.2,0.0,-0.0,1
+182,"[0.3349835304988643, 0.77, 0.94, 0.01, 0.54]","Navigate to a German cafe, got a 3.5 um rating, card only, parking's there, right?",0.2,0.0,-0.0,1
+183,"[0.19801013256098163, 0.33, 0.18, 0.04, 0.44]",Navigate to a museum with parking available.,1.0,0.9626623690128326,-0.0,0
+184,"[0.24903764456516986, 0.16, 0.15, 0.28, 0.73]",Navigate to a high-priced cafe with a 3.5 rating for german cuisine.,0.2,1.0,-0.0,1
+185,"[0.8102940881588867, 0.03, 0.09, 0.13, 0.14]",Navigate to a uh 5-star cafe that takes credit cards.,0.2,0.0,-0.0,1
+186,"[0.9787044415900747, 0.79, 0.18, 0.54, 0.37]",Navigate to a Vietnamese cafe with a stellar 5-star rating that takes contactless payments.,1.0,0.832989513874054,-0.0,0
+187,"[0.19922245538501485, 0.33, 0.19, 0.94, 0.43]",Navigate to a German cafe with a 5-star rating that accepts credit cards like and is in the medium price range.,0.2,1.0,-0.0,1
+188,"[0.12269337520240496, 0.77, 0.93, 0.07, 0.56]","Navigate to supermarket with parking, alright? Mobile payment only, got it?",1.0,0.8911634385585785,-0.0,0
+189,"[0.10376540194070696, 0.28, 0.93, 0.51, 0.94]",Navigate to upscale supermarket that accepts card payments.,1.0,0.8911634385585785,-0.0,0
+190,"[0.10653356042423297, 0.16190773033100914, 0.28991830130706486, 0.20984416859701582, 0.05284321180505222]",Navigate to a low-priced supermarket that accepts credit cards.,1.0,0.8911634385585785,-0.08729547517454472,0
+191,"[0.045228494588223006, 0.5113949045139311, 0.7324853945205111, 0.40904844535474144, 0.43752386550767375]",Navigate I mean to a high-end bakery nearby.,0.4,0.7280087471008301,-0.09573192671028774,1
+192,"[0.4992576932934448, 0.10286567409285492, 0.18100229452979094, 0.030734663921872227, 0.9599239324631679]","Navigate high-priced German restaurant mobile payment, rated 4 stars.",0.2,1.0,-0.07153711170112831,1
+193,"[0.18511090377364398, 0.15160392425746355, 0.6254158691621896, 0.8677185448790282, 0.9268727236451464]",Could please guide me to a medium-priced bakery nearby?,1.0,0.8752301037311554,-0.0805646635524575,0
+194,"[0.1310912006256567, 0.41636004056905107, 0.9961440835471507, 0.3190037052647718, 0.037324653486175446]",Navigate two a. Greek restaurant that takes cash.,1.0,0.9640928506851196,-0.1017154280108814,0
+195,"[0.1714800176216864, 0.04353160892930415, 0.18523374264998185, 0.7796778960086611, 0.7824710196226923]","Navigate a bakery nearby, please.",1.0,0.8752301037311554,-0.09403311133037273,0
+196,"[0.4699544911251825, 0.5358540923160138, 0.9767382938750246, 0.44412120687109846, 0.5532122373642511]",Could you help me find a museum with a good rating?,1.0,0.9626623690128326,-0.08308929869823634,0
+197,"[0.02281412903306594, 0.8185527083679817, 0.49192899928439093, 0.8991367826907027, 0.3619625352694211]",Navigate to a high-end supermarket with cash payment and parking available.,1.0,0.7461632192134857,-0.0897396780285935,1
+198,"[0.1426416070281853, 0.12, 0.43, 0.1, 0.27]",Navigate to high-end supermarket available parking. Credit card accepted.,0.4,0.7461632192134857,-0.0,1
+199,"[0.40706926984334457, 0.27, 0.18, 0.77, 0.27]",Navigate a Middle Eastern cafe a 4-star rating and available parking.,1.0,0.9640928506851196,-0.0,0
+200,"[0.8856928755743233, 0.77, 0.95, 0.56, 0.54]","Navigate top-rated cafe, know, mobile payment and parking.",1.0,0.9026724696159363,-0.0,0
+201,"[0.08453586983761999, 0.79, 0.11, 0.56, 0.16]",Navigate thuy ae supermarket with mobile payment options' and parking spots available.,0.2,0.0,-0.0,1
+202,"[0.8401907276243694, 0.56, 0.18, 0.04, 0.15]","Navigate to a hotel with a 5-star rating, parking available, and accept credit uh cards.",1.0,0.9249118566513062,-0.0,0
+203,"[0.9950700474677036, 0.79, 0.66, 0.77, 0.28]",Navigate to a. 5-star cafe that serves German food. Mobile payments are great!,0.2,1.0,-0.0,1
+204,"[0.9013069900109985, 0.03, 0.18, 0.57, 0.15]",Navigate to a German cafe with a perfect 5-star rating that accepts I mean credit cards.,0.2,0.0,-0.0,1
+205,"[0.13631706043079617, 0.33, 0.18, 0.94, 0.27]",Please navigate to a high-end bakery with available parking.,0.4,0.7280087471008301,-0.0,1
+206,"[0.8425573799824484, 0.16, 0.09, 0.13, 0.14]",Navigate to a um high-priced German cafe with a flawless 5-star rating that accepts credit cards.,0.1,1.0,-0.0,1
+207,"[0.8506625613476809, 0.76, 0.1, 0.13, 0.14]",Navigate to a German cafe with a perfect 5-star rating that takes credit cards and has parking available.,0.2,0.0,-0.0,1
+208,"[0.132196284240217, 0.06, 0.31, 0.13, 0.25]","Navigate to a bakery. um I require something sweet, immediately.",1.0,0.8752301037311554,-0.0,0
+209,"[0.49454891198417916, 0.32, 0.67, 0.94, 0.44]","Navigate to a cafe with a 4-star rating and available parking, please.",1.0,0.832989513874054,-0.0,0
+210,"[0.8833904383238119, 0.77, 0.15, 0.54, 0.36]",Navigate to a German cafe I mean with a perfect rating and mobile payment available.,0.2,0.0,-0.0,1
+211,"[0.17319944498918918, 0.79, 0.15, 0.54, 0.37]","Navigate thuy a supermarket. Card payment only, please.",0.2,0.0,-0.0,1
+212,"[0.6072795526974679, 0.83, 0.18, 0.05, 0.15]","Navigate to German cafe a solid 4.5 rating. Card only, parking's good.",1.0,0.9026724696159363,-0.0,0
+213,"[0.891096596232922, 0.79, 0.11, 0.54, 0.37]",Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.7,1.0,-0.0,1
+214,"[0.9139187045202657, 0.02, 0.1, 0.55, 0.17]",Navigate to a 5-star cafe that accepts credit cards and serves uh Thai cuisine.,0.2,0.0,-0.0,1
+215,"[0.010401725103516918, 0.33, 0.18, 0.94, 0.44]","Navigate to a nearby bakery, if you please.",1.0,0.8752301037311554,-0.0,0
+216,"[0.8894823900845547, 0.16, 0.09, 0.11, 0.14]",Navigate to a 5-star restaurant you know that accepts credit cards.,0.4,0.9640928506851196,-0.0,1
+217,"[0.9319627460243136, 0.03, 0.09, 0.01, 0.53]",Navigate to a high-end German cafe with a you know perfect rating and available parking. Payment should be via mobile payment.,0.2,1.0,-0.0,1
+218,"[0.6234911611224603, 0.01587983597476597, 0.21886329770367802, 0.3036357951730165, 0.3637897002041512]","Navigate an Italian restaurant a 4.5 rating. Cash only, please.",1.0,0.9640928506851196,-0.06024445110291343,0
+219,"[0.29108972090463786, 0.3266881574005104, 0.31915472392138944, 0.8344503352745609, 0.6665086388839492]",Could please navigate me a high-rated bar available parking?,1.0,0.9390982389450073,-0.07986044716840457,0
+220,"[0.5210950719917071, 0.31952051419732114, 0.8588036577075496, 0.5772965603522405, 0.7922851791000629]",Could hugh please guide me to a museum with a 4-star rating? Parking is available.,1.0,0.9626623690128326,-0.07311600433367627,0
+221,"[0.8013310338661035, 0.7764307079334628, 0.5570682858572112, 0.2739411712091909, 0.21671448174354596]",Navigate to a high-rated bar that takes credit like cards.,1.0,0.9390982389450073,-0.07993206352706872,0
+222,"[0.5418978535464279, 0.9288223655857721, 0.22975002762458344, 0.6628477497841538, 0.03493612034388388]",Navigate to a high-priced Indian restaurant with a 4-star rating like and parking.,1.0,0.9640928506851196,-0.06438089646584433,0
+223,"[0.1987778824869973, 0.9664473135193808, 0.1262280600471537, 0.5068619984623222, 0.24115327647918958]",Navigate to a high-end supermarket with credit card payment and parking.,0.7,0.7461632192134857,-0.08841721482391462,1
+224,"[0.944702026473837, 0.7449563652697773, 0.29248358701312666, 0.9821142635764575, 0.8766387048129235]",Navigate to a high-end bar that takes cash and has like a 5-star rating.,0.4,0.7290890216827393,-0.07498279142659958,1
+225,"[0.8235829063035469, 0.18, 0.09, 0.13, 0.14]",Navigate to a low-priced Chinese cafe with a um perfect 5-star rating that accepts credit cards.,0.2,1.0,-0.0,1
+226,"[0.17642503368621598, 0.36, 0.1, 0.94, 0.44]","Navigate to ae high-end cafe that accepts credit card payments, please.",1.0,0.9026724696159363,-0.0,0
+227,"[0.08163669035539854, 0.42, 0.99, 0.32, 0.04]",Navigate Vietnamese restaurant accepts cash.,1.0,0.9640928506851196,-0.0,0
+228,"[0.24914463878141335, 0.78, 0.94, 0.0, 0.54]","Navigate to a museum, got a 3.5 rating, parking's chill, yeah?",0.7,0.9626623690128326,-0.0,1
+229,"[0.4419005648819323, 0.79, 0.18, 0.54, 0.96]",Navigate to a 4-star cafe serving Chinese food. Mobile payments are great!,1.0,0.832989513874054,-0.0,0
+230,"[0.8868631472192167, 0.03, 0.09, 0.13, 0.14]","Navigate to a 5-star cafe that takes credit uh cards, please.",0.2,0.0,-0.0,1
+231,"[0.8471310679716669, 0.03, 0.09, 0.13, 0.14]","Navigate to a German cafe with a perfect 5-star rating, accepts credit cards, and has um parking available.",0.2,0.0,-0.0,1
+232,"[0.9340911068891896, 0.1, 0.18, 0.54, 0.15]",Navigate to a high-rated cafe that accepts credit cards.,1.0,0.9026724696159363,-0.0,0
+233,"[0.9049933548075946, 0.16, 0.14, 0.12, 0.23]","Navigate to a German cafe with a like perfect 5-star rating, accepting credit cards.",0.2,0.0,-0.0,1
+234,"[0.0829832028167089, 0.51, 0.73, 0.4, 0.44]",Navigate to a high-end hotel that accepts cash payments.,1.0,0.9687078595161438,-0.0,0
+235,"[0.9631227163388064, 0.15, 0.09, 0.13, 0.14]",Navigate to a um high-end cafe with a perfect rating that accepts card payments.,0.2,1.0,-0.0,1
+236,"[0.031561783844071406, 0.36, 0.15, 0.9, 0.44]","Navigate to a museum that has available parking, please.",1.0,0.9626623690128326,-0.0,0
+237,"[0.8278121090861987, 0.79, 0.18, 0.56, 0.16]","Navigate to a 5-star cafe with American cuisine. Credit card only, please.",0.2,0.0,-0.0,1
+238,"[0.13064528347317284, 0.82, 0.1, 0.01, 0.54]","Navigate to a museum, uh where parking's dope, ya feel me?",1.0,0.9626623690128326,-0.0,0
+239,"[0.984127548861768, 0.8, 0.11, 0.53, 0.37]",Navigate to 5-star cafe german cuisine. Mobile payment's good here.,0.2,1.0,-0.0,1
+240,"[0.9708328517740733, 0.03, 0.09, 0.13, 0.14]",Navigate to a high-end you know cafe with a flawless 5-star rating that accepts contactless payments.,0.2,1.0,-0.0,1
+241,"[0.999901422322976, 0.02, 0.11, 0.54, 0.17]",Navigate you know to a five-star cafe that accepts credit cards and offers Thai food with parking available.,0.2,0.0,-0.0,1
+242,"[0.4321979104623074, 0.75, 0.18, 0.54, 0.96]","Navigate to a German cafe with solid 4-star rating, accepts mobile payment.",1.0,0.832989513874054,-0.0,0
+243,"[0.9035634607445457, 0.76, 0.1, 0.13, 0.14]","Navigate to a German cafe with a perfect 5-star rating, accepts credit cards, and has parking available.",0.2,0.0,-0.0,1
+244,"[0.014807493660619425, 0.42, 0.73, 0.41, 0.44]",Navigate to a high-end Greek eatery uh that accepts cash.,0.7,0.9640928506851196,-0.0,1
+245,"[0.7239069643384624, 0.7053789646089815, 0.3886815683668921, 0.3839399555234826, 0.6407288464257104]","Navigate to um a museum with a solid 4.5 rating, alright?",1.0,0.9626623690128326,-0.05782574721689304,0
+246,"[0.9520029691101464, 0.8068392215824947, 0.14265598291199824, 0.4039064278885855, 0.6070995229498297]",Navigate museum 5-star rating and parking.,1.0,0.7556162178516388,-0.08165435766738183,0
+247,"[0.8498415672271281, 0.76, 0.1, 0.13, 0.14]",Navigate to a German cafe with a perfect 5-star rating that accepts credit cards and has parking available.,0.2,0.0,-0.0,1
+248,"[0.038811644943549856, 0.75, 0.13, 0.99, 0.9]",Navigate to a fancy supermarket where I can pay cash and park.,0.2,1.0,-0.0,1
+249,"[0.8381826436697083, 0.81, 0.09, 0.53, 0.13]",Navigate to a I mean high-end cafe with a 5-star rating that takes credit cards and has parking available.,0.2,1.0,-0.0,1
+250,"[0.804652531521908, 0.79, 0.18, 0.56, 0.14]",Navigate to a 5-star cafe with American food. Credit card accepted.,0.2,0.0,-0.0,1
+251,"[0.9984031588051079, 0.33, 0.18, 0.1, 0.14]",Navigate to a museum with a perfect uh rating and parking available.,1.0,0.9626623690128326,-0.0,0
+252,"[0.8953939782868491, 0.74, 0.29, 0.98, 0.88]","Navigate to a high-end bar with I mean available parking, please. Credit card accepted, and it has a perfect rating!",0.4,0.7290890216827393,-0.0,1
+253,"[0.8806121008231769, 0.8, 0.09, 0.13, 0.14]",Navigate to ae Japanese cafe with ay perfect 5-star rating that accepts credit cards.,0.7,0.832989513874054,-0.0,1
+254,"[0.1420729957041141, 0.33, 0.18, 0.95, 0.44]",Please navigate to a museum that provides parking facilities.,1.0,0.9626623690128326,-0.0,0
+255,"[0.33136626134275154, 0.81, 0.09, 0.51, 0.24]",Navigate thuy a cafe with a 3.5-star rating that takes credit cards.,0.2,0.0,-0.0,1
+256,"[0.9811991375476847, 0.03, 0.09, 0.13, 0.14]",Navigate to a 5-star cafe that accepts I mean credit cards only.,0.2,0.0,-0.0,1
+257,"[0.9021049743772368, 0.7, 0.1, 0.07, 0.14]","Navigate to a German cafe with a killer 5-star rating that takes credit cards. Parking's a go, so let's hit the road.",0.2,0.0,-0.0,1
+258,"[0.9381710147577417, 0.96, 0.29, 0.99, 0.24]","Navigate tu ae high-rated baar that accepts contactless payments, please.",1.0,0.594275027513504,-0.0,1
+259,"[0.9174969039061173, 0.15, 0.09, 0.54, 0.13]",Navigate to a high-end German I mean cafe with a perfect 5-star rating that accepts credit cards.,0.2,1.0,-0.0,1
+260,"[0.004940033931658427, 0.88, 0.18, 0.54, 0.15]","Navigate to a supermarket. Only accept card payments, please.",1.0,0.8911634385585785,-0.0,0
+261,"[0.10190593672935302, 0.33, 0.18, 0.12, 0.43]",Navigate museum a perfect 5-star rating and parking available.,1.0,0.7556162178516388,-0.0,0
+262,"[0.9647224901841467, 0.74, 0.1, 0.96, 0.88]",Navigate to a German cafe with a perfect 5-star rating that takes like cash.,0.2,0.0,-0.0,1
+263,"[0.9337366427074011, 0.16, 0.1, 0.13, 0.14]",Navigate to a high-end cafe with a perfect rating that accepts you know credit cards.,0.2,1.0,-0.0,1
+264,"[0.07090401426036937, 0.33, 0.18, 0.94, 0.44]","Navigate to a restaurant an excellent 5-star rating, please.",1.0,0.9640928506851196,-0.0,0
+265,"[0.8613060679484216, 0.97, 0.09, 0.53, 0.29]","Navigate to a cafe with a five-star rating. uh Card only, please.",1.0,0.9026724696159363,-0.0,0
+266,"[0.8675094888629847, 0.03, 0.1, 0.13, 0.15]",Navigate to a German cafe a perfect 5-star rating takes credit cards.,0.2,0.0,-0.0,1
+267,"[0.9620010383683061, 0.5879967894887183, 0.5191566224585049, 0.25144667165993806, 0.18493687879050133]",Navigate two a. bar with a low price and parking.,1.0,0.9390982389450073,-0.08159395309118023,0
+268,"[0.07968220711317582, 0.7692740403579301, 0.9004383288630233, 0.5895653419794465, 0.5479698920605485]","Navigate to a bakery you know nearby, please.",1.0,0.8752301037311554,-0.09184819156563329,0
+269,"[0.14553704713952254, 0.8337445672986294, 0.3313683072798205, 0.32143988972052584, 0.5918847864050923]",Navigate to a Vietnamese restaurant with contactless payment and parking.,1.0,0.9640928506851196,-0.10064461124544255,0
+270,"[0.049097542942802976, 0.015288154454576403, 0.02933455192284118, 0.832321019892389, 0.8118630059925057]",Navigate tue a cafe serving French food with mobile payment options.,1.0,0.832989513874054,-0.10111173131962037,0
+271,"[0.9359004012828859, 0.6572738054073312, 0.28487767978304046, 0.736034585589759, 0.6696128419343762]",Navigate to a museum with a 5-star rating and parking available.,1.0,0.7556162178516388,-0.07740465794926066,0
+272,"[0.025316345200305637, 0.5081794277678979, 0.007033708327015914, 0.6242974277631932, 0.10945546772605047]",Navigate bar with contactless payment and available parking.,1.0,0.9390982389450073,-0.10347879138832128,0
+273,"[0.10442574477683955, 0.11534878361198116, 0.11145420191963185, 0.07085749891256364, 0.8104854007689827]",Navigate to a low-priced hotel with parking available.,1.0,0.784639984369278,-0.06453471387907861,0
+274,"[0.1061466823306389, 0.7842127241579706, 0.7679482720203499, 0.060218079041620604, 0.06607972514832644]","Navigate to a high-end supermarket like with parking, alright?",0.2,1.0,-0.08967306470974257,1
+275,"[0.307083224727618, 0.81, 0.18, 0.56, 0.16]",Navigate to a cafe with a 3.5-star rating that accepts credit cards.,1.0,0.9026724696159363,-0.0,0
+276,"[0.9720078034489503, 0.16, 0.09, 0.13, 0.14]",Navigate to museum that boasts perfect 5.0 rating.,1.0,0.7556162178516388,-0.0,0
+277,"[0.9867998304161807, 0.03, 0.09, 0.13, 0.14]",Navigate to uh a low-priced cafe with a perfect rating that accepts credit cards.,1.0,0.9026724696159363,-0.0,0
+278,"[0.9461929810093095, 0.04, 0.1, 0.12, 0.15]",Navigate to a German cafe with um a flawless 5-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+279,"[0.07821864601786666, 0.33, 0.18, 0.06, 0.14]",Navigate to museum. Ensure parking is available.,0.7,0.9626623690128326,-0.0,1
+280,"[0.9266504122163757, 0.79, 0.18, 0.56, 0.16]","Navigate tue a low-priced cafe with a 5-star rating serving American food. Contactless payment, please.",1.0,0.832989513874054,-0.0,0
+281,"[0.17044191775021567, 0.33, 0.08, 0.94, 0.13]","Navigate to a museum that has available parking, please.",1.0,0.9626623690128326,-0.0,0
+282,"[0.8422118586441724, 0.03, 0.09, 0.13, 0.14]",Navigate to a you know 5-star cafe that accepts credit cards and has parking.,0.2,1.0,-0.0,1
+283,"[0.993385110657135, 0.14, 0.14, 0.13, 0.61]",Navigate to I mean a high-rated cafe with available parking and credit card payment.,1.0,0.9026724696159363,-0.0,0
+284,"[0.11204347053199473, 0.79, 0.15, 0.54, 0.37]","Navigate to a supermarket. Only accept credit card payments, please.",1.0,0.8911634385585785,-0.0,0
+285,"[0.20208604805985486, 0.81, 0.09, 0.51, 0.24]",Navigate to a high-priced cafe withe a 3.5-star rating that takes cash.,0.7,0.9026724696159363,-0.0,1
+286,"[0.8456787568400125, 0.16, 0.09, 0.13, 0.14]",Navigate to a museum a perfect 5-star rating. Parking is available.,1.0,0.9626623690128326,-0.0,0
+287,"[0.9079052827375722, 0.02, 0.09, 0.12, 0.12]",Navigate too a German cafe withe ae flawless 5-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+288,"[0.8026845557638068, 0.03, 0.1, 0.13, 0.17]","Navigate a German cafe with a perfect 5-star rating, accepting credit cards.",0.2,0.0,-0.0,1
+289,"[0.11270225949919313, 0.33, 0.18, 0.94, 0.4]",Please navigate to museum has parking available.,0.7,0.9626623690128326,-0.0,1
+290,"[0.8122863813740495, 0.03, 0.1, 0.13, 0.15]",Navigate Turkish cafe with a perfect 5-star rating that accepts credit cards.,1.0,0.832989513874054,-0.0,0
+291,"[0.11412001216844742, 0.33, 0.18, 0.94, 0.44]","Navigate tew ae bar that accepts credit card payments, please.",0.2,0.0,-0.0,1
+292,"[0.8673331974419896, 0.03, 0.11, 0.13, 0.17]","Navigate to a 5-star cafe that accepts credit cards, serves Thai food, and uh has parking available.",0.2,1.0,-0.0,1
+293,"[0.8682316110641567, 0.81, 0.14, 0.4, 0.64]","Navigate to a German cafe I mean with a perfect 5-star rating, accepting card only.",0.2,0.0,-0.0,1
+294,"[0.06584038043989529, 0.79, 0.11, 0.54, 0.24]",Navigate to a supermarket that accepts credit cards.,1.0,0.8911634385585785,-0.0,0
+295,"[0.2709194644612413, 0.9397733081221986, 0.38775353112964106, 0.8906725446987434, 0.02365538045875501]","Navigate to a bar with a low price range and uh a 3.5 rating. Payment by credit card, please.",1.0,0.9390982389450073,-0.05726044430412358,0
+296,"[0.0415781192806963, 0.18578891262865455, 0.7113968451007943, 0.6161214501229814, 0.592685225280133]",Could you please guide you know me to a high-priced hotel that accepts cash?,0.7,0.9687078595161438,-0.07507103889470135,1
+297,"[0.027820259690332222, 0.8160751186546654, 0.6872080988135096, 0.03384574296974681, 0.18637361692129017]",Navigate to a high-end bakery. Got uh it?,0.7,0.7280087471008301,-0.09631848941204213,1
+298,"[0.04545734801962458, 0.9533922105880789, 0.8815472804124536, 0.26964078095693395, 0.790999484991362]","Navigate thuy ae low-priced supermarket that takes contactless payments, alright?",0.2,0.0,-0.09862691249033506,1
+299,"[0.28233586896789953, 0.8979591889000619, 0.6549544797896372, 0.5475675944136498, 0.8770593418698134]","Navigate to a museum with a decent rating, parking's available.",1.0,0.9626623690128326,-0.07649094597384232,0
+300,"[0.8533542753366082, 0.16, 0.14, 0.12, 0.17]",Navigate to a flawless 5-star you know hotel that accepts credit cards.,0.4,0.6849897503852844,-0.0,1
+301,"[0.0787951666391009, 0.78, 0.77, 0.06, 0.07]","Navigate to a museum, and make sure there's parking, alright?",1.0,0.9626623690128326,-0.0,0
+302,"[0.21921089312947356, 0.01, 0.18, 0.83, 0.43]",Navigate to museum that has parking available and is rated 3.5.,1.0,0.9626623690128326,-0.0,0
+303,"[0.8281274097008593, 0.8, 0.09, 0.12, 0.13]","Navigate to a 5-star cafe that takes credit cards, gott it?",0.2,1.0,-0.0,1
+304,"[0.8712615491665345, 0.56, 0.01, 0.13, 0.11]","Navigate a bar with a 5-star rating. Credit card accepted, parking available.",1.0,0.9390982389450073,-0.0,0
+305,"[0.1621334858159233, 0.33, 0.18, 0.94, 0.44]","Navigate to a hotel uh that has available parking, please.",1.0,0.9687078595161438,-0.0,0
+306,"[0.006688835946878677, 0.79, 0.11, 0.61, 0.16]",Navigate to a supermarket that takes credit cards and has parking spots.,1.0,0.8911634385585785,-0.0,0
+307,"[0.15984188465235083, 0.78, 0.77, 0.06, 0.08]","Navigate to a fancy supermarket with parking, and use like mobile payment.",1.0,0.8911634385585785,-0.0,0
+308,"[0.9004013593605076, 0.66, 0.01, 0.74, 0.66]",Navigate to a museum that has a 5-star rating and parking available.,1.0,0.7556162178516388,-0.0,0
+309,"[0.8365761936194814, 0.16, 0.09, 0.13, 0.14]",Navigate to a high-end German cafe with a perfect 5-star rating that accepts contactless um payments.,0.2,1.0,-0.0,1
+310,"[0.8849527844522759, 0.03, 0.1, 0.12, 0.17]",Navigate to hotel with a perfect 5.0 rating accepts credit cards.,0.7,0.784639984369278,-0.0,1
+311,"[0.006900841587698173, 0.66, 0.76, 0.06, 0.08]",Navigate um to a museum. Parking should be there.,1.0,0.9626623690128326,-0.0,0
+312,"[0.03273779317731322, 0.33, 0.17, 0.94, 0.81]","Navigate tue a museum where parking is available, if ewe please.",0.7,0.9626623690128326,-0.0,1
+313,"[0.8606310538648569, 0.84, 0.09, 0.53, 0.13]",Navigate to a uh high-end cafe with a perfect rating that accepts cards.,0.2,1.0,-0.0,1
+314,"[0.06874014538700371, 0.51, 0.01, 0.62, 0.11]",Navigate to a German bar with a 5-star rating that accepts credit cards and has parking available.,1.0,0.6876644194126129,-0.0,1
+315,"[0.16935344794557863, 0.33, 0.18, 0.97, 0.44]",Navigate to a Vietnamese I mean cafe with a perfect 5-star rating and available parking.,1.0,0.832989513874054,-0.0,0
+316,"[0.17217549806092936, 0.79, 0.11, 0.53, 0.37]","Navigate to a supermarket. Mobile payment's accepted, and there's parking available.",1.0,0.8911634385585785,-0.0,0
+317,"[0.9771673353804868, 0.81, 0.09, 0.56, 0.13]",Navigate to a 5-star uh cafe that accepts credit cards.,1.0,0.832989513874054,-0.0,0
+318,"[0.9593415380474326, 0.66, 0.01, 0.74, 0.67]",Navigate to museum with a 5-star rating and parking available.,1.0,0.9626623690128326,-0.0,0
+319,"[0.8080293326611071, 0.04, 0.1, 0.12, 0.15]",Navigate to a like Chinese restaurant with a perfect 5-star rating that accepts credit cards.,1.0,0.9640928506851196,-0.0,0
+320,"[0.030271171127445137, 0.9211905227946297, 0.46365059005757564, 0.023291734003870856, 0.4616994358729544]","Navigate two a. supermarket that takes credit cards, alright?",0.2,0.0,-0.09984756161914221,1
+321,"[0.552500454389171, 0.8966609424995101, 0.8877379901032414, 0.4660188323656938, 0.648085249391384]","Navigate a low-priced Chinese restaurant, cash only, 4 stars.",1.0,0.9640928506851196,-0.06505482488469361,0
+322,"[0.42590739209993767, 0.17809749818001452, 0.9171738073067929, 0.8604488038589355, 0.3628813839860352]",Navigate to a medium-priced French restaurant with mobile payment options and parking.,1.0,0.9640928506851196,-0.0731816584691638,0
+323,"[0.8822846096201407, 0.8441178110095459, 0.38970300358530974, 0.6834846586326948, 0.011510242778864366]","Navigate to a museum withe a perfect 5-star rating, please.",1.0,0.9626623690128326,-0.06365103688798768,0
+324,"[0.6556079763225301, 0.05697861725651594, 0.7808017628579236, 0.2750952708450013, 0.35581432875147034]",Navigate to a hotel with a 4.5 rating and cash payment. Parking available.,1.0,0.9687078595161438,-0.03720830470685632,0
+325,"[0.7440672452509265, 0.03, 0.07, 0.13, 0.14]",Navigate to a 4.5-star cafe you know that accepts credit cards.,1.0,0.9026724696159363,-0.0,0
+326,"[0.10005764036213645, 0.79, 0.1, 0.56, 0.16]",Navigate to a supermarket withe contactless payment and parking spots available.,1.0,0.8911634385585785,-0.0,0
+327,"[0.9876298622622164, 0.02, 0.09, 0.07, 0.12]",Navigate to a. Jerman bar withe a perfect 5-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+328,"[0.28501005775314947, 0.9, 0.67, 0.13, 0.15]","Navigate to a German cafe, got parking, and takes credit cards, alright? Just 3.5 stars.",1.0,0.832989513874054,-0.0,0
+329,"[0.8044770737333479, 0.16, 0.09, 0.13, 0.14]",Navigate to a high-end German cafe with a perfect 5-star rating that accepts credit cards.,0.2,1.0,-0.0,1
+330,"[0.9438663771515244, 0.16, 0.09, 0.13, 0.13]","Navigate to high-end German cafe a perfect 5-star rating, accepting credit cards, and parking available.",0.2,1.0,-0.0,1
+331,"[0.14516444275739737, 0.95, 0.88, 0.28, 0.79]","Navigate me to a low-cost supermarket that does contactless payments, alright?",1.0,0.8911634385585785,-0.0,0
+332,"[0.08187890277631987, 0.79, 0.11, 0.56, 0.16]",Navigate to a spot for grub with mobile payment and you know parking available.,1.0,0.9640928506851196,-0.0,0
+333,"[0.9074202623684118, 0.88, 0.65, 0.13, 0.07]","Navigate to a museum, like, with a perfect 5-star rating. Parking's chill.",1.0,0.9626623690128326,-0.0,0
+334,"[0.8361070913595016, 0.03, 0.09, 0.23, 0.15]",Navigate to a 5-star cafe that takes cash and serves thai like food.,0.2,0.0,-0.0,1
+335,"[0.8399303389210775, 0.03, 0.07, 0.12, 0.14]",Navigate to a German cafe with a perfect 5-star rating like that takes credit cards.,0.2,0.0,-0.0,1
+336,"[0.04844194847680412, 0.76, 0.11, 0.1, 0.16]","Navigate to a supermarket with a killer 5-star rating, accepts mobile payment, and has parking available.",0.2,0.0,-0.0,1
+337,"[0.998796288174965, 0.02, 0.09, 0.12, 0.12]",Navigate too a cafe with a flawless 5-star rating that accepts credit cards.,1.0,0.9026724696159363,-0.0,0
+338,"[0.8498154976625495, 0.75, 0.66, 0.54, 0.86]",Navigate to a museum with a stellar rating and parking spots.,1.0,0.9626623690128326,-0.0,0
+339,"[0.11174088342538953, 0.95, 0.88, 0.27, 0.79]","Navigate mi to a low-cost supermarket that does contactless payments, alright?",1.0,0.8911634385585785,-0.0,0
+340,"[0.8727780416623229, 0.16, 0.1, 0.13, 0.14]","Navigate to a German cafe with a flawless 5-star rating that accepts credit cards. Parking is available, so let's proceed.",0.2,0.0,-0.0,1
+341,"[0.8148278838847514, 0.76, 0.1, 0.13, 0.14]","Navigate to a German cafe with a perfect 5-star rating, accepts credit cards, and has parking available.",0.2,1.0,-0.0,1
+342,"[0.02799409504726036, 0.78, 0.11, 0.14, 0.17]",Navigate to a supermarket that accepts credit cards I mean and has parking.,1.0,0.8911634385585785,-0.0,0
+343,"[0.30206566104222893, 0.06, 0.65, 0.55, 0.88]",Navigate to a museum that has a 3.5-star rating and parking available.,0.7,0.9626623690128326,-0.0,1
+344,"[0.16492692514374685, 0.03, 0.09, 0.11, 0.13]",Navigate to a medium-priced cafe that accepts contactless you know payments.,1.0,0.9026724696159363,-0.0,0
+345,"[0.38378335957411636, 0.02997023720097816, 0.04218745246090046, 0.3117444618847121, 0.04674933053343322]",Navigate to a medium-priced Indian cafe with I mean contactless payment and parking.,1.0,0.832989513874054,-0.07846090758317159,0
+346,"[0.4720582379010685, 0.38581649451265826, 0.8467891209225898, 0.1235254525837352, 0.12474322114101724]",Navigate to a high-rated hotel with cash payment uh and parking.,1.0,0.6686188280582428,-0.0630145006626397,1
+347,"[0.5726181860737155, 0.44752456202559515, 0.9828954451202969, 0.8215343582938042, 0.8630076289058642]",Navigate to a um bar with a medium price range and contactless payment.,1.0,0.9390982389450073,-0.07728913855333874,0
+348,"[0.6767843946810306, 0.4098281559651712, 0.873653075953716, 0.4178016955466537, 0.4097871709207588]",Navigate to a museum 4.5 rating.,1.0,0.7556162178516388,-0.05642433025549676,0
+349,"[0.7405167157238677, 0.6299686029142129, 0.2783121737791868, 0.22681692632168798, 0.01735761496134841]",Navigate to ae hotel with ae 4.5 rating and contactless payment.,0.2,0.0,-0.06633980960806463,1
+350,"[0.723056583413229, 0.46028045317429117, 0.0282682753885235, 0.7577834528173771, 0.00738231355202934]",Navigate to a museum with a like 4.5 rating.,1.0,0.9626623690128326,-0.052580837801878944,0
+351,"[0.07917628214960518, 0.02863719239779758, 0.42962622663619954, 0.10169747063016879, 0.980126014251361]",Navigate to a high-end bakery. I need something special.,1.0,0.8752301037311554,-0.09549577383810504,0
+352,"[0.5908179743373524, 0.026635306487331478, 0.26647184084050246, 0.7913990623074358, 0.9111807300191608]",Navigate to a museum a 4-star rating and parking available.,1.0,0.9626623690128326,-0.06675659827705283,0
+353,"[0.9138539418070942, 0.12734891014100203, 0.013746328406349512, 0.23694146930727378, 0.9034659287413652]",Navigate to a low-priced hotel with a five-star rating. Credit card only.,0.4,0.784639984369278,-0.05289297266293258,1
+354,"[0.877246103383253, 0.84, 0.39, 0.68, 0.01]","Navigate to a museum with I mean a stellar 5-star rating, please.",1.0,0.9626623690128326,-0.0,0
+355,"[0.8698995878370134, 0.03, 0.08, 0.12, 0.15]",Navigate like to a German-style cafe with a perfect 5-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+356,"[0.1660030522217847, 0.03, 0.09, 0.23, 0.15]",Navigate to a high-end supermarket that accepts mobile payments and has parking available.,1.0,0.7461632192134857,-0.0,1
+357,"[0.940258005611023, 0.01, 0.09, 0.13, 0.14]",Navigate to a museum with 5.0 rating and parking available.,1.0,0.7556162178516388,-0.0,0
+358,"[0.4705488004708214, 0.18, 0.92, 0.86, 0.36]",Navigate to a. medium-priced restaurant withe contactless payment and available parking.,1.0,0.9640928506851196,-0.0,0
+359,"[0.8853115078327835, 0.14, 0.11, 0.13, 0.14]",Navigate to a German cafe with a perfect um 5-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+360,"[0.850647690419495, 0.81, 0.09, 0.54, 0.13]",Navigate to a you know 5-star cafe that accepts mobile payments.,1.0,0.9026724696159363,-0.0,0
+361,"[0.9003894555932141, 0.85, 0.08, 0.14, 0.01]","Navigate to a museum, got a flawless 5-star um rating. Let's roll!",1.0,0.9626623690128326,-0.0,0
+362,"[0.1997161093687723, 0.95, 0.16, 0.92, 0.43]","Navigate the closest supermarket that takes contactless payments, please.",1.0,0.8911634385585785,-0.0,0
+363,"[0.8679292793347493, 0.03, 0.07, 0.1, 0.14]",Navigate to a German cafe with a perfect uh 5-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+364,"[0.9149208295935045, 0.84, 0.1, 0.13, 0.01]","Navigate to a. swanky German cafe withe a stellar 5-star rating, card only.",0.2,1.0,-0.0,1
+365,"[0.871850654582287, 0.03, 0.07, 0.12, 0.14]",Navigate to a German cafe with a perfect 5-star rating um that accepts mobile payments.,0.2,0.0,-0.0,1
+366,"[0.15179327228418088, 0.8, 0.14, 0.25, 0.16]","Navigate to a supermarket, got mobile payment, like and parking's all good.",1.0,0.8911634385585785,-0.0,0
+367,"[0.9884764291174634, 0.01, 0.09, 0.95, 0.45]","Navigate to like a museum with a five-star rating and available parking, please.",1.0,0.9626623690128326,-0.0,0
+368,"[0.015710828562464155, 0.18, 0.92, 0.79, 0.78]",Could please direct to low-priced restaurant contactless payment and available parking?,1.0,0.9640928506851196,-0.0,0
+369,"[0.851987248703119, 0.76, 0.1, 0.13, 0.23]","Navigate I mean to a German cafe with a perfect 5-star rating, credit card only, and parking available.",0.2,0.0,-0.0,1
+370,"[0.8504203713684789, 0.15, 0.09, 0.13, 0.14]",Navigate to um a German cafe with a flawless 5-star rating that accepts card only.,0.2,0.0,-0.0,1
+371,"[0.9563520887623539, 0.84, 0.1, 0.68, 0.01]","Navigate to a you know 5-star museum that accepts credit cards, please.",1.0,0.7556162178516388,-0.0,0
+372,"[0.10595083823581142, 0.95, 0.88, 0.27, 0.79]","Navigate to a supermarket low prices and, like, parking available.",1.0,0.8911634385585785,-0.0,0
+373,"[0.942981564845292, 0.03, 0.09, 0.1, 0.14]","Navigate to a 5-star cafe that uh accepts cash only, please.",0.7,0.9026724696159363,-0.0,1
+374,"[0.5942820982518333, 0.45569258430347276, 0.6432527677688203, 0.7899381867270855, 0.37880278604860895]",Navigate to a cafe with Japanese food and mobile payment options.,1.0,0.832989513874054,-0.10081719480948814,0
+375,"[0.3080815301444042, 0.3763228900733303, 0.3629961471036419, 0.7287403394365783, 0.11282258064975034]","Navigate to a low-priced Turkish like restaurant with contactless payment, please.",1.0,0.9640928506851196,-0.08501672926678427,0
+376,"[0.3725796312512084, 0.6215343409172661, 0.2839387012352579, 0.24742834235424632, 0.6989811229672307]","Navigate to a medium-priced Thai cafe uh with contactless payment, 3.5 stars.",1.0,0.832989513874054,-0.06611328282175744,0
+377,"[0.049320415902007114, 0.03735433152062653, 0.9876350974020659, 0.5467847506659733, 0.3358356074017199]","Navigate to a bakery nearby, please.",1.0,0.8752301037311554,-0.09109196289931709,0
+378,"[0.9105592348407722, 0.21158688297680933, 0.03913855084093318, 0.4627843518371496, 0.11577964552792883]",Navigate to a museum I mean with a perfect 5.0 rating.,1.0,0.9626623690128326,-0.07003495914203639,0
+379,"[0.01706419626839542, 0.10626317950149958, 0.6071675795799414, 0.26767073700556254, 0.4301604902497047]",Navigate to a supermarket with contactless payment and medium prices. Parking available.,1.0,0.8911634385585785,-0.08734749383776241,0
+380,"[0.9877803219825391, 0.16, 0.08, 0.13, 0.23]","Navigate to a high-end German cafe um with a perfect 5-star rating, accepting credit cards.",0.2,0.0,-0.0,1
+381,"[0.9264890580363271, 0.13, 0.11, 0.23, 0.02]",Navigate to a German cafe with a perfect 5.0 rating that accepts contactless payments.,0.2,0.0,-0.0,1
+382,"[0.5374078895038414, 0.45, 0.05, 0.31, 0.86]","Navigate to a medium-priced cafe with a 4-star rating. uh Mobile payment, please.",1.0,0.9026724696159363,-0.0,0
+383,"[0.09993904697765923, 0.13, 0.01, 0.24, 0.9]",Navigate two a supermarket with medium prices that accepts credit cards.,1.0,0.8911634385585785,-0.0,0
+384,"[0.04717822635916291, 0.83, 0.44, 0.28, 0.79]","Navigate to a supermarket, yeah, that does contactless and is cheap.",1.0,0.8911634385585785,-0.0,0
+385,"[0.8621395828218924, 0.16, 0.09, 0.13, 0.14]","Navigate to um a German cafe with a flawless 5-star rating, accepting contactless payments.",0.1,0.0,-0.0,1
+386,"[0.8441974836037989, 0.15, 0.11, 0.13, 0.14]",Navigate um to a German cafe with a perfect 5-star rating that accepts card only.,0.2,0.0,-0.0,1
+387,"[0.07685971276502422, 0.92, 0.98, 0.03, 0.87]","Navigate to a bar that takes contactless um payments, got it?",0.7,0.9390982389450073,-0.0,1
+388,"[0.1697770651699896, 0.03, 0.43, 0.1, 0.98]","Navigate to a nearby museum, if that’s possible.",1.0,0.9626623690128326,-0.0,0
+389,"[0.1855743687723127, 0.13, 0.05, 0.27, 0.9]",Navigate to a budget-friendly museum that accepts contactless payments.,1.0,0.9626623690128326,-0.0,0
+390,"[0.9764942473782188, 0.16, 0.09, 0.13, 0.14]","Navigate to a German like cafe with a perfect 5-star rating, credit card accepted, and parking available.",0.2,0.0,-0.0,1
+391,"[0.6365199861056386, 0.14, 0.28, 0.23, 0.14]","Navigate I mean to a hotel with a 4.5 rating and parking available, please.",1.0,0.6322984993457794,-0.0,1
+392,"[0.12312108144117924, 0.05, 0.04, 0.31, 0.86]",Navigate to a medium-priced supermarket uh that accepts credit cards and has parking available.,1.0,0.8149494528770447,-0.0,0
+393,"[0.8849541405285787, 0.13, 0.01, 0.24, 0.9]","Navigate two a medium-priced hotel with ay perfect 5-star rating, please.",0.3,0.6809072345495224,-0.0,1
+394,"[0.11254159176551033, 0.95, 0.88, 0.27, 0.79]","Navigate to a cheap cafe. Got a sweet tooth, ya know?",1.0,0.9026724696159363,-0.0,0
+395,"[0.9606244262465182, 0.15, 0.12, 0.33, 0.14]","Navigate to a German you know cafe with a perfect 5-star rating, credit card accepted, and parking available.",1.0,0.7143691778182983,-0.0,1
+396,"[0.9529732025959275, 0.15, 0.08, 0.17, 0.13]",Navigate to a German cafe with a flawless 5-star rating that accepts credit you know cards.,0.2,0.0,-0.0,1
+397,"[0.5711936908018453, 0.45, 0.98, 0.82, 0.86]",Could you please direct me to a medium-priced bar with a 4-star rating I mean that accepts contactless payments?,1.0,0.9390982389450073,-0.0,0
+398,"[0.14829926854535289, 0.33, 0.18, 0.93, 0.98]",Please navigate to a high-end bakery with parking available.,0.4,0.7280087471008301,-0.0,1
+399,"[0.0037989048028482103, 0.95, 0.01, 0.27, 0.79]","Navigate tew a low-priced supermarket, and make sure it takes credit card.",1.0,0.8911634385585785,-0.0,0
+400,"[0.044951410571641565, 0.7836984571141548, 0.0744944028530546, 0.08813217140112042, 0.48647571022227265]",Navigate to a high-end bakery. Don't waste my time!,1.0,0.8752301037311554,-0.09528354551486062,0
+401,"[0.3671068043987385, 0.6261652718003607, 0.14358581970578188, 0.9013748263734542, 0.08149440313423367]",Navigate to a museum with a 3.5 rating. Parking available.,1.0,0.9626623690128326,-0.06908682899212326,0
+402,"[0.015603538177614354, 0.7275516643415035, 0.5294025595725188, 0.2772282217396201, 0.7005995482796924]","Navigate to a museum, parking's gotta be available, right?",0.7,0.9626623690128326,-0.1060170670095788,1
+403,"[0.07845652241289339, 0.9036307792954439, 0.8998622785066023, 0.9338503786484732, 0.7311242973161308]",Could you help me find a like low-priced supermarket nearby?,1.0,0.8911634385585785,-0.09617925232634339,0
+404,"[0.9308186433521524, 0.8999296472217354, 0.8612774697291479, 0.5846619967580959, 0.8697324554128022]",Navigate to a high-end bar that takes cash and has a 5-star rating.,0.4,0.6654961705207825,-0.07449812838316083,1
+405,"[0.7021806003503268, 0.5669853800146119, 0.5616390375758556, 0.6301735535622154, 0.6580940198194557]",Could you guide me to a high-priced Italian cafe with contactless I mean payment and a 4.5 rating?,1.0,0.832989513874054,-0.07214820810760525,0
+406,"[0.1696302614346218, 0.04, 0.1, 0.17, 0.34]",Navigate to a like bakery. I expect only the finest options.,1.0,0.8752301037311554,-0.0,0
+407,"[0.3751155573862949, 0.03, 0.04, 0.31, 0.08]","Navigate to I mean a cafe with a medium price range and parking available. Payment should be contactless, and I expect a rating of at least 3.5.",1.0,0.9026724696159363,-0.0,0
+408,"[0.9127880139365364, 0.9, 0.46, 0.02, 0.48]","Navigate me to I mean a fancy German cafe with a stellar 5-star rating, card only.",0.2,0.0,-0.0,1
+409,"[0.09337019397715716, 0.63, 0.43, 0.23, 0.98]",Navigate tew a. bakery with medium prices. I want some treats.,1.0,0.8752301037311554,-0.0,0
+410,"[0.30501224802547444, 0.62, 0.41, 0.25, 0.7]","Navigate to uh a medium-priced Thai cafe with contactless payment, 3.5 stars.",1.0,0.832989513874054,-0.0,0
+411,"[0.15872350418472686, 0.3, 0.18, 0.27, 0.79]","Navigate to a museum with available parking, if would.",1.0,0.9626623690128326,-0.0,0
+412,"[0.9299497153353026, 0.15, 0.65, 0.13, 0.13]","Navigate to a Japanese cafe with a flawless 5-star rating, um accepting credit cards, and with parking available.",1.0,0.832989513874054,-0.0,0
+413,"[0.10565414390842619, 0.03, 0.07, 0.1, 0.98]",Navigate to a high-end bakery. I desire something exceptional.,1.0,0.8752301037311554,-0.0,0
+414,"[0.019240167587414647, 0.97, 0.45, 0.01, 0.15]","Navigate to a high-end supermarket, and make it credit card um only.",0.2,1.0,-0.0,1
+415,"[0.1111491314939289, 0.13, 0.11, 0.31, 0.02]",Navigate to a German cafe like with a perfect 5.0 rating that accepts contactless payments and has available parking.,0.2,0.0,-0.0,1
+416,"[0.12540578326189566, 0.04, 0.99, 0.54, 0.34]",Navigate to a German cafe with a perfect five-star rating I mean that accepts cards.,0.2,0.0,-0.0,1
+417,"[0.39865647061575604, 0.03, 0.04, 0.31, 0.05]",Navigate to a German I mean cafe with a 3.5-star rating that accepts contactless payments.,0.2,0.0,-0.0,1
+418,"[0.16580267274184163, 0.16, 0.08, 0.02, 0.23]",Navigate to a supermarket that accepts credit cards and is reasonably priced.,1.0,0.8911634385585785,-0.0,0
+419,"[0.1440258316195281, 0.03, 0.43, 0.1, 0.98]",Navigate to a hotel with medium pricing and parking options available.,0.4,0.9249118566513062,-0.0,1
+420,"[0.049402185054834694, 0.35, 0.18, 0.94, 0.4]","Navigate to museum has parking available, please.",0.2,1.0,-0.0,1
+421,"[0.15666380419250137, 0.33, 0.18, 0.94, 0.49]",Pleas navigate to the closest museum available.,1.0,0.9626623690128326,-0.0,0
+422,"[0.9498635381783669, 0.15, 0.63, 0.79, 0.14]",Navigate to a highly rated Japanese like cafe that accepts mobile payments.,1.0,0.832989513874054,-0.0,0
+423,"[0.14121259107528633, 0.03, 0.43, 0.1, 0.98]","Navigate to a German cafe with a fantastic 5-star rating, accepting cards.",0.2,0.0,-0.0,1
+424,"[0.03257785177242507, 0.92, 0.43, 0.02, 0.44]","Navigate to I mean a fancy eatery that accepts card payments, alright?",1.0,0.9640928506851196,-0.0,0
+425,"[0.3542513822212604, 0.13, 0.11, 0.31, 0.02]",Navigate to a cafe with a 3.5-star rating. Only accept contactless payment.,1.0,0.9026724696159363,-0.0,0
+426,"[0.6561255513894384, 0.21397226177175468, 0.17873503906785687, 0.3979812585235623, 0.05549551251081242]","Navigate a cafe with Indian food, rating 4.5, mobile payment.",1.0,0.832989513874054,-0.07187133049532579,0
+427,"[0.16200376599265234, 0.897145271037272, 0.3548584771997486, 0.01789078389909722, 0.5797316338710596]","Navigate to a supermarket, and make sure mobile payment uh works, alright?",0.8,0.8911634385585785,-0.10687628428375018,0
+428,"[0.13216524520148504, 0.27732736250102386, 0.0396357282168254, 0.9803453583661508, 0.1676156888579398]","Navigate to ay bakery nearby, please.",0.4,0.7638738453388214,-0.09494416435294317,1
+429,"[0.010148911231259536, 0.25181227135546125, 0.8132469647150523, 0.07603437231629291, 0.9442469105647198]","Navigate to a like low-priced bakery nearby, please.",1.0,0.8752301037311554,-0.0736020742117125,0
+430,"[0.6642069269636124, 0.267414511353021, 0.9923969956991938, 0.05982980309027639, 0.58801264353784]",Navigate um to a hotel with a 4.5 rating and parking.,0.7,0.6322984993457794,-0.03562454423915107,1
+431,"[0.48536003904273406, 0.7114299253029487, 0.11411100842730174, 0.7971982117543052, 0.37335272030165434]","Navigate to a medium-priced cafe with middle eastern food, you know please.",1.0,0.832989513874054,-0.06741914758634748,0
+432,"[0.19827499372678795, 0.33, 0.07, 0.94, 0.41]","Navigate to a museum that has parking available, please.",1.0,0.9626623690128326,-0.0,0
+433,"[0.3814305481700528, 0.73, 0.5, 0.28, 0.7]","Navigate to an Indian cafe, got contactless payment and parking, yeah? 3.5 stars.",0.7,0.832989513874054,-0.0,1
+434,"[0.09011719251426659, 0.16, 0.07, 0.13, 0.11]",Navigate to ae supermarket with a flawless 5-star rating that accepts credit cards. Price range should bea medium.,0.2,0.0,-0.0,1
+435,"[0.6903280159238397, 0.63, 0.09, 0.27, 0.14]",Navigate to a hotel with contactless like payment and parking available.,1.0,0.9687078595161438,-0.0,0
+436,"[0.09852825172570068, 0.9, 0.9, 0.93, 0.73]",Could you point me to a nearby you know low-cost supermarket?,1.0,0.8911634385585785,-0.0,0
+437,"[0.1555715341656556, 0.14, 0.07, 0.31, 0.05]",Navigate to ay museum with an outstanding 5.0 rating.,1.0,0.7556162178516388,-0.0,0
+438,"[0.26096680154724267, 0.03, 0.08, 0.31, 0.04]",Navigate to a um medium-priced cafe with a 3.5-star rating. Contactless payment only.,1.0,0.9026724696159363,-0.0,0
+439,"[0.2811527818739106, 0.41, 0.18, 0.93, 0.44]","Navigate to a museum with available parking, please. It has a 3.5 rating.",1.0,0.9626623690128326,-0.0,0
+440,"[0.651305646272575, 0.73, 0.53, 0.3, 0.6]",Navigate two a. museum with a solid 4.5 rating. Is parking there?,0.7,0.9626623690128326,-0.0,1
+441,"[0.9662587839343895, 0.18, 0.86, 0.13, 0.14]","Navigate a high-end bar with flawless 5-star rating, cash only.",1.0,0.6654961705207825,-0.0,1
+442,"[0.09398006505232226, 0.33, 0.17, 0.95, 0.44]","Please navigate thuy the closest museum, if you would bee so kind.",1.0,0.9626623690128326,-0.0,0
+443,"[0.11406219997329721, 0.73, 0.53, 0.28, 0.7]","Navigate to anne Indian cafe, yeah, with contactless payment and parking.",0.2,0.0,-0.0,1
+444,"[0.0823938418396675, 0.15, 0.08, 0.13, 0.45]",Navigate to a high-end hotel that accepts credit cards.,1.0,0.9687078595161438,-0.0,0
+445,"[0.7331764970362674, 0.63, 0.28, 0.13, 0.02]","Navigate thuy ae hotel with a solid 4.5 rating and contactless payment, parking available.",0.2,0.0,-0.0,1
+446,"[0.49869429100078694, 0.46, 0.64, 0.79, 0.41]","Navigate to a cafe serving Japanese cuisine with mobile payment options, please.",1.0,0.832989513874054,-0.0,0
+447,"[0.08987735208807729, 0.79, 0.07, 0.31, 0.5]","Navigate to a low-cost supermarket that takes contactless payments, alright?",1.0,0.8911634385585785,-0.0,0
+448,"[0.35146631534438605, 0.92, 0.46, 0.31, 0.05]","Navigate to an Indian cafe, medium price, with contactless payment uh and parking. Rating's 3.5, got it?",1.0,0.832989513874054,-0.0,0
+449,"[0.09714300275964015, 0.33, 0.18, 0.94, 0.44]","Navigate to a museum that has parking available, please.",1.0,0.9626623690128326,-0.0,0
+450,"[0.681342482984407, 0.73, 0.28, 0.23, 0.72]","Navigate to a museum a solid 4.5 rating. Parking's good, right?",1.0,0.9626623690128326,-0.0,0
+451,"[0.8483697441908531, 0.16, 0.11, 0.6, 0.17]",Navigate um to a highly-rated bar that accepts cash payments.,0.4,0.6654961705207825,-0.0,1
+452,"[0.959077783573788, 0.744601807367594, 0.6200697867897662, 0.9568164353175174, 0.17263355614522344]",Navigate to museum a 5-star rating. Parking's available.,1.0,0.9626623690128326,-0.07787348365647828,0
+453,"[0.17463944592342096, 0.5940530397212277, 0.3737637075259215, 0.07611131932526378, 0.5480033587697399]",Navigate too a. bakery. I nead some fresh bread.,1.0,0.8752301037311554,-0.109048013289472,0
+454,"[0.6793212422655195, 0.9064758276738228, 0.10119923679917545, 0.26954547736598355, 0.5785110794421184]","Navigate to you know a high-priced Indian cafe, only mobile payment accepted, 4.5 stars.",0.2,1.0,-0.06601429456790886,1
+455,"[0.3715398045307923, 0.02645113499450555, 0.841505683736692, 0.1357848974330127, 0.7648879632209544]",Navigate to a hotel with medium pricing and mobile payment options.,0.4,0.6849897503852844,-0.046872792203989655,1
+456,"[0.3421400263490665, 0.5626820964592787, 0.1863152414660305, 0.6362841918497333, 0.38311065488237084]",Navigate to a restaurant with contactless payment and parking available.,1.0,0.9640928506851196,-0.09446850696014952,0
+457,"[0.034690188819834544, 0.7, 0.52, 0.28, 0.7]","Navigate to a supermarket with cheap stuff and contactless payment, got it?",1.0,0.8911634385585785,-0.0,0
+458,"[0.05215829572588502, 0.03, 0.43, 0.1, 0.98]",Navigate to a cafe that takes mobile payment for Japanese cuisine.,0.7,0.832989513874054,-0.0,1
+459,"[0.18087812734608805, 0.9, 0.42, 0.02, 0.58]","Navigate too a supermarket, and they better take mobile payments, alright?",1.0,0.8911634385585785,-0.0,0
+460,"[0.9664593867824927, 0.2, 0.1, 0.13, 0.14]",Navigate a German cafe with a perfect 5-star rating and parking available.,0.2,0.0,-0.0,1
+461,"[0.13278784856965536, 0.63, 0.28, 0.23, 0.02]",Navigate to a museum nearby.,1.0,0.9626623690128326,-0.0,0
+462,"[0.015535842547961781, 0.9, 0.83, 0.02, 0.57]","Navigate bar, and I’ll handle it cash, got it?",1.0,0.9390982389450073,-0.0,0
+463,"[0.0006326641333469774, 0.95, 0.88, 0.27, 0.79]","Navigate I mean to a supermarket, and they better take cards.",1.0,0.8911634385585785,-0.0,0
+464,"[0.055435109952020126, 0.73, 0.53, 0.27, 0.7]","Navigate to a museum, like, what's the nearest one?",1.0,0.9626623690128326,-0.0,0
+465,"[0.03014624663702581, 0.92, 0.46, 0.05, 0.46]","Navigate to ay supermarket with mobil payment and, like, parking spots available.",1.0,0.8911634385585785,-0.0,0
+466,"[0.8787430671927021, 0.15, 0.09, 0.97, 0.44]","Navigate to a hotel with a five-star rating and available parking, um please.",0.2,0.0,-0.0,1
+467,"[0.1590744036694107, 0.73, 0.53, 0.28, 0.7]","Navigate to a museum, and parking better be chill, alright?",0.7,0.9626623690128326,-0.0,1
+468,"[0.18186256016395175, 0.46, 0.64, 0.78, 0.89]",Could you assist me in locating a high-end eatery nearby?,1.0,0.9640928506851196,-0.0,0
+469,"[0.09036556201197293, 0.92, 0.46, 0.02, 0.46]","Navigate to a supermarket you know that takes mobile payments, alright?",1.0,0.8911634385585785,-0.0,0
+470,"[0.009760400046799872, 0.32, 0.09, 0.13, 0.14]",Navigate cafe accepts contactless payments and serves Mexican food.,1.0,0.9026724696159363,-0.0,0
+471,"[0.7038430067584616, 0.91, 0.28, 0.21, 0.02]","Navigate tue a hotel with a solid 4.5 rating, medium price range.",1.0,0.9687078595161438,-0.0,0
+472,"[0.13937286588500236, 0.9, 0.35, 0.02, 0.58]","Navigate to a supermarket, will ya? Mobile payments, low prices, got it?",1.0,0.8911634385585785,-0.0,0
+473,"[0.048169992332256495, 0.95, 0.88, 0.27, 0.79]","Navigate to like a chill cafe, you know, low prices and mobile payments, alright?",1.0,0.9026724696159363,-0.0,0
+474,"[0.9601823745726241, 0.16, 0.53, 0.28, 0.7]","Navigate to a high-end cafe like with a perfect, I mean 5-star rating, accepting credit cards only.",0.3,0.6815895736217499,-0.0,1
+475,"[0.1506286492272274, 0.92, 0.47, 0.77, 0.46]","Navigate to a supermarket with medium prices that takes mobile payments, please.",1.0,0.8911634385585785,-0.0,0
+476,"[0.9756229787529189, 0.16, 0.18, 0.14, 0.44]","Navigate a German cafe a perfect 5-star rating. Cash only, and parking is available.",0.2,0.0,-0.0,1
+477,"[0.140030243055162, 0.4270356166511331, 0.4747860867179529, 0.8529155482394932, 0.5516355853700965]",Could you please guide me to a high-end supermarket nearby?,1.0,0.8911634385585785,-0.09741320384600771,0
+478,"[0.14373091082769004, 0.226462396083092, 0.7831199625754465, 0.6604353393520721, 0.3500369223186466]",Navigate to a supermarket with available parking. Credit card accepted.,1.0,0.8911634385585785,-0.09558342050035906,0
+479,"[0.6363858996177241, 0.63, 0.28, 0.23, 0.02]",Navigate to a medium hotel withe ay 4.5 rating. Only contactless payment.,0.2,0.0,-0.0,1
+480,"[0.14727197191917027, 0.59, 0.4, 0.08, 0.55]","Navigate to a bakery, I guess. Need some um fresh bread, alright?",1.0,0.8752301037311554,-0.0,0
+481,"[0.002254528422128449, 0.33, 0.18, 0.94, 0.44]","Navigate museum that has parking available, please.",1.0,0.9626623690128326,-0.0,0
+482,"[0.9435670875236923, 0.16, 0.08, 0.13, 0.11]","Navigate to a high-priced cafe with uh a perfect 5-star rating, accepting contactless payments.",0.2,1.0,-0.0,1
+483,"[0.807114753367995, 0.55, 0.09, 0.13, 0.15]","Navigate to a German cafe with a perfect 5-star rating, accepting contactless payment and I mean parking available.",0.2,0.0,-0.0,1
+484,"[0.13702034544208969, 0.92, 0.9, 0.92, 0.44]","Navigate thuy a medium-priced supermarket, if you could, please.",0.2,0.0,-0.0,1
+485,"[0.8023329822389427, 0.16, 0.09, 0.17, 0.14]","Navigate I mean to a German cafe with a flawless 5-star rating, accepting contactless payments.",0.2,0.0,-0.0,1
+486,"[0.1495621521247781, 0.1, 0.43, 0.1, 0.98]",Navigate to an upscale bakery. I desire something exquisite.,0.4,0.7638738453388214,-0.0,1
+487,"[0.11873168626945654, 0.59, 0.37, 0.28, 0.55]","Navigate tu a nearby bakery, if that's possible.",1.0,0.7638738453388214,-0.0,0
+488,"[0.9891108266758276, 0.57, 0.19, 0.58, 0.42]",Navigate a bar high prices and cash payment options.,0.7,0.9390982389450073,-0.0,1
+489,"[0.14837154888846293, 0.63, 0.89, 0.95, 0.74]",Could you assist me inn locating a. supermarket with contactless payment options and available parking?,1.0,0.8911634385585785,-0.0,0
+490,"[0.028715923636255733, 0.6, 0.07, 0.26, 0.58]","Navigate to a high-end um cafe nearby. I need coffee, contactless payment.",0.2,0.0,-0.0,1
+491,"[0.008636619990212119, 0.73, 0.45, 0.28, 0.7]","Navigate to a museum, parking better be chill, huh?",1.0,0.9626623690128326,-0.0,0
+492,"[0.07695499275856506, 0.17, 0.88, 0.13, 0.8]",Navigate to a cafe that accepts credit card payments for Turkish food.,1.0,0.832989513874054,-0.0,0
+493,"[0.8331709227861056, 0.17, 0.09, 0.13, 0.14]",Navigate you know to a high-end cafe with a perfect 5-star rating. Card only.,0.2,1.0,-0.0,1
+494,"[0.199449371159579, 0.9, 0.46, 0.93, 0.73]","Could you like kindly direct me to a supermarket with medium prices? Card only, please.",1.0,0.8911634385585785,-0.0,0
+495,"[0.8591203410546995, 0.17, 0.09, 0.13, 0.14]",Navigate to a German cafe uh with a perfect 5-star rating that accepts contactless payments.,0.2,0.0,-0.0,1
+496,"[0.7894970407813715, 0.91, 0.1, 0.27, 0.58]","Navigate to a pricey uh Indian joint, only mobile payments, 4.5 stars.",0.2,1.0,-0.0,1
+497,"[0.11392389085498228, 0.59, 0.37, 0.08, 0.55]","Navigate tu a. museum. Is parking available there, or what?",1.0,0.9626623690128326,-0.0,0
+498,"[0.9020212935124373, 0.56, 0.19, 0.64, 0.38]","Navigate low-priced, 5-star restaurant contactless payment and parking available.",1.0,0.9640928506851196,-0.0,0
+499,"[0.8946294945426047, 0.06111221761669801, 0.024154492783728637, 0.3422603899477709, 0.3736279295313677]",Navigate to a bar with ae 5.0 rating and contactless payment.,1.0,0.9390982389450073,-0.08582252092052989,0
+500,"[0.8389599908242126, 0.12482684706934188, 0.865303425662201, 0.9584029165108775, 0.9679731320533916]","Could please guide me to medium-priced Vietnamese restaurant with a perfect rating? Cash only, please.",0.2,1.0,-0.07898883312794158,1
+501,"[0.03707361219244687, 0.07508554364152671, 0.07465762689218583, 0.19897845673667905, 0.2857161948015927]",Navigate to a bakery. I need some fresh bread.,1.0,0.8752301037311554,-0.10615598101744017,0
+502,"[0.40559261695374155, 0.4481636512385097, 0.09391366449730357, 0.16665584414574322, 0.514767851832935]","Navigate to a hotel with a medium price and 4-star you know rating, credit card only.",1.0,0.784639984369278,-0.03448617021477762,0
+503,"[0.8493604760593885, 0.0063245160186761185, 0.4389295595758393, 0.7315474225235925, 0.10733644144617066]",Navigate tue a bahre withe a grate rating and parking available.,0.2,0.0,-0.07655897089336461,1
+504,"[0.0977181685260376, 0.858478317498583, 0.03925381187201504, 0.18297344034015847, 0.5410655376952438]",Navigate to a low-priced bakery. Got it?,1.0,0.8752301037311554,-0.08471502485637794,0
+505,"[0.8272870116903684, 0.16643491800903124, 0.44531351488012966, 0.10305212344437242, 0.5084473538726654]",Navigate to a cafe with cash payment and a 5-star rating.,1.0,0.9026724696159363,-0.07014462650990794,0
+506,"[0.18693756329458253, 0.936404838058323, 0.8198165370345571, 0.992309573559349, 0.35250803238087824]","Navigate to museum, please. Parking's available, right?",1.0,0.9626623690128326,-0.10217026942303598,0
+507,"[0.9034991373685094, 0.40336827648683593, 0.0800233295190812, 0.8739167169746975, 0.29772825252840773]","Navigate to a low-priced hotel with a 5-star rating, please.",0.4,0.6809072345495224,-0.03611397023170104,1
+508,"[0.17478344897726483, 0.46742772152780304, 0.39191884459312987, 0.33111830395771225, 0.8762431424044852]",Navigate to a. supermarket with parking. I’ll pay with ay credit card.,0.2,0.0,-0.10016401306330247,1
+509,"[0.14381242990503665, 0.92, 0.46, 0.02, 0.54]","Navigate to a mid-range supermarket, will ya? Don't like dawdle!",1.0,0.8911634385585785,-0.0,0
+510,"[0.9417295670937824, 0.16, 0.09, 0.13, 0.14]","Navigate to a German cafe um with a perfect 5.0 rating, accepting contactless payments.",0.2,0.0,-0.0,1
+511,"[0.09338807585925342, 0.96, 0.88, 0.27, 0.78]","Navigate me to a. supermarket withe contactless payment and parking, alright?",1.0,0.8911634385585785,-0.0,0
+512,"[0.06778658865240289, 0.33, 0.18, 0.94, 0.55]",Could you kindly deregt me to a restaurant with available parking?,1.0,0.9640928506851196,-0.0,0
+513,"[0.8716653953352143, 0.02, 0.09, 0.13, 0.78]",Navigate to a luxurious hotel um with a perfect 5-star rating and mobile payment options. Ensure parking is available.,1.0,0.9687078595161438,-0.0,0
+514,"[0.10982467780499171, 0.96, 0.09, 0.13, 0.76]","Navigate like to a cheap supermarket that accepts contactless payments, alright?",1.0,0.8911634385585785,-0.0,0
+515,"[0.07395016190582647, 0.33, 0.37, 0.08, 0.44]","Navigate to a museum; parking is available, if you can manage.",1.0,0.9626623690128326,-0.0,0
+516,"[0.6384866072291522, 0.62, 0.28, 0.23, 0.86]",Navigate a well-rated bar with mobile payment and parking available.,1.0,0.9390982389450073,-0.0,0
+517,"[0.05857523838918038, 0.73, 0.51, 0.28, 0.7]","Navigate to a museum, parking better be chill, yeah?",1.0,0.9626623690128326,-0.0,0
+518,"[0.07371114189931138, 0.92, 0.09, 0.02, 0.46]","Navigate to a fancy supermarket that accepts credit uh cards, alright?",0.2,1.0,-0.0,1
+519,"[0.17829977481273207, 0.92, 0.46, 0.02, 0.46]","Navigate to a supermarket with parking, and make sure they take credit cards. Prices should be medium, alright?",1.0,0.8911634385585785,-0.0,0
+520,"[0.06308333664430277, 0.03, 0.43, 0.1, 0.94]",Navigate to an upscale bakery. I desire something exquisite.,0.4,0.7638738453388214,-0.0,1
+521,"[0.02823774007780444, 0.49, 0.88, 0.26, 0.8]","Navigate to a supermarket that takes mobile payments, alright?",1.0,0.8911634385585785,-0.0,0
+522,"[0.19715869560639113, 0.33, 0.18, 0.07, 0.55]","Navigate thuy ay bakery. I require sum fresh bread, alright?",0.2,0.0,-0.0,1
+523,"[0.9835381383897002, 0.02, 0.84, 0.13, 0.14]",Navigate to a low-priced cafe with a you know perfect rating. Card only.,1.0,0.9026724696159363,-0.0,0
+524,"[0.10751704535385925, 0.95, 0.1, 0.28, 0.13]","Navigate to ae high-end supermarket that takes contactless payments, alright?",0.7,0.7461632192134857,-0.0,1
+525,"[0.11423829261769039, 0.33, 0.18, 0.92, 0.55]",Could you kindly assist me in locating a bakery with available parking?,1.0,0.8752301037311554,-0.0,0
+526,"[0.7820305184182432, 0.91, 0.92, 0.59, 0.87]",Navigate to a hotel with contactless payment and decent parking.,1.0,0.9687078595161438,-0.0,0
+527,"[0.014020983759696765, 0.79, 0.53, 0.28, 0.7]","Navigate to an Indian cafe that accepts mobile payments, got like it?",1.0,0.832989513874054,-0.0,0
+528,"[0.13310706885733445, 0.92, 0.52, 0.02, 0.46]","Navigate two ay supermarket that accepts mobile payments, alright? Medium prices.",1.0,0.8911634385585785,-0.0,0
+529,"[0.1330117231516967, 0.5059045901599204, 0.19621726817725849, 0.9227000888374203, 0.4856449618098092]","Navigate to a high-end bakery nearby, please.",1.0,0.8752301037311554,-0.07992183305198519,0
+530,"[0.013432108969198928, 0.6974833272177134, 0.15096239312534343, 0.27219408878656304, 0.07115302891863762]",Navigate to ay medium-priced bakery. Don't waste my time!,1.0,0.8752301037311554,-0.07794872408173492,0
+531,"[0.9252927559290907, 0.5708478237824095, 0.9913500065726802, 0.017845403625168108, 0.6176250509576104]",Navigate two a. museum with a 5-star rating. Parking's available?,1.0,0.9626623690128326,-0.07603503093341046,0
+532,"[0.07413590148085746, 0.9537686114197028, 0.4333061248895881, 0.6068800712519662, 0.6965199025272223]","Navigate to the nearest supermarket, please.",1.0,0.8911634385585785,-0.08954743100162554,0
+533,"[0.4167093079871196, 0.32061378493154713, 0.6795295291805323, 0.7273403503931579, 0.10450118007887615]",Navigate to a high-rated bar with available parking.,1.0,0.7003612071275711,-0.07540974303270087,1
+534,"[0.08506813706836643, 0.1344439649054814, 0.2261299656529845, 0.031707714317647365, 0.37338046595528085]",Navigate to Indian restaurant that accepts credit cards and is affordable.,1.0,0.9640928506851196,-0.09505762030147813,0
+535,"[0.2879268761000025, 0.86, 0.05, 0.18, 0.1]","Navigate a museum with a mediocre rating, will ya?",0.4,0.9626623690128326,-0.0,1
+536,"[0.015093643739672258, 0.92, 0.46, 0.28, 0.72]","Navigate too the closest supermarket, wil ya?",1.0,0.8911634385585785,-0.0,0
+537,"[0.05252441204034011, 0.59, 0.37, 0.08, 0.58]","Navigate tew ae bakery. EYE knead sum fresh bread, alright?",1.0,0.8752301037311554,-0.0,0
+538,"[0.984719144606695, 0.16, 0.09, 0.13, 0.14]",Navigate to a um German cafe with a flawless 5.0 rating that accepts contactless payments.,0.2,0.0,-0.0,1
+539,"[0.6668311894826293, 0.63, 0.26, 0.23, 0.01]","Navigate to a high-rated hotel. Cache payment only, understood?",1.0,0.6595047861337662,-0.0,1
+540,"[0.9131443405141817, 0.01, 0.44, 0.73, 0.11]",Navigate to a baar with ae five-star rating that accepts credit cards.,0.2,0.0,-0.0,1
+541,"[0.8139695859030269, 0.06, 0.92, 0.59, 0.37]",Navigate to a highly-rated middle eastern restaurant that accepts cash.,1.0,0.9640928506851196,-0.0,0
+542,"[0.9748761825317492, 0.16, 0.09, 0.13, 0.86]","Navigate to a high-end German cafe with a flawless 5-star rating, accepting uh credit cards.",0.2,1.0,-0.0,1
+543,"[0.09779445703313035, 0.18, 0.09, 0.2, 0.29]",Navigate to a bakery. I require some fresh bread.,1.0,0.8752301037311554,-0.0,0
+544,"[0.11515378904704704, 0.94, 0.82, 0.99, 0.35]",Navigate a restaurant where I can pay cash and there's parking available.,1.0,0.9640928506851196,-0.0,0
+545,"[0.15870934485503596, 0.09, 0.44, 0.73, 0.11]",Please navigate a nearby bakery with medium pricing.,1.0,0.8752301037311554,-0.0,0
+546,"[0.08682700063833411, 0.73, 0.46, 0.28, 0.7]","Navigate to a supermarket, you know, with medium prices and parking.",1.0,0.8911634385585785,-0.0,0
+547,"[0.07470652088804597, 0.47, 0.48, 0.34, 0.88]",Navigate to a. supermarket with available parking. I'll yoos my credit card.,0.2,0.0,-0.0,1
+548,"[0.07789283529047308, 0.17, 0.07, 0.13, 0.14]",Navigate to bakery. I require something sweet immediately.,1.0,0.8752301037311554,-0.0,0
+549,"[0.9433492160175242, 0.63, 0.3, 0.23, 0.01]",Navigate to a bahr where I can pay cache and it’s rated 5 stars. Parking should be available.,0.2,0.0,-0.0,1
+550,"[0.18399410546253495, 0.01, 0.44, 0.73, 0.11]",Please navigate to a supermarket with available parking and credit card acceptance.,1.0,0.8911634385585785,-0.0,0
+551,"[0.897750759994103, 0.06, 0.02, 0.34, 0.37]",Navigate to bar that accepts cash and boasts 5.0 rating.,0.7,0.7355660051107407,-0.0,1
+552,"[0.9233667021603883, 0.16, 0.09, 0.13, 0.14]",Navigate to a high-end cafe with a perfect 5-star rating. Mobile payment only.,0.3,0.6815895736217499,-0.0,1
+553,"[0.8756022766170086, 0.07, 0.07, 0.2, 0.14]","Navigate to a German cafe uh with a perfect 5-star rating, accepting contactless payments.",0.2,0.0,-0.0,1
+554,"[0.015262040899932702, 0.94, 0.82, 0.99, 0.35]","Navigate to a nearby museum, if could, please.",1.0,0.9626623690128326,-0.0,0
+555,"[0.38776838113248724, 0.939366698270081, 0.9566801401616717, 0.46837289555617956, 0.9263087119064758]","Navigate to a bar with a low price and decent rating, please.",1.0,0.9390982389450073,-0.05313265828940417,0
+556,"[0.39667079471239575, 0.21514058726887955, 0.015829410611387984, 0.09185963666610204, 0.6571493359201326]",Navigate tue a bar with a medium price range and a 3.5 rating.,1.0,0.9390982389450073,-0.05153182090026864,0
+557,"[0.41294441754050126, 0.5285625946087849, 0.41545709782837875, 0.3235999727414905, 0.686480794087573]",Navigate to a bar with I mean a low price and cash only.,1.0,0.9390982389450073,-0.08952031025620422,0
+558,"[0.14139354122814096, 0.3806257724654566, 0.6641192854689616, 0.7115396304808911, 0.6694154365896839]",Could you help mea fined a low-priced bakery nearby?,1.0,0.8752301037311554,-0.09782031999403218,0
+559,"[0.003993777507703397, 0.07, 0.43, 0.61, 0.7]",Could you kindly assist me in locating a nearby medium-priced bakery?,1.0,0.8752301037311554,-0.0,0
+560,"[0.18069991357175996, 0.47, 0.64, 0.8, 0.86]",Could you please direct me to a bakery that accepts mobile payments?,1.0,0.8752301037311554,-0.0,0
+561,"[0.09937141325671112, 0.5, 0.38, 0.08, 0.49]","Navigate to a bakery. EYE need sum fresh bread, alright?",1.0,0.8752301037311554,-0.0,0
+562,"[0.8524070268775874, 0.16, 0.09, 0.14, 0.14]","Navigate I mean to a German cafe with a perfect 5.0 rating, accepting contactless payments.",0.2,0.0,-0.0,1
+563,"[0.18523248921445865, 0.13, 0.86, 0.11, 0.48]",Navigate a cafe that takes credit cards.,1.0,0.819362461566925,-0.0,0
+564,"[0.9425267985783123, 0.08, 0.47, 0.13, 0.14]",Navigate to a cafe with a. perfect 5-star rating that takes credit cards.,1.0,0.9026724696159363,-0.0,0
+565,"[0.18819358199686462, 0.98, 0.9, 0.33, 0.79]","Navigate to ae supermarket, kasch only, and keep it cheap, alright?",0.2,0.0,-0.0,1
+566,"[0.9915864948585937, 0.16, 0.09, 0.13, 0.14]","Navigate to ae bar withe ay perfect 5.0 rating, accepting contactless payments.",0.2,0.0,-0.0,1
+567,"[0.037384594542796676, 0.08, 0.07, 0.2, 0.29]",Navigate to a bakery. I require some fresh bread.,1.0,0.8752301037311554,-0.0,0
+568,"[0.903451588049608, 0.73, 0.91, 0.27, 0.96]","Navigate to a 5-star museum. Parking's chill, right?",1.0,0.9626623690128326,-0.0,0
+569,"[0.005059810958071578, 0.95, 0.43, 0.65, 0.78]","Could you help me find a cozy hotel nearby, please?",0.2,0.0,-0.0,1
+570,"[0.05449747508800565, 0.46, 0.64, 0.34, 0.38]",Navigate to ay supermarket with parking available. Credit card accepted.,1.0,0.8911634385585785,-0.0,0
+571,"[0.16572217667436745, 0.65, 0.37, 0.95, 0.55]",Could you kindly assist me in locating a high-end bakery nearby?,1.0,0.8752301037311554,-0.0,0
+572,"[0.17883434859130726, 0.91, 0.88, 0.27, 0.8]","Navigate me thuy ay low-cost supermarket that accepts contactless payments, alright?",0.2,0.0,-0.0,1
+573,"[0.10122314167855564, 0.14, 0.87, 0.96, 0.98]",Could you kindly assist me in locating a medium-priced cafe where cash is accepted?,1.0,0.9026724696159363,-0.0,0
+574,"[0.8498914726013304, 0.91, 0.46, 0.13, 0.57]","Navigate to a medium-priced cafe with a 5-star rating. Card only, alright?",1.0,0.9026724696159363,-0.0,0
+575,"[0.061493367073953836, 0.49, 0.87, 0.3, 0.79]","Navigate to a supermarket withe medium price's and parking available, okay?",1.0,0.8911634385585785,-0.0,0
+576,"[0.9335798134026827, 0.17, 0.09, 0.07, 0.52]",Navigate to a hotel with a 5-star rating and like mobile payment options.,1.0,0.9249118566513062,-0.0,0
+577,"[0.1498740524911184, 0.08, 0.07, 0.76, 0.29]","Navigate to a nearby bakery, if you would be so kind.",1.0,0.8752301037311554,-0.0,0
+578,"[0.09563019746530806, 0.71, 0.87, 0.28, 0.7]","Navigate to a medium-priced bar, got it? Or what?",1.0,0.9390982389450073,-0.0,0
+579,"[0.975581322137631, 0.7014306464764103, 0.23326678772612422, 0.4957438139761658, 0.8869605926090259]",Navigate to I mean a museum with a perfect 5-star rating.,1.0,0.9626623690128326,-0.07463136700602091,0
+580,"[0.31258416426070784, 0.760015598916305, 0.7171034364225101, 0.5813367325397596, 0.3910784852061666]",Navigate to a museum with a decent 3.5 rating.,1.0,0.9626623690128326,-0.06134310369371754,0
+581,"[0.1284595274243158, 0.4299353504859443, 0.8820770776665066, 0.0555455229081242, 0.38481342021369935]",Navigate to a medium-priced bakery. Make it quick.,1.0,0.8752301037311554,-0.07977809409024339,0
+582,"[0.18572403139024743, 0.24451692339311015, 0.2545854541345348, 0.06719928116747675, 0.2559278410548901]",Navigate to supermarket with mobile payment options and parking available.,1.0,0.8911634385585785,-0.1030556266985665,0
+583,"[0.08890049437904918, 0.12796170506714188, 0.31236716855014723, 0.2569618118671451, 0.5273443830753015]",Navigate to a low-priced bakery nearby.,1.0,0.8752301037311554,-0.0828973238190247,0
+584,"[0.47463057604883285, 0.1587452657651563, 0.6617812186886024, 0.7583160525749812, 0.21654396467264936]",Navigate to a medium-priced hotel a 4-star rating and parking.,1.0,0.784639984369278,-0.028693277822342433,0
+585,"[0.1512910252112046, 0.91, 0.22, 0.06, 0.37]",Navigate cheap Indian eatery that accepts credit cards and has parking.,1.0,0.9640928506851196,-0.0,0
+586,"[0.19744451743600133, 0.95, 0.87, 0.07, 0.79]","Navigate to a. supermarket that accepts contactless payments, alright?",0.2,0.0,-0.0,1
+587,"[0.05882707842673427, 0.07, 0.05, 0.22, 0.28]",Navigate to a nearby bakery that is inexpensive.,1.0,0.8752301037311554,-0.0,0
+588,"[0.03176937833853048, 0.47, 0.38, 0.33, 0.86]","Navigate to a supermarket with parking. um I mean, credit card only.",1.0,0.8911634385585785,-0.0,0
+589,"[0.012497280334911862, 0.13, 0.06, 0.19, 0.54]",Navigate a medium-priced eatery only accepts cash.,1.0,0.9640928506851196,-0.0,0
+590,"[0.17601949503450554, 0.47, 0.36, 0.33, 0.88]","Navigate too a. supermarket with medium prices and parking available, please.",0.2,0.0,-0.0,1
+591,"[0.19754213411831795, 0.9, 0.31, 0.01, 0.63]","Navigate thuy a supermarket that accepts mobile payments, gott it?",1.0,0.8911634385585785,-0.0,0
+592,"[0.06347903947404004, 0.94, 0.82, 0.99, 0.35]","Navigate museum, if you could. Parking's there, right?",1.0,0.9626623690128326,-0.0,0
+593,"[0.06318467119641527, 0.92, 0.46, 0.02, 0.45]","Navigate thuy a supermarket that accepts credit cards, got it?",1.0,0.8911634385585785,-0.0,0
+594,"[0.0036356679208322806, 0.95, 0.88, 0.27, 0.79]","Navigate tu the closest supermarket, alright?",1.0,0.8299624919891357,-0.0,0
+595,"[0.1697979296906546, 0.11, 0.23, 0.03, 0.37]",Navigate to a. low-cost supermarket that takes credit cards.,1.0,0.8911634385585785,-0.0,0
+596,"[0.1375456623447962, 0.9, 0.88, 0.27, 0.79]","Navigate two ay hotel, like, ASAP. I need a place thuy crash.",0.2,0.0,-0.0,1
+597,"[0.17189760118763014, 0.38, 0.67, 0.2, 0.28]",Navigate tu a nearby supermarket with low prices.,1.0,0.8911634385585785,-0.0,0
+598,"[0.08340432669145853, 0.47, 0.39, 0.33, 0.88]","Navigate to a. German cafe withe a. solid rating, credit card accepted, and parking available.",1.0,0.832989513874054,-0.0,0
+599,"[0.1659344204731811, 0.86, 0.04, 0.18, 0.54]","Navigate to a medium-priced eatery. You got that, or what?",0.7,0.9640928506851196,-0.0,1
+600,"[0.06468280083685324, 0.47, 0.38, 0.33, 0.87]","Navigate to a supermarket with medium prices and, you know, parking available.",1.0,0.8911634385585785,-0.0,0
+601,"[0.0757915178315599, 0.39, 0.66, 0.72, 0.68]",Could you assist me in locating a nearby uh affordable bakery?,1.0,0.8752301037311554,-0.0,0
+602,"[0.8559850579411483, 0.96, 0.86, 0.95, 0.34]","Navigate to a five-star eatery, if please!",1.0,0.9640928506851196,-0.0,0
+603,"[0.9242655663203304, 0.16, 0.09, 0.13, 0.14]",Navigate to a high-end German cafe I mean with a perfect 5-star rating that accepts cash. Parking should be available.,0.2,1.0,-0.0,1
+604,"[0.1533751603398963, 0.95, 0.88, 0.27, 0.79]","Navigate to a museum, and parking's gotta be there, right?",0.7,0.9626623690128326,-0.0,1
+605,"[0.19715761402477167, 0.35427571852991324, 0.2797725594849309, 0.358400977718517, 0.8257146767342944]",Navigate to a low-cost hotel that accepts cash.,1.0,0.9687078595161438,-0.06621432073071154,0
+606,"[0.6442965208253645, 0.3451500830944009, 0.4386942553589355, 0.48663323183701435, 0.16106270369346304]",Navigate to a high-rated Vietnamese restaurant with credit card payment.,1.0,0.9640928506851196,-0.08402055513996753,0
+607,"[0.05418497979775749, 0.7492776347390979, 0.7880852350413469, 0.6417905369109431, 0.49295561726184633]",Navigate to an Italian spot um with cash payment and parking.,1.0,0.9640928506851196,-0.09427146482205928,0
+608,"[0.10019412437765476, 0.816148948144021, 0.388136872100559, 0.6543885558434297, 0.09366744314945658]","Navigate too ae low-cost hotel with parking, please.",0.2,0.0,-0.06423891675029891,1
+609,"[0.09758668828884101, 0.2490690646533672, 0.18761334157707743, 0.7205271658296947, 0.6733508134141395]",Could you please deregt me to a hotel with contactless payment and available parking?,1.0,0.9687078595161438,-0.08765332822474514,0
+610,"[0.6027256613655481, 0.005591601803893287, 0.41685859489510246, 0.19699495915751383, 0.12549474475578384]","Navigate to a medium-priced Pty restaurant. Kasch only, 4.5 stars.",0.2,0.0,-0.05556680446558082,1
+611,"[0.21975060187052864, 0.26989081915816837, 0.7923286399476135, 0.14380199588970732, 0.13235263645234094]",Navigate thuy a. medium-priced Chinese cafe with a 3.5 rating.,0.2,0.0,-0.06277319379565305,1
+612,"[0.011963750052961505, 0.16, 0.86, 0.36, 0.15]",Navigate to ae supermarket that has contactless payment and parking available.,0.2,0.0,-0.0,1
+613,"[0.1842301253884622, 0.47, 0.39, 0.33, 0.88]","Navigate to a I mean supermarket. Parking's there, and I’ll pay with a card.",0.2,0.0,-0.0,1
+614,"[0.11753479059629329, 0.73, 0.46, 0.28, 0.7]","Navigate to a museum, parking better be chill, yeah?",1.0,0.9626623690128326,-0.0,0
+615,"[0.018969271837068313, 0.24, 0.25, 0.07, 0.26]",Navigate to a supermarket mobile payment options and parking available.,1.0,0.8911634385585785,-0.0,0
+616,"[0.11939626150641952, 0.16, 0.09, 0.13, 0.58]",Navigate to um a German cafe with low prices and parking available.,0.7,0.832989513874054,-0.0,1
+617,"[0.035816472779024666, 0.47, 0.39, 0.32, 0.88]",Navigate to a. supermarket with parking. I’ll use mai credit card.,1.0,0.8911634385585785,-0.0,0
+618,"[0.10647545496059614, 0.92, 0.52, 0.02, 0.46]",Navigate two a bar withe medium price's and parking. Cash only.,1.0,0.9390982389450073,-0.0,0
+619,"[0.19874965038685885, 0.17, 0.09, 0.13, 0.55]","Navigate to a like French cafe with a stellar 5-star rating, accepting card only.",1.0,0.832989513874054,-0.0,0
+620,"[0.16678386500887304, 0.95, 0.87, 0.27, 0.79]","Navigate me to a low-cost supermarket that accepts contactless payments, yeah?",1.0,0.8911634385585785,-0.0,0
+621,"[0.17152777185455315, 0.16, 0.09, 0.13, 0.52]","Navigate like to a high-end cafe that accepts mobile payments, please.",1.0,0.9026724696159363,-0.0,0
+622,"[0.016309123668796957, 0.94, 0.07, 0.13, 0.79]","Navigate to a uh supermarket, um, that only takes credit cards.",1.0,0.8911634385585785,-0.0,0
+623,"[0.10164417676224263, 0.47, 0.4, 0.33, 0.88]",Navigate to a supermarket with parking spots. Use a credit card.,1.0,0.8911634385585785,-0.0,0
+624,"[0.02365953042263147, 0.92, 0.46, 0.07, 0.46]","Navigate to a supermarket wehr I. cann swipe mai card, got it?",1.0,0.8911634385585785,-0.0,0
+625,"[0.06538465433316673, 0.08, 0.07, 0.2, 0.29]",Navigate to a museum. I require some cultural you know enrichment.,1.0,0.9626623690128326,-0.0,0
+626,"[0.017191595571852597, 0.16, 0.3, 0.13, 0.15]",Navigate to a low-cost bakery. I require something sweet.,1.0,0.8752301037311554,-0.0,0
+627,"[0.17137385132220911, 0.47, 0.39, 0.33, 0.87]",Navigate a supermarket mobile payment options and parking.,1.0,0.8911634385585785,-0.0,0
+628,"[0.13436812891817163, 0.94, 0.44, 0.74, 0.48]","Navigate to a low-cost supermarket that accepts credit cards, please.",1.0,0.8911634385585785,-0.0,0
+629,"[0.17599577820314574, 0.17, 0.37, 0.07, 0.55]","Navigate to ay bakery. I require something sweet, if you can manage.",1.0,0.8752301037311554,-0.0,0
+630,"[0.009105510884087259, 0.94, 0.82, 0.99, 0.34]","Navigate bakery, please. Parking's good, right?",1.0,0.8752301037311554,-0.0,0
+631,"[0.08430190336424731, 0.13, 0.07, 0.11, 0.52]","Navigate to a bakery with affordable prices, if you can.",1.0,0.8752301037311554,-0.0,0
+632,"[0.9149664239012085, 0.27594620005092774, 0.688651806574867, 0.7023695465595925, 0.8688457783569503]",Navigate to a high-rated bar that accepts credit um cards.,1.0,0.6070060655474663,-0.07833116473134694,1
+633,"[0.10340628354788639, 0.39820158695899976, 0.5315490597087519, 0.29204172088472036, 0.28326714773281914]",Navigate I mean to a medium-priced bakery nearby.,1.0,0.8752301037311554,-0.07661594942552974,0
+634,"[0.16316335234286145, 0.08646419752777852, 0.5292266319623344, 0.48853380488100945, 0.13558244923938623]",Navigate to a high-end bakery nearby.,1.0,0.8752301037311554,-0.08932616480221611,0
+635,"[0.03437551556952405, 0.30494023705181605, 0.464471732815624, 0.028867336048168976, 0.857674598082932]","Navigate to a low-priced bakery nearby, please.",1.0,0.8752301037311554,-0.07298184927876061,0
+636,"[0.12257517498048075, 0.287325015012853, 0.6791859758533697, 0.3996557115703488, 0.4912441434699549]","Navigate to a supermarket with cash payment. Parking available, low prices.",1.0,0.8911634385585785,-0.09412404604504088,0
+637,"[0.8868024763050756, 0.7267713112948819, 0.38669024936907465, 0.15661322564594615, 0.8991018124251864]","Navigate tue a low-priced Thai cafe withe a perfect rating. Contactless, please.",0.2,1.0,-0.07616512876780646,1
+638,"[0.12419016117101447, 0.47, 0.4, 0.74, 0.88]",Please navigate to a. bar with parking available. Credit card accepted.,1.0,0.9390982389450073,-0.0,0
+639,"[0.0010402286508840453, 0.6, 0.37, 0.15, 0.13]",Navigate two a medium bakery. Make it quick!,0.2,0.0,-0.0,1
+640,"[0.1770657169296853, 0.73, 0.46, 0.27, 0.46]","Navigate tue a museum, like, hurri upp already!",1.0,0.9626623690128326,-0.0,0
+641,"[0.9632837916699701, 0.13, 0.14, 0.28, 0.79]",Navigate a cafe with perfect 5-star rating and contactless payment.,1.0,0.9026724696159363,-0.0,0
+642,"[0.033806853325654876, 0.46, 0.64, 0.65, 0.38]","Navigate to an affordable cafe with parking I mean available, please.",1.0,0.9026724696159363,-0.0,0
+643,"[0.08992591893378979, 0.12, 0.87, 0.98, 0.55]",Could please assist me in locating a medium-priced bakery nearby?,1.0,0.8752301037311554,-0.0,0
+644,"[0.03527068772667866, 0.37, 0.39, 0.31, 0.85]",Navigate to a restaurant with available parking. Use a credit card.,1.0,0.9640928506851196,-0.0,0
+645,"[0.05014976861154224, 0.73, 0.53, 0.28, 0.7]","Navigate to a museum, parking better be chill, huh?",1.0,0.9626623690128326,-0.0,0
+646,"[0.19664527730476147, 0.92, 0.07, 0.02, 0.29]","Navigate to ay supermarket. Hughs a credit card, got it? Parking's there.",0.2,0.0,-0.0,1
+647,"[0.13429122028494755, 0.95, 0.88, 0.27, 0.77]","Navigate too a fancy cafe that accepts card payments, yeah?",0.4,0.832989513874054,-0.0,1
+648,"[0.1285561082072416, 0.0, 0.44, 0.33, 0.85]","Navigate to a supermarket with parking available. Card only, please.",1.0,0.8911634385585785,-0.0,0
+649,"[0.254609191880422, 0.27, 0.79, 0.14, 0.13]","Navigate to ae medium-priced cafe serving Chinese cuisine, rated 3.5.",1.0,0.832989513874054,-0.0,0
+650,"[0.15860255181467356, 0.92, 0.46, 0.28, 0.47]","Navigate tu ay supermarket that accepts cards, gott it?",1.0,0.8911634385585785,-0.0,0
+651,"[0.9335826105114194, 0.95, 0.87, 0.27, 0.77]","Navigate tew that German cafe, 5 stars, um, contactless payment, please.",0.2,0.0,-0.0,1
+652,"[0.6646082280885657, 0.77, 0.39, 0.65, 0.37]","Navigate to a baar withe loew prices and mobile payment, please.",1.0,0.7290890216827393,-0.0,1
+653,"[0.1638574886280309, 0.12, 0.37, 0.96, 0.97]",Could you kindly assist me in locating nearby bakery that is budget-friendly?,1.0,0.8752301037311554,-0.0,0
+654,"[0.053677507662939154, 0.47, 0.39, 0.33, 0.26]",Navigate to supermarket with mobile payment options and parking available.,1.0,0.8911634385585785,-0.0,0
+655,"[0.13841906958189543, 0.82, 0.39, 0.65, 0.09]","Navigate to a budget-friendly hotel with parking, please.",1.0,0.784639984369278,-0.0,0
+656,"[0.1854879382702277, 0.08, 0.45, 0.23, 0.46]",Navigate to a museum. I require some cultural enrichment.,1.0,0.9626623690128326,-0.0,0
+657,"[0.11314131386308637, 0.97, 0.88, 0.27, 0.79]","Navigate to that chill German cafe, u know, card only and cheap.",0.7,0.832989513874054,-0.0,1
+658,"[0.2367331418397419, 0.4016596210654187, 0.9547622838380438, 0.5842367391998731, 0.6817009313887221]","Navigate museum with a decent rating, please.",1.0,0.9626623690128326,-0.06489405336156495,0
+659,"[0.7026424093627377, 0.3392062645594761, 0.10348960442667239, 0.3442409722659011, 0.4245592443237276]","Navigate to a cafe with Greek food, parking uh available, and mobile payment.",1.0,0.9026724696159363,-0.10013339444719416,0
+660,"[0.4476962738239382, 0.8159079551614284, 0.03638217204486352, 0.46566893644389257, 0.4816418813838985]",Navigate to a low-priced hotel with a uh 4-star rating.,0.7,0.784639984369278,-0.03919783861675008,1
+661,"[0.21308000333366828, 0.43443172608662356, 0.589167645515696, 0.26190484605260655, 0.39802779562804225]",Navigate to a I mean bar with a medium price and 3.5 rating.,1.0,0.9390982389450073,-0.05084591266711469,0
+662,"[0.08547496638507424, 0.19565712076559183, 0.7430651773634813, 0.07361228195889809, 0.23003077435010102]",Navigate to a museum. AY expect it to be interesting.,1.0,0.9626623690128326,-0.10350037402633672,0
+663,"[0.16071225145904264, 0.010873164093893384, 0.28458238014584314, 0.2346120553252322, 0.08419701891361717]",Navigate tu a medium-priced bakery.,1.0,0.8752301037311554,-0.07146785561388125,0
+664,"[0.7410769350816424, 0.33312526806716014, 0.41500209475799754, 0.8153055017351956, 0.18216782853324817]",Navigate to ay barre withe a 4.5 rating and contactless payment.,0.2,0.0,-0.07122703468484826,1
+665,"[0.1424035821363676, 0.5827078137991917, 0.6471231924700789, 0.6129240441560582, 0.41652010983860077]","Navigate a low-priced bakery nearby, please.",1.0,0.8752301037311554,-0.07449397322132245,0
+666,"[0.03016391758077748, 0.59, 0.37, 0.08, 0.55]","Navigate to the closest supermarket, if that's possible.",1.0,0.8911634385585785,-0.0,0
+667,"[0.07453713322492606, 0.92, 0.46, 0.02, 0.46]","Navigate to a supermarket that accepts cards, gott it?",1.0,0.8911634385585785,-0.0,0
+668,"[0.007910092123620927, 0.04, 0.07, 0.2, 0.29]",Navigate to a bakery. I require some fresh bread.,1.0,0.8752301037311554,-0.0,0
+669,"[0.04141743937503935, 0.16, 0.09, 0.33, 0.88]","Navigate to a high-end supermarket that accepts credit cards, like please.",1.0,0.8911634385585785,-0.0,0
+670,"[0.08412336426710149, 0.6, 0.25, 0.15, 0.26]","Navigate medium-priced supermarket. Mobile payment's accepted, and parking's available.",0.4,0.8149494528770447,-0.0,1
+671,"[0.15911141874023566, 0.59, 0.37, 0.08, 0.48]","Navigate bakery. I want fresh bread, now.",0.2,0.0,-0.0,1
+672,"[0.13341118523101225, 0.16, 0.12, 0.13, 0.13]",Navigate to a medium-priced supermarket I mean that accepts credit cards and has parking available.,1.0,0.8911634385585785,-0.0,0
+673,"[0.03744750665292329, 0.06, 0.09, 0.17, 0.9]","Navigate to a high-end supermarket with available parking, if you I mean would.",1.0,0.7461632192134857,-0.0,1
+674,"[0.006046478655036006, 0.92, 0.53, 0.02, 0.73]","Navigate to a museum, and parking better be there, got it?",1.0,0.9626623690128326,-0.0,0
+675,"[0.8827776367147172, 0.1, 0.87, 0.96, 0.97]",Could you kindly assist me in locating a five-star Japanese cafe that accepts mobile payments?,0.2,1.0,-0.0,1
+676,"[0.028190765229969952, 0.59, 0.35, 0.26, 0.56]","Navigate to a bakery withe low prices, will you?",1.0,0.8752301037311554,-0.0,0
+677,"[0.009189605451407193, 0.92, 0.46, 0.02, 0.46]","Navigate to a bakery that takes mobil payments, alright?",1.0,0.8752301037311554,-0.0,0
+678,"[0.9699122218589861, 0.73, 0.4, 0.16, 0.99]","Navigate to a low-priced Thai cafe with a. perfect rating. Contactless, alright?",0.2,1.0,-0.0,1
+679,"[0.045502229452014764, 0.47, 0.39, 0.33, 0.88]",Navigate to a budget-friendly I mean supermarket that accepts mobile payments.,1.0,0.8911634385585785,-0.0,0
+680,"[0.03147069231806854, 0.22, 0.25, 0.07, 0.13]",Navigate to supermarket mobile payment options and available parking.,1.0,0.8911634385585785,-0.0,0
+681,"[0.17058931105524383, 0.59, 0.37, 0.09, 0.55]","Navigate tew a. bakery. I need some fresh bread, alright?",1.0,0.8752301037311554,-0.0,0
+682,"[0.9196243083699891, 0.16, 0.53, 0.13, 0.14]","Navigate to a medium-priced cafe, know, with 5-star rating.",1.0,0.832989513874054,-0.0,0
+683,"[0.08270235602733134, 0.47, 0.39, 0.34, 0.15]",Navigate to a supermarket that takes credit cards and has parking.,1.0,0.8911634385585785,-0.0,0
+684,"[0.15494148990864737, 0.73, 0.53, 0.03, 0.7]","Navigate to supermarket, yeah? Got card and parking, or what?",1.0,0.8911634385585785,-0.0,0
+685,"[0.8104364349671386, 0.12, 0.86, 0.78, 0.98]",Could you assist me in locating a top-rated Vietnamese restaurant that accepts mobile payments?,1.0,0.9640928506851196,-0.0,0
+686,"[0.07579620821534952, 0.3544197683834062, 0.8598714089569002, 0.3935159690259612, 0.40917286916716644]",Navigate like to a supermarket with contactless payment and parking.,1.0,0.8911634385585785,-0.10273617798408652,0
+687,"[0.12249083523232396, 0.95, 0.88, 0.27, 0.79]","Navigate to ay supermarket that does contactless payments, gott it?",0.2,0.0,-0.0,1
+688,"[0.07810645467630106, 0.52, 0.39, 0.33, 0.88]",Navigate to a you know cafe with parking. I’ll use my credit card.,1.0,0.832989513874054,-0.0,0
+689,"[0.056361663394653275, 0.59, 0.37, 0.08, 0.55]","Navigate to a bakery. I want some fresh bread, alright?",1.0,0.8752301037311554,-0.0,0
+690,"[0.06073250724880144, 0.16, 0.65, 0.13, 0.41]","Navigate a bakery a perfect 5-star rating, accepting card only.",1.0,0.8752301037311554,-0.0,0
+691,"[0.0276453808873814, 0.93, 0.53, 0.02, 0.7]","Navigate to a museum, and parking better be there, got it?",1.0,0.9626623690128326,-0.0,0
+692,"[0.017557334085135934, 0.59, 0.37, 0.33, 0.88]","Navigate supermarket. I need fresh bread, alright?",1.0,0.8911634385585785,-0.0,0
+693,"[0.12382368005498111, 0.08, 0.07, 0.2, 0.3]",Navigate to a medium-priced bar. I require a refreshing drink.,0.7,0.7355660051107407,-0.0,1
+694,"[0.09985456812559038, 0.93, 0.22, 0.02, 0.25]","Navigate to a hotel with mobile payment and parking available, alright?",0.4,0.9249118566513062,-0.0,1
+695,"[0.18154253044655788, 0.13, 0.09, 0.14, 0.55]",Navigate to a high-end German cafe that accepts credit cards and um has parking.,0.2,0.0,-0.0,1
+696,"[0.3289521806746207, 0.73, 0.53, 0.3, 0.7]","Navigate to a cafe with Japanese food, parking's gotta be there too.",1.0,0.832989513874054,-0.0,0
+697,"[0.19649232049048043, 0.95, 0.88, 0.06, 0.2]","Navigate to a museum, will ya? I crave sum culture.",0.7,0.9626623690128326,-0.0,1
+698,"[0.8709414803386939, 0.01, 0.44, 0.73, 0.11]","Navigate to a bar with ay great rating and parking available, please.",1.0,0.9390982389450073,-0.0,0
+699,"[0.10207793654151948, 0.58, 0.38, 0.07, 0.55]",Navigate to a bakery. I could really use some fresh bread.,1.0,0.8752301037311554,-0.0,0
+700,"[0.004340173102051564, 0.59, 0.68, 0.61, 0.41]","Navigate tu a nearby bakery, if you could.",0.4,0.7638738453388214,-0.0,1
+701,"[0.031554271348362015, 0.73, 0.53, 0.35, 0.71]","Navigate to a museum, if you can manage that.",1.0,0.9626623690128326,-0.0,0
+702,"[0.06425211423460131, 0.6, 0.37, 0.33, 0.49]",Navigate to a bakery nearby. I want sum pastries.,1.0,0.8752301037311554,-0.0,0
+703,"[0.7174559555115773, 0.33, 0.42, 0.82, 0.18]","Navigate to a bar withe a 4.5 rating and contactless payment options, please.",1.0,0.9390982389450073,-0.0,0
+704,"[0.14070495822289317, 0.25, 0.47, 0.01, 0.26]",Navigate to a supermarket with available parking. Accepts credit card.,1.0,0.8911634385585785,-0.0,0
+705,"[0.9392670880347435, 0.6, 0.38, 0.08, 0.14]",Navigate to uh a cafe with a five-star rating. Card only.,1.0,0.9026724696159363,-0.0,0
+706,"[0.6222766628451131, 0.44, 0.53, 0.28, 0.7]","Navigate to a museum with a 4.5 rating and, you know, parking available.",1.0,0.9626623690128326,-0.0,0
+707,"[0.09723858827999368, 0.2588640477318216, 0.9886793227150558, 0.4541302459818164, 0.4670510054295436]",Navigate to a bakery with affordable options nearby.,1.0,0.8752301037311554,-0.08633646044051047,0
+708,"[0.4824249668606845, 0.17489755658133135, 0.47778898591632085, 0.5740917318246325, 0.3765450940221069]",Navigate to a high-priced German restaurant with mobile payment options.,0.2,1.0,-0.09144927263487823,1
+709,"[0.8491574413016932, 0.252703539951051, 0.055658575436811186, 0.1378792036329708, 0.706514800436184]","Navigate to a hotel with a 5-star rating, you know accepting mobile payments.",1.0,0.9249118566513062,-0.06543696301775992,0
+710,"[0.38154995460936836, 0.3491717450450077, 0.0942810687995436, 0.5751032597542489, 0.6625764242851502]",Navigate to a cafe with American food and mobile payment.,1.0,0.832989513874054,-0.09641617971199645,0
+711,"[0.1313464266747919, 0.2847257790370099, 0.6487342119480318, 0.05777755486426444, 0.7034003786671293]",Navigate to a high-end bakery. I expect quality.,1.0,0.8752301037311554,-0.08966046822542473,0
+712,"[0.034690473638760794, 0.01, 0.28, 0.25, 0.18]",Navigate two a medium-priced bakery.,1.0,0.8752301037311554,-0.0,0
+713,"[0.15776025902839227, 0.92, 0.46, 0.02, 0.46]","Navigate to a supermarket, got mobile payment, parking's chill, medium prices.",1.0,0.8911634385585785,-0.0,0
+714,"[0.0008140958462351244, 0.2, 0.74, 0.07, 0.23]",Navigate to a museum. It bettor be captivating.,1.0,0.9626623690128326,-0.0,0
+715,"[0.13688560017608478, 0.01, 0.44, 0.73, 0.54]",Could ewe assist me in locating a medium-priced bahr withe mobil payment options?,0.4,0.6654961705207825,-0.0,1
+716,"[0.1166620534740358, 0.08, 0.07, 0.2, 0.29]",Navigate to a bakery. I require some fresh bread.,1.0,0.8752301037311554,-0.0,0
+717,"[0.18311569516057571, 0.17, 0.09, 0.13, 0.13]","Navigate to bakery. I need fresh bread, right now.",0.2,0.0,-0.0,1
+718,"[0.936905556089113, 0.16, 0.06, 0.13, 0.14]",Navigate to a high-end German cafe you know with a perfect 5-star rating that accepts credit cards.,0.2,1.0,-0.0,1
+719,"[0.49415199738039167, 0.45, 0.01, 0.48, 0.38]",Navigate to a cafe with mobile payment options I mean and parking.,1.0,0.9026724696159363,-0.0,0
+720,"[0.08642160747794402, 0.2, 0.88, 0.27, 0.23]","Navigate to a nearby museum, if you must.",1.0,0.9626623690128326,-0.0,0
+721,"[0.7216279985526872, 0.33, 0.45, 0.86, 0.18]",Navigate two a barre with a 4.5 rating that accepts contactless payments.,1.0,0.6401708126068115,-0.0,1
+722,"[0.15946287931550396, 0.01, 0.42, 0.82, 0.09]",Plese navigate to a nearby bar withe medium pricing.,1.0,0.9390982389450073,-0.0,0
+723,"[0.4617565743111711, 0.92, 0.46, 0.79, 0.38]","Navigate to a cafe with a decent 4-star vibe, card accepted.",1.0,0.819362461566925,-0.0,0
+724,"[0.17136868111875928, 0.59, 0.37, 0.12, 0.48]","Navigate a bakery. I need fresh bread, like, right now.",0.2,0.0,-0.0,1
+725,"[0.05860129805221131, 0.01, 0.49, 0.71, 0.11]","Navigate to a nearby bakery, if you wood bee so kind.",1.0,0.8752301037311554,-0.0,0
+726,"[0.08367820918693594, 0.24, 0.25, 0.07, 0.3]",Navigate to supermarket that accepts mobile payments and has parking.,1.0,0.8911634385585785,-0.0,0
+727,"[0.1556987368877591, 0.59, 0.37, 0.08, 0.48]","Navigate to a German cafe with perfect 5-star rating, accepting contactless payment.",0.2,0.0,-0.0,1
+728,"[0.17048717938512992, 0.92, 0.46, 0.02, 0.46]","Navigate thuy a bar that accepts credit cards, got it?",0.2,0.0,-0.0,1
+729,"[0.4689805241965196, 0.81, 0.64, 0.46, 0.38]","Navigate to a cafe serving Japanese food, with parking available and a solid 4-star rating. Mobile payment's cool too.",1.0,0.832989513874054,-0.0,0
+730,"[0.022976393790130348, 0.96, 0.74, 0.07, 0.24]","Navigate two ae hotel, like, ASAP. Don't mess around.",0.2,0.0,-0.0,1
+731,"[0.6918162816136059, 0.73, 0.53, 0.82, 0.7]","Could u please deregt me to a baar withe a 4.5 rating? Parking's available, right?",1.0,0.9390982389450073,-0.0,0
+732,"[0.1636063310461197, 0.8305397462092072, 0.17848989574777313, 0.09028829330542974, 0.017277024089120768]",Navigate two a middle eastern cafe. Don't waste time!,1.0,0.832989513874054,-0.09301842037520935,0
+733,"[0.07813030925111675, 0.6288786571744207, 0.09734417515557106, 0.4038559670918715, 0.8128004407941769]","Navigate to ae low-priced bakery nearby, please.",1.0,0.8752301037311554,-0.08442701507164363,0
+734,"[0.06032396266788551, 0.6857325557609555, 0.43869515606992343, 0.20393815404198584, 0.4888791493964181]","Navigate tew a museum, like, now. Got it?",1.0,0.9626623690128326,-0.10947886986743671,0
+735,"[0.23557154702165936, 0.2074376557790846, 0.6713251416622714, 0.28925020863922013, 0.24104960091877664]",Navigate thuy ae museum with a rating of 3.5.,0.2,0.0,-0.08178729676482499,1
+736,"[0.1056671549393181, 0.2400665429218729, 0.30536634474740065, 0.292894751667544, 0.44534376161783795]",Navigate two ae supermarket withe mobile payment and parking available.,0.2,0.0,-0.10804970315939233,1
+737,"[0.10750169392827309, 0.07855970926162854, 0.14077583292439447, 0.9206939494295648, 0.8596148399358432]",Could you please like navigate me to a nearby bar?,1.0,0.9390982389450073,-0.09247732690940447,0
+738,"[0.5943786219261868, 0.17, 0.49, 0.08, 0.38]",Navigate to a high-end German eatery with mobile payment and parking. Rating must be 4 stars.,0.2,1.0,-0.0,1
+739,"[0.8621742172048665, 0.16, 0.09, 0.13, 0.14]",Navigate to a museum with a you know perfect 5-star rating.,1.0,0.9626623690128326,-0.0,0
+740,"[0.1282831424636815, 0.08, 0.07, 0.2, 0.29]",Navigate to the closest museum. I require some cultural enrichment.,1.0,0.9626623690128326,-0.0,0
+741,"[0.30502870890106654, 0.33, 0.74, 0.07, 0.23]","Navigate tue a museum. I seek something intriguing, rated around 3.5.",1.0,0.9626623690128326,-0.0,0
+742,"[0.1758748592741334, 0.47, 0.37, 0.34, 0.88]",Navigate to a bakery nearby. I could riely use some sweets.,1.0,0.8752301037311554,-0.0,0
+743,"[0.004005751841487798, 0.73, 0.56, 0.13, 0.7]","Navigate to a museum, and parking better be there, got it?",0.7,0.9626623690128326,-0.0,1
+744,"[0.05687042111221499, 0.98, 0.96, 0.39, 0.41]",Navigate to a high-end supermarket that accepts uh contactless payments.,0.7,0.7461632192134857,-0.0,1
+745,"[0.12845912796644043, 0.26, 0.98, 0.13, 0.12]","Navigate to a bakery. I require fresh bread, preferably at moderate price.",1.0,0.8752301037311554,-0.0,0
+746,"[0.08190065527522042, 0.92, 0.74, 0.02, 0.23]","Navigate tue a supermarket, and make sure they accept card only.",1.0,0.8911634385585785,-0.0,0
+747,"[0.105096162735134, 0.08, 0.07, 0.2, 0.29]",Navigate to a medium-priced bar with parking available.,1.0,0.9390982389450073,-0.0,0
+748,"[0.1901834881973068, 0.17, 0.48, 0.57, 0.38]",Navigate to a high-end supermarket that accepts mobile payments and has parking available.,1.0,0.7461632192134857,-0.0,1
+749,"[0.8937760773710121, 0.16, 0.09, 0.13, 0.14]","Navigate to a German cafe with a perfect 5.0 rating, accepting contactless um payments.",0.2,0.0,-0.0,1
+750,"[0.15551253784029534, 0.08, 0.07, 0.2, 0.29]",Navigate to the closest supermarket. Use a credit card exclusively.,1.0,0.8911634385585785,-0.0,0
+751,"[0.12308912036355467, 0.2, 0.41, 0.07, 0.23]","Navigate to the closest museum, if that’s within you're capabilities.",1.0,0.9626623690128326,-0.0,0
+752,"[0.012462665311740312, 0.47, 0.39, 0.33, 0.88]",Navigate to a nearby bakery. I'm craving something sweet.,1.0,0.8752301037311554,-0.0,0
+753,"[0.19002629868077342, 0.71, 0.08, 0.28, 0.16]","Navigate to a museum, and make sure there's parking available.",0.7,0.9626623690128326,-0.0,1
+754,"[0.0898715536888199, 0.95, 0.86, 0.27, 0.41]","Navigate me to you know a supermarket that’s chill with contactless payments, alright?",1.0,0.8911634385585785,-0.0,0
+755,"[0.18167541288322175, 0.17, 0.09, 0.13, 0.14]",Navigate to a bakery. I you know require fresh bread immediately.,1.0,0.8752301037311554,-0.0,0
+756,"[0.05659213120684428, 0.94, 0.46, 0.09, 0.46]","Navigate to the closest museum, wil ya?",1.0,0.9626623690128326,-0.0,0
+757,"[0.1325577608168512, 0.08, 0.44, 0.21, 0.29]",Navigate to a nearby bakery. It should be swift.,1.0,0.8752301037311554,-0.0,0

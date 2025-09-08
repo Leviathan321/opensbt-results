@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+1,"Take me to a 5-star hotel with available parking, credit card payment.",0.3,0.9249118566513062,-0.0738909575254707,1
+2,Could you guide me to the nearest bakery around here?,1.0,0.8752301037311554,-0.09184326961715017,0
+3,"Find a bakery, now!",0.2,0.0,-0.0,1
+4,I'm searching for a high-end supermarket that accepts cash.,0.1,1.0,-0.0,1
+5,"Where can I find a low-priced hotel with a 4.5-star rating and available parking, using mobile payment?",1.0,0.9249118566513062,-0.08593692951954779,0
+6,"Find a Vietnamese cafe with medium prices, 3.5 stars, and mobile payment.",0.7,0.832989513874054,-0.0,1
+7,"Locate a Chinese cafe with mobile payment, 3.5 stars, medium price.",0.7,0.832989513874054,-0.0,1
+8,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,1.0,0.0,-0.0,1
+9,"Find a Mexican cafe with contactless payment, 3.5 stars, please.",0.7,0.832989513874054,-0.0,1
+10,"Locate a Mexican cafe, 3.5 stars, contactless payment, please.",0.7,0.832989513874054,-0.0,1
+11,Please guide me to a high-priced Turkish restaurant with available parking.,0.2,1.0,-0.0,1
+12,"Could you guide me to a low-priced hotel with a 4.5-star rating and contactless payment, where parking is available?",1.0,0.9249118566513062,-0.07507572904772841,0
+13,"Find me a bakery with mobile payment, 3.5 stars.",0.7,0.8752301037311554,-0.0,1
+14,Take me to a Mexican cafe that accepts contactless payment.,1.0,0.832989513874054,-0.0,0
+15,Could you guide me to a cash-friendly cafe with Indian cuisine?,1.0,0.832989513874054,-0.0,0
+16,"Locate a Vietnamese cafe with medium prices, 5-star rating, mobile payment, and available parking, please.",0.2,1.0,-0.0,1
+17,"Locate a Vietnamese cafe with medium prices, mobile payment, and a 5-star rating.",0.2,1.0,-0.0,1
+18,Where can I find a Vietnamese cafe with medium prices?,1.0,0.832989513874054,-0.0,0
+19,Please guide me to a high-priced Turkish restaurant accepting mobile payments.,0.2,1.0,-0.0,1

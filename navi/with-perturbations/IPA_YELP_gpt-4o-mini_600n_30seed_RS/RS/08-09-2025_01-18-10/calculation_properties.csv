@@ -1,0 +1,14 @@
+Attribute,Value
+Id,ff908e09-7448-416c-bcdd-614d752c921b
+Timestamp,08-09-2025_02:46:41
+Problem,IPA_YELP_gpt-4o-mini_600n_30seed_RS
+Algorithm,Algorithm
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,FitnessMerged
+Critical function,CriticalMerged
+Search time,5310.66 sec
+sample_size,600
+algorithm_name,RS
+Seed Utterances,"['hmm I need some food', 'yeah I need some burgers', 'oh some burger would be great']"
+Names Dimension Utterances,['utterance']

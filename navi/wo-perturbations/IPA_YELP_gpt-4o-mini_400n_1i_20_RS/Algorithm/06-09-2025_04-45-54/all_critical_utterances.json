@@ -1,0 +1,5273 @@
+[
+    {
+        "utterance": {
+            "question": "Please guide me to a low-priced hotel with a 4.5-star rating and available parking, using mobile payment.",
+            "answer": "The most suitable option is Mural Arts Philadelphia, rated 4.5/5, with affordable pricing. Parking and mobile payment details unclear.  \n\nWould you like me to navigate there or refine the search for other preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.7027136667515487,
+                0.13161440695280913,
+                0.1940803744284052,
+                0.11962676395300396,
+                0.7890979296277368,
+                0.7043217160394111
+            ],
+            "categorical_vars": [
+                5,
+                4,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Mural Arts Philadelphia",
+                    "categories": [
+                        "Hotels & Travel",
+                        "Tours",
+                        "Art Galleries",
+                        "Shopping",
+                        "Arts & Entertainment"
+                    ],
+                    "address": "128 N Broad St",
+                    "location": {
+                        "lat": 39.9653670987,
+                        "lng": -75.1669141221
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "rating": 4.5,
+            "slang": "formal",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Please guide me to a high-priced Turkish restaurant with available parking.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.08453537886899115,
+                0.05521185163543703,
+                0.05514591516844347,
+                0.8568050011840417,
+                0.02925044255817527,
+                0.91944722909793
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                12,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "turkish",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "turkish",
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "not implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>",
+            "answer": "It seems like there was an error in generating the question. Could you please clarify or rephrase your request?",
+            "seed": null,
+            "ordinal_vars": [
+                0.946233755141764,
+                0.47602617415260184,
+                0.6148765713824952,
+                0.2743161952371829,
+                0.35613611909080567,
+                0.5948879628081614
+            ],
+            "categorical_vars": [
+                5,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 5.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": 5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 1.0,
+            "content_fitness": 0.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 2,
+                    "D": 2,
+                    "P": 2
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a 3.5-star Indian cafe nearby?",
+            "answer": "The closest match is Mood Cafe, rated 4.5/5, serving Indian food at 4618 Baltimore Ave. Shall I navigate there?",
+            "seed": null,
+            "ordinal_vars": [
+                0.3986070437859623,
+                0.7472078799492146,
+                0.8760928331233188,
+                0.20902681078433702,
+                0.910631810406814,
+                0.3736898306273759
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 3.5,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "indian",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Mood Cafe",
+                    "categories": [
+                        "Cafes",
+                        "Pakistani",
+                        "Juice Bars & Smoothies",
+                        "Restaurants",
+                        "Ice Cream & Frozen Yogurt",
+                        "Halal",
+                        "Indian",
+                        "Coffee & Tea",
+                        "Food"
+                    ],
+                    "address": "4618 Baltimore Ave",
+                    "location": {
+                        "lat": 39.9486639126,
+                        "lng": -75.2158315415
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "indian",
+            "parking": null,
+            "price_range": null,
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "empathic",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9026724696159363,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8053449392318726,
+                    "food_type": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a highly rated German cafe with medium prices and available parking, cash only?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.8021599699924323,
+                0.601703265936676,
+                0.4356944075552103,
+                0.14679444832253272,
+                0.6317412849728901,
+                0.6355550396651736
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                0,
+                0,
+                1,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 5.0,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "german",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "german",
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a hotel that accepts credit card payments and has a 4.5-star rating?",
+            "answer": "The best match is Flying Angels, rated 5.0/5, at One International Plz, Ste 550. Credit card policy unclear. Should I navigate there or refine the search for you?",
+            "seed": null,
+            "ordinal_vars": [
+                0.7546378050216668,
+                0.49582596326160217,
+                0.8747443890462125,
+                0.599906333459238,
+                0.7693701843168106,
+                0.235684047378952
+            ],
+            "categorical_vars": [
+                5,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 4.5,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Flying Angels",
+                    "categories": [
+                        "Travel Services",
+                        "Health & Medical",
+                        "Medical Transportation",
+                        "Hotels & Travel"
+                    ],
+                    "address": "One International Plz, Ste 550",
+                    "location": {
+                        "lat": 39.8740341,
+                        "lng": -75.2569707
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": 4.5,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "empathic",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Guide me to a low-priced hotel accepting mobile payment, rated 4.5.",
+            "answer": "The closest match is Mural Arts Philadelphia, rated 4.5, but it’s not a hotel. Would you like other options?",
+            "seed": null,
+            "ordinal_vars": [
+                0.7354511191329953,
+                0.7261551663412471,
+                0.8463632434667604,
+                0.09073287639805389,
+                0.20885099053760156,
+                0.6219427193593856
+            ],
+            "categorical_vars": [
+                5,
+                4,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Mural Arts Philadelphia",
+                    "categories": [
+                        "Hotels & Travel",
+                        "Tours",
+                        "Art Galleries",
+                        "Shopping",
+                        "Arts & Entertainment"
+                    ],
+                    "address": "128 N Broad St",
+                    "location": {
+                        "lat": 39.9653670987,
+                        "lng": -75.1669141221
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 4.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "I'd like to find a hotel with a 4-star rating and low prices, accepting credit cards.",
+            "answer": "Leneghan's Crusader Inn is a 5-star-rated, budget-friendly hotel accepting credit cards at 7412 Frankford Ave. Navigate there? Or would you like to explore other options/preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.5176134376100175,
+                0.5358560238975769,
+                0.9806237411400144,
+                0.5464939538237261,
+                0.9606144543900195,
+                0.528043974309446
+            ],
+            "categorical_vars": [
+                5,
+                2,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 4.0,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Leneghan's Crusader Inn",
+                    "categories": [
+                        "Bars",
+                        "Nightlife",
+                        "Chicken Wings",
+                        "Hotels",
+                        "Restaurants",
+                        "Event Planning & Services",
+                        "Hotels & Travel"
+                    ],
+                    "address": "7412 Frankford Ave",
+                    "location": {
+                        "lat": 40.0382627,
+                        "lng": -75.0376145
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 4,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9687078595161438,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.9374157190322876,
+                    "payment_method": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a 5-star hotel with available parking, cash payment?",
+            "answer": "The closest match is Flying Angels, rated 5.0/5, at One International Plz, Ste 550. Parking and cash payment details unclear.  \n\nWould you like me to navigate there or refine the search for other preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.8749011411439308,
+                0.31825224626585363,
+                0.45450461094447253,
+                0.07433852802370947,
+                0.6313576039850656,
+                0.9761482575412729
+            ],
+            "categorical_vars": [
+                5,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 5.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Flying Angels",
+                    "categories": [
+                        "Travel Services",
+                        "Health & Medical",
+                        "Medical Transportation",
+                        "Hotels & Travel"
+                    ],
+                    "address": "One International Plz, Ste 550",
+                    "location": {
+                        "lat": 39.8740341,
+                        "lng": -75.2569707
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": 5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "parking": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a high-priced supermarket with mobile payment and available parking.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.08531613710867665,
+                0.36619979711643535,
+                0.7907350616147462,
+                0.43335548330578705,
+                0.18883768718152205,
+                0.5990263758135219
+            ],
+            "categorical_vars": [
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a Vietnamese cafe with available parking, cash only.",
+            "answer": "Cafe Saigon at 827 Adams Ave seems perfect—Vietnamese, affordable, and cash-only. Parking availability isn't listed. Should I navigate there?",
+            "seed": null,
+            "ordinal_vars": [
+                0.11683312256767225,
+                0.5210329657222328,
+                0.495601609294559,
+                0.2891667419953389,
+                0.06667928635166875,
+                0.4432474841702508
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                0,
+                0,
+                11,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "vietnamese",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Cafe Saigon",
+                    "categories": [
+                        "Restaurants",
+                        "Chinese",
+                        "Vietnamese"
+                    ],
+                    "address": "827 Adams Ave",
+                    "location": {
+                        "lat": 40.0312769173,
+                        "lng": -75.1040014417
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.0,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "vietnamese",
+            "parking": "available",
+            "price_range": null,
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.832989513874054,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.665979027748108,
+                    "payment_method": 0.0,
+                    "food_type": 0.0,
+                    "parking": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a low-priced hotel with a 4.5-star rating, contactless payment.",
+            "answer": "The query doesn't match the provided option, as Mural Arts Philadelphia isn't a hotel. Would you like me to refine the search or assist with other preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.7707055377728259,
+                0.6975391805462547,
+                0.35631123393763964,
+                0.0073560488817176195,
+                0.2824723500144413,
+                0.05260762472367525
+            ],
+            "categorical_vars": [
+                5,
+                3,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 4.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Mural Arts Philadelphia",
+                    "categories": [
+                        "Hotels & Travel",
+                        "Tours",
+                        "Art Galleries",
+                        "Shopping",
+                        "Arts & Entertainment"
+                    ],
+                    "address": "128 N Broad St",
+                    "location": {
+                        "lat": 39.9653670987,
+                        "lng": -75.1669141221
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "rating": 4.5,
+            "slang": "slangy",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Find a high-priced Vietnamese cafe that accepts mobile payment.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.052333320709851465,
+                0.8470619486121356,
+                0.054078103430258234,
+                0.8825600127578139,
+                0.3377926101524913,
+                0.7574729693390545
+            ],
+            "categorical_vars": [
+                2,
+                4,
+                0,
+                0,
+                11,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "vietnamese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "vietnamese",
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Please find a low-priced hotel accepting mobile payment with a 4-star rating.",
+            "answer": "The most suitable option is Mural Arts Philadelphia, rated 4.5/5. It's affordable and centrally located. Navigate there? Any other preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.4849635802804569,
+                0.8984641995251235,
+                0.1387810915418619,
+                0.7652686355831805,
+                0.47674188817143137,
+                0.5671174038617898
+            ],
+            "categorical_vars": [
+                5,
+                4,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.0,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Mural Arts Philadelphia",
+                    "categories": [
+                        "Hotels & Travel",
+                        "Tours",
+                        "Art Galleries",
+                        "Shopping",
+                        "Arts & Entertainment"
+                    ],
+                    "address": "128 N Broad St",
+                    "location": {
+                        "lat": 39.9653670987,
+                        "lng": -75.1669141221
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "low",
+            "rating": 4,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "polite",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a Greek restaurant with mobile payment and 3.5 stars.",
+            "answer": "The best match is Greek From Greece, rated 5.0/5 at 107 N 33rd St. Mobile payment availability is unclear. Should I navigate there or refine the search?",
+            "seed": null,
+            "ordinal_vars": [
+                0.36786414814409746,
+                0.7320539354774408,
+                0.2471851587498263,
+                0.17669589102165156,
+                0.4871357680170547,
+                0.2295353591964066
+            ],
+            "categorical_vars": [
+                0,
+                4,
+                0,
+                0,
+                10,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "greek",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Greek From Greece",
+                    "categories": [
+                        "Greek",
+                        "Cafes",
+                        "Food",
+                        "Mediterranean",
+                        "Bakeries",
+                        "Coffee & Tea",
+                        "Restaurants"
+                    ],
+                    "address": "107 N 33rd St",
+                    "location": {
+                        "lat": 39.9579926,
+                        "lng": -75.1889787
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "greek",
+            "parking": "available",
+            "price_range": null,
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9640928506851196,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.9281857013702393,
+                    "payment_method": 0.0,
+                    "food_type": 0.0,
+                    "parking": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a high-priced Vietnamese cafe that accepts contactless payment.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.14518731628118428,
+                0.826542194401393,
+                0.8457040331610282,
+                0.2848831848259585,
+                0.4747313421486914,
+                0.20221045742409893
+            ],
+            "categorical_vars": [
+                2,
+                3,
+                0,
+                0,
+                11,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "vietnamese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "vietnamese",
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a high-priced supermarket that accepts cash?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.009304168876760485,
+                0.6674845646175125,
+                0.12504778891598692,
+                0.11596642270647686,
+                0.5224314727581114,
+                0.8825733267343135
+            ],
+            "categorical_vars": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.1,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 1,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a medium-priced bar with a 3.5 rating and available parking?",
+            "answer": "Stokes Sports Bar fits your request: medium-priced ($$), 4.0 rating, and parking available at 2651 S 16th St. Navigate there? Or do you have other preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.2951592923802544,
+                0.8030187268465022,
+                0.6525675152373551,
+                0.44903848869078683,
+                0.6470800014744413,
+                0.13544754325472325
+            ],
+            "categorical_vars": [
+                4,
+                4,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Stokes Sports Bar",
+                    "categories": [
+                        "Sports Bars",
+                        "Nightlife",
+                        "Bars"
+                    ],
+                    "address": "2651 S 16th St",
+                    "location": {
+                        "lat": 39.9174069,
+                        "lng": -75.1743826
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.0,
+                    "price_range": "$$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "slightly implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9390982389450073,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8781964778900146,
+                    "payment_method": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a low-priced hotel with a 4.5-star rating and available parking, mobile payment.",
+            "answer": "The query doesn't match the provided option, as Mural Arts Philadelphia isn't a hotel. Would you like to refine your search?",
+            "seed": null,
+            "ordinal_vars": [
+                0.7850964862336463,
+                0.4199789464407237,
+                0.8085560396952365,
+                0.22395759497896173,
+                0.7997730908191375,
+                0.10328014055035112
+            ],
+            "categorical_vars": [
+                5,
+                4,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Mural Arts Philadelphia",
+                    "categories": [
+                        "Hotels & Travel",
+                        "Tours",
+                        "Art Galleries",
+                        "Shopping",
+                        "Arts & Entertainment"
+                    ],
+                    "address": "128 N Broad St",
+                    "location": {
+                        "lat": 39.9653670987,
+                        "lng": -75.1669141221
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "low",
+            "rating": 4.5,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "empathic",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.3,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 1,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a high-priced supermarket that accepts mobile payment?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.06133305544831696,
+                0.8571559952470984,
+                0.8177512529839017,
+                0.8951672613830792,
+                0.52206130933848,
+                0.6106481545190322
+            ],
+            "categorical_vars": [
+                1,
+                4,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I make a high-priced mobile payment at a supermarket?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.0756553757618921,
+                0.08161304628669115,
+                0.19807577055033113,
+                0.0011207652838300247,
+                0.6871508119512615,
+                0.9526413177706405
+            ],
+            "categorical_vars": [
+                1,
+                4,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you suggest a highly-rated Vietnamese restaurant with a high price range?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.7531938293743812,
+                0.23933766985776284,
+                0.8122687435574009,
+                0.5078830668247206,
+                0.6418222181675527,
+                0.5445194670166966
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                11,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 4.5,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "vietnamese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "vietnamese",
+            "parking": null,
+            "price_range": "high",
+            "rating": 4.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a low-priced Vietnamese cafe with a 3.5-star rating, mobile payment, and available parking.",
+            "answer": "Cafe Saigon at 827 Adams Ave seems perfect—affordable, 4.0 stars, Vietnamese, with parking and mobile payment. Shall I navigate there?",
+            "seed": null,
+            "ordinal_vars": [
+                0.3190513147867801,
+                0.8418464755037254,
+                0.8938454790734561,
+                0.0680288270510367,
+                0.20433128857595345,
+                0.8384845295700527
+            ],
+            "categorical_vars": [
+                2,
+                4,
+                0,
+                0,
+                11,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "vietnamese",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Cafe Saigon",
+                    "categories": [
+                        "Restaurants",
+                        "Chinese",
+                        "Vietnamese"
+                    ],
+                    "address": "827 Adams Ave",
+                    "location": {
+                        "lat": 40.0312769173,
+                        "lng": -75.1040014417
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.0,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "vietnamese",
+            "parking": "available",
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.832989513874054,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.665979027748108,
+                    "payment_method": 0.0,
+                    "food_type": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a medium-rated hotel with available parking, accepting cash?",
+            "answer": "The closest match is Payless Parking, rated 3.5/5 at 6975 Norwitch Dr. However, it's primarily a parking facility, not a hotel. Would you like me to refine the search or navigate there? Let me know if you have other preferences!",
+            "seed": null,
+            "ordinal_vars": [
+                0.2775627914218178,
+                0.8475778763825403,
+                0.1972302191046831,
+                0.7899223138635958,
+                0.389008890543,
+                0.5142638708606416
+            ],
+            "categorical_vars": [
+                5,
+                1,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 3.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Payless Parking",
+                    "categories": [
+                        "Airports",
+                        "Hotels & Travel",
+                        "Automotive",
+                        "Parking"
+                    ],
+                    "address": "6975 Norwitch Dr",
+                    "location": {
+                        "lat": 39.9097841,
+                        "lng": -75.2257089
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 3.5,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "polite",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.6,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 1,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Please guide me to a high-priced Indian cafe with available parking and cash payment.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.047456310319842925,
+                0.28608389427806447,
+                0.17781878576242732,
+                0.8707038837700439,
+                0.045490883227457424,
+                0.6287639113856679
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                0,
+                0,
+                2,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "indian",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "indian",
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "not implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Please guide me to a high-priced supermarket with available parking.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.19145326496309445,
+                0.42480805748851125,
+                0.5095037527608888,
+                0.8962995049997424,
+                0.4944504371038445,
+                0.5010998440335215
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a high-priced supermarket with contactless payment and available parking.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.05769416385674691,
+                0.9758136818210154,
+                0.09784885234274006,
+                0.20804739442443576,
+                0.8929471041211879,
+                0.12915496913606955
+            ],
+            "categorical_vars": [
+                1,
+                3,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "rude",
+            "anthropomorphism": "empathic",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a top-rated hotel with available parking.",
+            "answer": "The query doesn't match the listed option, as it's a car service, not a hotel. Would you like me to refine the search or assist with other preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.9002990487833029,
+                0.7320069082889106,
+                0.43289521682677623,
+                0.15645063433039047,
+                0.45457167304795126,
+                0.7119217480852735
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 5.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Luxury Car service ",
+                    "categories": [
+                        "Transportation",
+                        "Limos",
+                        "Taxis",
+                        "Hotels & Travel",
+                        "Town Car Service",
+                        "Airport Shuttles"
+                    ],
+                    "address": null,
+                    "location": {
+                        "lat": 39.9502753,
+                        "lng": -75.1634761
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": 5,
+            "slang": "slangy",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.3,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 1,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "parking": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a highly-rated hotel with mobile payment and available parking?",
+            "answer": "The listed option is Enterprise Rent-A-Car, not a hotel. Would you like me to search for other hotels nearby?",
+            "seed": null,
+            "ordinal_vars": [
+                0.8138295587736657,
+                0.2384638344646776,
+                0.3532149836053383,
+                0.41391991661087013,
+                0.610542594988999,
+                0.7305570155570724
+            ],
+            "categorical_vars": [
+                5,
+                4,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 5.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Enterprise Rent-A-Car",
+                    "categories": [
+                        "Car Rental",
+                        "Hotels & Travel"
+                    ],
+                    "address": "15 S 36th St",
+                    "location": {
+                        "lat": 39.9553242786,
+                        "lng": -75.1941820141
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": 5,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a hotel with available parking?",
+            "answer": "Payless Parking at 6975 Norwitch Dr offers parking near hotels, rated 3.5/5. Should I navigate you there or explore other options?",
+            "seed": null,
+            "ordinal_vars": [
+                0.02688599630540367,
+                0.42154321767525704,
+                0.9091586699388106,
+                0.0456879604190678,
+                0.5100183305884718,
+                0.34761072705007834
+            ],
+            "categorical_vars": [
+                5,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Payless Parking",
+                    "categories": [
+                        "Airports",
+                        "Hotels & Travel",
+                        "Automotive",
+                        "Parking"
+                    ],
+                    "address": "6975 Norwitch Dr",
+                    "location": {
+                        "lat": 39.9097841,
+                        "lng": -75.2257089
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 3.5,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "parking": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a high-priced Indian cafe with mobile payment and available parking.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.1403927334602687,
+                0.0008178695665968794,
+                0.9579813406404696,
+                0.140052873501334,
+                0.3961659575509858,
+                0.1352290176995995
+            ],
+            "categorical_vars": [
+                2,
+                4,
+                0,
+                0,
+                2,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "indian",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "indian",
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Please guide me to a museum with a 5-star rating and available parking.",
+            "answer": "Museum Hack is a 5-star-rated spot offering unique tours and activities. Parking info is unclear. Should I navigate there?",
+            "seed": null,
+            "ordinal_vars": [
+                0.9596807817279595,
+                0.24168576068007122,
+                0.9460420877069718,
+                0.5485016639927492,
+                0.3610476382070632,
+                0.3163165083248981
+            ],
+            "categorical_vars": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "museum",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 5.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Museum Hack",
+                    "categories": [
+                        "Tours",
+                        "Event Planning & Services",
+                        "Team Building Activities",
+                        "Active Life",
+                        "Hotels & Travel",
+                        "Scavenger Hunts"
+                    ],
+                    "address": null,
+                    "location": {
+                        "lat": 39.9682609,
+                        "lng": -75.1749671
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "museum",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": null,
+            "rating": 5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.7556162178516388,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.5112324357032776,
+                    "parking": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a 5-star hotel with medium pricing and available parking, contactless payment?",
+            "answer": "The listed option, Philly Brew Tours, isn't a 5-star hotel. Would you like me to refine the search or adjust preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.9311828404753059,
+                0.9274953949322379,
+                0.14535473200600516,
+                0.501066083980991,
+                0.6736110865925979,
+                0.3458872841014045
+            ],
+            "categorical_vars": [
+                5,
+                3,
+                0,
+                0,
+                0,
+                1,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": 5.0,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Philly Brew Tours by City Brew Tours",
+                    "categories": [
+                        "Event Planning & Services",
+                        "Tours",
+                        "Beer Tours",
+                        "Breweries",
+                        "Team Building Activities",
+                        "Food Tours",
+                        "Food",
+                        "Hotels & Travel"
+                    ],
+                    "address": "1277 Filbert St",
+                    "location": {
+                        "lat": 39.9530598,
+                        "lng": -75.1606397
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": "$$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "medium",
+            "rating": 5,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a high-priced Indian cafe that accepts cash?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.3273638798233041,
+                0.7096640549680208,
+                0.7831530557828299,
+                0.9345931827503051,
+                0.5967059489798645,
+                0.17839721493513355
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                0,
+                0,
+                2,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 3.5,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "indian",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "indian",
+            "parking": null,
+            "price_range": "high",
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.1,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 1,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a high-priced Chinese cafe that accepts mobile payment?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.5121898630612278,
+                0.8297505800468319,
+                0.23472276376239165,
+                0.9361335454638736,
+                0.5163994598769862,
+                0.4771724082644349
+            ],
+            "categorical_vars": [
+                2,
+                4,
+                0,
+                0,
+                6,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "chinese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "chinese",
+            "parking": null,
+            "price_range": "high",
+            "rating": 4,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a high-priced Thai cafe with available parking, please?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.1405158589734135,
+                0.5867025128804191,
+                0.7278392612065796,
+                0.6477034935720327,
+                0.8315949771296914,
+                0.9484486968362504
+            ],
+            "categorical_vars": [
+                2,
+                1,
+                0,
+                0,
+                8,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "thai",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "thai",
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "implicit",
+            "politeness": "polite",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Find a Vietnamese cafe that accepts mobile payment with a 3.5 rating.",
+            "answer": "The only option found is Cafe Mai Vy, rated 5.0, exceeding your 3.5 rating preference. Should I navigate there?",
+            "seed": null,
+            "ordinal_vars": [
+                0.3769878242993205,
+                0.831482359518039,
+                0.04456883221610777,
+                0.7842860795793404,
+                0.14809541056984213,
+                0.18421031490825068
+            ],
+            "categorical_vars": [
+                2,
+                4,
+                0,
+                0,
+                11,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 3.5,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "vietnamese",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Cafe Mai Vy",
+                    "categories": [
+                        "Vietnamese",
+                        "Restaurants"
+                    ],
+                    "address": "1037 S 8th St",
+                    "location": {
+                        "lat": 39.9360632985,
+                        "lng": -75.1567949216
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "vietnamese",
+            "parking": null,
+            "price_range": null,
+            "rating": 3.5,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "polite",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.832989513874054,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.665979027748108,
+                    "payment_method": 0.0,
+                    "food_type": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a high-priced supermarket with credit card payment. Parking available.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.046987239974687435,
+                0.6983455065507606,
+                0.2854950594839194,
+                0.10501578134539553,
+                0.39977433946283714,
+                0.9610984061668628
+            ],
+            "categorical_vars": [
+                1,
+                2,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Locate a high-priced Mexican cafe with a 4.5-star rating.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.6376745009095347,
+                0.5919552404802152,
+                0.010769151168916885,
+                0.44296238189495174,
+                0.2530441840920542,
+                0.1311977586988302
+            ],
+            "categorical_vars": [
+                2,
+                0,
+                0,
+                0,
+                9,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 4.5,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "mexican",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "mexican",
+            "parking": null,
+            "price_range": "high",
+            "rating": 4.5,
+            "slang": "neutral",
+            "implicitness": "not implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a French restaurant with a 3.5 rating and low prices.",
+            "answer": "Sure! Based on your request, I recommend Profi's Crêperie, a French spot with a 4.0 rating and low prices at 51 N 12th St. Would you like me to navigate there, or do you have other preferences in mind?",
+            "seed": null,
+            "ordinal_vars": [
+                0.2863546799003564,
+                0.38971519936765353,
+                0.6410638295519342,
+                0.5016534603939267,
+                0.22348919183848304,
+                0.2193197840943686
+            ],
+            "categorical_vars": [
+                0,
+                0,
+                0,
+                0,
+                5,
+                0,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "restaurant",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 3.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "french",
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Profi's CrÃªperie",
+                    "categories": [
+                        "Creperies",
+                        "French",
+                        "Restaurants"
+                    ],
+                    "address": "51 N 12th St",
+                    "location": {
+                        "lat": 39.953328,
+                        "lng": -75.159268
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.0,
+                    "price_range": "$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "restaurant",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "french",
+            "parking": null,
+            "price_range": "low",
+            "rating": 3.5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9640928506851196,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.9281857013702393,
+                    "food_type": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a high-priced supermarket with available parking, accepting credit card?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.17125971979496737,
+                0.8432532641378279,
+                0.9947874736349567,
+                0.9917101405118929,
+                0.7123639500925638,
+                0.6954187542634146
+            ],
+            "categorical_vars": [
+                1,
+                2,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a high-priced bar with a 5-star rating and available parking?",
+            "answer": "The closest match is Rebel Yoga Studio, a 5-star spot with $$$ pricing, but it’s not a bar. Would you like me to refine the search or navigate there?",
+            "seed": null,
+            "ordinal_vars": [
+                0.9150853749770843,
+                0.9985651073005717,
+                0.7655461646314815,
+                0.6815231331761479,
+                0.9419286369374604,
+                0.899924089733281
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 5.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Rebel Yoga Studio",
+                    "categories": [
+                        "Juice Bars & Smoothies",
+                        "Active Life",
+                        "Food",
+                        "Women's Clothing",
+                        "Fashion",
+                        "Sporting Goods",
+                        "Sports Wear",
+                        "Yoga",
+                        "Fitness & Instruction",
+                        "Kombucha",
+                        "Shopping"
+                    ],
+                    "address": "8020 Germantown Ave",
+                    "location": {
+                        "lat": 40.0711748,
+                        "lng": -75.2014456
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": "$$$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": 5,
+            "slang": "slangy",
+            "implicitness": "implicit",
+            "politeness": "polite",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.7290890216827393,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.4581780433654785,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "I need a high-rated hotel that accepts mobile payment.",
+            "answer": "Apple Hostels is rated 4.0/5 at 32 S Bank St. Mobile payment acceptance is unclear. Should I navigate there or refine the search?",
+            "seed": null,
+            "ordinal_vars": [
+                0.8605462928362771,
+                0.7639020538228737,
+                0.3493112323751406,
+                0.2941492076783596,
+                0.2601342093039636,
+                0.5859155706580488
+            ],
+            "categorical_vars": [
+                5,
+                4,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 5.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Apple Hostels",
+                    "categories": [
+                        "Hostels",
+                        "Hotels & Travel"
+                    ],
+                    "address": "32 S Bank St",
+                    "location": {
+                        "lat": 39.9489146228,
+                        "lng": -75.145232422
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": 5,
+            "slang": "slangy",
+            "implicitness": "slightly implicit",
+            "politeness": "rude",
+            "anthropomorphism": "directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Could you guide me to a high-end supermarket with contactless payment and available parking?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.1062809661584709,
+                0.37059867378648037,
+                0.35225295426820097,
+                0.8186038738383749,
+                0.9980934812372939,
+                0.875759495324187
+            ],
+            "categorical_vars": [
+                1,
+                3,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CONTACTLESS",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "CONTACTLESS",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a high-priced supermarket nearby.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.12827352563250796,
+                0.26846378664060144,
+                0.21951317068378645,
+                0.025189816652652103,
+                0.12345185788266114,
+                0.015748671247833912
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "not implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "I'm looking for a high-end supermarket that accepts credit cards.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.0482934918718456,
+                0.8608833878855086,
+                0.05968323719665965,
+                0.545482314532575,
+                0.9426350697417119,
+                0.816694643629426
+            ],
+            "categorical_vars": [
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.1,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 1,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "I'm looking for a high-priced supermarket nearby.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.0034679871416357227,
+                0.10249461708602503,
+                0.9702336161940692,
+                0.5716478719374085,
+                0.7774820459091777,
+                0.9426766405576154
+            ],
+            "categorical_vars": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a 5-star hotel that accepts cash payment?",
+            "answer": "The closest option is Flying Angels, rated 5.0/5, at One International Plz, Ste 550. Payment details unavailable. Should I navigate there or refine the search for cash-accepting 5-star hotels?",
+            "seed": null,
+            "ordinal_vars": [
+                0.9503662321453992,
+                0.7075811933368954,
+                0.22784319142693293,
+                0.4326966648913534,
+                0.5107377500552488,
+                0.2696938569437376
+            ],
+            "categorical_vars": [
+                5,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CASH",
+                "rating": 5.0,
+                "price_range": null,
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Flying Angels",
+                    "categories": [
+                        "Travel Services",
+                        "Health & Medical",
+                        "Medical Transportation",
+                        "Hotels & Travel"
+                    ],
+                    "address": "One International Plz, Ste 550",
+                    "location": {
+                        "lat": 39.8740341,
+                        "lng": -75.2569707
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CASH",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": null,
+            "rating": 5,
+            "slang": "slangy",
+            "implicitness": "not implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.7,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 1,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Find a hotel with a 4.5-star rating and medium price range, mobile payment.",
+            "answer": "The best match is City Food Tours, rated 4.5/5 with a medium price range ($$). Should I navigate there? Or do you have other preferences in mind?",
+            "seed": null,
+            "ordinal_vars": [
+                0.7453386101382277,
+                0.051044395092797484,
+                0.9541833052701036,
+                0.3508359651354311,
+                0.17134982836910942,
+                0.012763174717822345
+            ],
+            "categorical_vars": [
+                5,
+                4,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.5,
+                "price_range": "medium",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "City Food Tours",
+                    "categories": [
+                        "Hotels & Travel",
+                        "Specialty Food",
+                        "Food",
+                        "Food Tours",
+                        "Tours"
+                    ],
+                    "address": null,
+                    "location": {
+                        "lat": 39.9556241,
+                        "lng": -75.1647529
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": "$$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "medium",
+            "rating": 4.5,
+            "slang": "formal",
+            "implicitness": "implicit",
+            "politeness": "rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "yes"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Please guide me to a high-priced supermarket with mobile payment and available parking.",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.13900404090860133,
+                0.20222206167397333,
+                0.4687532345584697,
+                0.5557371192641288,
+                0.07486583591241713,
+                0.6137528266398831
+            ],
+            "categorical_vars": [
+                1,
+                4,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "supermarket",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": null,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "supermarket",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": null,
+            "slang": "formal",
+            "implicitness": "slightly implicit",
+            "politeness": "neutral",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Take me to a high-priced bar with a 5-star rating and available parking.",
+            "answer": "The closest match is Rebel Yoga Studio, but it’s a juice bar, not a high-priced bar. Any other preferences?",
+            "seed": null,
+            "ordinal_vars": [
+                0.8750395561897427,
+                0.356717498879872,
+                0.6662279215542359,
+                0.03364484067742708,
+                0.05177697851093582,
+                0.7794387301093115
+            ],
+            "categorical_vars": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                1,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "bar",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": null,
+                "rating": 5.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Rebel Yoga Studio",
+                    "categories": [
+                        "Juice Bars & Smoothies",
+                        "Active Life",
+                        "Food",
+                        "Women's Clothing",
+                        "Fashion",
+                        "Sporting Goods",
+                        "Sports Wear",
+                        "Yoga",
+                        "Fitness & Instruction",
+                        "Kombucha",
+                        "Shopping"
+                    ],
+                    "address": "8020 Germantown Ave",
+                    "location": {
+                        "lat": 40.0711748,
+                        "lng": -75.2014456
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 5.0,
+                    "price_range": "$$$",
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "bar",
+            "payment_method": null,
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": "available",
+            "price_range": "high",
+            "rating": 5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "very directive",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.3,
+            "content_fitness": 0.7290890216827393,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 1,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.4581780433654785,
+                    "parking": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "I would appreciate directions to a highly-rated hotel that accepts credit card payments.",
+            "answer": "The closest highly-rated option is Philadelphia Urban Adventures (4.5/5) at 229 Arch St. However, it's a tour service, not a hotel. Would you like me to refine the search for hotels or assist with something else?",
+            "seed": null,
+            "ordinal_vars": [
+                0.5963195733538009,
+                0.5276419646082537,
+                0.3925096333945862,
+                0.8670031108576609,
+                0.7811321099308314,
+                0.8207510325532308
+            ],
+            "categorical_vars": [
+                5,
+                2,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "content_input": {
+                "title": null,
+                "category": "hotel",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "CREDIT_CARD",
+                "rating": 4.0,
+                "price_range": "high",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": null,
+                "parking": null,
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [
+                {
+                    "title": "Philadelphia Urban Adventures",
+                    "categories": [
+                        "Hotels & Travel",
+                        "Tours"
+                    ],
+                    "address": "229 Arch St",
+                    "location": {
+                        "lat": 39.952091,
+                        "lng": -75.1401399646
+                    },
+                    "business_hours_status": null,
+                    "payment_methods": null,
+                    "rating": 4.5,
+                    "price_range": null,
+                    "fuel_prices": null,
+                    "fuel_types": null,
+                    "gas_station_brand": null,
+                    "restaurant_brand": null,
+                    "food_types": [],
+                    "parking": null,
+                    "charging": null,
+                    "availability": null
+                }
+            ],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "hotel",
+            "payment_method": "CREDIT_CARD",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": null,
+            "parking": null,
+            "price_range": "high",
+            "rating": 4,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very polite",
+            "anthropomorphism": "empathic",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.4,
+            "content_fitness": 0.9249118566513062,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": true,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 2
+                }
+            },
+            "fitness_content": {
+                "weights": {
+                    "category": 2.0
+                },
+                "scores": {
+                    "category": 1.8498237133026123,
+                    "payment_method": 0.0,
+                    "price_range": 0.0
+                }
+            }
+        }
+    },
+    {
+        "utterance": {
+            "question": "Where can I find a low-priced Japanese cafe with mobile payment?",
+            "answer": "Sorry, I cannot find any relevant places.",
+            "seed": null,
+            "ordinal_vars": [
+                0.7564015167094351,
+                0.5956823376466212,
+                0.35192459486827377,
+                0.10075555652159962,
+                0.6440327388239062,
+                0.9435754516567069
+            ],
+            "categorical_vars": [
+                2,
+                4,
+                0,
+                0,
+                7,
+                1,
+                1
+            ],
+            "content_input": {
+                "title": null,
+                "category": "cafe",
+                "address": null,
+                "location": null,
+                "business_hours_status": null,
+                "payment_method": "MOBILE_PAYMENT",
+                "rating": 4.5,
+                "price_range": "low",
+                "fuel_price": null,
+                "fuel_type": null,
+                "gas_station_brand": null,
+                "restaurant_brand": null,
+                "food_type": "japanese",
+                "parking": "available",
+                "charging": null,
+                "availability": null
+            },
+            "content_output_list": [],
+            "raw_output": null
+        },
+        "features_dict": {
+            "category": "cafe",
+            "payment_method": "MOBILE_PAYMENT",
+            "fuel_type": null,
+            "fuel_price": null,
+            "food_type": "japanese",
+            "parking": "available",
+            "price_range": "low",
+            "rating": 4.5,
+            "slang": "neutral",
+            "implicitness": "slightly implicit",
+            "politeness": "very rude",
+            "anthropomorphism": "interrogative",
+            "use_fillers": "no"
+        },
+        "fitness": {
+            "answer_fitness": 0.2,
+            "content_fitness": 1.0,
+            "distance": -0.0
+        },
+        "is_critical": true,
+        "poi_exists": false,
+        "other": {
+            "fitness_answer_scores": {
+                "weights": [
+                    1.5,
+                    0.5,
+                    0.5
+                ],
+                "scores": {
+                    "R": 0,
+                    "D": 2,
+                    "P": 0
+                }
+            }
+        }
+    }
+]

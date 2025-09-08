@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Find a bakery, now!",0.2,0.0,-0.0,1
+1,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+2,Where can I find a highly rated bar that accepts cash?,1.0,0.9390982389450073,-0.09230009471458622,0
+3,"Take me to a high-priced supermarket, contactless payment only.",0.2,1.0,-0.08702502206727547,1
+4,"Take me to a medium-priced Middle Eastern cafe with available parking, cash only.",1.0,0.832989513874054,-0.06003788147817635,0
+5,"Could you guide me to a cafe with medium prices and a 3.5-star rating, accepting credit cards and offering available parking?",0.7,0.9026724696159363,-0.06718470823049671,1
+6,"Locate a bakery, like, right this instant, you know.",0.2,0.0,-0.0,1
+7,"Get me to a bakery, like, right now!",0.2,0.0,-0.0,1
+8,"Locate a bakery, right now!",0.2,0.0,-0.0,1
+9,"Get me to the nearest bakery, now!",0.2,0.0,-0.0,1
+10,"Locate the nearest museum, now!",0.2,0.0,-0.0,1
+11,"Take me to a bakery, immediately!",0.2,0.0,-0.0,1
+12,"Find a medium-priced bakery nearby, like, right now.",0.2,0.0,-0.0,1
+13,"Get me a Mexican restaurant with medium price range and contactless payment, now.",0.2,0.0,-0.0,1
+14,"Take me to a moderately priced bakery, now.",0.2,0.0,-0.0,1
+15,"Find me a bakery nearby, now!",0.2,0.0,-0.0,1
+16,"Find me the closest museum, now!",0.2,0.0,-0.0,1
+17,"Locate a museum with available parking, like, right now.",0.2,0.0,-0.0,1
+18,"Locate a Mexican restaurant, 3.5 stars, contactless payment, ASAP.",0.2,0.0,-0.0,1
+19,"Locate the closest bakery, now!",0.2,0.0,-0.0,1

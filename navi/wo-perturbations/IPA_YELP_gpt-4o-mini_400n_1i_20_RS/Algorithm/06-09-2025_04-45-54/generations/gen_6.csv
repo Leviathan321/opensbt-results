@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Locate a high-priced bakery nearby, please.",1.0,0.8752301037311554,-0.0,0
+1,"Take me to a medium-rated hotel with available parking, cash payment.",1.0,0.9687078595161438,-0.0,0
+2,Take me to a museum with a 4.5 rating and available parking.,1.0,0.9626623690128326,-0.0,0
+3,Take me to a middle eastern restaurant with mobile payment.,1.0,0.9640928506851196,-0.0,0
+4,Where can I find a highly rated museum nearby?,1.0,0.9626623690128326,-0.0,0
+5,"I would appreciate directions to a high-priced bakery, please.",1.0,0.8752301037311554,-0.0,0
+6,Take me to a high-rated Mexican restaurant that accepts credit cards.,1.0,0.9640928506851196,-0.0,0
+7,Where can I find a hotel that accepts cash payment and has a 4.0 rating?,1.0,0.9249118566513062,-0.0,0
+8,"Take me to a bar with a 3.5 rating, credit card payment.",1.0,0.9390982389450073,-0.0,0
+9,Where can I find a hotel with available parking?,0.7,0.9249118566513062,-0.0,1
+10,Take me to a low-priced bar with a 5-star rating and available parking.,1.0,0.9390982389450073,-0.0,0
+11,Could you guide me to a museum with a 4.5 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+12,Take me to a top-rated museum nearby.,1.0,0.9626623690128326,-0.0,0
+13,Take me to a high-priced Indian cafe with mobile payment and available parking.,0.2,1.0,-0.0,1
+14,"Take me to a low-priced Greek cafe with a 3.5-star rating, mobile payment, and available parking.",1.0,0.832989513874054,-0.0,0
+15,Where can I find a medium-priced Indian restaurant with contactless payment?,1.0,0.9640928506851196,-0.0,0
+16,Could you guide me to a low-priced hotel that accepts contactless payment?,1.0,0.9687078595161438,-0.0,0
+17,Where can I find a bakery around here?,1.0,0.8752301037311554,-0.0,0
+18,Where can I find a low-priced Greek cafe that accepts cash?,1.0,0.832989513874054,-0.0,0
+19,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,1.0,1.0,-0.0,0
+20,Take me to a medium-priced bar that accepts mobile payment.,1.0,0.9390982389450073,-0.0,0
+21,Please guide me to a museum with available parking.,1.0,0.9626623690128326,-0.0,0
+22,Take me to a museum with a 4-star rating and available parking.,1.0,0.9626623690128326,-0.0,0
+23,Find me a 4-star Italian cafe that accepts credit card.,1.0,0.9026724696159363,-0.0,0
+24,Where can I find a medium-priced bakery around here?,1.0,0.8752301037311554,-0.0,0
+25,Take me to a medium-priced bar that accepts credit cards.,1.0,0.9390982389450073,-0.0,0
+26,I'm looking for a bakery around here.,1.0,0.8752301037311554,-0.0,0
+27,Please guide me to a high-priced bar with mobile payment and available parking.,1.0,0.9390982389450073,-0.0,0
+28,Where can I find a Middle Eastern cafe with parking available? Rated 4.5.,1.0,0.9026724696159363,-0.0,0
+29,Please guide me to a high-rated Middle Eastern cafe with credit card payment.,1.0,0.9026724696159363,-0.0,0
+30,Find a low-priced Thai restaurant that accepts contactless payment.,1.0,0.9640928506851196,-0.0,0
+31,"Take me to a high-priced Chinese restaurant with available parking, mobile payment.",1.0,0.9640928506851196,-0.0,0
+32,May I find a moderately priced hotel that accepts cash payment?,1.0,0.9687078595161438,-0.0,0
+33,Where can I find a museum with a 4.5 star rating?,1.0,0.9626623690128326,-0.0,0
+34,Where can I find a low-priced bakery around here?,1.0,0.8752301037311554,-0.0,0
+35,Take me to a Turkish restaurant that accepts credit card.,1.0,0.9640928506851196,-0.0,0
+36,Locate a museum in the vicinity.,1.0,0.9626623690128326,-0.0,0
+37,"Take me to a supermarket, credit card payment, low prices.",1.0,0.8911634385585785,-0.0,0
+38,Please guide me to a medium-priced Vietnamese cafe with a 3.5-star rating and available parking.,1.0,0.832989513874054,-0.0,0
+39,Take me to a highly rated bar with available parking.,1.0,0.9390982389450073,-0.0,0

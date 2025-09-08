@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to um a German cafe with a flawless 5-star rating, accepting contactless payments.",0.1,0.0,-0.0,1
+1,"Navigate to a museum, parking's gotta be available, right?",0.7,0.9626623690128326,-0.1060170670095788,1
+2,"Navigate to a supermarket, and make sure mobile payment uh works, alright?",0.8,0.8911634385585785,-0.10687628428375018,0
+3,Navigate to a cafe with Japanese food and mobile payment options.,1.0,0.832989513874054,-0.10081719480948814,0
+4,Navigate too a. bakery. I nead some fresh bread.,1.0,0.8752301037311554,-0.109048013289472,0
+5,Navigate to a. supermarket with parking. I’ll pay with ay credit card.,0.2,0.0,-0.10016401306330247,1
+6,Navigate to a um high-priced German cafe with a flawless 5-star rating that accepts credit cards.,0.1,1.0,-0.0,1
+7,Navigate to a bakery. I need some fresh bread.,1.0,0.8752301037311554,-0.10615598101744017,0
+8,"Navigate two a. supermarket that takes credit cards, alright?",0.2,0.0,-0.09984756161914221,1
+9,"Navigate to museum, please. Parking's available, right?",1.0,0.9626623690128326,-0.10217026942303598,0
+10,"Navigate thuy ae low-priced supermarket that takes contactless payments, alright?",0.2,0.0,-0.09862691249033506,1
+11,Navigate to a bar with ae 5.0 rating and contactless payment.,1.0,0.9390982389450073,-0.08582252092052989,0
+12,"Could please guide me to medium-priced Vietnamese restaurant with a perfect rating? Cash only, please.",0.2,1.0,-0.07898883312794158,1
+13,Navigate tue a bahre withe a grate rating and parking available.,0.2,0.0,-0.07655897089336461,1
+14,Navigate to a low-priced bakery. Got it?,1.0,0.8752301037311554,-0.08471502485637794,0
+15,Navigate to ae hotel with ae 4.5 rating and contactless payment.,0.2,0.0,-0.06633980960806463,1
+16,Navigate to a high-end bar that takes cash and has a 5-star rating.,0.4,0.6654961705207825,-0.07449812838316083,1
+17,Navigate to a cafe with cash payment and a 5-star rating.,1.0,0.9026724696159363,-0.07014462650990794,0
+18,"Navigate to a German cafe um with a perfect 5.0 rating, accepting contactless payments.",0.2,0.0,-0.0,1
+19,"Navigate to a low-priced hotel with a 5-star rating, please.",0.4,0.6809072345495224,-0.03611397023170104,1

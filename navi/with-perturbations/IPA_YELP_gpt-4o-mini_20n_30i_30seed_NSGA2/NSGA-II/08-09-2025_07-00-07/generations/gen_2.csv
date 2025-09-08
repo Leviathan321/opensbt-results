@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Could you please guide me to a high-priced bar mobile payment options and a rating of 3.5?,1.0,0.6654961705207825,-0.0,1
+1,Could you please direct budget-friendly hotel available parking? A rating of 3.5 would be appreciated.,0.3,0.784639984369278,-0.0,1
+2,"Navigate to a medium-priced hotel with a 4.5 rating, please.",1.0,0.6849897503852844,-0.0,1
+3,"Navigate um to a fancy cafe with contactless payment, if you could.",0.4,0.832989513874054,-0.0,1
+4,"Navigate to a you know high-end Thai cafe with contactless payment, please.",0.7,0.832989513874054,-0.0,1
+5,Navigate to a medium-priced hotel that offers contactless payment and has parking available.,0.4,0.9249118566513062,-0.0,1
+6,Navigate to a cafe offering German food with contactless payment.,1.0,0.832989513874054,-0.0,0
+7,"Navigate to a fancy cafe with parking, rated around 4 stars.",1.0,0.832989513874054,-0.0,0
+8,Could you please navigate to a cafe offering Jerman cuisine with contactless payment?,1.0,0.832989513874054,-0.0,0
+9,Navigate to a museum with a rating of 3.5.,0.7,0.9626623690128326,-0.0,1
+10,Navigate to a museum. Parking should be accessible there.,0.7,0.9626623690128326,-0.0,1
+11,Could you please guide me to a Greek restaurant with a 4.5 rating and parking available? I can pay by credit card.,0.7,0.9640928506851196,-0.0,1
+12,Navigate to a restaurant with a 4.5-star rating that accepts contactless payments.,0.7,0.9640928506851196,-0.0,1
+13,Could yue plese guide me to a nearby bakery?,1.0,0.8752301037311554,-0.0,0
+14,"Navigate nearby bakery, if would be so kind.",1.0,0.8752301037311554,-0.0,0
+15,"Could you please guide a low-priced French restaurant parking? Rating 3.5, if possible.",0.7,0.9640928506851196,-0.0,1
+16,"Navigate to a nearby bakery, if you would be so kind.",1.0,0.8752301037311554,-0.0,0
+17,"Could you please direct um me to a low-cost French restaurant with available parking and a rating of 3.5? Credit card accepted, if possible.",0.7,0.9640928506851196,-0.0,1
+18,Could you kindly assist me in locating a nearby medium-priced bakery?,1.0,0.8752301037311554,-0.0,0
+19,"Navigate to a bakery, like, now. I'm craving something sweet!",1.0,0.8752301037311554,-0.0,0

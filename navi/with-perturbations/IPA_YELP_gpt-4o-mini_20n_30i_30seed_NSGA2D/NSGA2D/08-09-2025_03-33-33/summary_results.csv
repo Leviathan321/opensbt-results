@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,274
+Number Critical Scenarios (duplicate free),267
+Number All Scenarios,758
+Number All Scenarios (duplicate free),752
+Number Best Critical Scenarios,2
+Number Best Critical Scenarios (duplicate free),2
+Number Best Scenarios,4
+Number Best Scenarios (duplicate free),4
+Ratio Critical/All scenarios,0.36
+Ratio Critical/All scenarios (duplicate free),0.36
+Ratio Best Critical/Best Scenarios,0.50
+Ratio Best Critical/Best Scenarios (duplicate free),0.50
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.4         0.68498975 -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Navigate to a medium-priced hotel with a 4.5 rating, please.', answer='I found a place called Bus Stop, rated 5.0/5 and priced at $$, but it’s not a hotel. Would you like to navigate there, or do you have other preferences in mind?', seed=None, ordinal_vars=[0.7859055960472797, 0.010355574754471686, 0.924109220779172, 0.8489474511463304, 0.23774331602113416], categorical_vars=[5, 3, 0, 0, 0, 2, 0], content_input=NaviContentInput(title=None, category='hotel', address=None, location=None, business_hours_status=None, payment_method='CONTACTLESS', rating=4.5, price_range='medium', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking=None, charging=None, availability=None), content_output_list=[NaviContentOutput(title='Bus Stop', categories=['Fashion', 'Shopping', 'Shoe Stores'], address='727 S 4th St', location=Coordinates(lat=39.9396623, lng=-75.149456), business_hours_status=None, payment_methods=None, rating=5.0, price_range='$$', fuel_prices=None, fuel_types=None, gas_station_brand=None, restaurant_brand=None, food_types=[], parking=None, charging=None, availability=None)], raw_output=None)]"

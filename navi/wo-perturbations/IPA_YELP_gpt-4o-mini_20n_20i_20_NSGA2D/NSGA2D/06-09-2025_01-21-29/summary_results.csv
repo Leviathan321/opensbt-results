@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,172
+Number Critical Scenarios (duplicate free),164
+Number All Scenarios,498
+Number All Scenarios (duplicate free),495
+Number Best Critical Scenarios,18
+Number Best Critical Scenarios (duplicate free),18
+Number Best Scenarios,20
+Number Best Scenarios (duplicate free),20
+Ratio Critical/All scenarios,0.35
+Ratio Critical/All scenarios (duplicate free),0.33
+Ratio Best Critical/Best Scenarios,0.90
+Ratio Best Critical/Best Scenarios (duplicate free),0.90
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.7         0.90267247 -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Could you guide me to a 3.5-star Indian cafe nearby?', answer='The closest match is Mood Cafe, rated 4.5/5, serving Indian food at 4618 Baltimore Ave. Shall I navigate there?', seed=None, ordinal_vars=[0.3986070437859623, 0.7472078799492146, 0.8760928331233188, 0.20902681078433702, 0.910631810406814, 0.3736898306273759], categorical_vars=[2, 0, 0, 0, 2, 0, 0], content_input=NaviContentInput(title=None, category='cafe', address=None, location=None, business_hours_status=None, payment_method=None, rating=3.5, price_range=None, fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type='indian', parking=None, charging=None, availability=None), content_output_list=[NaviContentOutput(title='Mood Cafe', categories=['Cafes', 'Pakistani', 'Juice Bars & Smoothies', 'Restaurants', 'Ice Cream & Frozen Yogurt', 'Halal', 'Indian', 'Coffee & Tea', 'Food'], address='4618 Baltimore Ave', location=Coordinates(lat=39.9486639126, lng=-75.2158315415), business_hours_status=None, payment_methods=None, rating=4.5, price_range='$', fuel_prices=None, fuel_types=None, gas_station_brand=None, restaurant_brand=None, food_types=[], parking=None, charging=None, availability=None)], raw_output=None)]"

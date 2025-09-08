@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Where can I find a hotel with mobile payment, 4-star rating, and available parking?",1.0,0.9687078595161438,-0.0,0
+1,Could you guide me to a low-priced supermarket with available parking?,1.0,0.8911634385585785,-0.0,0
+2,"Please guide me to a low-priced hotel with a 4.5-star rating and available parking, using mobile payment.",0.7,0.9249118566513062,-0.0,1
+3,Where can I find a museum with a 4.0 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+4,Please guide me to a high-priced Turkish restaurant with available parking.,0.2,1.0,-0.0,1
+5,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,1.0,0.0,-0.0,1
+6,"I kindly request directions to a highly-rated hotel with available parking, accepting cash.",1.0,0.9249118566513062,-0.0,0
+7,Take me to a Mexican cafe that accepts contactless payment.,1.0,0.832989513874054,-0.0,0
+8,Could you guide me to a museum with a 4-star rating and available parking?,1.0,0.9626623690128326,-0.0,0
+9,Where can I find a medium-priced Vietnamese cafe with mobile payment?,1.0,0.832989513874054,-0.0,0
+10,Take me to a high-rated hotel that accepts mobile payment.,1.0,0.9249118566513062,-0.0,0
+11,Take me to a museum with a 4-star rating.,1.0,0.9626623690128326,-0.0,0
+12,Take me to a high-priced American restaurant that accepts credit cards.,1.0,0.9640928506851196,-0.0,0
+13,Please guide me to a high-rated Greek cafe that accepts mobile payment.,1.0,0.9026724696159363,-0.0,0
+14,Where can I find a high-priced Middle Eastern restaurant with available parking and accepts cash?,1.0,0.9640928506851196,-0.0,0
+15,Could you guide me to a moderately priced American restaurant with a 4.5-star rating and available parking?,1.0,0.9640928506851196,-0.0,0
+16,Where can I find a supermarket that accepts cash payments?,1.0,0.8911634385585785,-0.0,0
+17,Please guide me to a high-priced bar with credit card payment.,1.0,0.9390982389450073,-0.0,0
+18,"I would appreciate guidance to a museum, please.",1.0,0.9626623690128326,-0.0,0
+19,Could you guide me to a 3.5-star Indian cafe nearby?,0.7,0.9026724696159363,-0.0,1
+20,Please guide me to a high-rated Greek cafe that accepts contactless payment.,1.0,0.9026724696159363,-0.0,0
+21,Where can I find a hotel with a 4.5 rating and contactless payment?,1.0,0.9249118566513062,-0.0,0
+22,Where can I find a museum with available parking?,1.0,0.9626623690128326,-0.0,0
+23,"Where can I find a highly rated German cafe with medium prices and available parking, cash only?",0.2,1.0,-0.0,1
+24,Where can I find a bakery around here?,1.0,0.8752301037311554,-0.0,0
+25,Where can I find a low-priced bakery around here?,1.0,0.8752301037311554,-0.0,0
+26,Could you guide me to a hotel that accepts credit card payments and has a 4.5-star rating?,0.7,0.9249118566513062,-0.0,1
+27,Could you guide me to a highly-rated museum nearby?,1.0,0.7556162178516388,-0.0,0
+28,Please guide me to a highly-rated French restaurant accepting cash.,1.0,0.9640928506851196,-0.0,0
+29,Could you please guide me to a highly-rated French restaurant that accepts contactless payment?,1.0,0.9640928506851196,-0.0,0
+30,"Could you guide me to a high-end hotel with available parking, accepting credit card?",1.0,0.9687078595161438,-0.0,0
+31,Where can I find a low-priced hotel with contactless payment?,1.0,0.9687078595161438,-0.0,0
+32,Take me to a bar that accepts credit card payments.,1.0,0.9390982389450073,-0.0,0
+33,Where can I find a highly-rated medium-priced bar that accepts contactless payment?,1.0,0.9390982389450073,-0.0,0
+34,I would appreciate directions to a medium-priced supermarket with available parking.,1.0,0.8911634385585785,-0.0,0
+35,Take me to a supermarket with mobile payment and available parking.,1.0,0.8911634385585785,-0.0,0
+36,Could you guide me to a Japanese cafe that accepts credit card?,1.0,0.832989513874054,-0.0,0
+37,Could you guide me to a moderately priced hotel accepting credit card?,1.0,0.9687078595161438,-0.0,0
+38,Take me to the supermarket with available parking.,1.0,0.8911634385585785,-0.0,0
+39,"Guide me to a low-priced hotel accepting mobile payment, rated 4.5.",0.7,0.9249118566513062,-0.0,1

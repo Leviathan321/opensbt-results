@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to um a German cafe with a flawless 5-star rating, accepting contactless payments.",0.1,0.0,-0.0,1
+1,"Navigate two a. supermarket that takes credit cards, alright?",0.2,0.0,-0.09984756161914221,1
+2,Navigate to a cafe with Japanese food and mobile payment options.,1.0,0.832989513874054,-0.10081719480948814,0
+3,"Navigate to a museum, parking's gotta be available, right?",0.7,0.9626623690128326,-0.1060170670095788,1
+4,Navigate to a um high-priced German cafe with a flawless 5-star rating that accepts credit cards.,0.1,1.0,-0.0,1
+5,"Navigate thuy ae low-priced supermarket that takes contactless payments, alright?",0.2,0.0,-0.09862691249033506,1
+6,Navigate to ae hotel with ae 4.5 rating and contactless payment.,0.2,0.0,-0.06633980960806463,1
+7,Navigate to a medium-priced Indian cafe with I mean contactless payment and parking.,1.0,0.832989513874054,-0.07846090758317159,0
+8,Navigate to a high-end bakery. I need something special.,1.0,0.8752301037311554,-0.09549577383810504,0
+9,Could you help me find a like low-priced supermarket nearby?,1.0,0.8911634385585785,-0.09617925232634339,0
+10,Navigate to a high-end bar that takes cash and has a 5-star rating.,0.4,0.6654961705207825,-0.07449812838316083,1
+11,Navigate to a high-end bakery. Don't waste my time!,1.0,0.8752301037311554,-0.09528354551486062,0
+12,Could you guide me to a high-priced Italian cafe with contactless I mean payment and a 4.5 rating?,1.0,0.832989513874054,-0.07214820810760525,0
+13,"Navigate to museum has parking available, please.",0.2,0.0,-0.0,1
+14,"Navigate me to I mean a fancy German cafe with a stellar 5-star rating, card only.",0.2,0.0,-0.0,1
+15,"Navigate to a high-end German cafe um with a perfect 5-star rating, accepting credit cards.",0.2,0.0,-0.0,1
+16,Navigate to a German cafe like with a perfect 5.0 rating that accepts contactless payments and has available parking.,0.2,0.0,-0.0,1
+17,Navigate um to a German cafe with a perfect 5-star rating that accepts card only.,0.2,0.0,-0.0,1
+18,Navigate to a German cafe with a perfect five-star rating I mean that accepts cards.,0.2,0.0,-0.0,1
+19,"Navigate to a German cafe with a fantastic 5-star rating, accepting cards.",0.2,0.0,-0.0,1

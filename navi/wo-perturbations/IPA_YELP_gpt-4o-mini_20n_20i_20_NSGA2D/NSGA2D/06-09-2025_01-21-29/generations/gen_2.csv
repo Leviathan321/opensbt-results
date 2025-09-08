@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Please guide me to a high-priced Turkish restaurant with available parking.,0.2,1.0,-0.0,1
+1,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,1.0,0.0,-0.0,1
+2,Could you kindly direct me to a high-end Turkish dining establishment with available parking?,0.2,1.0,-0.0,1
+3,"Find a Vietnamese cafe with medium prices, 3.5 stars, and mobile payment.",0.7,0.832989513874054,-0.0,1
+4,Please direct me to a Turkish restaurant with high prices and available parking.,0.2,1.0,-0.0,1
+5,Could you guide me to a 3.5-star Indian cafe nearby?,0.7,0.9026724696159363,-0.0,1
+6,Take me to a Mexican cafe that accepts contactless payment.,1.0,0.832989513874054,-0.0,0
+7,Where can I find a Vietnamese cafe with medium prices?,1.0,0.832989513874054,-0.0,0
+8,Locate a high-end bakery with expensive prices.,1.0,0.8752301037311554,-0.0,0
+9,Could you guide me to a low-priced supermarket with available parking?,1.0,0.8911634385585785,-0.0,0
+10,"Could you guide me to the nearest supermarket, accepting cash payments?",1.0,0.8911634385585785,-0.0,0
+11,Could you kindly direct me to the nearest supermarket accepting cash payments?,1.0,0.8911634385585785,-0.0,0
+12,Could you direct me to a budget-friendly grocery store with available parking?,1.0,0.8911634385585785,-0.0,0
+13,Please guide me to a highly-rated Greek cafe accepting mobile payments.,1.0,0.9026724696159363,-0.0,0
+14,Please guide me to a highly rated Turkish cafe accepting credit cards.,1.0,0.9026724696159363,-0.0,0
+15,Could you guide me to a cafe with a 4-star rating and available parking?,1.0,0.9026724696159363,-0.0,0
+16,"Find a cafe with 3.5 stars, medium prices, and mobile payment.",1.0,0.9026724696159363,-0.0,0
+17,"Yo, locate a Vietnamese cafe with mobile payment, parking available, medium price range.",1.0,0.9026724696159363,-0.0,0
+18,Find me a high-priced Middle Eastern cafe that accepts contactless payments.,1.0,0.9026724696159363,-0.0,0
+19,Take me to a high-rated hotel that accepts mobile payment.,1.0,0.9249118566513062,-0.0,0

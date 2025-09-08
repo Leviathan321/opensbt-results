@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to um a German cafe with a flawless 5-star rating, accepting contactless payments.",0.1,0.0,-0.0,1
+1,Navigate to a. supermarket with parking. I’ll pay with ay credit card.,0.2,0.0,-0.10016401306330247,1
+2,"Navigate to a museum, parking's gotta be available, right?",0.7,0.9626623690128326,-0.1060170670095788,1
+3,"Navigate to a supermarket, and make sure mobile payment uh works, alright?",0.8,0.8911634385585785,-0.10687628428375018,0
+4,Navigate to a cafe with Japanese food and mobile payment options.,1.0,0.832989513874054,-0.10081719480948814,0
+5,Navigate too a. bakery. I nead some fresh bread.,1.0,0.8752301037311554,-0.109048013289472,0
+6,Navigate to a um high-priced German cafe with a flawless 5-star rating that accepts credit cards.,0.1,1.0,-0.0,1
+7,"Navigate two a. supermarket that takes credit cards, alright?",0.2,0.0,-0.09984756161914221,1
+8,Navigate to a bakery. I need some fresh bread.,1.0,0.8752301037311554,-0.10615598101744017,0
+9,"Navigate thuy ae low-priced supermarket that takes contactless payments, alright?",0.2,0.0,-0.09862691249033506,1
+10,Navigate to supermarket with mobile payment options and parking available.,1.0,0.8911634385585785,-0.1030556266985665,0
+11,Navigate to a museum. AY expect it to be interesting.,1.0,0.9626623690128326,-0.10350037402633672,0
+12,Navigate tue a bahre withe a grate rating and parking available.,0.2,0.0,-0.07655897089336461,1
+13,Navigate to a high-priced German restaurant with mobile payment options.,0.2,1.0,-0.09144927263487823,1
+14,Navigate to a cafe with American food and mobile payment.,1.0,0.832989513874054,-0.09641617971199645,0
+15,Navigate like to a supermarket with contactless payment and parking.,1.0,0.8911634385585785,-0.10273617798408652,0
+16,Navigate to ay barre withe a 4.5 rating and contactless payment.,0.2,0.0,-0.07122703468484826,1
+17,Navigate to a high-end bakery. I expect quality.,1.0,0.8752301037311554,-0.08966046822542473,0
+18,Navigate to a bakery with affordable options nearby.,1.0,0.8752301037311554,-0.08633646044051047,0
+19,"Navigate to bakery. I need fresh bread, right now.",0.2,0.0,-0.0,1

@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you guide me to a bakery around here, please?",1.0,0.8752301037311554,-0.0,0
+1,I would appreciate directions to a highly-rated hotel that accepts credit cards.,1.0,0.9687078595161438,-0.0,0
+2,Where can I find a middle eastern cafe that accepts cash?,1.0,0.9026724696159363,-0.0,0
+3,"Take me to a supermarket, payment method is contactless.",1.0,0.8911634385585785,-0.0,0
+4,"Could you guide me to a museum with available parking, please?",1.0,0.9626623690128326,-0.0,0
+5,Take me to a medium-priced Italian cafe with contactless payment.,1.0,0.832989513874054,-0.0,0
+6,"Could you guide me to a bakery nearby, please?",1.0,0.8752301037311554,-0.0,0
+7,Take me to a high-priced bar nearby.,1.0,0.9390982389450073,-0.0,0
+8,Please guide me to a moderately priced bar accepting credit cards.,1.0,0.9390982389450073,-0.0,0
+9,Please guide me to a museum with a 5-star rating and available parking.,0.7,0.7556162178516388,-0.0,1
+10,Where can I find a low-priced bar that accepts credit card?,1.0,0.9390982389450073,-0.0,0
+11,Where can I find a French cafe with a low price range and accepts credit card payments?,1.0,0.832989513874054,-0.0,0
+12,Where can I find a museum with a 4.0 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+13,Could you guide me to a bakery nearby?,1.0,0.8752301037311554,-0.0,0
+14,"Take me to a low-priced supermarket with available parking, cash only.",1.0,0.8911634385585785,-0.0,0
+15,Could you guide me to a museum nearby?,1.0,0.9626623690128326,-0.0,0
+16,Take me to a top-rated museum with available parking.,1.0,0.9626623690128326,-0.0,0
+17,Where can I find a highly-rated French restaurant that accepts mobile payment?,1.0,0.9640928506851196,-0.0,0
+18,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,1.0,1.0,-0.0,0
+19,"Where can I find a 5-star hotel with medium pricing and available parking, contactless payment?",0.4,0.9249118566513062,-0.0,1
+20,"Take me to a high-priced bar with mobile payment, 4-star rating, and available parking.",1.0,0.9390982389450073,-0.0,0
+21,Where can I find a high-priced Indian cafe that accepts cash?,0.1,1.0,-0.0,1
+22,Where can I find a high-priced Chinese cafe that accepts mobile payment?,0.2,1.0,-0.0,1
+23,Where can I find a medium-priced bar that accepts cash?,1.0,0.9390982389450073,-0.0,0
+24,Take me to a high-rated Thai cafe with contactless payment.,1.0,0.832989513874054,-0.0,0
+25,Take me to a high-priced bakery nearby.,1.0,0.8752301037311554,-0.0,0
+26,Take me to a moderately priced supermarket nearby.,1.0,0.8911634385585785,-0.0,0
+27,Take me to a bakery with medium prices.,1.0,0.8752301037311554,-0.0,0
+28,Could you guide me to a museum with a 3.5 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+29,Where can I find a high-priced Middle Eastern cafe with mobile payment and available parking?,1.0,0.9026724696159363,-0.0,0
+30,Could you guide me to a highly-rated Indian restaurant with available parking?,1.0,0.832989513874054,-0.0,0
+31,Could you guide me to a hotel that accepts cash in a medium price range?,1.0,0.9687078595161438,-0.0,0
+32,Take me to a low-priced bar that accepts mobile payment.,1.0,0.9390982389450073,-0.0,0
+33,Where can I find a museum with available parking and a 3.5 rating?,1.0,0.9626623690128326,-0.0,0
+34,I would appreciate directions to a high-priced bakery nearby.,1.0,0.8752301037311554,-0.0,0
+35,"Could you guide me to a high-priced Thai cafe with available parking, please?",0.2,1.0,-0.0,1
+36,Take me to a top-rated museum nearby.,1.0,0.9626623690128326,-0.0,0
+37,I kindly request directions to a high-priced bakery.,1.0,0.8752301037311554,-0.0,0
+38,Please guide me to a supermarket accepting credit card with low prices.,1.0,0.8911634385585785,-0.0,0
+39,I need to find a high-priced bakery nearby.,1.0,0.8752301037311554,-0.0,0

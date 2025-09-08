@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,53
+Number Critical Scenarios (duplicate free),52
+Number All Scenarios,400
+Number All Scenarios (duplicate free),397
+Number Best Critical Scenarios,5
+Number Best Critical Scenarios (duplicate free),5
+Number Best Scenarios,5
+Number Best Scenarios (duplicate free),5
+Ratio Critical/All scenarios,0.13
+Ratio Critical/All scenarios (duplicate free),0.13
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.7         0.92491186 -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Please guide me to a low-priced hotel with a 4.5-star rating and available parking, using mobile payment.', answer='The most suitable option is Mural Arts Philadelphia, rated 4.5/5, with affordable pricing. Parking and mobile payment details unclear.  \n\nWould you like me to navigate there or refine the search for other preferences?', seed=None, ordinal_vars=[0.7027136667515487, 0.13161440695280913, 0.1940803744284052, 0.11962676395300396, 0.7890979296277368, 0.7043217160394111], categorical_vars=[5, 4, 0, 0, 0, 1, 1], content_input=NaviContentInput(title=None, category='hotel', address=None, location=None, business_hours_status=None, payment_method='MOBILE_PAYMENT', rating=4.5, price_range='low', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking='available', charging=None, availability=None), content_output_list=[NaviContentOutput(title='Mural Arts Philadelphia', categories=['Hotels & Travel', 'Tours', 'Art Galleries', 'Shopping', 'Arts & Entertainment'], address='128 N Broad St', location=Coordinates(lat=39.9653670987, lng=-75.1669141221), business_hours_status=None, payment_methods=None, rating=4.5, price_range='$', fuel_prices=None, fuel_types=None, gas_station_brand=None, restaurant_brand=None, food_types=[], parking=None, charging=None, availability=None)], raw_output=None)]"

@@ -1,0 +1,61 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Navigate to a bakery nearby. Got a craving for treats.,1.0,0.8752301037311554,-0.0,0
+1,"Yo, where's the nearest bakery? I'm craving something sweet!",1.0,0.8752301037311554,-0.0,0
+2,"Navigate to a bar with a solid rating, uh credit card accepted.",1.0,0.9390982389450073,-0.0,0
+3,Navigate to a supermarket with low um prices and parking available.,1.0,0.8911634385585785,-0.0,0
+4,"Navigate to a high-end hotel with contactless payment, 5 stars.",1.0,0.6849897503852844,-0.0,1
+5,Navigate to a bar withe a good rating and parking.,1.0,0.9390982389450073,-0.0,0
+6,Navigate to a low-priced bakery. Hurry up!,1.0,0.8752301037311554,-0.0,0
+7,Navigate to a medium-priced Greek restaurant with a 3.5 rating.,1.0,0.9640928506851196,-0.0,0
+8,"Navigate to a museum with a perfect 5-star rating, please.",1.0,0.9626623690128326,-0.0,0
+9,Navigate to a high-end supermarket with credit card payment and parking.,0.7,0.7461632192134857,-0.0,1
+10,"Navigate high-end bakery nearby, please.",0.2,0.0,-0.0,1
+11,Navigate a high-end supermarket with cash payment and parking available.,1.0,0.7461632192134857,-0.0,1
+12,Navigate to a low-priced hotel that accepts cash and has a 5-star I mean rating.,0.4,0.6809072345495224,-0.0,1
+13,Navigate bar with a 5-star rating and cash payment.,1.0,0.9390982389450073,-0.0,0
+14,Could yew plese guide mee to a museum with a 4-star rating?,1.0,0.9626623690128326,-0.0,0
+15,Navigate to a bakery with affordable options nearby.,1.0,0.8752301037311554,-0.0,0
+16,Navigate to a bakery. Got any good options?,1.0,0.8752301037311554,-0.0,0
+17,"Navigate to a high-end bakery nearby, please.",1.0,0.8752301037311554,-0.0,0
+18,Navigate to a bar 4.5 rating and contactless payment.,1.0,0.9390982389450073,-0.0,0
+19,Could you please direct me to um a high-end bakery nearby?,1.0,0.8752301037311554,-0.0,0
+20,Navigate to a high-end Japanese restaurant with cash payment and parking.,1.0,0.9640928506851196,-0.0,0
+21,"Navigate to a I mean bakery nearby, please.",1.0,0.8752301037311554,-0.0,0
+22,"Navigate to a high-priced Turkish cafe with mobile payment, 4.5 stars.",0.2,1.0,-0.0,1
+23,"Navigate to a medium-priced Vietnamese restaurant, please.",1.0,0.9640928506851196,-0.0,0
+24,Could guide to a high-end supermarket accepts mobile payments?,1.0,0.8149494528770447,-0.0,0
+25,Navigate to Greek restaurant 4.5 rating and contactless payment.,0.7,0.9640928506851196,-0.0,1
+26,"Navigate supermarket with cheap stuff and parking, card only.",1.0,0.8911634385585785,-0.0,0
+27,Could yue please navigate to a high-priced Japanese cafe with a 3.5 rating that accepts credit cards?,1.0,0.832989513874054,-0.0,0
+28,Could you please I mean navigate me to a hotel with available parking?,1.0,0.9687078595161438,-0.0,0
+29,Navigate to a bakery nearby. I knead some fresh bread.,1.0,0.8752301037311554,-0.0,0
+30,Navigate to a museum with a solid 4-star rating.,1.0,0.9626623690128326,-0.0,0
+31,Navigate to a uh bar with a 4.5 rating and contactless payment.,1.0,0.9390982389450073,-0.0,0
+32,Navigate to a cafe serving Indian food with mobile payment options. Rating 4.5.,1.0,0.832989513874054,-0.0,0
+33,"Navigate to a low-priced bakery nearby, please.",1.0,0.8752301037311554,-0.0,0
+34,Navigate too a low-priced bakery. Hurry up!,1.0,0.8752301037311554,-0.0,0
+35,Could you plese guide me to a medium-priced supermarket that accepts mobil payments?,0.4,0.8149494528770447,-0.0,1
+36,"Navigate to a medium-priced Turkish restaurant with 5-star rating, please.",0.2,1.0,-0.0,1
+37,Navigate a bar a 4.5 rating. Credit card only.,1.0,0.9390982389450073,-0.0,0
+38,Navigate high-priced Japanese cafe with a solid 4.5 rating. Parking?,1.0,0.832989513874054,-0.0,0
+39,"Navigate to a medium-priced bakery nearby, please.",1.0,0.8752301037311554,-0.0,0
+40,"Navigate to ay bakery nearby, please.",0.4,0.7638738453388214,-0.0,1
+41,Navigate to a high-rated hotel with contactless payment and parking.,1.0,0.9687078595161438,-0.0,0
+42,"Navigate to a supermarket where I can pay with cash, please.",1.0,0.8911634385585785,-0.0,0
+43,Navigate to a high-rated Indian restaurant with mobile um payment and parking.,0.7,0.9640928506851196,-0.0,1
+44,Navigate a high-end supermarket where I can pay cash and park.,1.0,0.8911634385585785,-0.0,0
+45,"Navigate to a cafe with Italian food and parking, you know please.",1.0,0.832989513874054,-0.0,0
+46,Navigate to a like high-rated cafe with middle eastern food and parking.,1.0,0.832989513874054,-0.0,0
+47,Navigate to a museum with a perfect 5.0 rating.,1.0,0.7556162178516388,-0.0,0
+48,Navigate tue a high-end Japanese restaurant. Got it?,1.0,0.9640928506851196,-0.0,0
+49,Navigate to um a supermarket with contactless payment options available.,1.0,0.8911634385585785,-0.0,0
+50,Navigate to a high-priced Turkish cafe with you know a 4.5 rating. Parking available.,0.2,1.0,-0.0,1
+51,Navigate to I mean a high-end supermarket with available parking. Credit card only.,1.0,0.7461632192134857,-0.0,1
+52,"Navigate to a um cafe with Vietnamese food. Cash only, 4.5 stars.",1.0,0.832989513874054,-0.0,0
+53,"Navigate tu a bakery nearby, please.",1.0,0.7638738453388214,-0.0,0
+54,Navigate to high-rated bar with mobile payment options available.,0.4,0.6654961705207825,-0.0,1
+55,Navigate to a bar with a good rating and parking.,1.0,0.9390982389450073,-0.0,0
+56,"Navigate to a high-end bar with available parking, please.",1.0,0.9390982389450073,-0.0,0
+57,"Navigate to a medium-priced bakery nearby, please.",1.0,0.8752301037311554,-0.0,0
+58,Navigate to a medium-priced Greek restaurant with um a 3.5 rating. Got it?,1.0,0.9640928506851196,-0.0,0
+59,"Navigate to a high-end bakery nearby, please.",1.0,0.8752301037311554,-0.0,0

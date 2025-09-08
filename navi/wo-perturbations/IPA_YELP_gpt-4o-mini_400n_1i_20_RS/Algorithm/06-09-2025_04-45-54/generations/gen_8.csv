@@ -1,0 +1,41 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"I would appreciate directions to a high-priced Japanese restaurant, please.",1.0,0.9640928506851196,-0.0,0
+1,Where can I find a medium-priced bakery nearby?,1.0,0.8752301037311554,-0.0,0
+2,Find a highly rated Middle Eastern cafe with a high price range.,1.0,0.9026724696159363,-0.0,0
+3,"Take me to a high-rated restaurant with available parking, credit card accepted.",1.0,0.9640928506851196,-0.0,0
+4,Please guide me to a high-priced bar with a 4.5-star rating and available parking.,1.0,0.9390982389450073,-0.0,0
+5,Take me to a supermarket with mobile payment and available parking.,1.0,0.8911634385585785,-0.0,0
+6,Find a Vietnamese cafe that accepts mobile payment with a 3.5 rating.,0.7,0.832989513874054,-0.0,1
+7,Where can I find a bakery around here?,1.0,0.8752301037311554,-0.0,0
+8,Take me to a high-priced supermarket with credit card payment. Parking available.,0.2,1.0,-0.0,1
+9,"Take me to a low-priced hotel with available parking, cash payment.",1.0,0.9687078595161438,-0.0,0
+10,I need to find a highly rated hotel with affordable prices.,1.0,0.9687078595161438,-0.0,0
+11,"Take me to a Vietnamese restaurant, mobile payment accepted, low prices.",1.0,0.9640928506851196,-0.0,0
+12,Please guide me to a Middle Eastern cafe that accepts credit card.,1.0,0.832989513874054,-0.0,0
+13,Where can I find a top-rated Thai cafe with contactless payment?,1.0,0.832989513874054,-0.0,0
+14,Take me to a high-rated Japanese restaurant with credit card payment.,1.0,0.9640928506851196,-0.0,0
+15,Could you guide me to a medium-priced bar that accepts cash and has available parking?,1.0,0.9390982389450073,-0.0,0
+16,I kindly request directions to a medium-rated hotel accepting mobile payment.,1.0,0.9687078595161438,-0.0,0
+17,Could you guide me to a medium-priced Chinese cafe that accepts cash?,1.0,0.832989513874054,-0.0,0
+18,Take me to a high-priced bakery nearby.,1.0,0.8752301037311554,-0.0,0
+19,Take me to a high-rated American cafe with credit card payment.,1.0,0.9026724696159363,-0.0,0
+20,Locate a high-priced Mexican cafe with a 4.5-star rating.,0.2,1.0,-0.0,1
+21,Take me to a medium-priced Vietnamese cafe with credit card payment.,1.0,0.832989513874054,-0.0,0
+22,Could you guide me to a moderately priced Middle Eastern restaurant with a 4-star rating and available parking?,1.0,0.9640928506851196,-0.0,0
+23,Take me to a French restaurant with a 3.5 rating and low prices.,0.7,0.9640928506851196,-0.0,1
+24,Could you guide me to a highly-rated hotel with available parking?,1.0,0.9249118566513062,-0.0,0
+25,"Take me to a highly rated hotel with low prices and available parking, credit card accepted.",1.0,0.9687078595161438,-0.0,0
+26,"Where can I find a high-priced supermarket with available parking, accepting credit card?",0.2,1.0,-0.0,1
+27,Take me to a highly-rated Japanese restaurant that accepts contactless payment.,1.0,0.9640928506851196,-0.0,0
+28,Could you guide me to a high-priced bar with contactless payment and available parking?,1.0,0.9390982389450073,-0.0,0
+29,Could you guide me to a high-priced bar with a 5-star rating and available parking?,0.7,0.7290890216827393,-0.0,1
+30,"Where can I find a low-priced hotel with a 3.5-star rating and available parking, paying with cash?",1.0,0.9687078595161438,-0.0,0
+31,Take me to a moderately priced hotel with a 4-star rating and available parking.,1.0,0.9687078595161438,-0.0,0
+32,Where can I find a high-priced bar with available parking?,1.0,0.9390982389450073,-0.0,0
+33,"Take me to a 5-star hotel with available parking, cash only.",1.0,0.9249118566513062,-0.0,0
+34,I need a high-rated hotel that accepts mobile payment.,0.7,0.9249118566513062,-0.0,1
+35,Take me to a museum with a 3.5 rating and available parking.,1.0,0.9626623690128326,-0.0,0
+36,Could you guide me to a high-end supermarket with contactless payment and available parking?,0.2,1.0,-0.0,1
+37,Please guide me to a highly rated medium-priced hotel.,1.0,0.9687078595161438,-0.0,0
+38,Take me to a high-rated bar that accepts contactless payment.,1.0,0.9390982389450073,-0.0,0
+39,I'm looking for a high-priced bakery around here.,1.0,0.8752301037311554,-0.0,0

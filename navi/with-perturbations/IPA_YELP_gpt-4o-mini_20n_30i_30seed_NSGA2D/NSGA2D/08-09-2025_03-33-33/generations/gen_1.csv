@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to a medium-priced hotel with a 4.5 rating, please.",0.4,0.6849897503852844,-0.0,1
+1,Navigate to a cafe offering German food with contactless payment.,1.0,0.832989513874054,-0.0,0
+2,"Navigate to a high-priced Thai cafe with contactless like payment, please.",1.0,0.832989513874054,-0.0,0
+3,Could you please guide me thuy a nearby bakery?,1.0,0.8752301037311554,-0.0,0
+4,"Navigate a bakery, will ya? I'm craving something sweet.",1.0,0.8752301037311554,-0.0,0
+5,"Navigate to you know a supermarket that accepts mobile payments, medium prices.",1.0,0.8911634385585785,-0.0,0
+6,Navigate to a hotel with a 5-star rating and contactless payment.,1.0,0.9249118566513062,-0.0,0
+7,Navigate to a bar with mobile payment options and 4-star rating.,1.0,0.9390982389450073,-0.0,0
+8,Could you please guide to a high-priced bar with mobile payment options? A rating of 3.5 would be ideal.,1.0,0.9390982389450073,-0.0,0
+9,Navigate to a bar with a 4-star rating and parking available.,1.0,0.9390982389450073,-0.0,0
+10,Navigate museum with a 3.5 rating. Parking is available.,1.0,0.9626623690128326,-0.0,0
+11,Navigate to a museum with a rating of at least 3.5.,1.0,0.9626623690128326,-0.0,0
+12,Could you please guide me to the nearest museum?,1.0,0.9626623690128326,-0.0,0
+13,Navigate to museum with 5-star rating. Parking's available.,1.0,0.9626623690128326,-0.0,0
+14,Could guide me to a museum with perfect rating and parking?,1.0,0.9626623690128326,-0.0,0
+15,Navigate to a museum where parking is available.,1.0,0.9626623690128326,-0.0,0
+16,Could you please guide me to a Greek restaurant with good ratings and parking?,1.0,0.9640928506851196,-0.0,0
+17,Could you please guide a low-priced French restaurant parking?,1.0,0.9640928506851196,-0.0,0
+18,Navigate to a low-priced Greek restaurant with mobile payment and parking.,1.0,0.9640928506851196,-0.0,0
+19,Navigate to a hotel with contactless payment and parking.,1.0,0.9687078595161438,-0.0,0

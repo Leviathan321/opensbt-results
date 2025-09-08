@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,I'm looking for a high-priced supermarket that accepts cash.,0.1,1.0,-0.08429048117398563,1
+1,"Find a bakery, now!",0.2,0.0,-0.0,1
+2,"Locate a bakery, now!",0.2,0.0,-0.0,1
+3,"Take me to a museum, now!",0.2,0.0,-0.0,1
+4,"Locate a Mexican cafe, 3.5 stars, contactless payment, now.",0.2,0.0,-0.0,1
+5,"Find a bakery, immediately!",0.2,0.0,-0.0,1
+6,"Take me to a 5-star hotel with available parking, credit card payment.",0.3,0.9249118566513062,-0.0738909575254707,1
+7,"Take me to a hotel with medium prices and available parking, cash only.",0.4,0.9249118566513062,-0.07857410878834636,1
+8,Where can I find a medium-priced bakery around here?,1.0,0.8752301037311554,-0.09758211524682237,0
+9,Where can I find a museum with a 4-star rating?,1.0,0.9626623690128326,-0.10599390484998905,0
+10,Locate a high-end pub with a 4.5 rating and available parking.,0.2,0.0,-0.0,1
+11,"Locate a bakery, right now!",0.2,0.0,-0.0,1
+12,Where can I find a high-rated Vietnamese restaurant with contactless payment?,1.0,0.9640928506851196,-0.08888791588990697,0
+13,I'm searching for a high-end supermarket that accepts cash.,0.1,1.0,-0.0,1
+14,Where can I find a high-priced supermarket with available parking?,0.2,1.0,-0.05798470681651213,1
+15,"Locate a Mexican cafe, 3.5 stars, contactless payment, pronto.",0.7,0.832989513874054,-0.0,1
+16,Please guide me to a highly-rated American cafe that accepts mobile payments.,1.0,0.9026724696159363,-0.07862672582116936,0
+17,"Find a 5-star hotel with available parking, credit card payment.",0.4,0.9249118566513062,-0.0,1
+18,"Yo, locate a hotel with a 4.5-star rating and available parking, please.",0.4,0.9249118566513062,-0.0,1
+19,I'm looking for a fancy supermarket that accepts cash.,0.1,1.0,-0.0,1

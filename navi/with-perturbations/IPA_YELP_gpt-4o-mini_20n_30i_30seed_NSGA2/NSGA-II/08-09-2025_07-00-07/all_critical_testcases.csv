@@ -1,0 +1,432 @@
+Index,vars,utterance,answer,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance
+0,"[0.7988387368594724, 0.38788357536758444, 0.7822206134599218, 0.8470115791211291, 0.6016725254063002]",Could you please guide me to a Greek restaurant with a 4.5 rating and parking available? I can pay by credit card.,"I recommend ""Greek From Greece,"" rated 5.0/5, located at 107 N 33rd St. It offers a great dining experience. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",0.7,0.9640928506851196,-0.0
+1,"[0.3488274008880592, 0.5783175255477132, 0.6770435828058756, 0.8572870655824709, 0.5941050611323858]","Could you please guide a low-priced French restaurant parking? Rating 3.5, if possible.","I found La Dominique, a French restaurant rated 4.5/5, located at 3300 Market St. Price: $. Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.9640928506851196,-0.0
+2,"[0.22687005487490103, 0.31172810357718234, 0.17721301741216494, 0.13829888772848478, 0.048378126916572034]",Navigate to a museum with a rating of 3.5.,"It seems the only museum listed is the Please Touch Museum, rated 4.0. Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.9626623690128326,-0.0
+3,"[0.7859055960472797, 0.010355574754471686, 0.924109220779172, 0.8489474511463304, 0.23774331602113416]","Navigate to a medium-priced hotel with a 4.5 rating, please.","I found Bus Stop, a highly-rated place at 727 S 4th St, priced at medium. Should I navigate there? Or do you have other preferences in mind?",1.0,0.6849897503852844,-0.0
+4,"[0.30850241259513406, 0.3094659202091002, 0.4638103281354054, 0.7442235381034871, 0.5300606329859239]",Could you please guide me to a high-priced bar mobile payment options and a rating of 3.5?,"The most suitable place is Verizon, rated 3.5/5, offering mobile payment options at a high price point. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",1.0,0.6654961705207825,-0.0
+5,"[0.5581609478801284, 0.904157220365346, 0.670105028048477, 0.6236369645969178, 0.8930845248661508]","Navigate to a you know high-end Thai cafe with contactless payment, please.","I found Siam Cuisine, a Thai restaurant with a 3.0/5 rating, located at 925 Arch St. Would you like me to navigate there? Or do you have other preferences in mind?",0.7,0.832989513874054,-0.0
+6,"[0.3163666092562913, 0.58, 0.68, 0.86, 0.59]","Could you please direct um me to a low-cost French restaurant with available parking and a rating of 3.5? Credit card accepted, if possible.","I recommend Profi's Crêperie, a French restaurant rated 4.0/5, located at 51 N 12th St. It’s low-cost and accepts credit cards. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",0.7,0.9640928506851196,-0.0
+7,"[0.3133288652401638, 0.58, 0.68, 0.86, 0.55]",Could you please direct budget-friendly hotel available parking? A rating of 3.5 would be appreciated.,"It seems I found a restaurant, The Halal Guys, but not a hotel. Would you like to navigate there, or do you have other preferences in mind?",0.3,0.784639984369278,-0.0
+8,"[0.1440200696802063, 0.15, 0.28, 0.66, 0.36]",Navigate to a medium-priced hotel that offers contactless payment and has parking available.,"The most suitable option is Hertz Rent A Car, which offers medium pricing and parking. Would you like me to navigate there? If you have other preferences or places in mind, let me know!",0.4,0.9249118566513062,-0.0
+9,"[0.6697064178425596, 0.39, 0.78, 0.85, 0.29]",Navigate to a restaurant with a 4.5-star rating that accepts contactless payments.,"I recommend Restaurant Ambra, an Italian place rated 5.0/5, located at 705 S 4th St. Should I navigate there? Or do you have other preferences in mind?",0.7,0.9640928506851196,-0.0
+10,"[0.212182016764966, 0.33, 0.76, 0.85, 0.44]",Navigate to a museum. Parking should be accessible there.,"I recommend the Please Touch Museum, located at 4231 Ave Of The Republic. It has a 4.0/5 rating. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.9626623690128326,-0.0
+11,"[0.5304645922028218, 0.9, 0.67, 0.62, 0.89]","Navigate um to a fancy cafe with contactless payment, if you could.","I recommend A.Cafe, an American restaurant with a 3.0/5 rating, located at 135 S 18th St. Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.832989513874054,-0.0
+12,"[0.7250844635412641, 0.01, 0.93, 0.85, 0.24]","Navigate to a hotel with a 4.5-star rating and contactless payment options, please.","I found the Philadelphia Pet Hotel & Villas, rated 4.5/5. It's a pet-friendly place, but I couldn't confirm contactless payment. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.6322984993457794,-0.0
+13,"[0.07689954516107651, 0.41, 0.77, 0.65, 1.0]",Navigate to a cafe with affordable Vietnamese food and contactless payment. Parking is available.,"I recommend Cafe Saigon, a Vietnamese restaurant with affordable prices, rated 4.0/5, located at 827 Adams Ave. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.832989513874054,-0.0
+14,"[0.19434057031902766, 0.01, 0.92, 0.85, 0.24]","Navigate tue ay nearby bakery, if hugh wood b sough kind.","I found Bakery Lakay, a Haitian and Caribbean restaurant rated 3.5/5, located at 7315 Oxford Ave. Would you like me to navigate there? Or do you have other preferences in mind?",0.4,0.7638738453388214,-0.0
+15,"[0.3426432681257255, 0.57, 0.67, 0.8, 0.56]",Could please guide me a hotel with 3.5 rating and contactless payment options? Parking should be available.,"I found Payless Parking, rated 3.5/5, but it’s primarily a parking service, not a hotel. Would you like to navigate there, or do you have other preferences in mind?",0.3,0.9249118566513062,-0.0
+16,"[0.5035558285500604, 0.15, 0.67, 0.65, 1.0]",Could you I mean please direct me to a cafe offering German cuisine with mobile payment options?,"It seems Germantown Style Pizza is the only option available, but it primarily offers pizza and sandwiches, not German cuisine. Would you like me to help you find another type of restaurant or navigate to this place?",0.4,0.832989513874054,-0.0
+17,"[0.7465082455590916, 0.38, 0.93, 0.85, 0.26]","Navigate to a Greek restaurant with a 4.5-star rating and contactless payment, please.","I found a great option: Greek From Greece, rated 5.0/5, located at 107 N 33rd St. Would you like me to navigate there? Or do you have other preferences in mind?",0.7,0.9640928506851196,-0.0
+18,"[0.10579624154793393, 0.91, 0.28, 0.65, 0.89]","Navigate to stylish cafe with contactless payment options, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+19,"[0.5467047331883205, 0.33, 0.67, 0.62, 0.9]",Could you assist me in locating a cafe that accepts contactless payments and has parking available?,It seems I couldn't find a cafe that meets your criteria. Would you like me to search for other options or navigate to a different place?,1.0,0.6892419010400772,-0.0
+20,"[0.7067092778796734, 0.84, 0.97, 0.65, 0.24]","Navigate to a hotel with solid 4.5-star rating and, like, contactless payment, please.","I found the Philadelphia Pet Hotel & Villas, rated 4.5/5, offering pet services. Should I navigate you there? Or do you have other preferences?",0.4,0.6322984993457794,-0.0
+21,"[0.02202557983075626, 0.91, 0.27, 0.65, 0.89]","Navigate trendy supermarket contactless payment and parking available, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+22,"[0.6236798398062469, 0.01, 0.27, 0.65, 0.24]","Navigate to a hotel with a 4.5 rating, offering contactless payment and parking available.","I found a place called Luxury Car Service, rated 4.5/5, but it primarily offers transportation services, not a hotel. Would you like to navigate there, or do you have other preferences in mind?",0.4,0.9249118566513062,-0.0
+23,"[0.009900799125599907, 0.01, 0.92, 0.85, 0.05]","Navigate tew a nearby museum, if you wood be tso kind.","I found Museum Hack, a highly-rated tour and event planning service. Would you like me to navigate there? Or do you have other places in mind?",0.7,0.7556162178516388,-0.0
+24,"[0.2283291228076586, 0.52, 0.68, 0.86, 0.55]","Could you assist in locating a hotel with 3.5 rating? It should offer contactless payment and have parking available, ideally the high price range.",It seems I couldn't find a hotel that meets all your criteria. Would you like to explore other options or preferences?,1.0,0.7003560662269592,-0.0
+25,"[0.06119730593435311, 0.91, 0.28, 0.65, 0.89]","Navigate to nearby cafe, please. They accept contactless payments and have parking.","It seems the only relevant option is Global Airport Parking, but it may not be ideal as a cafe. Would you like to navigate there, or do you have other preferences in mind?",0.7,0.6892419010400772,-0.0
+26,"[0.5975576587651863, 0.9, 0.66, 0.62, 0.89]","Navigate to a fancy German cafe, please, you know with contactless payment and parking.","I recommend Bierstube German Tavern. It’s a casual German spot with a 3.5/5 rating, offering a lively atmosphere. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.832989513874054,-0.0
+27,"[0.7628155162900397, 0.01, 0.92, 0.88, 0.24]",Please navigate to a hotel that has a 4.5-star rating.,"I found the Philadelphia Pet Hotel & Villas, rated 4.5 stars, located at 7401 Holstein Ave. Should I navigate there? If you have other preferences or places in mind, let me know!",1.0,0.6322984993457794,-0.0
+28,"[0.15632565597245687, 0.91, 0.28, 0.65, 0.89]",Navigate a trendy cafe with contactless payment and parking.,"I recommend A.Cafe, a trendy American restaurant with a 3.0/5 rating, located at 135 S 18th St. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.832989513874054,-0.0
+29,"[0.013757001789980211, 0.91, 0.2, 0.71, 0.89]","Navigate to a trendy bakery, please. you know Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+30,"[0.016163297998748466, 0.9, 0.59, 0.65, 0.89]","Navigate a middle eastern cafe, please, with contactless payment and parking.","I recommend Aya's Cafe, a Mediterranean spot with a 4.0 rating, located at 2129 Arch St. Would you like me to navigate there? Or do you have other preferences in mind?",0.7,0.832989513874054,-0.0
+31,"[0.720492568280881, 0.01, 0.95, 0.85, 0.24]","Navigate to a hotel with a uh high price range, rated 4.5 stars, offering contactless payment.","It seems the only option I found is Palizzi Filippo Social Club, rated 4.5 stars, but it's a restaurant, not a hotel. Would you like to navigate there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+32,"[0.31707423518194644, 0.9, 0.66, 0.62, 0.54]","Navigate a German cafe, uh, contactless payment and parking available.","I recommend Bierstube German Tavern. It offers a German menu, nightlife, and is rated 3.5/5. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.832989513874054,-0.0
+33,"[0.16941328827930013, 0.84, 0.95, 0.65, 0.22]",Navigate to a supermarket with contactless payment and parking available.,"It seems like I found a parking option, but no specific supermarket with contactless payment. Would you like to navigate to Payless Parking, or do you have another place in mind?",0.7,0.6510244607925415,-0.0
+34,"[0.6287993944448242, 0.84, 0.97, 0.65, 0.24]","Navigate to a hotel, like, with a I mean solid 4.5 stars, please.","I found the Philadelphia Pet Hotel & Villas, rated 4.5 stars. It's located at 7401 Holstein Ave. Should I navigate there? Or do you have other preferences in mind?",1.0,0.6322984993457794,-0.0
+35,"[0.6021424527198274, 0.0, 0.27, 0.88, 0.26]","Navigate to a hotel with a 4.5-star rating and medium pricing, please.","It seems I couldn't find a hotel that matches your criteria. Would you like to navigate to Starshine Salon instead, or do you have other preferences in mind?",1.0,0.6809072345495224,-0.0
+36,"[0.6159715374715865, 0.01, 0.93, 0.79, 0.24]",Navigate to a high-end Thai cafe with contactless payment and available parking.,"I recommend Siam Cuisine, a Thai restaurant with contactless payment options. It’s located at 925 Arch St. Would you like me to navigate there? Or do you have other preferences in mind?",0.7,0.832989513874054,-0.0
+37,"[0.15907388168494616, 0.91, 0.2, 0.71, 0.89]","Navigate a trendy bakery with contactless payment and parking, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+38,"[0.262277409035697, 0.9, 0.68, 0.62, 0.89]","Navigate me to a low-priced cafe with parking, I mean rated around 3.5.","I found Cafe India, rated 4.0/5, located at 522 S 5th St. It’s an Indian restaurant with low prices. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",0.7,0.832989513874054,-0.0
+39,"[0.09411050312971161, 0.01, 0.92, 0.85, 0.24]","Navigate tue ay premium bakery that accepts contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+40,"[0.10012108174572626, 0.91, 0.91, 0.61, 0.24]","Navigate to a you know hip bakery, um, please. Contactless payment is available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+41,"[0.5114776847577166, 0.92, 0.68, 0.61, 0.89]","Navigate to a fancy cafe, you like know, with contactless payment and parking.","I found the Bridge Cafe, rated 2.5/5, located at 3641 Locust Walk. It offers affordable options but may not be fancy. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.9026724696159363,-0.0
+42,"[0.6546123708166252, 0.01, 0.92, 0.88, 0.24]","Navigate to a hotel with a 4.5-star rating and contactless payment options, please.","I found the Philadelphia Pet Hotel & Villas, rated 4.5/5. It's a pet-friendly place, but I couldn't confirm contactless payment. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.6322984993457794,-0.0
+43,"[0.1783680601467077, 0.87, 0.28, 0.67, 0.89]",Navigate to a mid-range hotel with contactless payment and parking available.,"It seems the only option available is Hertz Rent A Car, but it may not meet your hotel criteria. Would you like to navigate there, or do you have other preferences in mind?",0.3,0.9249118566513062,-0.0
+44,"[0.08202928910888352, 0.0, 0.88, 0.61, 0.24]","Navigate to a stylish bakery, if you would be uh so kind. Contactless payment is accepted.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+45,"[0.17541776978093299, 0.91, 0.2, 0.71, 0.89]","Navigate to a hip bakery you know with contactless payment and parking, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+46,"[0.011017624253994399, 0.9, 0.92, 0.85, 0.89]",Could you kindly direct me to a chic bakery that accepts contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+47,"[0.19680792571451544, 0.91, 0.27, 0.65, 0.24]","Navigate to a high-end supermarket with contactless payment, I mean please.","I found DASHED, a food delivery service with contactless payment, but it has a low rating of 2.0/5. Would you like to navigate there, or do you have other preferences in mind?",0.7,0.7461632192134857,-0.0
+48,"[0.0785712302707621, 0.91, 0.2, 0.75, 0.91]","Navigate a trendy hotel, please. They accept contactless payment!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+49,"[0.057152491136267726, 0.87, 0.28, 0.67, 0.89]","Navigate to a mid-range hotel with contactless payment and parking, please.","The best option is Hertz Rent A Car, which offers parking and may have contactless payment. Would you like me to navigate there? If you have other preferences or places in mind, let me know!",0.4,0.9249118566513062,-0.0
+50,"[0.12242272683917932, 0.01, 0.92, 0.85, 0.24]","Navigate to a stylish bakery, if yoo wood be sough gracious.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+51,"[0.15850623996133661, 0.95, 0.28, 0.65, 0.9]","Navigate to a budget-friendly French hotel with parking available, please.","It seems I found a French restaurant, Profi's Crêperie, but it’s not a hotel. Would you like to navigate there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+52,"[0.17667985864233907, 0.91, 0.2, 0.71, 0.89]","Navigate a hotel with solid 4.5-star rating and contactless payment, please.","I found the Philadelphia Pet Hotel & Villas, rated 4.5/5, offering pet services. Would you like me to navigate there? Or do you have other preferences in mind?",0.7,0.6322984993457794,-0.0
+53,"[0.0002732772340431344, 0.01, 0.92, 0.85, 0.24]","Navigate to a fashionable bakery, if you wood be so kind.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+54,"[0.16910818499440627, 0.91, 0.2, 0.75, 0.81]","Navigate a trendy hotel, please. take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+55,"[0.034295857303535265, 0.9, 0.2, 0.71, 0.89]","Navigate to a chic bakery, please. I mean High-end options with contactless payment!","I found DASHED, a chic bakery offering high-end options with contactless payment at 310 E Girard Ave. Would you like me to navigate there, or do you have other preferences in mind?",1.0,0.7280087471008301,-0.0
+56,"[0.11034783145976322, 0.91, 0.22, 0.75, 0.89]","Navigate to a cool hotel, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+57,"[0.17061152467872293, 0.87, 0.89, 0.67, 0.89]",Could you lead me to a cool bakery? Contactless payment's I mean a go.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+58,"[0.06685325314219942, 0.91, 0.2, 0.75, 0.89]","Navigate to trendy hotel, please. Contactless payment and parking options are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+59,"[0.15837520249525272, 0.91, 0.2, 0.65, 0.89]","Navigate to chic bakery takes contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+60,"[0.03572607711246466, 0.91, 0.2, 0.71, 0.89]","Navigate to a trendy bakery with um low prices and parking, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+61,"[0.027987509049789402, 0.92, 0.2, 0.85, 0.89]",Could yue please guide me tu a trendy bakery that takes contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+62,"[0.7988316900367617, 0.01, 0.93, 0.85, 0.25]",Please navigate to a hotel rated 4.5 stars contactless payment.,"I found the Philadelphia Pet Hotel & Villas, rated 4.5 stars. It's a pet-friendly place, but not a traditional hotel. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",1.0,0.6322984993457794,-0.0
+63,"[0.19141728655620893, 0.0, 0.98, 0.71, 0.24]",Please guide me to a hotel offering contactless payment and parking.,"I recommend Payless Parking, which offers parking services. However, it doesn't specifically mention contactless payment for hotels. Would you like to navigate there, or do you have other preferences in mind?",0.7,0.9249118566513062,-0.0
+64,"[0.010559436367497094, 0.91, 0.2, 0.61, 0.82]","Navigate to a trendy bakery, um, please. High-end options and parking you know are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+65,"[0.12393777563970186, 0.9, 0.2, 0.75, 0.91]","Navigate to stylish hotel, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+66,"[0.0446071090297554, 0.91, 0.22, 0.71, 0.89]","Navigate to trendy bakery, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+67,"[0.08719324947087614, 0.01, 0.89, 0.85, 0.24]","Navigate to a hotel where parking is available, if you wood be sow gracious.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+68,"[0.07686441493554029, 0.0, 0.88, 0.61, 0.24]","Navigate chic hotel, if you would be so kind. Contactless payment is available.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+69,"[0.026971605976383928, 0.91, 0.2, 0.71, 0.86]","Navigate to a chic hotel, please. Contactless payment and parking are um available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+70,"[0.13109365487289165, 0.92, 0.2, 0.79, 0.89]",Could you plese direct me to a hip bakery that accepts contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+71,"[0.1974852977163281, 0.91, 0.25, 0.75, 0.91]","Navigate a stylish hotel, please. accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+72,"[0.169577077446182, 0.91, 0.2, 0.69, 0.82]","Navigate to a fancy bakery, please. Parking's available and card uh only!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+73,"[0.08850261306125994, 0.91, 0.22, 0.67, 0.89]","Navigate trendy bakery with low prices, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+74,"[0.06842261557292402, 0.92, 0.92, 0.85, 0.24]","Navigate to a cool bakery, please, with low uh prices and contactless payment.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+75,"[0.016501982895612596, 0.9, 0.21, 0.61, 0.21]","Navigate stylish hotel, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+76,"[0.2690001023048151, 0.91, 0.2, 0.71, 0.89]","Navigate to a um trendy hotel, please. It should take contactless payment and be budget-friendly!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+77,"[0.18718394412755368, 0.84, 0.2, 0.7, 0.86]","Navigate to a. trendy bakery, please. Make sure theirs contactless payment and parking available.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+78,"[0.04317460214509088, 0.91, 0.28, 0.65, 0.89]","Could you guide me to a cool cafe? Parking's available, and I prefer contactless like payment.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+79,"[0.11107959024505819, 0.01, 0.19, 0.85, 0.25]","Navigate to a stylish bakery, if you would b. so gracious.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+80,"[0.17629190293192107, 0.91, 0.28, 0.65, 0.89]","Navigate to a cafe with Greek food, contactless payment, and I mean parking.","I recommend ""Greek From Greece,"" a highly-rated cafe offering Greek food. It's located at 107 N 33rd St. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.9026724696159363,-0.0
+81,"[0.08496974194316674, 0.85, 0.92, 0.85, 0.23]","Navigate to the hip bakery, please, withe contactless payment and parking available.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+82,"[0.011974702654030417, 0.9, 0.28, 0.65, 0.23]","Navigate to a fancy cafe that takes contactless um payment, please.","I recommend Creative Cafe, a cozy spot for coffee and bagels, rated 4.0/5. Should I navigate you there? Or do you have other preferences?",0.7,0.819362461566925,-0.0
+83,"[0.14576085398763525, 0.92, 0.2, 0.71, 0.89]",Could you please guide me too ae trendy bakery that takes contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+84,"[0.06250482469996382, 0.92, 0.93, 0.85, 0.88]",Could you please guide a trendy bakery? Contactless payment is available!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+85,"[0.18294222057880144, 0.89, 0.2, 0.75, 0.89]","Navigate thuy a chic hotel, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+86,"[0.0443975290079858, 0.91, 0.27, 0.65, 0.89]","Navigate to a you know high-end supermarket, please. Parking's available, and they take cards!","I found DASHED, a high-end food delivery service at 310 E Girard Ave. It’s rated 2.0/5 and accepts cards. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.7461632192134857,-0.0
+87,"[0.07471387582397922, 0.92, 0.2, 0.79, 0.89]","Navigate mea to ae trendy museum withe parking and contactless payment, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+88,"[0.19100379418275867, 0.91, 0.2, 0.85, 0.18]","Navigate to a low-cost hotel with parking, if you like please.","I found General Grants Saloon, a low-cost bar and restaurant with a rating of 3.5/5. Would you like to navigate there? If you have other preferences or places in mind, let me know!",0.4,0.784639984369278,-0.0
+89,"[0.018883007531128634, 0.9, 0.2, 0.74, 0.91]",Could you plese direct me to ae sheik hotel that accepts contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+90,"[0.07594376957125343, 0.91, 0.2, 0.7, 0.86]","Navigate to a um hip bakery, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+91,"[0.12193260542379675, 0.84, 0.2, 0.7, 0.86]","Navigate to a trendy bakery, please. Make schuur there's contactless payment and parking.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+92,"[0.15866872273604513, 0.9, 0.2, 0.75, 0.91]","Navigate a trendy bakery, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+93,"[0.05235559673470112, 0.85, 0.92, 0.85, 0.23]","Navigate thuy that trendy bakery, please, with tappe payment and parking.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+94,"[0.24113755979695609, 0.91, 0.27, 0.75, 0.91]","Navigate to a chic hotel, please. accept contactless payments and have a decent rating of 3.5.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+95,"[0.1863096223848711, 0.89, 0.2, 0.75, 0.89]","Navigate to a supermarket, please. There’s parking, right?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+96,"[0.03335769152914163, 0.91, 0.25, 0.75, 0.91]","Navigate trendy hotel low rates and contactless payment, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+97,"[0.12552095019837411, 0.84, 0.21, 0.7, 0.86]",Could you please direct me a cool bakery that accepts contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+98,"[0.02866597436469434, 0.91, 0.28, 0.65, 0.89]","Navigate to a trendy bakery, please, with contactless payment and parking.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+99,"[0.18325370114228753, 0.99, 0.21, 0.71, 0.89]","Navigate to a cool bakery with low prices and parking, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+100,"[0.10519501898147265, 0.92, 0.2, 0.71, 0.96]",Could please direct me a trendy bar accepts contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+101,"[0.16189503153719492, 0.86, 0.94, 0.85, 0.23]","Navigate to a trendy hotel, please, with contactless payment and parking.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+102,"[0.08733886537038678, 0.9, 0.92, 0.75, 0.91]","Navigate to a cool hotel, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+103,"[0.03800619121322135, 0.91, 0.16, 0.75, 0.91]","Navigate to a charming bakery, please. They should take card payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+104,"[0.11335453503448074, 0.85, 0.92, 0.85, 0.23]","Navigate thuy that hip bakery, please, withe tap payment and parking available.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+105,"[0.08794479311571245, 0.89, 0.2, 0.76, 0.89]","Navigate to ae stylish hotel, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+106,"[0.06720670972902862, 0.85, 0.92, 0.85, 0.23]","Navigate a trendy bakery, if you please. accept card only!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+107,"[0.006387327420753874, 0.92, 0.88, 0.85, 0.24]","Navigate to a trendy bakery with contactless payment and like parking, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+108,"[0.01718338548944373, 0.88, 0.22, 0.75, 0.91]","Navigate to a trendy hotel with low rates, like please. Mobile payment accepted.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+109,"[0.19397751989551504, 0.92, 0.2, 0.7, 0.86]","Navigate too a dope bakery, please. Need contactless payment and parking.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+110,"[0.3161163084852244, 0.91, 0.27, 0.79, 0.91]","Navigate to ay sheik hotel, please. They have a decent rating.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+111,"[0.08930773188639836, 0.91, 0.2, 0.75, 0.91]","Navigate a trendy bar, please. take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+112,"[0.020409084873860145, 0.92, 0.87, 0.76, 0.93]","Navigate to a cool hotel with affordable rates, if uh you could.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+113,"[0.10763185676113761, 0.85, 0.92, 0.85, 0.23]","Navigate to a hip bakery, if you would be so kind. Card only!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+114,"[0.15233821040517515, 0.84, 0.2, 0.71, 0.96]",Could you please guide high-end bar that takes contactless payments?,"It seems the option provided is not a bar. Unfortunately, I couldn't find a high-end bar that takes contactless payments. Would you like to search for other options or provide a different preference?",1.0,0.6654961705207825,-0.0
+115,"[0.0760251083750143, 0.89, 0.2, 0.76, 0.92]","Navigate to a trendy hotel, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+116,"[0.13168836146569543, 0.89, 0.84, 0.61, 0.87]",Could yue help me find a. coole bakery? Contactless payment works.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+117,"[0.1716214726162013, 0.9, 0.92, 0.75, 0.92]",Could point me stylish hotel that takes contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+118,"[0.015847730472889635, 0.88, 0.21, 0.75, 0.27]","Navigate to a like trendy hotel with contactless payment and parking, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+119,"[0.1984681260422938, 0.91, 0.2, 0.7, 0.86]","Navigate to uh a trendy bakery, please. Contactless payment and parking available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+120,"[0.18654523539889079, 0.88, 0.21, 0.77, 0.91]","Navigate to a cool hotel with low prices, please. Mobile payment's I mean good.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+121,"[0.06293916140044711, 0.85, 0.92, 0.85, 0.23]","Navigate to that kool bakery, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+122,"[0.006031597609385139, 0.0, 0.88, 0.61, 0.24]","Navigate to a stylish hotel you know that accepts contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+123,"[0.060158279142839825, 0.89, 0.2, 0.75, 0.89]",Could you please direct mea thuy a. supermarket? I trust there's parking available.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+124,"[0.17894222188383643, 0.85, 0.84, 0.61, 0.91]",Could you point me to a trendy hotel? Contactless payment is cool.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+125,"[0.033470157648712334, 0.92, 0.87, 0.76, 0.93]","Navigate to a chill hotel with low rates and mobile payment options, if you can.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+126,"[0.1140509475279185, 0.84, 0.21, 0.7, 0.89]",Could please guide me to a high-end bakery that takes contactless payments?,"I found DASHED, a food delivery service, but it has a low rating of 2.0/5. Would you like to navigate there, or do you have other preferences in mind?",0.4,0.7280087471008301,-0.0
+127,"[0.17937714525866189, 0.89, 0.19, 0.75, 0.87]","Navigate to a sheik hotel, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+128,"[0.16934341553248927, 0.89, 0.92, 0.84, 0.91]",Could you please direct me two ae bakery? Contactless payment and parking would bee splendid!,"I recommend Metropolitan Bakery at 12th and Arch. It has a 4.0/5 rating and offers contactless payment. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",0.7,0.8752301037311554,-0.0
+129,"[0.08030748007402613, 0.89, 0.85, 0.75, 0.87]","Navigate to stylish hotel, if could. Contactless payment's cool!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+130,"[0.062266308822818875, 0.88, 0.21, 0.75, 0.27]","Navigate trendy museum accepts contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+131,"[0.08455375776753893, 0.92, 0.2, 0.71, 0.99]","Navigate trendy bar, please. Cash payment and parking needed.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+132,"[0.17710740328745983, 0.92, 0.87, 0.76, 0.93]","Navigate tew a chill hotel, please. They take mobile payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+133,"[0.35701562523455116, 0.91, 0.27, 0.75, 0.91]","Navigate to a stylish hotel, please. should have a 3.5 rating and accept contactless payments.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+134,"[0.15070515225999234, 0.9, 0.92, 0.76, 0.91]","Navigate tue a chill hotel, please. They du contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+135,"[0.1699165094763944, 0.91, 0.2, 0.7, 0.84]","Navigate to a hip bakery, please. Contactless payment and parking are like available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+136,"[0.11620272463692577, 0.89, 0.19, 0.76, 0.24]","Navigate to a cool bakery, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+137,"[0.008986620073922036, 0.89, 0.21, 0.85, 0.21]","Navigate to ay cool medium-priced hotel, if you would be sough kind. They accept cards only!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+138,"[0.023003780494201403, 0.94, 0.27, 0.75, 0.91]","Navigate to trendy hotel, please. take contactless payments and have solid rating of 3.5.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+139,"[0.1905557554640248, 0.92, 0.87, 0.76, 0.93]","Navigate to a chill hotel with a medium price and like mobile pay, please.","It seems the only option I found is a Sprint Store, which isn't a hotel. Would you like to search for other hotels or provide more preferences?",0.4,0.6849897503852844,-0.0
+140,"[0.12861116965220853, 0.89, 0.2, 0.76, 0.92]","Navigate too a cool hotel, please. They take cash payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+141,"[0.17688792167455614, 0.9, 0.19, 0.74, 0.86]","Navigate tu a trendy hotel, please. They accept contactless payments and are mid-priced!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+142,"[0.15819056051687586, 0.84, 0.21, 0.7, 0.87]",Could you please guide me a trendy bakery that takes contactless payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+143,"[0.01913100572986695, 0.92, 0.87, 0.76, 0.93]",Navigate to ae laid-back hotel with affordable rates and mobile pay.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+144,"[0.011638921494955712, 0.91, 0.21, 0.77, 0.86]","Navigate to a chill hotel with uh affordable rates, please.","It seems like the only option is Chillin Pizza, which has affordable rates but a low rating. Would you like to navigate there, or do you have other preferences in mind?",0.7,0.784639984369278,-0.0
+145,"[0.1497072901284607, 0.89, 0.21, 0.85, 0.93]","Navigate thuy ay trendy supermarket, if you would be so kind. Parking is available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+146,"[0.18040071762265564, 0.91, 0.27, 0.75, 0.91]","Navigate to hip bakery, please. should accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+147,"[0.18728033938349825, 0.9, 0.27, 0.75, 0.91]","Navigate a trendy hotel, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+148,"[0.11236712654836474, 0.92, 0.87, 0.76, 0.98]","Navigate to a chill hotel, if you could. They accept mobile payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+149,"[0.15528284344462087, 0.93, 0.2, 0.76, 0.92]","Navigate tue a chill medium-priced hotel, if uwe please. They accept cards!","I found Villagio Pizza, a medium-priced restaurant with a 3.0/5 rating, accepting cards. Would you like to navigate there? Or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+150,"[0.3086158579959002, 0.91, 0.27, 0.75, 0.91]","Navigate cozy cafe, please. should accept mobile payments and have rating least 3.5.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+151,"[0.11773480714024978, 0.89, 0.2, 0.67, 0.89]",Could you please guide me tu a cool bakery? I prefer contactless payment.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+152,"[0.09723635630639055, 0.91, 0.27, 0.75, 0.91]","Navigate to a chill bakery with contactless payment and parking, like please.","I recommend Harmony Bakery at 901 Race St. It’s a chill spot with good ratings and affordable prices. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.8752301037311554,-0.0
+153,"[0.13039502320729662, 0.9, 0.92, 0.75, 0.91]","Navigate to ay hotel, if yew could. Is there parking available?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+154,"[0.35786799543795567, 0.91, 0.27, 0.79, 0.91]","Navigate to a chic hotel, please. It should have a 3.5 rating and accept contactless payments.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+155,"[0.16795717915812391, 0.92, 0.87, 0.76, 0.87]","Navigate to a. laid-back hotel, if you could. They take mobil payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+156,"[0.07451637583410926, 0.89, 0.2, 0.67, 0.89]",Could you pleas deregt me to a. trendy bakery? Contactless payment works.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+157,"[0.16191421589875718, 0.94, 0.27, 0.75, 0.91]","Navigate to a trendy hotel, please. Should accept contactless payments and have a solid rating of 3.5.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+158,"[0.1426290397152284, 0.89, 0.93, 0.85, 0.94]",Could you please deregt me two a trendy bakery? Contactless payment is awesome.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+159,"[0.1961959150443363, 0.89, 0.15, 0.75, 0.89]","Navigate to a trendy supermarket, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+160,"[0.11140286450671921, 0.92, 0.81, 0.76, 0.93]",Could you guide me to ay supermarket? I trust there's parking.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+161,"[0.3947960146065256, 0.92, 0.26, 0.75, 0.93]","Navigate to a chill hotel, around 3.5 stars, mobile payment accepted.","I recommend the Circ At the Philadelphia Marriott Downtown. It's a chill spot with a 3.5-star rating and accepts mobile payments. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",1.0,0.7119375020265579,-0.0
+162,"[0.11587154950504247, 0.9, 0.87, 0.76, 0.91]","Navigate to a cozy hotel that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+163,"[0.14662687873462593, 0.89, 0.2, 0.67, 0.89]","Navigate tue a hip bakery, if you would be so kind. Parking's available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+164,"[0.10478797092620325, 0.92, 0.87, 0.76, 0.93]","Navigate to ay chill hotel, please. They accept mobil payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+165,"[0.11271371995947227, 0.89, 0.2, 0.67, 0.89]","Navigate to a trendy bakery withe contactless payment and parking, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+166,"[0.11115015663649991, 0.88, 0.21, 0.75, 0.27]","Navigate to ay hip hotel, please. They take mobil payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+167,"[0.1289317753972751, 0.91, 0.2, 0.75, 0.94]","Navigate too a dope bakery, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+168,"[0.15441961275712734, 0.92, 0.87, 0.76, 0.98]",Could you help me fined ae cool bakery? Contactless payment's cool.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+169,"[0.01397090496449667, 0.89, 0.21, 0.75, 0.27]","Navigate to a stylish hotel that accepts contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+170,"[0.1033129719870022, 0.88, 0.21, 0.75, 0.27]","Navigate to ae trendy hotel, please. Cash only, alright?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+171,"[0.18198311140623125, 0.88, 0.2, 0.76, 0.29]","Navigate thuy a. hippe hotel, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+172,"[0.37260134634171016, 0.92, 0.86, 0.75, 0.98]","Navigate a chill hotel, accepts mobile payments, yeah?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+173,"[0.06337884075928998, 0.89, 0.93, 0.65, 0.91]",Could you kindly guide mea thuy a. hip bakery? Contactless is neat.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+174,"[0.17274905725687878, 0.88, 0.92, 0.83, 0.91]","Navigate to ay laid-back hotel, if yew could. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+175,"[0.15053547662983116, 0.94, 0.27, 0.75, 0.91]","Navigate to a um cool bakery, um, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+176,"[0.14292276173367105, 0.92, 0.87, 0.76, 0.93]","Navigate to a chill medium-priced hotel that takes mobile payments, please.","It seems the only relevant option is AT&T, but it's a mobile phone store, not a hotel. Would you like me to search for other hotels or specific areas?",0.4,0.6849897503852844,-0.0
+177,"[0.12574863871833533, 0.9, 0.19, 0.75, 0.88]","Navigate a bar, please. Is there parking available?","I recommend The Bike Stop, a gay bar with a 3.5/5 rating. It's located at 206 S Quince St. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.9390982389450073,-0.0
+178,"[0.13710272779226304, 0.89, 0.2, 0.75, 0.82]","Navigate thuy a high-end supermarket, if yu would be so gracious. Parking's available!","Sorry, I cannot find any relevant places.",0.2,1.0,-0.0
+179,"[0.007730011425038402, 0.89, 0.2, 0.75, 0.88]","Navigate to a cool museum takes contactless payments, please.","I recommend the Please Touch Museum, rated 4.0/5, located at 4231 Ave Of The Republic. It’s a fun spot! 
+
+Would you like me to navigate there, or do you have other places in mind?",0.7,0.9626623690128326,-0.0
+180,"[0.3101235190602449, 0.9, 0.17, 0.76, 0.94]","Navigate thuy ay cool hotel, please. They accept contactless payments and r moderately priced!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+181,"[0.04605663700090273, 0.88, 0.21, 0.75, 0.27]","Navigate to ae trendy hotel that accepts mobil payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+182,"[0.1015694619535724, 0.89, 0.21, 0.75, 0.27]","Navigate a trendy bakery, please. Accepts contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+183,"[0.22952089883888277, 0.89, 0.2, 0.75, 0.27]","Navigate a chic hotel accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+184,"[0.18545433301445957, 0.88, 0.21, 0.75, 0.27]","Navigate a cool hotel that takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+185,"[0.18200121426850702, 0.91, 0.2, 0.7, 0.89]","Navigate to a trendy bakery, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+186,"[0.15157794629951638, 0.89, 0.2, 0.82, 0.92]","Navigate chill hotel, please. take mobile payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+187,"[0.038495322866836705, 0.91, 0.23, 0.75, 0.91]","Navigate to a trendy bakery, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+188,"[0.1487985888193262, 0.88, 0.2, 0.76, 0.29]","Navigate tu a chic hotel, please. They have mobile payment and parking available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+189,"[0.09261808762121548, 0.92, 0.87, 0.77, 0.98]","Navigate to a chill hotel, if ewe could. They take mobil payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+190,"[0.0878419703634301, 0.89, 0.86, 0.75, 0.28]","Navigate chill hotel that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+191,"[0.07769249035193593, 0.89, 0.21, 0.8, 0.25]","Navigate to ay chill hotel, please. They take mobile payments and our mid-priced!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+192,"[0.131996576311722, 0.93, 0.27, 0.77, 0.91]","Navigate to a I mean trendy hotel, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+193,"[0.15094756793590178, 0.93, 0.2, 0.7, 0.86]",Could you please guide me to a cool bakery? I mean Contactless payment is fine.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+194,"[0.1869634385580393, 0.9, 0.87, 0.76, 0.91]","Navigate to a chill hotel that accepts mobile payments, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+195,"[0.04636300645916918, 0.91, 0.2, 0.75, 0.91]","Navigate to a charming bakery, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+196,"[0.23145967441878512, 0.88, 0.21, 0.76, 0.27]","Navigate to ae chic hotel withe a 3.5-star rating that accepts mobil payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+197,"[0.3419394641689049, 0.92, 0.86, 0.76, 0.98]","Navigate chill hotel, accepts mobile payments, and has a decent rating, yeah?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+198,"[0.11541926390123883, 0.88, 0.21, 0.75, 0.26]","Navigate to a trendy hotel, please. They accept mobile payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+199,"[0.11068102640642177, 0.89, 0.88, 0.76, 0.93]",Could you guide me to a cool bakery? Contactless payment is a must.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+200,"[0.09889491964941362, 0.91, 0.87, 0.75, 0.87]","Navigate to a cool bakery, please. Contactless payment works!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+201,"[0.3717070136137647, 0.89, 0.2, 0.8, 0.91]",Could you please deregt me to a stylish hotel with ae 3.5-star rating? I prefer contactless payment.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+202,"[0.056535276390562376, 1.0, 0.23, 0.62, 0.91]","Navigate to a cool hotel, please. Medium price range, contactless payment is good!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+203,"[0.2283789937970374, 0.89, 0.2, 0.82, 0.27]","Navigate a stylish hotel that takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+204,"[0.1821565649317221, 0.93, 0.2, 0.76, 0.29]","Navigate tue a. sheik hotel, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+205,"[0.0417307846081294, 0.89, 0.19, 0.7, 0.89]","Navigate to a high-end bakery that accepts mobile payments, please.","It seems DASHED is the only option, but it has a low rating of 2.0/5. Would you like to navigate there, or do you have other preferences in mind?",1.0,0.7280087471008301,-0.0
+206,"[0.17800453007791084, 0.86, 0.86, 0.75, 0.98]",Could you um lead me to a trendy bakery? Contactless is super cool.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+207,"[0.009470988428073951, 0.92, 0.22, 0.77, 0.91]","Navigate to chill medium-priced hotel, please. Mobile payments accepted!","It seems the only option available is the Sprint Store, but it doesn't fit your request for a hotel. Would you like me to search for other hotels or specific locations?",0.4,0.6849897503852844,-0.0
+208,"[0.1901950231360401, 0.89, 0.85, 0.77, 0.88]",Could you please guide me to a kool bakery? Contactless payment is fine.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+209,"[0.013488324653102166, 0.9, 0.2, 0.7, 0.89]","Navigate to a charming bakery that takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+210,"[0.006015587447825127, 0.89, 0.92, 0.65, 0.91]","Navigate to ae cozy bakery, please. They accept mobil payments and are affordable!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+211,"[0.06415017968448544, 0.89, 0.23, 0.76, 0.91]","Navigate to a trendy hotel, please. They take mobile payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+212,"[0.08284355801783304, 0.93, 0.2, 0.76, 0.29]",Navigate me to a trendy hotel. Contactless payment work's for me.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+213,"[0.09622318728506128, 0.89, 0.86, 0.75, 0.31]","Navigate a cozy bakery, if you could. Medium prices, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+214,"[0.1614383269255773, 0.92, 0.89, 0.76, 0.25]","Navigate to ay trendy hotel that accepts contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+215,"[0.121127957659597, 0.89, 0.2, 0.67, 0.98]","Navigate to trendy bakery, please. Contactless payment is good.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+216,"[0.1996532078340718, 0.92, 0.2, 0.67, 0.89]","Navigate to a chill hotel accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+217,"[0.26293113613076063, 0.9, 0.87, 0.75, 0.91]","Could uwe guide mee to a sheik hotel? AY 3.5-star one would be lovely, and AYE knead contactless payment.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+218,"[0.029523860430462956, 0.88, 0.87, 0.76, 0.28]","Navigate to a cool bakery, I mean please. They accept mobile payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+219,"[0.1745764618632123, 0.9, 0.2, 0.7, 0.94]","Navigate I mean to a dope bakery, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+220,"[0.12031207126767299, 0.89, 0.84, 0.75, 0.31]","Navigate to a chill hotel, if could. Parking's available, right?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+221,"[0.13360665984609432, 0.89, 0.93, 0.82, 0.91]",Could you pleas direct me to ae trendy bakery? Contactless is cool.,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+222,"[0.1512575331541445, 0.89, 0.2, 0.82, 0.92]",Could you please guide me I mean to a charming bakery that accepts mobile payments and is reasonably priced?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+223,"[0.16616370089510446, 0.92, 0.87, 0.75, 0.98]","Navigate to ay laid-back hotel, if yew could. They take mobile payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+224,"[0.041148250512344144, 0.89, 0.85, 0.67, 0.32]","Navigate to comfy hotel, please. Medium rates and tap pay!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+225,"[0.03150190483494186, 0.91, 0.2, 0.7, 0.89]","Navigate to a stylish hotel that takes contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+226,"[0.01263775605205375, 0.89, 0.19, 0.86, 0.98]",Could you please like guide me to a stylish hotel? Contactless payment is awesome!,"Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+227,"[0.13704307978132008, 0.91, 0.21, 0.7, 0.86]","Navigate to a delightful bakery that accepts mobile um payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+228,"[0.10151348228149049, 0.89, 0.84, 0.76, 0.28]","Navigate tew that trendy bakery, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+229,"[0.026986264133395915, 0.89, 0.86, 0.82, 0.27]","Navigate mea to a kool bakery that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+230,"[0.14733141485688744, 0.89, 0.2, 0.83, 0.92]","Navigate to a trendy bakery, please. They you know accept contactless payments and have parking!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+231,"[0.14147204802551752, 0.92, 0.3, 0.76, 0.98]","Navigate to a stylish hotel, please. They accept contactless payments and are aune the pricier side!","I recommend Ardiente, a stylish venue with a 4.5/5 rating, offering Latin American and Asian Fusion cuisine. Should I navigate there? Or do you have other preferences in mind?",0.7,0.784639984369278,-0.0
+232,"[0.16838704995851006, 0.89, 0.2, 0.69, 0.96]","Navigate to cool bakery, please. Contactless payment works.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+233,"[0.09609783814850466, 0.86, 0.86, 0.75, 0.32]","Navigate to a cool bakery, if you could. Contactless payment works!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+234,"[0.03203842054769042, 0.89, 0.86, 0.75, 0.31]","Navigate chill hotel, if you could. Medium price, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+235,"[0.07651658484435164, 0.91, 0.27, 0.7, 0.86]","Navigate to ae cool hotel, please. Contactless payment and parking options r available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+236,"[0.11265667186997892, 0.91, 0.19, 0.86, 0.98]","Navigate to a stylish hotel, please. Contactless like payment is accepted!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+237,"[0.150558571730901, 0.89, 0.21, 0.83, 0.92]",Could you please guide me to a trendy hotel? They accept contactless uh payments and have parking available!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+238,"[0.27370268820964083, 0.89, 0.2, 0.82, 0.32]","Navigate to chic hotel accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+239,"[0.1669288462492356, 0.91, 0.19, 0.7, 0.85]","Navigate to a you know cozy hotel that takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+240,"[0.15500880016069304, 0.89, 0.18, 0.82, 0.92]",Could you please direct me to a trendy bakery that takes mobile payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+241,"[0.17641554183947497, 0.88, 0.86, 0.79, 0.31]","Navigate to a trendy bakery, if you could. accept cards only!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+242,"[0.05496977853328262, 0.91, 0.2, 0.7, 0.86]","Navigate to a hip bakery, please. They take contactless you know payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+243,"[0.1945441081621279, 0.86, 0.21, 0.83, 0.92]","Navigate cool bakery, please. should take contactless payments and have parking!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+244,"[0.05991144362192485, 0.91, 0.19, 0.7, 0.89]",Could you please direct like me to a trendy bakery? Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+245,"[0.2946198904740749, 0.89, 0.85, 0.82, 0.27]","Navigate cozy hotel, please. It's got a 3.5 rating and cash payment available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+246,"[0.023355261203353045, 0.91, 0.19, 0.7, 0.86]",Could you navigate me to uh a chic hotel? Mobile payment is great!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+247,"[0.33258388130542904, 0.9, 0.17, 0.76, 0.94]","Navigate to a trendy hotel that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+248,"[0.09015274245961075, 0.91, 0.19, 0.83, 0.98]","Navigate to a snug hotel that accepts contactless payments, um if you please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+249,"[0.18649761912062957, 0.91, 0.21, 0.8, 0.86]","Navigate to a snug hotel that takes mobile payments, um please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+250,"[0.18943050378198326, 0.91, 0.86, 0.71, 0.87]","Navigate to a trendy bakery, if you could. They accept I mean contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+251,"[0.022402790701396863, 0.89, 0.87, 0.75, 0.31]","Navigate to chill bakery, if could. Medium prices, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+252,"[0.04618310232757932, 0.91, 0.27, 0.69, 0.81]","Navigate to that awesome hotel, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+253,"[0.11214742402916018, 0.89, 0.21, 0.86, 0.97]","Navigate to a um delightful hotel, please. Mid-range prices and tap to pay!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+254,"[0.04883839024683059, 0.89, 0.19, 0.86, 1.0]",Could please direct me a trendy bakery? Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+255,"[0.011299083192888332, 0.92, 0.86, 0.75, 0.97]",Could you guide me tew a. chill hotel? They accept mobil payments!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+256,"[0.03379457326454052, 0.89, 0.86, 0.82, 0.27]","Navigate too ay trendy cafe that takes mobile payments, if you please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+257,"[0.04333895276442528, 0.91, 0.21, 0.7, 0.86]","Navigate to a trendy hotel, please. They accept contactless payments and like have parking!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+258,"[0.07371004325350401, 0.89, 0.2, 0.7, 0.9]","Navigate um to a cozy bakery, if you could, at a medium price!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+259,"[0.00737815263112325, 0.89, 0.86, 0.75, 0.31]","Navigate to a um cozy bakery that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+260,"[0.0892381461242136, 0.91, 0.27, 0.67, 0.85]",Could you please direct me to a chic like hotel? Contactless payment is fantastic!,"I recommend Chifa, a chic Peruvian-Chinese restaurant with a 4.0/5 rating, located at 707 Chestnut St. Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+261,"[0.043109787502613565, 0.87, 0.86, 0.86, 0.9]","Could you please guide me to a cozy um hotel, medium price?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+262,"[0.33909733279972576, 0.91, 0.21, 0.82, 0.32]","Navigate to stylish hotel that takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+263,"[0.09627523564097257, 0.89, 0.87, 0.75, 0.29]","Navigate to chill hotel, medium price, cash only, with parking.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+264,"[0.10048551575734709, 0.92, 0.87, 0.75, 0.99]","Navigate to ay cozy museum, if you could, at ay fair price!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+265,"[0.04712488275355869, 0.91, 0.21, 0.83, 0.98]","Navigate a cozy hotel takes contactless payments, if you would.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+266,"[0.10334624392888032, 0.91, 0.19, 0.7, 0.32]","Navigate me to a trendy bakery, please. Contactless payment is super cool!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+267,"[0.39850452547183607, 0.96, 0.24, 0.83, 0.98]","Could you please guide me to a chill hotel, around you know 3.5 stars?","I found Stir, a lively spot rated 4.0/5, perfect for a chill night out. Would you like me to navigate there? Or do you have other preferences in mind?",0.7,0.7378554046154022,-0.0
+268,"[0.016944122660417893, 0.91, 0.21, 0.8, 0.81]","Navigate to that fantastic hotel, please. Mobile payment is accepted!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+269,"[0.13820054031131565, 0.89, 0.19, 0.86, 0.97]","Navigate to a like stylish hotel that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+270,"[0.05965387771825195, 0.86, 0.86, 0.77, 0.32]","Navigate to a trendy bakery, please. I mean Love that contactless payment!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+271,"[0.17562254804116612, 0.89, 0.86, 0.75, 0.31]","Navigate to a cozy bakery accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+272,"[0.1875162093546514, 0.91, 0.21, 0.86, 0.85]","Navigate to a charming hotel, please. Medium rates and you know tap to pay!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+273,"[0.11086780556291607, 0.92, 0.19, 0.7, 0.83]","Could you please guide me to a trendy bakery? Medium prices, uh contactless payment is awesome!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+274,"[0.11495143739636488, 0.89, 0.21, 0.86, 0.98]",Could you please navigate me to a chic cafe like serving Italian food? Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+275,"[0.1470001901350048, 0.89, 0.2, 0.75, 0.31]","Navigate cozy bakery, please. Medium prices and contactless payment, alright?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+276,"[0.36609028170527036, 0.92, 0.19, 0.86, 0.97]","Navigate to um a charming hotel, please. It has a 3.5 rating and parking available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+277,"[0.10178479448545628, 0.89, 0.91, 0.7, 0.31]","Navigate to a cozy bakery that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+278,"[0.0053564266203878635, 0.89, 0.19, 0.86, 0.86]",Could you please direct me to a chic hotel? Cash is cool!,"Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+279,"[0.06719112257680479, 0.87, 0.94, 0.86, 0.9]","Could you kindly point me to a you know comfy hotel, medium price range?","I recommend Room 12 Lounge, a comfy spot with a nightlife vibe, rated 3.0/5. Would you like me to navigate there? Or do you have other preferences in mind?",1.0,0.7378554046154022,-0.0
+280,"[0.10958805862910014, 0.89, 0.2, 0.83, 0.95]",Could you please guide me to a cozy bakery medium prices?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+281,"[0.16112150655917704, 0.91, 0.21, 0.8, 0.83]","Navigate to a high-end uh hotel that takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+282,"[0.13102581112794937, 0.89, 0.21, 0.75, 0.99]",Could please guide me trendy bakery? Contactless payment is awesome!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+283,"[0.10022559379190749, 0.91, 0.19, 0.8, 0.98]","Navigate to a I mean cozy hotel with available parking, if you please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+284,"[0.08848615613283187, 0.87, 0.88, 0.72, 0.93]","Navigate to a trendy bakery, uh please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+285,"[0.024395825397642762, 0.89, 0.87, 0.75, 0.31]","Navigate a cozy bakery that takes card payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+286,"[0.11972892142333197, 0.89, 0.2, 0.86, 0.98]","Navigate to um a trendy cafe, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+287,"[0.0925348987065363, 0.91, 0.19, 0.83, 0.98]","Navigate to a stylish hotel that takes contactless payments, you know please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+288,"[0.05438855584342964, 0.89, 0.91, 0.86, 0.25]","Navigate a comfy hotel, if wouldn't mind. Medium prices, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+289,"[0.045237361353565486, 0.89, 0.2, 0.8, 0.8]","Navigate to a stylish hotel accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+290,"[0.07493395451956526, 0.89, 0.21, 0.82, 0.97]","Navigate to a chill hotel takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+291,"[0.04313579956267957, 0.89, 0.94, 0.72, 0.25]","Navigate to a cozy hotel, if you wouldn't mind. Mid-range rates, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+292,"[0.0007515786888528109, 0.89, 0.2, 0.82, 0.97]","Navigate to chill hotel that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+293,"[0.1701438330825864, 0.91, 0.21, 0.8, 0.86]","Navigate to a cozy hotel that accepts mobile payments, uh please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+294,"[0.03536377273101969, 0.91, 0.2, 0.75, 0.98]","Navigate to a cozy hotel that accepts contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+295,"[0.09135596111217391, 0.91, 0.21, 0.8, 0.81]","Navigate to ae fancy hotel that accepts mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+296,"[0.1011541619487953, 0.89, 0.9, 0.86, 0.98]",Could you kindly direct me to a cool bakery? Contactless um payment rocks!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+297,"[0.1479476571542553, 0.89, 0.19, 0.88, 0.84]","Navigate delightful hotel that takes contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+298,"[0.14865817373805607, 0.87, 0.2, 0.86, 0.92]","Navigate me uh to a stylish hotel, please. They take contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+299,"[0.04384475478346548, 0.89, 0.2, 0.7, 0.97]","Navigate tue a hip bakery, please. They accept contactless payments!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+300,"[0.07158243918201031, 0.91, 0.21, 0.8, 0.86]","Navigate thuy that fantastic hotel, please. Contactless payment and parking options are available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+301,"[0.05561762899295686, 0.89, 0.19, 0.75, 0.34]","Navigate comfy hotel, please. Medium prices and contactless payment, alright?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+302,"[0.053074954998451655, 0.89, 0.19, 0.86, 0.98]",Could you please direct me to a stylish hotel? Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+303,"[0.1262304598684058, 0.91, 0.19, 0.9, 0.87]",Could you please direct me to delightful bakery takes mobile payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+304,"[0.0019259476207861281, 0.89, 0.94, 0.72, 0.22]","Navigate comfy hotel, if you please. Mid-range rates, yeah!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+305,"[0.1154355609247352, 0.89, 0.19, 0.86, 0.98]",Could please guide to a chic hotel? Contactless payment is awesome!,"I recommend Chifa, a chic Peruvian and Chinese restaurant with a 4.0/5 rating. They offer contactless payment. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+306,"[0.08972379680796977, 0.91, 0.21, 0.8, 0.76]","Navigate to a charming bakery that takes mobile payments, please.","Sorry, I cannot find any relevant places.",0.2,1.0,-0.0
+307,"[0.19230170386121045, 0.89, 0.94, 0.72, 0.25]","Navigate tew a cozy hotel, if yue please. Mid-range prices, yeah?","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+308,"[0.19875206502342524, 0.89, 0.19, 0.86, 0.86]",Could you please direct me to a trendy hotel? Cash um is totally fine!,"Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+309,"[0.17152365525605628, 0.89, 0.19, 0.87, 0.98]","Navigate tu a cosy hotel that takes mobil payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+310,"[0.04368286805260951, 0.9, 0.19, 0.9, 0.86]","Navigate popular high-end bakery, if would be so kind. Accepting contactless, please!","I found DASHED, a food delivery service at 310 E Girard Ave, but it has a low rating of 2.0/5. Would you like to navigate there, or do you have another place in mind?",0.4,0.7280087471008301,-0.0
+311,"[0.17335351009592992, 0.91, 0.21, 0.8, 0.81]","Navigate too a high-end bakery, please. Mobile payment is accepted, and parking's available!","The only option is DASHED, a food delivery service with a 2.0 rating. Would you like to navigate there, or do you have other preferences in mind?",0.4,0.7280087471008301,-0.0
+312,"[0.19083717706607428, 0.91, 0.21, 0.8, 0.97]","Navigate to a high-end hotel that accepts mobil payments, please.","It seems the option provided is not a hotel. Unfortunately, I couldn't find a high-end hotel that accepts mobile payments. Would you like to search for other options or specify a different type of place?",1.0,0.6849897503852844,-0.0
+313,"[0.393891375371441, 0.89, 0.23, 0.72, 0.24]","Navigate to awesome hotel, please. has 3.5 rating and offers contactless payment!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+314,"[0.05340464622593797, 0.89, 0.21, 0.83, 0.99]",Could you please direct me to a hip bakery? Contactless payment is awesome!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+315,"[0.16147918889484233, 0.89, 0.19, 0.84, 0.86]",Could you please guide uh me to a cozy hotel that accepts mobile payments?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+316,"[0.14425241628688124, 0.89, 0.19, 0.86, 0.98]","Could you please guide me to uh a stylish hotel? Cash only, thanks!","Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+317,"[0.04641202965769242, 0.89, 0.2, 0.7, 0.97]",Could you please direct to a charming bakery with medium prices?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+318,"[0.006033579003079589, 0.89, 0.19, 0.86, 0.95]",Could you kindly guide uh me to a trendy hotel? Cash is fine!,"I recommend Room 12 Lounge, a trendy spot with nightlife, rated 3.0/5. It's located at 1200 Sansom St. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",1.0,0.7378554046154022,-0.0
+319,"[0.1553746096853079, 0.89, 0.19, 0.88, 0.84]","Navigate a cozy hotel that accepts contactless payments, please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+320,"[0.14368888184744605, 0.89, 0.21, 0.75, 0.99]",Could please direct me cool bakery? Contactless payment is great!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+321,"[0.1532631002571993, 0.87, 0.23, 0.72, 0.98]","Navigate to that cool hotel, please. you know I’m all about cash payment!","Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+322,"[0.08210981928680557, 0.9, 0.21, 0.8, 0.81]","Navigate to that awesome hotel, please. Contactless payment and parking options are like available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+323,"[0.07730203540992375, 0.89, 0.2, 0.83, 0.95]",Could you please navigate me to cozy bakery with high prices?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+324,"[0.1021950269092943, 0.89, 0.94, 0.72, 0.25]","Navigate to ae cosey hotel, if you could. Cash only, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+325,"[0.0014083794342064637, 0.94, 0.23, 0.86, 0.98]",Could you please I mean navigate me to a chic hotel with parking available?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+326,"[0.3016734612535444, 0.89, 0.19, 0.86, 0.86]",Could you please guide me to a stylish like hotel? Cash is totally cool!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+327,"[0.19269600719916175, 0.89, 0.21, 0.8, 0.97]","Navigate to I mean a cozy hotel, please, that accepts mobile payments.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+328,"[0.11919220965217295, 0.93, 0.19, 0.88, 0.84]",Could you please guide chic hotel? Contactless payment is awesome!,"Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+329,"[0.18163602143845034, 0.91, 0.21, 0.87, 0.86]",Could you please like direct me to a chic hotel? Mobile payment is fantastic!,"It seems like I don't have a chic hotel option for you, but I found Chifa, a stylish restaurant with a 4.0 rating. Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+330,"[0.12189496783941606, 0.81, 0.19, 0.86, 0.86]",Could you please guide mea to ay stylish hotel? Cash works!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+331,"[0.5461128779095891, 0.89, 0.19, 0.86, 0.98]","Navigate to that charming hotel, please. Cash I mean only, 4 stars!","Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+332,"[0.07985903408675595, 0.89, 0.21, 0.86, 0.99]","Navigate me to a cool hotel, please. Cash I mean works perfectly!","I found the Microtel Inn & Suites by Wyndham Philadelphia Airport. It's budget-friendly and offers basic accommodations. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",0.7,0.9687078595161438,-0.0
+333,"[0.17298901314463877, 0.87, 0.19, 0.86, 0.98]","Navigate me to a chic hotel, please. They've got parking available!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+334,"[0.16096405804608652, 0.93, 0.19, 0.88, 0.84]",Could you please direct me to a stylish hotel? Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.1,1.0,-0.0
+335,"[0.5279455795691305, 0.89, 0.19, 0.97, 0.98]","Navigate to that lovely hotel, please. Kash is good, 4 stars!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+336,"[0.1168730239819015, 0.81, 0.19, 0.88, 0.86]","Navigate to that awesome hotel, please. Contactless payment and parking are available!","Sorry, I cannot find any relevant places.",0.2,1.0,-0.0
+337,"[0.08311671471589693, 0.89, 0.21, 0.86, 0.9]","Navigate to a cozy hotel that accepts cash and is a bit uh pricey, please.","I found Room 12 Lounge, a cozy nightlife spot rated 3.0/5, located at 1200 Sansom St. Price: $$.
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.7378554046154022,-0.0
+338,"[0.038355318860404, 0.87, 0.19, 0.73, 0.98]","Could you please direct me to a chic hotel? uh Cash only, thanks!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+339,"[0.488233869259852, 0.91, 0.19, 0.8, 0.98]","Navigate to a cozy hotel, you know, with uh a high rating that takes cash.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+340,"[0.11750867463217558, 0.89, 0.19, 0.86, 0.86]","Navigate to a. cozy hotel that accepts cash, if you please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+341,"[0.2744848718174739, 0.89, 0.19, 0.86, 0.98]","Could you please direct me to a chic hotel with a 3.5-star um rating? Oh, and contactless payment is fantastic!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+342,"[0.04717321525060081, 0.89, 0.17, 0.86, 0.89]",Could you kindly guide me like to a stylish bar with parking?,"I found Bright Parking at 145 N 10th St, rated 3.5/5. It offers parking but isn't a bar. 
+
+Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.7003612071275711,-0.0
+343,"[0.08524272176019401, 0.89, 0.19, 0.86, 0.84]",Could you you know kindly guide me to a trendy hotel? Cash is cool!,"I recommend Bistro St. Tropez, a trendy French restaurant with a casual vibe. Would you like me to navigate there? Or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+344,"[0.06625628286394632, 0.81, 0.19, 0.86, 0.86]",Could you please direct me too a. sheek hotel? Kasch is cool!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+345,"[0.19962940271225701, 0.93, 0.19, 0.88, 0.84]",Could you please direct uh me to a chic hotel? Contactless payment is fantastic!,"It seems I couldn't find a chic hotel, but I found Chifa, a stylish restaurant with a 4.0 rating. Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.784639984369278,-0.0
+346,"[0.09866381199328234, 0.89, 0.18, 0.86, 0.98]",Could you kindly direct me I mean to a chic hotel? Credit card only!,"It seems I couldn't find a chic hotel, but I recommend Chifa, a stylish Peruvian-Chinese restaurant rated 4.0/5. Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+347,"[0.11600872377251906, 0.89, 0.2, 0.72, 0.97]",Could you please guide me to a cozy hotel medium rates?,"I recommend Room 12 Lounge, a cozy spot with a nightlife vibe, rated 3.0/5 and priced moderately. 
+
+Would you like me to navigate you there, or do you have other preferences in mind?",1.0,0.7378554046154022,-0.0
+348,"[0.06887262493621747, 0.87, 0.2, 0.7, 0.97]","Navigate a cool bakery, please. I’d like to pay cash!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+349,"[0.09569229029187375, 0.89, 0.19, 0.86, 0.86]",Could you I mean please guide me to a trendy hotel with parking available?,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+350,"[0.06421958503219766, 0.87, 0.23, 0.72, 0.98]","Navigate to that awesome like hotel, please. I'm all about cash!","I found the Microtel Inn & Suites by Wyndham Philadelphia Airport, rated 2.0/5 and budget-friendly. Should I navigate there? Or do you have other preferences in mind?",0.7,0.9687078595161438,-0.0
+351,"[0.3580312615139217, 0.89, 0.19, 0.86, 0.98]","Could kindly direct chic hotel? Mobile payment accepted, please!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+352,"[0.16953139078785107, 0.93, 0.19, 0.88, 0.84]",Could you please guide me to a chic hotel? I mean Cash is cool!,"I recommend Chifa, a chic Peruvian-Chinese restaurant with a 4.0/5 rating, located at 707 Chestnut St. Would you like me to navigate there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+353,"[0.15585500401409721, 0.89, 0.19, 0.88, 0.86]",Could you please guide me to a trendy cafe? Contactless payment is awesome!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+354,"[0.08164243423434912, 0.93, 0.19, 0.7, 0.97]",Could please guide me to a cozy hotel with reasonable rates?,"I recommend Room 12 Lounge, a cozy spot with a nightlife vibe, rated 3.0/5 and reasonably priced. Would you like me to navigate there, or do you have other preferences in mind?",1.0,0.7378554046154022,-0.0
+355,"[0.18051425687121, 0.92, 0.19, 0.79, 0.98]",Could you please direct me to a chic uh hotel? Contactless payment is fantastic!,"It seems I couldn't find a chic hotel, but I recommend Chifa, a stylish restaurant with contactless payment options. Would you like me to navigate there, or do you have other preferences in mind?",0.7,0.784639984369278,-0.0
+356,"[0.03652369726295013, 0.93, 0.19, 0.88, 0.81]",Could you plese guide me to a chic hotel? Cash payment is fine!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+357,"[0.5930759690674403, 0.89, 0.19, 0.86, 0.98]","Navigate lovely hotel, please. Only cash, and it’s got 4 stars!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+358,"[0.17228887305499277, 0.89, 0.19, 0.84, 0.98]","Navigate to a um cozy hotel that accepts cash, if you please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+359,"[0.11633995563704469, 0.89, 0.19, 0.7, 0.98]","Navigate to a trendy bakery, please. uh I’d like to pay in cash!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+360,"[0.11589110110634877, 0.87, 0.19, 0.86, 0.86]","Navigate a cozy hotel that accepts cash, if you please.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+361,"[0.02580083722398803, 0.99, 0.2, 0.7, 0.84]",Navigate to a stylish hotel. Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+362,"[0.24821672939201317, 0.89, 0.19, 0.85, 0.86]","Navigate me to a stylish hotel, please. Cash is cool!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+363,"[0.16175079946444537, 0.93, 0.19, 0.88, 0.84]",Could you kindly guide me to a stylish medium-priced hotel? Cash works!,"It seems I found a place called Bella Bridesmaids, but it's more of a shopping location than a hotel. Would you like me to help you find a stylish medium-priced hotel instead? If you have any specific preferences or other points of interest in mind, let me know!",0.3,0.7003560662269592,-0.0
+364,"[0.12176239739349722, 0.89, 0.19, 0.86, 0.97]",Could you please guide me to a trendy hotel? Cash uh works!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+365,"[0.004139687127945657, 0.93, 0.19, 0.88, 0.84]",Could you plese direct me to a. stylish hotel? Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+366,"[0.1257229604072098, 0.89, 0.2, 0.86, 0.98]",Could you like please guide me to a trendy hotel? Mobile payment is cool!,"Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+367,"[0.037670617076132375, 0.89, 0.19, 0.86, 0.98]",Could you please direct you know me to a cool bakery? Contactless payment is fantastic!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+368,"[0.2567002179688713, 0.89, 0.19, 0.86, 0.86]",Could you please guide me to a cool you know hotel? Cash is totally cool!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+369,"[0.5873665931063442, 0.89, 0.19, 0.86, 0.98]","Could um you please direct me to a chic hotel? Cash payment only, thanks!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+370,"[0.1893532156067606, 0.89, 0.19, 0.86, 0.9]",Could you please navigate me to a chic hotel? uh Mobile payment is fantastic!,"It seems like I found a great option for you! Chifa is a chic restaurant offering a unique Peruvian and Chinese fusion experience. Would you like me to navigate you there, or do you have other preferences in mind?",0.4,0.784639984369278,-0.0
+371,"[0.27419892791008504, 0.89, 0.19, 0.86, 0.98]","Could you please guide to café? Mobile payment is awesome, and I’d love with a decent rating, like 3.5 stars!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+372,"[0.10175387536319257, 0.89, 0.19, 0.86, 0.98]","Navigate to a hip hotel, please. I’d prefer to pay you know cash!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+373,"[0.05677441029273558, 0.78, 0.94, 0.72, 0.25]","Navigate to a cozy hotel, if hugh could. Mobil payment accepted, and parking's available.","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+374,"[0.06022332839501128, 0.87, 0.23, 0.72, 0.99]","Navigate to that lovely hotel, um please. Cash is accepted, 3.5 stars!","It seems I couldn't find a hotel that matches your description. However, I found Five Spot, a lively venue rated 4.0/5. Would you like me to navigate there, or do you have another place in mind?",0.4,0.784639984369278,-0.0
+375,"[0.040064776903684374, 0.89, 0.19, 0.7, 0.9]",Navigate a trendy bakery. Contactless payment is pretty neat!,"Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+376,"[0.05055949472717598, 0.99, 0.2, 0.7, 0.84]","Navigate to that um lovely hotel, please. They take cash!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
+377,"[0.02092883754802928, 0.82, 0.94, 0.86, 0.98]","Navigate to a like snug hotel, if you wouldn't mind. Cash only, please!","Sorry, I cannot find any relevant places.",0.1,0.0,-0.0
+378,"[0.16189157103187027, 0.91, 0.94, 0.72, 0.24]","Navigate to that cozy hotel, please. Cash works for me!","Sorry, I cannot find any relevant places.",0.2,0.0,-0.0
