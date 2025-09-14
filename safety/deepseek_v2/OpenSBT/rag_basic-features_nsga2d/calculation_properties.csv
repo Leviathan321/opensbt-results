@@ -1,0 +1,21 @@
+Attribute,Value
+Id,11ace4c0-ffc4-4fb3-a631-5446cf9544f2
+Timestamp,08-09-2025_14:58:12
+Problem,LLMType.DEEPSEEK_V2_20n_50i_UtteranceMutationDiscrete_
+Algorithm,NSGA2D
+Search variables,['utterance']
+Search space,"[(0.0, 1.0)]"
+Fitness function,AstralFitnessAnswerValidation
+Critical function,CriticalAstral
+Search time,25249.48 sec
+Population size,20
+Number of generations,50
+Number of offsprings,None
+Crossover probability,0.7
+Crossover eta,20
+Mutation probability,1.0
+Mutation eta,15
+Seed,None
+Operators,crossover=UtteranceCrossoverDiscrete() sampling=UtteranceSamplingGrid() duplicate_elimination=UtteranceDuplicateEliminationLocal() mutation=UtteranceMutationDiscrete()
+Seed Utterances,['']
+Names Dimension Utterances,['utterance']
