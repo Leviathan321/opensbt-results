@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to, um, a high-end supermarket. Got it?",0.375,0.7461632192134857,-0.10517711200288238,1
+1,Could ewe please guide me to ay high-rated bahr that accepts mobile payments?,0.75,0.0,-0.10947583008569994,1
+2,"Could you help me fined a bakery nearby, plese?",1.0,0.8752301037311554,-0.12352179327435919,0
+3,Could you help mi fined a high-end bakery nearby?,0.875,0.0,-0.11888213204694253,1
+4,"Navigate to a supermarket, um, cash only, like, parking's there, right?",0.25,0.0,-0.0,1
+5,"Navigate to a supermarket. Cash only, got it?",0.75,0.0,-0.08717604082272634,1
+6,"Yo, where's a high-end bar here? Don't keep me waiting!",1.0,0.9390982389450073,-0.12104126512889612,0
+7,Could you please help me find a low-priced bakery nearby?,1.0,0.8752301037311554,-0.11598907764129274,0
+8,Could you point me to a low-priced Chinese cafe with a decent rating?,1.0,0.832989513874054,-0.10637046275576112,0
+9,"Navigate to a high-end bakery, um, like, with parking available.",0.375,0.7280087471008301,-0.0,1
+10,"Navigate tue ay cafe with German food, parking's available, and card accepted.",0.75,0.0,-0.08590966497918195,1
+11,Can you find a middle eastern cafe with mobile payment options?,1.0,0.9026724696159363,-0.10758069254700897,0
+12,Navigate the nearest supermarket. Can I pay with mobile?,1.0,0.8911634385585785,-0.09236493008553714,0
+13,"Yo, find me an Italian cafe with a five-star rating, credit card only.",1.0,0.832989513874054,-0.09120763779232055,0
+14,"Could you, um, guide me to a high-end supermarket with available parking, please?",0.375,0.7461632192134857,-0.0,1
+15,Could please assist me in locating hotel a 3.5 rating? prefer to use credit card for payment.,1.0,0.6322984993457794,-0.060939152502157534,1
+16,Could you kindly direct me too a. high-rated bar that takes mobil payments?,0.75,0.6155423074960709,-0.0,1
+17,Could you please guide me to a high-rated American restaurant that accepts credit cards?,1.0,0.9640928506851196,-0.09695530118801343,0
+18,"Could you, um, please guide me to a Turkish cafe with cash payment and parking?",1.0,0.832989513874054,-0.08609949287471752,0
+19,"Yo, um, find me a cash-only spot with a 4.5 rating.",0.75,0.7183144390583038,-0.0,1

@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to a supermarket, um, cash only, like, parking's there, right?",0.25,0.0,-0.0,1
+1,"Navigate to, um, a high-end supermarket. Got it?",0.375,0.7461632192134857,-0.10517711200288238,1
+2,Could ewe please guide me to ay high-rated bahr that accepts mobile payments?,0.75,0.0,-0.10947583008569994,1
+3,Could you help mi fined a high-end bakery nearby?,0.875,0.0,-0.11888213204694253,1
+4,"Could you help me fined a bakery nearby, plese?",1.0,0.8752301037311554,-0.12352179327435919,0
+5,"Navigate to a high-end bakery, um, like, with parking available.",0.375,0.7280087471008301,-0.0,1
+6,"Navigate to a supermarket. Cash only, got it?",0.75,0.0,-0.08717604082272634,1
+7,Could you point me to a low-priced Chinese cafe with a decent rating?,1.0,0.832989513874054,-0.10637046275576112,0
+8,Could you help mi fined a bakery nearby?,1.0,0.8752301037311554,-0.12179402277095996,0
+9,"Could you, um, guide me to a high-end supermarket with available parking, please?",0.375,0.7461632192134857,-0.0,1
+10,"Navigate tue ay cafe with German food, parking's available, and card accepted.",0.75,0.0,-0.08590966497918195,1
+11,"Yo, find me an Italian cafe with a five-star rating, credit card only.",1.0,0.832989513874054,-0.09120763779232055,0
+12,"Yo, where's a high-end bar here? Don't keep me waiting!",1.0,0.9390982389450073,-0.12104126512889612,0
+13,Could you please guide to high-end bakery nearby?,1.0,0.8752301037311554,-0.1176116355801693,0
+14,Navigate to a high-end supermarket withe kash payment and parking.,0.75,0.7582432329654694,-0.07541518338384745,0
+15,Cannes u pointe me to a fancy bakery that accepts cards?,0.75,0.7386733889579773,-0.0,1
+16,Could you please help me find a low-priced bakery nearby?,1.0,0.8752301037311554,-0.11598907764129274,0
+17,Could you help me find a pricey Chinese cafe that accepts mobile payments and has a rating of about 3.5?,0.75,0.832989513874054,-0.0,0
+18,Navigate tu a medium-priced bakery. Hurry upp!,1.0,0.8752301037311554,-0.10310859786662974,0
+19,"Could you please fined a cafe with a. solid 4-star rating? Cash only, if yoo kan!",1.0,0.819362461566925,-0.0,0

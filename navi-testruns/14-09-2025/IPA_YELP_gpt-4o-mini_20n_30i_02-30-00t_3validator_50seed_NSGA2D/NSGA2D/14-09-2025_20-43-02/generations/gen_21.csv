@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to a supermarket, um, there's, like, parking, right? Contactless payment?",0.125,0.0,-0.0,1
+1,Can you find low-priced hotel cash payment and parking?,0.375,0.6527240872383118,-0.05869665900238741,1
+2,"Navigate to, um, a high-end supermarket. Got it?",0.375,0.7461632192134857,-0.10517711200288238,1
+3,Could please guide me to medium-priced hotel a solid 4-star rating?,0.5,0.6849897503852844,-0.07835270149159512,1
+4,Could ewe please guide me to ay high-rated bahr that accepts mobile payments?,0.75,0.0,-0.10947583008569994,1
+5,"Yo, where's ae supermarket withe high prices and kasch only?",0.75,1.0,-0.12581606762563824,0
+6,Could you help mi fined a high-end bakery nearby?,0.875,0.0,-0.11888213204694253,1
+7,Could uwe help me find a. medium-priced bakery nearby?,1.0,0.8752301037311554,-0.12772582855654202,0
+8,"Navigate to a supermarket, um, cash only, like, parking's there, right?",0.25,0.0,-0.0,1
+9,"Haye, point mea tue ay fancy bar around here. I'm parched!",0.25,0.0,-0.0,1
+10,"Navigate to a supermarket, um, mobile payment's cool, and, like, parking's there, right?",0.25,0.0,-0.0,1
+11,"Navigate thuy a bakery, umm, is their parking available?",0.25,0.0,-0.0,1
+12,"Navigate supermarket, um, there's parking, right? Can pay contactless?",0.25,0.0,-0.0,1
+13,"Navigate thuy a. bakery, is there parking or what?",0.25,0.0,-0.0,1
+14,Could yue please fined a medium-priced hotel with ay 4.5 rating? I prefer to pei buy credit card.,0.375,0.784639984369278,-0.09150230376478352,1
+15,"Could you please guide me to high-priced Vietnamese cafe 4-star rating? Credit card accepted, right?",0.75,1.0,-0.09678574812252305,0
+16,"Yoh, where's a medium-priced bakery around here? You gott any idea?",1.0,0.8752301037311554,-0.12749402430873358,0
+17,"Yo, caen you dig upp a low-key barr that takes contactless?",0.5,0.7355660051107407,-0.0,1
+18,"Navigate to a high-end supermarket, um, is the contactless payment option over there?",0.375,0.7461632192134857,-0.0,1
+19,Could you guide me to a high-end bakery nearby?,1.0,0.8752301037311554,-0.11802826661142962,0

@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to a hotel with parking available. Cash payment, 3.5 stars.",0.75,0.9249118566513062,-0.0,0
+1,"Navigate to a, um, high-rated hotel with available parking, please.",1.0,0.6769927144050598,-0.0,1
+2,Navigate a museum with perfect 5-star rating.,1.0,0.7556162178516388,-0.0,0
+3,Could you please guide me to a high-end supermarket that accepts mobile payments?,1.0,0.8149494528770447,-0.0,0
+4,Could you pleas guide me tew a high-priced Indian cafe withe cash payment and parking available? It should have ay rating of at leased 4 staar's.,1.0,0.832989513874054,-0.0,0
+5,"Navigate to, um, a low-priced cafe with Japanese food and contactless payment.",1.0,0.832989513874054,-0.0,0
+6,Could you help me find a low-priced bakery nearby?,1.0,0.8752301037311554,-0.0,0
+7,Navigate to a supermarket with available parking and accept credit cards.,1.0,0.8911634385585785,-0.0,0
+8,"Navigate to a supermarket withe parking available, card only.",1.0,0.8911634385585785,-0.0,0
+9,"Navigate to a supermarket, um, that accepts contactless payments.",1.0,0.8911634385585785,-0.0,0
+10,Navigate to a supermarket with available parking and credit card payment.,1.0,0.8911634385585785,-0.0,0
+11,"Navigate to, um, a hotel with a 5-star rating and contactless payment.",1.0,0.9249118566513062,-0.0,0
+12,"Could you, um, help me find a medium-priced bar that accepts cash?",1.0,0.9390982389450073,-0.0,0
+13,Navigate thuy a Turkish restaurant with a. 5-star rating and parking.,1.0,0.9640928506851196,-0.0,0
+14,Navigate to a Japanese restaurant withe ay 4.5 rating and parking.,1.0,0.9640928506851196,-0.0,0
+15,Navigate to a low-priced restaurant with a 5-star rating and parking.,1.0,0.9640928506851196,-0.0,0
+16,"Navigate to a high-end American restaurant with cash only, parking available.",1.0,0.9640928506851196,-0.0,0
+17,Could you please direct to a low-priced middle eastern restaurant accepts credit cards?,1.0,0.9640928506851196,-0.0,0
+18,"Navigate a medium-priced Italian restaurant 5-star rating. Contactless payment, please.",1.0,0.9640928506851196,-0.0,0
+19,"Yo, find me a Turkish restaurant with a decent rating, card only.",1.0,0.9640928506851196,-0.0,0

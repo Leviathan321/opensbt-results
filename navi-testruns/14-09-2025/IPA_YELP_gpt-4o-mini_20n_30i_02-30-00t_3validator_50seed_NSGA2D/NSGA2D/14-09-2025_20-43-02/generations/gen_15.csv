@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to a supermarket, um, cash only, like, parking's there, right?",0.25,0.0,-0.0,1
+1,"Haye, point mea tue ay fancy bar around here. I'm parched!",0.25,0.0,-0.0,1
+2,Can you find low-priced hotel cash payment and parking?,0.375,0.6527240872383118,-0.05869665900238741,1
+3,"Navigate to, um, a high-end supermarket. Got it?",0.375,0.7461632192134857,-0.10517711200288238,1
+4,Could ewe please guide me to ay high-rated bahr that accepts mobile payments?,0.75,0.0,-0.10947583008569994,1
+5,Could you help mi fined a high-end bakery nearby?,0.875,0.0,-0.11888213204694253,1
+6,"Could you help me fined a bakery nearby, plese?",1.0,0.8752301037311554,-0.12352179327435919,0
+7,"Navigate to a supermarket, um, mobile payment's cool, and, like, parking's there, right?",0.25,0.0,-0.0,1
+8,"Navigate to a, um, medium-priced hotel with mobile payment and parking.",0.375,0.6849897503852844,-0.046149685794039885,1
+9,"Navigate to a supermarket. Cash only, got it?",0.75,0.0,-0.08717604082272634,1
+10,Navigate to a. high-end supermarket that accepts mobile payments.,0.75,0.7461632192134857,-0.08806159199757313,1
+11,Could you point me to a low-priced Chinese cafe with a decent rating?,1.0,0.832989513874054,-0.10637046275576112,0
+12,Could you help mi fined a bakery nearby?,1.0,0.8752301037311554,-0.12179402277095996,0
+13,"Navigate to a high-end bakery, um, like, with parking available.",0.375,0.7280087471008301,-0.0,1
+14,"Navigate to a high-end bakery, um, you know, with parking options.",0.375,0.7280087471008301,-0.0,1
+15,"Could you, um, assist me in locating a medium-priced hotel with mobile payment options and available parking?",0.625,0.6849897503852844,-0.0,1
+16,"Navigate to a, um, medium hotel with mobile payment and parking options.",0.75,0.0,-0.0,1
+17,"Navigate fancy supermarket. Cash only, understood?",0.75,0.0,-0.0,1
+18,Navigate two a high-end bakery nearby.,1.0,0.8752301037311554,-0.09774199986673715,0
+19,"Could you, um, please guide me to a museum with a 3.5 rating?",1.0,0.9626623690128326,-0.0867064866465731,0
