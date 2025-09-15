@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,93
+Number Critical Scenarios (duplicate free),92
+Number All Scenarios,700
+Number All Scenarios (duplicate free),697
+Number Best Critical Scenarios,2
+Number Best Critical Scenarios (duplicate free),2
+Number Best Scenarios,2
+Number Best Scenarios (duplicate free),2
+Ratio Critical/All scenarios,0.13
+Ratio Critical/All scenarios (duplicate free),0.13
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.375       0.66549617 -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Navigate to a. high-end barr that accepts cash.', answer='It seems like the option provided is not a high-end bar. Would you like me to search for other places, or do you have a specific location in mind?', seed=None, ordinal_vars=[0.1743441077363549, 0.5139076160458552, 0.8408129072642844, 0.5894056387415105, 0.0700396248355995], categorical_vars=[4, 1, 0, 0, 3, 2], content_input=NaviContentInput(title=None, category='bar', address=None, location=None, business_hours_status=None, payment_method='CASH', rating=None, price_range='high', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking=None, charging=None, availability=None), content_output_list=[NaviContentOutput(title='RadioShack', categories=['Mobile Phones', 'Electronics', 'Hobby Shops', 'Shopping'], address='Port Richmond Village, 2427 Aramingo Ave', location=Coordinates(lat=39.976398468, lng=-75.1221542358), business_hours_status=None, payment_methods=None, rating=2.5, price_range='$$$', fuel_prices=None, fuel_types=None, gas_station_brand=None, restaurant_brand=None, food_types=[], parking=None, charging=None, availability=None)], raw_output=None)]"

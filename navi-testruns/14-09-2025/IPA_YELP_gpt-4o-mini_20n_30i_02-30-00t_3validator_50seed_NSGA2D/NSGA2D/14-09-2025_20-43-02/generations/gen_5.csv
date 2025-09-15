@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you help me fined a bakery nearby, plese?",1.0,0.8752301037311554,-0.12352179327435919,0
+1,"Navigate to, um, a high-end supermarket. Got it?",0.375,0.7461632192134857,-0.10517711200288238,1
+2,"Navigate tue ay cafe with German food, parking's available, and card accepted.",0.75,0.0,-0.08590966497918195,1
+3,Navigate to ay bakery nearby. I need sum fresh bred.,1.0,0.8752301037311554,-0.11756773798289766,0
+4,"Could you, um, guide me to a high-end supermarket with available parking, please?",0.375,0.7461632192134857,-0.0,1
+5,Navigate to a. supermarket with parking. Credit card accepted.,0.75,0.0,-0.0,1
+6,"Could you, like, help locate stellar museum a 5-star rating?",0.75,0.0,-0.0,1
+7,Navigate thuy a hotel withe a solid 4-star rating and parking.,0.875,0.0,-0.05245536162032749,1
+8,"Could you, um, please find a high-end hotel with mobile payment options and a 4.5 rating?",1.0,0.784639984369278,-0.0663468729808796,0
+9,"Navigate to a medium-priced cafe, you know, with French food and parking.",1.0,0.832989513874054,-0.08296199994152165,0
+10,Navigate tu ay barre with low prices and parking available.,0.75,0.0,-0.0,1
+11,"Navigate thuy ae bar withe a decent rating, parking available, and accept credit cards.",0.75,0.0,-0.0,1
+12,Navigate to a medium-priced bakery. Make it quick.,1.0,0.8752301037311554,-0.10322453364347606,0
+13,Navigate to a. hotel with ay 4.5-star rating and parking available.,0.5,0.9249118566513062,-0.0,1
+14,"Please, um, navigate to a high-rated hotel with parking available, using a credit card.",0.75,0.6769927144050598,-0.0,1
+15,Navigate to ae supermarket with parking. Credit card accepted.,0.875,0.0,-0.0,1
+16,"Navigate to a museum with a perfect rating, alright?",1.0,0.9626623690128326,-0.09334952763755289,0
+17,Could you help mi fined a high-end supermarket withe mobile payment options?,0.75,0.7461632192134857,-0.0,1
+18,Navigate to ay hotel with a. 4.5-star rating and parking available.,1.0,0.6322984993457794,-0.0,1
+19,Please navigate to a hotel withe ay 4.5 rating and available parking.,1.0,0.6322984993457794,-0.0,1

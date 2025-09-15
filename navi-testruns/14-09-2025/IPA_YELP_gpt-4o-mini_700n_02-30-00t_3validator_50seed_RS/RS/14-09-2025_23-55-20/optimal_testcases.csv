@@ -1,0 +1,3 @@
+Index,vars,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Yo, where's a high-priced Mexican joint 3.5 rating? Cash only?",0.0,0.9640928506851196,-0.0,1
+1,Failed to generate question due to error 'NoneType' object has no attribute 'replace' of type <class 'AttributeError'>,0.375,0.0,-0.0,1

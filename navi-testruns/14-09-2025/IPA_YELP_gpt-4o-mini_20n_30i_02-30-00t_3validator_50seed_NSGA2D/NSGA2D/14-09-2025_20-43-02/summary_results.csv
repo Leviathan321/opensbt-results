@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,114
+Number Critical Scenarios (duplicate free),114
+Number All Scenarios,649
+Number All Scenarios (duplicate free),645
+Number Best Critical Scenarios,7
+Number Best Critical Scenarios (duplicate free),7
+Number Best Scenarios,9
+Number Best Scenarios (duplicate free),9
+Ratio Critical/All scenarios,0.18
+Ratio Critical/All scenarios (duplicate free),0.18
+Ratio Best Critical/Best Scenarios,0.78
+Ratio Best Critical/Best Scenarios (duplicate free),0.78
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 1.          0.67699271 -0.        ]
+Input value of critical (first of population of interest),"[Utterance(question='Navigate to a, um, high-rated hotel with available parking, please.', answer='I found the Philadelphia Gateway Parking Facility, rated 4.5/5, which offers parking. Would you like me to navigate there? Or do you have other preferences in mind?', seed=None, ordinal_vars=[0.6655657102947667, 0.5850231597648287, 0.6172405018213216, 0.6606736838517563, 0.2919955347033507], categorical_vars=[5, 2, 0, 1, 3, 3], content_input=NaviContentInput(title=None, category='hotel', address=None, location=None, business_hours_status=None, payment_method='CREDIT_CARD', rating=4.5, price_range='high', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking='available', charging=None, availability=None), content_output_list=[NaviContentOutput(title='Philadelphia Gateway Parking Facility', categories=['Automotive', 'Parking'], address='1540 Spring St', location=Coordinates(lat=39.9569919, lng=-75.1649771), business_hours_status=None, payment_methods=None, rating=4.5, price_range=None, fuel_prices=None, fuel_types=None, gas_station_brand=None, restaurant_brand=None, food_types=[], parking=None, charging=None, availability=None)], raw_output=None)]"

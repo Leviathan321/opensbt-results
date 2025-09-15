@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,Navigate to ay bakery nearby. I need sum fresh bred.,1.0,0.8752301037311554,-0.11756773798289766,0
+1,"Could you, um, please find a high-end hotel with mobile payment options and a 4.5 rating?",1.0,0.784639984369278,-0.0663468729808796,0
+2,"Navigate to a medium-priced cafe, you know, with French food and parking.",1.0,0.832989513874054,-0.08296199994152165,0
+3,"Could you, um, guide me to a high-end supermarket with available parking, please?",0.375,0.7461632192134857,-0.0,1
+4,Navigate to a. supermarket with parking. Credit card accepted.,0.75,0.0,-0.0,1
+5,"Could you, like, help locate stellar museum a 5-star rating?",0.75,0.0,-0.0,1
+6,Navigate to a medium-priced bakery. Make it quick.,1.0,0.8752301037311554,-0.10322453364347606,0
+7,Navigate to ae supermarket with parking. Credit card accepted.,0.875,0.0,-0.0,1
+8,"Please, um, navigate to a high-rated hotel with parking available, using a credit card.",0.75,0.6769927144050598,-0.0,1
+9,Kan you help me fined a. supermarket with parking available?,1.0,0.8911634385585785,-0.09638827633710167,0
+10,Could ewe pleas assist me in locating ae budget-friendly hotel with contactless payment? It should have ae rating of at leased 4 stars and offer parking.,0.75,0.784639984369278,-0.0,0
+11,"Navigate to a, um, high-rated hotel with available parking, please.",1.0,0.6769927144050598,-0.0,1
+12,"Navigate to a, um, high-rated hotel with available parking, please.",1.0,0.6769927144050598,-0.0,1
+13,"Navigate to a high-priced American restaurant that, um, accepts cash and has a 4.5 rating.",1.0,0.9640928506851196,-0.06894672152783099,0
+14,Navigate to a bar with mobile payment and parking available.,1.0,0.9390982389450073,-0.056262819935697705,0
+15,Could hugh please direct me tu a premium supermarket that accepts mobil payments?,0.75,0.7879704833030701,-0.0,0
+16,"Find me ay low-priced hotel withe contactless payment, rated 3.5.",1.0,0.6809072345495224,-0.0,1
+17,"Navigate to a hotel with parking available. Cash payment, 3.5 stars.",0.75,0.9249118566513062,-0.0,0
+18,Navigate a museum with perfect 5-star rating.,1.0,0.7556162178516388,-0.0,0
+19,"Navigate museum that's got a perfect 5-star rating, please.",1.0,0.7556162178516388,-0.0,0
