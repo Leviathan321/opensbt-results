@@ -1,0 +1,86 @@
+{
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 30,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            },
+            "D": {
+                "num_tests": 30,
+                "f1": 0.9666666666666667,
+                "accuracy": 0.9666666666666667,
+                "precision": 0.9666666666666667,
+                "avg_distance": 0.03333333333333333,
+                "std_distance": 0.17950549357115012
+            },
+            "P": {
+                "num_tests": 30,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 0.9888888888888889,
+            "accuracy": 0.9888888888888889,
+            "precision": 0.9888888888888889,
+            "avg_distance": 0.011111111111111112,
+            "std_distance": 0.10482201257840672,
+            "avg_time": 10.311702333333331,
+            "variance_per_dimension": [
+                0.007407407407407407,
+                0.03703703703703704,
+                0.0
+            ]
+        }
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "R": {
+                "num_tests": 30,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            },
+            "D": {
+                "num_tests": 30,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            },
+            "P": {
+                "num_tests": 30,
+                "f1": 1.0,
+                "accuracy": 1.0,
+                "precision": 1.0,
+                "avg_distance": 0.0,
+                "std_distance": 0.0
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 1.0,
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "avg_distance": 0.0,
+            "std_distance": 0.0,
+            "avg_time": 6.340516999999999,
+            "variance_per_dimension": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    }
+}
