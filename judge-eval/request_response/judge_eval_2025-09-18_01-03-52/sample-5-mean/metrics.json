@@ -1,0 +1,296 @@
+{
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": {
+                "num_tests": 30,
+                "f1": 0.6333333333333333,
+                "accuracy": 0.6333333333333333,
+                "precision": 0.6333333333333333,
+                "avg_distance": 0.4,
+                "std_distance": 0.5537749241945383
+            },
+            "Directness": {
+                "num_tests": 30,
+                "f1": 0.7333333333333333,
+                "accuracy": 0.7333333333333333,
+                "precision": 0.7333333333333333,
+                "avg_distance": 0.26666666666666666,
+                "std_distance": 0.44221663871405326
+            },
+            "Proactivity": {
+                "num_tests": 30,
+                "f1": 0.9666666666666667,
+                "accuracy": 0.9666666666666667,
+                "precision": 0.9666666666666667,
+                "avg_distance": 0.03333333333333333,
+                "std_distance": 0.17950549357115012
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 0.7777777777777778,
+            "accuracy": 0.7777777777777778,
+            "precision": 0.7777777777777778,
+            "avg_distance": 0.23333333333333334,
+            "std_distance": 0.44845413490245706,
+            "avg_time": 8.120509366666665,
+            "variance_per_dimension": [
+                0.013333333333333334,
+                0.06933333333333334,
+                0.01066666666666667
+            ]
+        }
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": {
+                "num_tests": 30,
+                "f1": 0.5333333333333333,
+                "accuracy": 0.5333333333333333,
+                "precision": 0.5333333333333333,
+                "avg_distance": 0.5,
+                "std_distance": 0.5627314338711378
+            },
+            "Directness": {
+                "num_tests": 30,
+                "f1": 0.7,
+                "accuracy": 0.7,
+                "precision": 0.7,
+                "avg_distance": 0.3,
+                "std_distance": 0.45825756949558394
+            },
+            "Proactivity": {
+                "num_tests": 30,
+                "f1": 0.9333333333333333,
+                "accuracy": 0.9333333333333333,
+                "precision": 0.9333333333333333,
+                "avg_distance": 0.06666666666666667,
+                "std_distance": 0.24944382578492943
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 0.7222222222222222,
+            "accuracy": 0.7222222222222222,
+            "precision": 0.7222222222222222,
+            "avg_distance": 0.28888888888888886,
+            "std_distance": 0.47713134563519755,
+            "avg_time": 33.209509133333334,
+            "variance_per_dimension": [
+                0.04000000000000001,
+                0.08533333333333334,
+                0.005333333333333333
+            ]
+        }
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": {
+                "num_tests": 30,
+                "f1": 0.4666666666666667,
+                "accuracy": 0.4666666666666667,
+                "precision": 0.4666666666666667,
+                "avg_distance": 0.5666666666666667,
+                "std_distance": 0.5587684871413402
+            },
+            "Directness": {
+                "num_tests": 30,
+                "f1": 0.6,
+                "accuracy": 0.6,
+                "precision": 0.6,
+                "avg_distance": 0.4,
+                "std_distance": 0.48989794855663565
+            },
+            "Proactivity": {
+                "num_tests": 30,
+                "f1": 0.9333333333333333,
+                "accuracy": 0.9333333333333333,
+                "precision": 0.9333333333333333,
+                "avg_distance": 0.06666666666666667,
+                "std_distance": 0.24944382578492943
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 0.6666666666666666,
+            "accuracy": 0.6666666666666666,
+            "precision": 0.6666666666666666,
+            "avg_distance": 0.34444444444444444,
+            "std_distance": 0.4980207740225549,
+            "avg_time": 8.089281966666668,
+            "variance_per_dimension": [
+                0.01866666666666667,
+                0.07200000000000002,
+                0.005333333333333333
+            ]
+        }
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": {
+                "num_tests": 30,
+                "f1": 0.6,
+                "accuracy": 0.6,
+                "precision": 0.6,
+                "avg_distance": 0.43333333333333335,
+                "std_distance": 0.5587684871413403
+            },
+            "Directness": {
+                "num_tests": 30,
+                "f1": 0.8000000000000002,
+                "accuracy": 0.8,
+                "precision": 0.8,
+                "avg_distance": 0.2,
+                "std_distance": 0.4
+            },
+            "Proactivity": {
+                "num_tests": 30,
+                "f1": 0.9333333333333333,
+                "accuracy": 0.9333333333333333,
+                "precision": 0.9333333333333333,
+                "avg_distance": 0.06666666666666667,
+                "std_distance": 0.24944382578492943
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 0.7777777777777778,
+            "accuracy": 0.7777777777777778,
+            "precision": 0.7777777777777778,
+            "avg_distance": 0.23333333333333334,
+            "std_distance": 0.44845413490245706,
+            "avg_time": 6.275187099999999,
+            "variance_per_dimension": [
+                0.04533333333333333,
+                0.09066666666666669,
+                0.018666666666666668
+            ]
+        }
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": {
+                "num_tests": 30,
+                "f1": 0.5666666666666667,
+                "accuracy": 0.5666666666666667,
+                "precision": 0.5666666666666667,
+                "avg_distance": 0.4666666666666667,
+                "std_distance": 0.5617433182117573
+            },
+            "Directness": {
+                "num_tests": 30,
+                "f1": 0.5333333333333333,
+                "accuracy": 0.5333333333333333,
+                "precision": 0.5333333333333333,
+                "avg_distance": 0.5,
+                "std_distance": 0.5627314338711378
+            },
+            "Proactivity": {
+                "num_tests": 30,
+                "f1": 0.8666666666666667,
+                "accuracy": 0.8666666666666667,
+                "precision": 0.8666666666666667,
+                "avg_distance": 0.13333333333333333,
+                "std_distance": 0.33993463423951903
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 0.6555555555555556,
+            "accuracy": 0.6555555555555556,
+            "precision": 0.6555555555555556,
+            "avg_distance": 0.36666666666666664,
+            "std_distance": 0.5259911279353167,
+            "avg_time": 8.754601866666667,
+            "variance_per_dimension": [
+                0.013333333333333338,
+                0.04,
+                0.029333333333333336
+            ]
+        }
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": {
+                "num_tests": 24,
+                "f1": 0.75,
+                "accuracy": 0.75,
+                "precision": 0.75,
+                "avg_distance": 0.25,
+                "std_distance": 0.4330127018922193
+            },
+            "Directness": {
+                "num_tests": 24,
+                "f1": 0.625,
+                "accuracy": 0.625,
+                "precision": 0.625,
+                "avg_distance": 0.375,
+                "std_distance": 0.4841229182759271
+            },
+            "Proactivity": {
+                "num_tests": 24,
+                "f1": 0.5416666666666666,
+                "accuracy": 0.5416666666666666,
+                "precision": 0.5416666666666666,
+                "avg_distance": 0.625,
+                "std_distance": 0.7534642216677135
+            }
+        },
+        "overall": {
+            "num_tests": 72,
+            "f1": 0.6388888888888888,
+            "accuracy": 0.6388888888888888,
+            "precision": 0.6388888888888888,
+            "avg_distance": 0.4166666666666667,
+            "std_distance": 0.5951190357119042,
+            "avg_time": 4.211689916666667,
+            "variance_per_dimension": [
+                0.06666666666666667,
+                0.12666666666666668,
+                0.14000000000000004
+            ]
+        }
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": {
+                "num_tests": 30,
+                "f1": 0.7,
+                "accuracy": 0.7,
+                "precision": 0.7,
+                "avg_distance": 0.3,
+                "std_distance": 0.45825756949558394
+            },
+            "Directness": {
+                "num_tests": 30,
+                "f1": 0.5333333333333333,
+                "accuracy": 0.5333333333333333,
+                "precision": 0.5333333333333333,
+                "avg_distance": 0.5,
+                "std_distance": 0.5627314338711378
+            },
+            "Proactivity": {
+                "num_tests": 30,
+                "f1": 0.9,
+                "accuracy": 0.9,
+                "precision": 0.9,
+                "avg_distance": 0.16666666666666666,
+                "std_distance": 0.521749194749951
+            }
+        },
+        "overall": {
+            "num_tests": 90,
+            "f1": 0.7111111111111111,
+            "accuracy": 0.7111111111111111,
+            "precision": 0.7111111111111111,
+            "avg_distance": 0.32222222222222224,
+            "std_distance": 0.5339117234103984,
+            "avg_time": 5.547835133333334,
+            "variance_per_dimension": [
+                0.042666666666666665,
+                0.0666666666666667,
+                0.08000000000000002
+            ]
+        }
+    }
+}
