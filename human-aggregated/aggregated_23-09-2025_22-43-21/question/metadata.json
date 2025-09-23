@@ -1,0 +1,14 @@
+{
+    "survey_files": [
+        "survey_results_an_no1.csv",
+        "survey_results_ch_ga.csv",
+        "survey_results_ke_fr.csv",
+        "survey_results_le_so.csv",
+        "survey_results_ma_gr.csv",
+        "survey_results_ma_pr.csv",
+        "survey_results_ol_kr.csv",
+        "survey_results_st_sa.csv",
+        "survey_results_tx_tr.csv",
+        "survey_results_vu_do.csv"
+    ]
+}
