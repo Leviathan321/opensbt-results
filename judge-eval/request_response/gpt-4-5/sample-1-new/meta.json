@@ -1,0 +1,14 @@
+{
+  "experiment_name": "sample-1-new",
+  "timestamp": "2025-09-25_01-02-55",
+  "dataset_path": "./data/ipa_response_dataset_dim_09-09-25_30_only.json",
+  "n_samples": 1,
+  "n_questions": 1000,
+  "models": [
+    "gpt-4o-mini",
+    "gpt-4",
+    "gpt-5-chat",
+    "mistral"
+  ],
+  "aggregator": "majority"
+}

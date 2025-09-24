@@ -1,0 +1,34 @@
+{
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.5822784810126582,
+            "Directness": 0.24427480916030542,
+            "Proactivity": 0.5925925925925926
+        },
+        "overall": 0.5516304347826086
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4358974358974358,
+            "Directness": -0.2790697674418605,
+            "Proactivity": 0.828125
+        },
+        "overall": 0.5265423242467719
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4358974358974358,
+            "Directness": -0.22222222222222232,
+            "Proactivity": 0.8405797101449275
+        },
+        "overall": 0.5472924187725632
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.7870967741935484,
+            "Directness": -0.04054054054054057,
+            "Proactivity": 0.432258064516129
+        },
+        "overall": 0.5513595166163142
+    }
+}
