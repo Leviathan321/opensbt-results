@@ -1,0 +1,16 @@
+{
+    "survey_files": [
+        "survey_results_ad_fi.csv",
+        "survey_results_be_di.csv",
+        "survey_results_ke_fr.csv",
+        "survey_results_le_so.csv",
+        "survey_results_ma_gr.csv",
+        "survey_results_ma_pr.csv",
+        "survey_results_ol_kr.csv",
+        "survey_results_ol_sa.csv",
+        "survey_results_tx_tr.csv",
+        "survey_results_va_ne2.csv",
+        "survey_results_zi_dh_bh.csv"
+    ],
+    "aggregation_method": "major"
+}
