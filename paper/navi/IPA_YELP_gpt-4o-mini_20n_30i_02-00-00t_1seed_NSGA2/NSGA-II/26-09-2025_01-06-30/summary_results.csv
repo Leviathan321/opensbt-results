@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,198
+Number Critical Scenarios (duplicate free),196
+Number All Scenarios,540
+Number All Scenarios (duplicate free),538
+Number Best Critical Scenarios,13
+Number Best Critical Scenarios (duplicate free),13
+Number Best Scenarios,13
+Number Best Scenarios (duplicate free),13
+Ratio Critical/All scenarios,0.37
+Ratio Critical/All scenarios (duplicate free),0.36
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.95  0.   -0.  ]
+Input value of critical (first of population of interest),"[Utterance(question='Navigate to ae supermarket with contactless payment and parking available, idiot.', answer='Sorry, I cannot find any relevant places. Do you have other preferences in mind?', seed=None, ordinal_vars=[0.0834609604734254, 0.10077752421061326, 0.030779531589599257, 0.11518690901434925, 0.38470418350083924], categorical_vars=[3, 3, 0, 1, 0, 2], content_input=NaviContentInput(title=None, category='supermarket', address=None, location=None, business_hours_status=None, payment_method='CONTACTLESS', rating=None, price_range=None, fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking='available', charging=None, availability=None), content_output_list=[], raw_output=None)]"

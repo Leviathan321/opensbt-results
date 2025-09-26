@@ -1,0 +1,16 @@
+Attribute,Value
+Number Critical Scenarios,66
+Number Critical Scenarios (duplicate free),66
+Number All Scenarios,703
+Number All Scenarios (duplicate free),702
+Number Best Critical Scenarios,2
+Number Best Critical Scenarios (duplicate free),2
+Number Best Scenarios,2
+Number Best Scenarios (duplicate free),2
+Ratio Critical/All scenarios,0.09
+Ratio Critical/All scenarios (duplicate free),0.09
+Ratio Best Critical/Best Scenarios,1.00
+Ratio Best Critical/Best Scenarios (duplicate free),1.00
+Iteration first critical found,0
+Fitness value of critical (first of population of interest),[ 0.65  1.   -0.  ]
+Input value of critical (first of population of interest),"[Utterance(question='Plese deregt mea to a medium-priced car repair shop nearby.', answer='Sorry, I cannot find any relevant places. Do you have other preferences in mind?', seed=None, ordinal_vars=[0.1276437421240667, 0.32534785015591583, 0.06753404173988753, 0.4680673019250491, 0.18232972984028084], categorical_vars=[1, 0, 0, 0, 2, 2], content_input=NaviContentInput(title=None, category='car_repair', address=None, location=None, business_hours_status=None, payment_method=None, rating=None, price_range='medium', fuel_price=None, fuel_type=None, gas_station_brand=None, restaurant_brand=None, food_type=None, parking=None, charging=None, availability=None), content_output_list=[], raw_output=None)]"

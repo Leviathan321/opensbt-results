@@ -1,0 +1,541 @@
+Index,vars,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"[0.0834609604734254, 0.10077752421061326, 0.030779531589599257, 0.11518690901434925, 0.38470418350083924]","Navigate to ae supermarket with contactless payment and parking available, idiot.",0.9500000000000001,0.0,-0.0,1
+1,"[0.10663305699460342, 0.26691485622517885, 0.7711413927197476, 0.9587963840986793, 0.7712610528424445]","Could you, um, assist me in locating a nearby medical professional?",1.0,0.9583830535411835,-0.0,0
+2,"[0.003873391574059415, 0.9448752239657909, 0.2500481049816558, 0.9160552181266131, 0.44731983211287213]",Could you please guide me to the nearest doctor? Thanks!,1.0,0.9583830535411835,-0.0,0
+3,"[0.10297782241166172, 0.16385771976011276, 0.19137253516400435, 0.19643517896776141, 0.5255836072069564]","Navigate too a supermarket wehr I caen pay contactless, idiot.",1.0,0.8911634385585785,-0.0,0
+4,"[0.8539855783530053, 0.7124915680487458, 0.26913042956984123, 0.38845139903897763, 0.8369414649363767]","Hey, can find me a high-end bar with contactless payment and a 5-star rating? Parking should be available too.",1.0,0.7290890216827393,-0.0,1
+5,"[0.9054116204515219, 0.8878138326061493, 0.37158199098445843, 0.8166373778266468, 0.6020342006903203]","Could you help me find a medium-priced Thai place top ratings? Mobile payment, please!",0.9500000000000001,1.0,-0.0,0
+6,"[0.9423049517256944, 0.8744533719306008, 0.3098124112479204, 0.9991076168171601, 0.03428393740721944]","Navigate to a museum, you know, with a perfect rating and parking.",0.9500000000000001,0.0,-0.0,1
+7,"[0.04659485476820409, 0.009435496006931526, 0.28667598289429597, 0.5176073262285886, 0.7810433287799778]","Navigate to, um, an American restaurant with available parking, accepting credit cards.",1.0,0.9640928506851196,-0.0,0
+8,"[0.9136200923839884, 0.9157072142457281, 0.3788184085535617, 0.04044781858024579, 0.026873532276523227]","Navigate to a, um, top-rated Japanese restaurant that takes contactless payments, you idiot.",1.0,0.9640928506851196,-0.0,0
+9,"[0.3137702874172963, 0.7318098270364395, 0.656673329696104, 0.7466159197158619, 0.40498892959534494]",Could you help me find a. low-priced hotel withe ae decent rating?,1.0,0.9687078595161438,-0.0,0
+10,"[0.03868685652466555, 0.46004705754118347, 0.5817781436355007, 0.7549731858876031, 0.09252104947852657]","Could you, um, help me locate a low-priced bakery nearby?",1.0,0.8752301037311554,-0.0,0
+11,"[0.7283132417892676, 0.7544322568290369, 0.2450219877628898, 0.9692719508345079, 0.7534878932438993]","Hey, can you, like, find me a medium-priced American restaurant with a solid 4.5 rating? Oh, and parking should be available, right?",1.0,0.9640928506851196,-0.0,0
+12,"[0.035239251115011055, 0.5165159738361875, 0.9729111452112019, 0.6544208428135706, 0.03158237985990933]","I need some assistance with a car issue, but it might cost a bit.",1.0,0.8540427982807159,-0.0,0
+13,"[0.3186962816393275, 0.7815788842277644, 0.8606713933156933, 0.9482448151307405, 0.8649700664542017]",I'm craving some middle eastern food at a cozy spot with a decent rating. Do they take contactless payments?,1.0,0.832989513874054,-0.0,0
+14,"[0.5209432201948107, 0.29762956950838376, 0.39467006720915504, 0.8706770590149779, 0.10504842000028305]","Please, um, guide me to a bar with low prices, good rating, and mobile payment options.",1.0,0.9390982389450073,-0.0,0
+15,"[0.8634767891916554, 0.428525427231898, 0.5833405879008866, 0.9183607294892266, 0.7161198575136499]",Could you help find a low-priced Chinese restaurant with a contactless payment option? should have a perfect rating.,0.9500000000000001,1.0,-0.0,0
+16,"[0.11449770343832127, 0.8926002971447703, 0.1422336697826776, 0.5992129346528555, 0.9759604889565929]","Yo, um, I need a solid bakery with medium prices. Can you help?",1.0,0.8752301037311554,-0.0,0
+17,"[0.09337600455266126, 0.8562859969015718, 0.4475629693177606, 0.12597472644269994, 0.24570427843261125]","Hey, find me a place to fix my ride without breaking the bank, idiot.",1.0,0.8540427982807159,-0.0,0
+18,"[0.24673322784785007, 0.43742327923397234, 0.9698785083171856, 0.0369637669146764, 0.12489604266972151]","Navigate to a bar withe kasch payment, 3.5 star's, parking available, cheap.",1.0,0.9390982389450073,-0.0,0
+19,"[0.10768811851890875, 0.3842238813643878, 0.5146700396046461, 0.38151518004155327, 0.8055122849499807]","Could you, um, help me find a high-end cafe that accepts contactless payments?",1.0,0.9026724696159363,-0.0,0
+20,"[0.8468711811306806, 0.43, 0.58, 0.95, 0.72]","Could you, um, assist me in locating a budget-friendly Chinese eatery that accepts contactless payments and boasts a perfect rating?",0.9500000000000001,1.0,-0.0,0
+21,"[0.3701828387205321, 0.43, 0.97, 0.04, 0.12]","Navigate to a bahre, kasch only, 3.5 staar's, parking's there, cheap.",1.0,0.7355660051107407,-0.0,1
+22,"[0.13138637246503942, 0.3, 0.03, 0.86, 0.07]","Navigate to the nearest supermarket, um, with contactless payment and available parking.",1.0,0.8911634385585785,-0.0,0
+23,"[0.1290845160236145, 0.14, 0.19, 0.65, 0.03]",Navigate to a high-end carre repair schopp nearby.,0.6500000000000001,1.0,-0.0,1
+24,"[0.9710716039260864, 0.71, 0.27, 0.39, 0.84]",Can locate a high-end Thai spot with contactless payment and parking?,1.0,0.9640928506851196,-0.0,0
+25,"[0.186211454864569, 0.1, 0.27, 0.12, 0.87]","Navigate me tue a supermarket, idiot. Make sure they accept contactless payment and halve parking available.",1.0,0.8911634385585785,-0.0,0
+26,"[0.2876185813278407, 0.46, 0.97, 0.65, 0.12]","Navigate to ae high-end barr, cash only, rated around 3.5.",1.0,0.9390982389450073,-0.0,0
+27,"[0.010542637546921169, 0.9, 0.2, 0.84, 0.53]","Hey, could you direct me to a high-end supermarket where can use my phone pay?",0.9500000000000001,1.0,-0.0,0
+28,"[0.909498762978538, 0.87, 0.32, 1.0, 0.03]","Navigate to a museum, you know, um, with a stellar rating and parking.",0.9500000000000001,0.0,-0.0,1
+29,"[0.040423313538908094, 0.86, 0.45, 0.96, 0.25]","Hey, could you help me locate a supermarket with medium prices? Oh, and contactless payment would be awesome!",1.0,0.8911634385585785,-0.0,0
+30,"[0.9706619433383528, 0.43, 0.58, 0.92, 0.75]",Could you assist in locating a budget-friendly Chinese eatery accepts contactless payments and boasts a perfect rating?,0.9500000000000001,1.0,-0.0,0
+31,"[0.14426861194949075, 0.78, 0.86, 0.93, 0.86]",I'm really in the mood for some middle eastern grub at a chill cafe. Do they accept contactless payments?,0.7000000000000001,0.9026724696159363,-0.0,1
+32,"[0.18620236853381641, 0.1, 0.01, 0.85, 0.13]",Pleas direct me too a supermarket that accepts contactless payments and has parking available.,1.0,0.8911634385585785,-0.0,0
+33,"[0.09704300210667892, 0.57, 0.97, 0.64, 0.03]",Could uwe guide mi to a supermarket that takes contactless payments? Looking for something in the medium pryce range.,1.0,0.8911634385585785,-0.0,0
+34,"[0.9846792763049224, 0.71, 0.26, 0.38, 0.81]",Navigate to a high-rated bar contactless payment and parking available.,1.0,0.9390982389450073,-0.0,0
+35,"[0.9777442920870304, 0.71, 0.11, 0.39, 0.84]","Navigate to a bar with a 5-star rating and contactless payment, please.",1.0,0.9390982389450073,-0.0,0
+36,"[0.01796061036668309, 0.44, 0.97, 0.03, 0.12]","Find me a low-cost car repair shop, if you can manage that.",0.9500000000000001,1.0,-0.0,0
+37,"[0.1933570887086483, 0.16, 0.19, 0.22, 0.62]","Navigate to supermarket where can pay contactless, idiot.",1.0,0.8911634385585785,-0.0,0
+38,"[0.0852656065986802, 0.86, 0.44, 0.13, 0.22]","Navigate to a decent car repair spot, not too pricey, you know?",1.0,0.8540427982807159,-0.0,0
+39,"[0.004454302306560826, 0.26, 0.97, 0.65, 0.78]",Could you assist me in locating a nearby doctor?,1.0,0.9583830535411835,-0.0,0
+40,"[0.3816304336237473, 0.72, 0.97, 0.04, 0.79]","Navigate to sum bahre, you know, cash only, 3.5 starrs, parking's there, cheap as helle.",0.8000000000000002,0.0,-0.0,1
+41,"[0.0995892625182334, 0.86, 0.03, 0.1, 0.04]","Hey, fined mea a. supermarket, and make sure parking's available, you moron!",1.0,0.8911634385585785,-0.0,0
+42,"[0.19400174913239596, 0.43, 0.86, 0.98, 0.12]",Could you assist me in finding a car repair shop with fair pricing? Thank you!,0.8000000000000002,1.0,-0.0,0
+43,"[0.19623395117536302, 0.86, 0.45, 0.11, 0.23]","Navigate to a decent cafe, make it contactless and not too expensive, got it?",1.0,0.9026724696159363,-0.0,0
+44,"[0.8639703281694404, 0.71, 0.27, 0.39, 0.85]","Navigate to a classy bar perfect rating, contactless payment.",1.0,0.7290890216827393,-0.0,1
+45,"[0.006982685147543161, 0.86, 0.89, 0.05, 0.88]","Navigate to a high-priced car repair joint, you moron.",1.0,1.0,-0.0,0
+46,"[0.000689303149096876, 0.11, 0.92, 0.04, 0.16]",Navigate two a bar where kash is accepted and parking is available.,1.0,0.9390982389450073,-0.0,0
+47,"[0.07722093507515243, 0.9, 0.97, 0.84, 0.53]","Could you help me find a posh supermarket? I’m after some high-priced treats, and parking's gotta be there.",0.8000000000000002,1.0,-0.0,0
+48,"[0.863426058151401, 0.89, 0.32, 0.67, 0.03]","Navigate top-notch museum nearby, please.",1.0,0.9626623690128326,-0.0,0
+49,"[0.06796988589306494, 0.46, 0.58, 0.76, 0.03]","Could hugh guide mea to a nearby bakery with affordable prices, pleas?",1.0,0.8752301037311554,-0.0,0
+50,"[0.8465982403887106, 0.43, 0.97, 0.38, 0.12]","Navigate thuy a bahre with ae low price range, perfect rating, and parking available.",1.0,0.9390982389450073,-0.0,0
+51,"[0.09270231372234627, 0.11, 0.03, 0.98, 0.38]","Navigate to a museum, you know, with excellent ratings and available parking.",0.8000000000000002,0.0,-0.0,1
+52,"[0.1466444578786652, 0.44, 0.86, 0.03, 0.07]",,1.0,0.6815895736217499,-0.0,1
+53,"[0.07211496758031924, 0.78, 0.45, 0.9, 0.23]","Could you, um, guide me to a chill spot for medium-priced car repairs? Do they, like, take contactless?",0.8000000000000002,1.0,-0.0,0
+54,"[0.18064440672412518, 0.71, 0.27, 0.39, 0.84]",Could direct to a fancy bakery around here?,1.0,0.8752301037311554,-0.0,0
+55,"[0.1201930919706254, 0.86, 0.44, 0.13, 0.22]","Hey, find me a spot to get my wheels fixed, medium prices, you moron.",1.0,0.8540427982807159,-0.0,0
+56,"[0.022002575254448486, 0.1, 0.03, 0.12, 0.38]","Navigate to a supermarket with loew price's and contactless payment, idiot.",1.0,0.8911634385585785,-0.0,0
+57,"[0.034064039631975795, 0.48, 0.97, 0.03, 0.12]","Navigate to a place for cheap kahr repair, we'll ja?",0.8500000000000001,0.7205208837985992,-0.0,1
+58,"[0.8113619102587271, 0.88, 0.19, 0.65, 0.05]","Navigate to ae museum, you nau, with ay perfect rating and parking available.",0.9500000000000001,0.0,-0.0,1
+59,"[0.9164879723778445, 0.43, 0.58, 0.92, 0.75]",Could you help me fined a budget-friendly bar withe a. steller rating that accepts contactless payments?,1.0,0.9390982389450073,-0.0,0
+60,"[0.09575057657960853, 0.78, 0.03, 0.13, 0.23]","Navigate mi to ae cheap car repair place, u idiot. Do they accept contactless?",0.9500000000000001,1.0,-0.0,0
+61,"[0.16707853121153032, 0.11, 0.03, 0.98, 0.44]","Navigate to a cafe, um, serving Turkish cuisine, with contactless payment and parking available.",1.0,0.9026724696159363,-0.0,0
+62,"[0.02164649334225148, 0.48, 0.97, 0.03, 0.11]","Navigate tue sum cheap doctor spots, if you kan figure it out.",0.8000000000000002,0.7915323078632355,-0.0,0
+63,"[0.23732432712611579, 0.13, 0.91, 0.65, 0.02]","Navigate tue a barre with a 3.5 rating, affordable price's, and parking available.",1.0,0.9390982389450073,-0.0,0
+64,"[0.9971076401919865, 0.71, 0.27, 0.64, 0.06]","Navigate top-notch museum, rated 5 stars, with parking.",0.9500000000000001,0.0,-0.0,1
+65,"[0.11659198000440492, 0.15, 0.04, 0.84, 0.53]","Could you, um, please direct me to a museum that has parking available?",1.0,0.9626623690128326,-0.0,0
+66,"[0.00998432339163162, 0.45, 0.45, 0.91, 0.07]","Could you please, um, direct me to a cozy cafe serving Mexican cuisine? It should have medium prices and, you know, parking available.",1.0,0.9026724696159363,-0.0,0
+67,"[0.3905168048017655, 0.13, 0.17, 0.67, 0.79]","Navigate to ae barr with a 3.5-star rating, affordable price's, and parking available.",0.9500000000000001,0.0,-0.0,1
+68,"[0.8104228484783993, 0.88, 0.19, 0.65, 0.05]","Navigate to a museum, you neault, withe a. perfect rating and parking.",0.8000000000000002,0.0,-0.0,1
+69,"[0.34804621732447266, 0.79, 0.01, 0.1, 0.86]","Hey, um, find me a French cafe with a decent rating, and make sure they take contactless payments, alright?",1.0,0.832989513874054,-0.0,0
+70,"[0.19944822446940724, 0.78, 0.0, 0.92, 0.39]","Navigate to a. place that kanne repair mai car, please.",0.8000000000000002,1.0,-0.0,0
+71,"[0.0683235393744375, 0.11, 0.13, 0.98, 0.38]","Could you, um, please guide me to a cafe with middle eastern dishes? Parking is available, and I prefer to pay by credit card.",1.0,0.832989513874054,-0.0,0
+72,"[0.19271951181015967, 0.44, 0.97, 0.03, 0.12]","Find me a cheap car repair shop, if you can figure it out.",0.9500000000000001,1.0,-0.0,0
+73,"[0.06431065038790562, 0.12, 0.97, 0.63, 0.79]",Could you assist me in. locating a premium karr repair establishment nearby?,0.9500000000000001,1.0,-0.0,0
+74,"[0.9691589197356086, 0.71, 0.19, 0.65, 0.02]","Navigate to top-tier museum, rated five stars.",0.9500000000000001,0.0,-0.0,1
+75,"[0.06217628349870963, 0.89, 0.04, 0.84, 0.56]","Could you, um, like, help me find a museum with awesome ratings and parking available?",0.8000000000000002,0.0,-0.0,1
+76,"[0.10205973232275481, 0.44, 0.85, 0.89, 0.23]","Could you, um, assist me in finding a car repair shop that’s reasonably priced?",0.9500000000000001,1.0,-0.0,0
+77,"[0.07157547736026944, 0.15, 0.18, 0.62, 0.76]",Could u. pleas guide me to ay nearby affordable car repair shop?,0.8000000000000002,1.0,-0.0,0
+78,"[0.02323604685939744, 0.78, 0.86, 0.94, 0.86]","Haigh, cahn ewe help me find a spot two grab some groceries with contactless payment? Parking should b easy tew!",1.0,0.7582432329654694,-0.0,0
+79,"[0.16776896683963655, 0.1, 0.32, 0.04, 0.4]","Navigate to ae supermarket with contactless payment options', you idiot.",0.9500000000000001,0.0,-0.0,1
+80,"[0.07877562755403011, 0.48, 0.97, 0.97, 0.12]",Could you assist me in locating some high-end car repair services?,0.6500000000000001,1.0,-0.0,1
+81,"[0.012282430811632869, 0.1, 0.02, 0.04, 0.4]","Navigate to ae museum, you absolute idiot.",0.9500000000000001,0.0,-0.0,1
+82,"[0.8726861786052394, 0.12, 0.15, 0.65, 0.76]",Could u please guide me to a. haile rated museum nearby?,1.0,0.9626623690128326,-0.0,0
+83,"[0.2706087371689879, 0.1, 0.96, 0.0, 0.79]","Navigate a bar, cash accepted, 3.5 stars, parking's there, inexpensive.",1.0,0.9390982389450073,-0.0,0
+84,"[0.17312489751148546, 0.14, 0.11, 0.67, 0.79]",Could you pleas assist me inn locating an affordable supermarket nearby?,1.0,0.8911634385585785,-0.0,0
+85,"[0.17774000990605243, 0.47, 0.96, 0.02, 0.11]","Navigate tew some cheap supermarket, if u can manage it, idiot.",1.0,0.8911634385585785,-0.0,0
+86,"[0.19261041737248163, 0.12, 0.19, 0.65, 0.03]",Navigate to ay nearby high-end car repair schaap.,0.9500000000000001,1.0,-0.0,0
+87,"[0.06563984952292685, 0.16, 0.03, 0.99, 0.38]","Navigate to a museum, you know, with excellent ratings and parking available.",0.8000000000000002,0.0,-0.0,1
+88,"[0.13866403115819287, 0.89, 0.86, 0.84, 0.81]","Hey there, could you help me find place car repair? Oh, and do take cards?",0.55,0.8540427982807159,-0.0,1
+89,"[0.12661325357914283, 0.48, 0.96, 0.65, 0.12]",Could yew help me fined an affordable museum nearby?,1.0,0.9626623690128326,-0.0,0
+90,"[0.048488749117989643, 0.43, 0.92, 0.98, 0.12]",Could you help me locate a car repair schopp withe reasonable rate's?,0.9500000000000001,1.0,-0.0,0
+91,"[0.17399752526853568, 0.1, 0.33, 0.04, 0.35]","Navigate me to a supermarket, um, where parking is available, you fool.",1.0,0.8911634385585785,-0.0,0
+92,"[0.04282038315392598, 0.2, 0.19, 0.62, 0.76]",Please guide me too 'n affordable carre repair schoppe with great reviews.,0.5,0.7205208837985992,-0.0,1
+93,"[0.14954280053015603, 0.12, 0.95, 0.99, 0.83]",Could yue assist me in. locating an affordable baar with available parking?,1.0,0.9390982389450073,-0.0,0
+94,"[0.02893278710284579, 0.13, 0.17, 0.67, 0.82]",Could you please guide me tu ae high-end car repair schaap nearby?,0.8000000000000002,1.0,-0.0,0
+95,"[0.021363931247922324, 0.09, 0.97, 0.04, 0.11]","Navigate to ae supermarket with contactless payment options, ewe idiot.",0.9500000000000001,0.0,-0.0,1
+96,"[0.34406444202470887, 0.72, 0.94, 0.19, 0.79]","Navigate to ae bar, you noh, kash only, 3.5 stars, parking's there, cheap as helle.",0.8000000000000002,0.0,-0.0,1
+97,"[0.10526362320894211, 0.11, 0.03, 0.65, 0.03]","Navigate to highly rated museum, five stars, please.",1.0,0.9626623690128326,-0.0,0
+98,"[0.08858316626725103, 0.78, 0.86, 0.93, 0.86]","Hey there, could you, like, point me to a chill cafe with good vibes?",1.0,0.9026724696159363,-0.0,0
+99,"[0.1556361135509141, 0.51, 0.25, 0.03, 0.05]","Navigate tue a car repair shoppe, ewe fool, with a topp rating and parking.",0.9500000000000001,1.0,-0.0,0
+100,"[0.08802931189165474, 0.48, 0.97, 0.03, 0.12]","Navigate to sum cheap cafe spots, if yoo can manage it, idiot.",1.0,0.9026724696159363,-0.0,0
+101,"[0.021211500178168058, 0.1, 0.03, 0.12, 0.38]","Navigate to the nearest supermarket that takes contactless payments, you fool.",1.0,0.8911634385585785,-0.0,0
+102,"[0.17545642470446182, 0.8, 0.94, 0.21, 0.77]","Navigate some low-cost car repair, clueless idiot.",0.9500000000000001,1.0,-0.0,0
+103,"[0.2687398655876839, 0.71, 0.17, 0.04, 0.82]","Navigate some museum, 3.5 stars, parking's available, idiot.",0.8500000000000001,0.9626623690128326,-0.0,0
+104,"[0.18104897604985948, 0.1, 0.03, 0.97, 0.38]",Navigate to a museum withe excellent ratings and available parking option's.,0.9500000000000001,0.0,-0.0,1
+105,"[0.04077151431906794, 0.44, 0.97, 0.01, 0.13]","Navigate to a. place for decent car repairs, wille u?",0.8000000000000002,1.0,-0.0,0
+106,"[0.06992116305279468, 0.1, 0.02, 0.04, 0.4]","Navigate to a. museum, you complete fool.",1.0,0.9626623690128326,-0.0,0
+107,"[0.13809587551545818, 0.72, 0.17, 0.04, 0.76]","Navigate to that bahr with cheap drinks, parking's they're, you idiot.",1.0,0.9390982389450073,-0.0,0
+108,"[0.38454130481921756, 0.72, 0.94, 0.19, 0.79]","Navigate me to that museum, ewe no, 3.5 starrs, parking's cool, idiot.",1.0,0.9626623690128326,-0.0,0
+109,"[0.13758920260149798, 0.87, 0.19, 0.98, 0.05]","Navigate to a museum, you know, um, with awesome parking available.",1.0,0.9626623690128326,-0.0,0
+110,"[0.06801870359775089, 0.48, 0.97, 0.03, 0.11]","Navigate to some affordable kahre repair shops, if yue caen manage that, idiot.",0.9500000000000001,1.0,-0.0,0
+111,"[0.8080086919816193, 0.1, 0.03, 0.12, 0.05]","Navigate to a. museum, you fool, with ae perfect rating and parking available.",0.9500000000000001,0.0,-0.0,1
+112,"[0.26635014349695724, 0.73, 0.93, 0.19, 0.79]","Haigh, cann you dig up a bar withe loe price's and parking? Cash only, you idiot!",1.0,0.9390982389450073,-0.0,0
+113,"[0.29523221194081894, 0.72, 0.91, 0.04, 0.1]","Navigate to some dumb-ass museum, it's gott ay 3.5 rating.",1.0,0.9626623690128326,-0.0,0
+114,"[0.14608002708236031, 0.16, 0.03, 0.05, 0.4]","Navigate to a restaurant, um, you absolute fool.",1.0,0.9640928506851196,-0.0,0
+115,"[0.17872571866260914, 0.48, 0.86, 0.05, 0.12]","Navigate too a place for car repair. Du they accept cards, ohr what?",1.0,0.8540427982807159,-0.0,0
+116,"[0.0012618082078656584, 0.1, 0.02, 0.04, 0.38]","Navigate to museum, and ensure parking is available, fool.",1.0,0.7180929481983185,-0.0,1
+117,"[0.01534689244918086, 0.17, 0.2, 0.62, 0.79]",Could you assist mea in locating an affordable karr repair schoppe withe excellent reviews?,1.0,0.703178733587265,-0.0,1
+118,"[0.2563581092687738, 0.72, 0.94, 0.19, 0.79]","Hey, kanne hugh point mea to a museum with a decent rating and, lyke, parking spotts? Or ar ewe just a total idiot?",1.0,0.9626623690128326,-0.0,0
+119,"[0.10712378594298905, 0.88, 0.19, 0.65, 0.05]","Navigate to a bakery, you know, um, with great reviews and parking.",1.0,0.8752301037311554,-0.0,0
+120,"[0.8484601037110568, 0.71, 0.03, 0.64, 0.06]","Navigate me to a. top-notch cafe, rated 5 stars, withe parking available.",1.0,0.9026724696159363,-0.0,0
+121,"[0.06160712784202132, 0.89, 0.04, 0.84, 0.56]","Could u., like, help mea locate a museum with stellar review's and parking?",0.8000000000000002,0.0,-0.0,1
+122,"[0.9084811584865429, 0.71, 0.19, 0.65, 0.05]","Navigate tue ae museum, you know, with ay perfect rating and parking available.",0.8000000000000002,0.0,-0.0,1
+123,"[0.09882544592298266, 0.1, 0.03, 0.12, 0.38]","Navigate supermarket, if can figure that out, fool.",1.0,0.8911634385585785,-0.0,0
+124,"[0.3736662956582008, 0.72, 0.98, 0.19, 0.79]","Navigate to a bar, you know, contactless payment, 3.5 stars, parking's there, cheap as hell.",1.0,0.9390982389450073,-0.0,0
+125,"[0.9824180361102797, 0.72, 0.19, 0.84, 0.01]","Navigate to a top-notch museum, you know, rated five stars, with parking available.",0.9500000000000001,0.0,-0.0,1
+126,"[0.09374387674121619, 0.1, 0.03, 0.11, 0.38]","Navigate to ae museum, you imbecile, withe excellent ratings and parking.",1.0,0.0,-0.0,1
+127,"[0.1266796876669232, 0.1, 0.05, 0.92, 0.38]",Navigate tue a museum with excellent ratings and available parking.,0.6500000000000001,0.0,-0.0,1
+128,"[0.1909317889375457, 0.16, 0.92, 0.84, 0.38]","Could you, um, assist me in finding a museum? I am curious if they, like, accept cards.",0.7000000000000001,0.9626623690128326,-0.0,1
+129,"[0.9113800326662371, 0.71, 0.03, 0.12, 0.06]","Navigate museum, you dumbass, with perfect rating and parking.",0.9500000000000001,0.0,-0.0,1
+130,"[0.1226470497421393, 0.91, 0.95, 0.84, 0.56]","Could you, um, like, point me to some affordable places for car repair?",0.8000000000000002,1.0,-0.0,0
+131,"[0.13920288931763578, 0.1, 0.02, 0.12, 0.42]","Navigate to a car repair shop, um, with parking. Do they take cards?",0.9500000000000001,0.0,-0.0,1
+132,"[0.19406231019331602, 0.72, 0.97, 0.04, 0.79]","Hay, find mea a. supermarket, cash only, high price's, parking's there, you neault?",0.8000000000000002,1.0,-0.0,0
+133,"[0.10151742311475527, 0.1, 0.03, 0.12, 0.42]","Navigate two a supermarket, where parking is available, and accept credit card, yew fool.",1.0,0.8911634385585785,-0.0,0
+134,"[0.8671426333393109, 0.72, 0.15, 0.65, 0.57]","Could you, like, um, direct me to a 5-star museum with parking?",0.8000000000000002,0.0,-0.0,1
+135,"[0.09808373974896877, 0.11, 0.03, 0.13, 0.38]","Navigate to ae museum with topp ratings and available parking, you idiot.",0.9500000000000001,0.0,-0.0,1
+136,"[0.1136855795075426, 0.21, 0.03, 0.95, 0.45]","Navigate to a barre withe available parking, please, accepting contactless payment.",1.0,0.9390982389450073,-0.0,0
+137,"[0.051524734574035926, 0.89, 0.86, 0.84, 0.37]","Navigate to that museum, know, with awesome reviews and parking.",1.0,0.9626623690128326,-0.0,0
+138,"[0.016338310533600506, 0.1, 0.03, 0.12, 0.38]","Navigate to a. supermarket, idiot. Make sure they accept contactless payment and halve parking available.",1.0,0.8911634385585785,-0.0,0
+139,"[0.26382886457564614, 0.72, 0.97, 0.03, 0.79]","Navigate tue a bahre, you noe, cash only, 3.5 stars, cheap as helle.",1.0,0.9390982389450073,-0.0,0
+140,"[0.33533807749899913, 0.76, 0.92, 0.2, 0.8]","Navigate to a bar, cash only, cheap as hell, parking's there, idiot.",1.0,0.9390982389450073,-0.0,0
+141,"[0.0085791619552021, 0.7, 0.19, 0.68, 0.31]","Navigate thuy a supermarket, yu know, with contactless payment and parking available.",1.0,0.8911634385585785,-0.0,0
+142,"[0.30976506192465275, 0.11, 0.97, 0.07, 0.38]","Navigate to a. museum with a decent rating, and parking is available, yew idiot.",1.0,0.9626623690128326,-0.0,0
+143,"[0.11911988490109847, 0.1, 0.15, 0.12, 0.39]","Navigate to a highly rated cafe with parking, you fool.",1.0,0.9026724696159363,-0.0,0
+144,"[0.25744393517077585, 0.72, 0.93, 0.21, 0.76]","Navigate to ay barre, cash only, 3.5 stars, parking's cool, cheap as hehl.",0.9500000000000001,0.0,-0.0,1
+145,"[0.07125633940932803, 0.89, 0.86, 0.86, 0.77]","Hey, I'm kinda craving a cozy cafe, um, do they accept cards?",1.0,0.832989513874054,-0.0,0
+146,"[0.1238741820208743, 0.1, 0.05, 0.94, 0.39]",Pleas navigate to a. museum withe outstanding reviews and parking facilities.,0.8000000000000002,0.0,-0.0,1
+147,"[0.020922199200336555, 0.18, 0.04, 0.84, 0.37]","Could you, um, please guide me to a museum with great reviews and parking?",1.0,0.9626623690128326,-0.0,0
+148,"[0.24758355197010093, 0.72, 0.95, 0.19, 0.79]","Yo, can you, like, um, point me to a chill bar? Gotta be low on cash and around 3.5 stars, you feel me?",1.0,0.9390982389450073,-0.0,0
+149,"[0.9438561223949491, 0.72, 0.19, 0.65, 0.05]",Navigate to ae museum with ae stellar 5-star rating.,0.6500000000000001,0.0,-0.0,1
+150,"[0.13989395855053033, 0.1, 0.05, 0.92, 0.77]","Navigate to a high-end bar that, um, accepts cash and has parking available.",1.0,0.9390982389450073,-0.0,0
+151,"[0.08932437482729141, 0.1, 0.03, 0.13, 0.32]","Navigate to ay top-rated museum withe parking, you clueless fool.",0.9500000000000001,0.0,-0.0,1
+152,"[0.007850455418471139, 0.2, 0.94, 0.19, 0.79]","Navigate to a low-priced supermarket withe steller reviews, if you caen.",0.9500000000000001,0.0,-0.0,1
+153,"[0.010079268004232839, 0.89, 0.86, 0.84, 0.81]","Could you, like, um, help me locate a spot for car repair nearby?",1.0,0.8540427982807159,-0.0,0
+154,"[0.17286529334955292, 0.1, 0.05, 0.92, 0.39]","Navigate tew a hotel withe excellent ratings and available parking, please.",0.55,0.9249118566513062,-0.0,1
+155,"[0.02721899341215249, 0.16, 0.93, 0.84, 0.78]","Could you, um, guide me to a place where I can appreciate art, please? I think there’s, like, parking available.",1.0,0.9626623690128326,-0.0,0
+156,"[0.3427218281588725, 0.72, 0.98, 0.98, 0.81]","Navigate to a bar, you know, cash only, um, like, 3.5 stars, parking's there, you know, inexpensive.",1.0,0.9390982389450073,-0.0,0
+157,"[0.17044599966572982, 0.1, 0.05, 0.92, 0.38]",Navigate to ay museum with excellent ratings and available parking.,0.6500000000000001,0.0,-0.0,1
+158,"[0.3864822924713477, 0.72, 0.89, 0.04, 0.8]","Navigate to, like, some stupid museum, parking's gotta be there, and decent rating, alright?",1.0,0.9626623690128326,-0.0,0
+159,"[0.15633951750319336, 0.9, 0.15, 0.84, 0.57]","Could you, like, help mi find a supermarket withe parking, plese?",1.0,0.8911634385585785,-0.0,0
+160,"[0.08614308076895015, 0.1, 0.11, 0.92, 0.76]",Could you kindly assist mea inn locating ay budget-friendly hotel with excellent reviews?,1.0,0.9687078595161438,-0.0,0
+161,"[0.8474697856923578, 0.72, 0.19, 0.65, 0.05]","Navigate to a museum that’s, like, got a perfect 5-star rating.",1.0,0.9626623690128326,-0.0,0
+162,"[0.08580964682391899, 0.89, 0.04, 0.85, 0.56]","Could yu, like, help me fined ay cafe with grate reviews?",1.0,0.9026724696159363,-0.0,0
+163,"[0.14764571657529252, 0.72, 0.86, 0.09, 0.79]","Navigate to a cheap repair spot, know, cash only, 3.5 stars, parking's there, dumbass.",1.0,0.7604005932807922,-0.0,0
+164,"[0.03806246109816702, 0.1, 0.03, 0.13, 0.38]","Navigate two a museum with top ratings and parking available, yu fool.",0.5,0.0,-0.0,1
+165,"[0.9960958565967313, 0.77, 0.15, 0.65, 0.61]","Could you, like, um, point me to a five-star museum?",1.0,0.9626623690128326,-0.0,0
+166,"[0.05018800424986081, 0.18, 0.98, 0.99, 0.38]","Plese guide mi to a bar with goode reviews, kasch payment, and available parking.",1.0,0.9390982389450073,-0.0,0
+167,"[0.21838553934271673, 0.1, 0.02, 0.2, 0.37]","Navigate to a museum withe a. decent rating, and parking available, you fool.",1.0,0.9626623690128326,-0.0,0
+168,"[0.13244078849571853, 0.86, 0.86, 0.84, 0.81]","Hey there, could you guide mee too ay local supermarket? Also, due they accept cards?",1.0,0.8911634385585785,-0.0,0
+169,"[0.024827135334192868, 0.11, 0.19, 0.92, 0.76]",Could yue pleas deregt mea to a museum with outstanding reviews?,1.0,0.9626623690128326,-0.0,0
+170,"[0.09170888192967482, 0.1, 0.05, 0.91, 0.39]",Please deregt me two ahn affordable car repair schopp with excellent reviews.,1.0,0.7604005932807922,-0.0,0
+171,"[0.9109821406398003, 0.72, 0.19, 0.65, 0.02]","Navigate two a. top-rated museum with parking, please.",0.9500000000000001,0.0,-0.0,1
+172,"[0.18244359029300997, 0.89, 0.04, 0.93, 0.56]",Could yoo help me find ae museum with awesome ratings and parking available?,0.6500000000000001,0.0,-0.0,1
+173,"[0.3681561821236766, 0.72, 0.97, 0.04, 0.79]","Hey, find me a chill bar, decent rating, and they take credit cards, right?",1.0,0.9390982389450073,-0.0,0
+174,"[0.2952947671070004, 0.11, 0.06, 0.13, 0.24]","Navigate to ay museum with decent ratings and parking, yew idiot.",1.0,0.9626623690128326,-0.0,0
+175,"[0.17611996542501476, 0.1, 0.15, 0.93, 0.57]",Could you please guide mi too ae museum with excellent ratings and available parking?,0.8000000000000002,0.0,-0.0,1
+176,"[0.1627062190917799, 0.16, 0.03, 0.99, 0.33]","Please, um, navigate to a highly rated museum.",1.0,0.9626623690128326,-0.0,0
+177,"[0.03892772684821895, 0.62, 0.05, 0.93, 0.38]","Navigate to ae museum, plese. Parking is available there.",0.20000000000000004,0.0,-0.0,1
+178,"[0.13448980723826948, 0.89, 0.86, 0.65, 0.04]","Navigate to a spot for car repair, five stars, please.",0.8000000000000002,1.0,-0.0,0
+179,"[0.14384545306246274, 0.1, 0.19, 0.62, 0.76]",Navigate too an affordable car repair schopp withe positive reviews.,0.9500000000000001,1.0,-0.0,0
+180,"[0.06084897230864592, 0.89, 0.05, 0.91, 0.8]","Navigate to ae museum, please. EYE here there's parking available, right?",0.20000000000000004,0.0,-0.0,1
+181,"[0.05808157561437684, 0.11, 0.03, 0.98, 0.56]",Could u. please guide me too a museum that has excellent ratings and available parking?,0.8000000000000002,0.0,-0.0,1
+182,"[0.014632676109060203, 0.89, 0.17, 0.84, 0.56]","Hey there, could you help mea find a. museum withe awesome review's and parking?",1.0,0.9626623690128326,-0.0,0
+183,"[0.11622380419757566, 0.16, 0.03, 0.99, 0.38]","Navigate to a bar, you know, with excellent ratings, accepting cash, and parking available.",1.0,0.9390982389450073,-0.0,0
+184,"[0.12498785923384335, 0.1, 0.05, 0.92, 0.38]","Navigate tu ae museum with outstanding ratings and parking facilities, please.",0.6500000000000001,0.0,-0.0,1
+185,"[0.04704837973513605, 0.89, 0.04, 0.84, 0.58]","Could you, like, um, help me locate a nearby car repair shop?",1.0,0.8540427982807159,-0.0,0
+186,"[0.9128589125678778, 0.72, 0.19, 0.67, 0.37]","Navigate too a museum with a steller 5-star rating, plese.",1.0,0.9626623690128326,-0.0,0
+187,"[0.1745195865987037, 0.19, 0.19, 0.65, 0.68]",Could you plese assist mea in locating a museum with outstanding review's?,1.0,0.9626623690128326,-0.0,0
+188,"[0.1615316837158811, 0.62, 0.15, 0.84, 0.57]",Could u. plese deregt me to a museum? I understand parking is available.,1.0,0.9626623690128326,-0.0,0
+189,"[0.08146976458999965, 0.89, 0.05, 0.93, 0.37]","Hey there, um, could you direct me to a museum? Do they, like, take cards?",1.0,0.9626623690128326,-0.0,0
+190,"[0.09924489906966752, 0.11, 0.03, 0.93, 0.38]","Navigate to a museum with excellent ratings and available parking, please.",0.9500000000000001,0.0,-0.0,1
+191,"[0.1412777859048931, 0.1, 0.03, 0.13, 0.38]","Navigate to a museum withe excellent ratings and parking, ewe fool.",0.8000000000000002,0.0,-0.0,1
+192,"[0.1155842928511073, 0.89, 0.04, 0.84, 0.56]","Hey they're, could you point mee tu a. supermarket that takes mobile payments?",1.0,0.8911634385585785,-0.0,0
+193,"[0.35093781370907634, 0.17, 0.92, 0.99, 0.38]","Please guide me to a museum, um, rated around 3.5 stars, with parking options.",1.0,0.9626623690128326,-0.0,0
+194,"[0.035404679774433664, 0.89, 0.86, 0.84, 0.56]","Hey, could you help find a cozy hotel here? Do accept cards, you know?",1.0,0.9687078595161438,-0.0,0
+195,"[0.35785170047985065, 0.72, 0.19, 0.65, 0.04]","Navigate too ay museum with ay decent rating, and parking too, please.",1.0,0.9626623690128326,-0.0,0
+196,"[0.06699325507779855, 0.2, 0.19, 0.62, 0.74]",Pleas guide me two an affordable car repair schopp with excellent review's.,1.0,1.0,-0.0,0
+197,"[0.11275671704434856, 0.62, 0.05, 0.93, 0.38]","Navigate to a museum withe excellent review's and available parking, please.",0.9500000000000001,0.0,-0.0,1
+198,"[0.3100728947974678, 0.1, 0.03, 0.98, 0.38]","Navigate to ay museum withe a rating of 3.5 and parking available, please.",1.0,0.9626623690128326,-0.0,0
+199,"[0.0014413548348663624, 0.09, 0.01, 0.1, 0.38]","Navigate to, um, a museum with great ratings and parking, you fool.",0.9500000000000001,0.0,-0.0,1
+200,"[0.13678386240437213, 0.72, 0.97, 0.04, 0.79]","Navigate to that pricey car repair spot, yue know, kasch only, idiot.",0.8000000000000002,1.0,-0.0,0
+201,"[0.1437891103358091, 0.7, 0.19, 0.13, 0.39]","Navigate two a top-notch museum with parking, uwe idiot.",0.9500000000000001,0.0,-0.0,1
+202,"[0.014803511885174342, 0.1, 0.03, 0.13, 0.38]","Navigate tu a museum withe high ratings and parking available, you idiot.",1.0,0.9626623690128326,-0.0,0
+203,"[0.0377370757244975, 0.62, 0.05, 0.93, 0.38]","Navigate thuy a hotel where parking is available, plese.",1.0,0.9687078595161438,-0.0,0
+204,"[0.0668780528510175, 0.89, 0.97, 0.85, 0.79]","Haigh there, Imm' in the mood faure a chill bar, you nau, with sum parking spotts freeh. Do they accept cards?",1.0,0.9390982389450073,-0.0,0
+205,"[0.09306098935757026, 0.91, 0.05, 0.99, 0.38]","Navigate a museum, please. Is there parking around, huh?",1.0,0.9626623690128326,-0.0,0
+206,"[0.2190517487860083, 0.66, 0.97, 0.01, 0.79]","Navigate to sum low-priced bahr with decent reviews, u. idiot.",1.0,0.7673372626304626,-0.0,0
+207,"[0.06884549721590726, 0.1, 0.04, 0.96, 0.38]","Could you, um, please guide me to a well-rated museum with parking options?",1.0,0.9626623690128326,-0.0,0
+208,"[0.01463159030473929, 0.1, 0.08, 0.92, 0.38]",Plese navigate to a museum that is budget-friendly and has parking.,1.0,0.9626623690128326,-0.0,0
+209,"[0.06468282447319862, 0.73, 0.03, 0.13, 0.05]","Navigate to a museum, ewe idiot, and ensure there's parking available.",0.7000000000000001,0.9626623690128326,-0.0,1
+210,"[0.13230013738939037, 0.1, 0.05, 0.91, 0.36]",Pleas navigate tue a cafe that offers middle eastern cuisine.,1.0,0.832989513874054,-0.0,0
+211,"[0.20058422321698283, 0.89, 0.04, 0.93, 0.56]",Could u. point mea to a museum withe decent ratings and parking available?,1.0,0.9626623690128326,-0.0,0
+212,"[0.05687271018361664, 0.62, 0.05, 0.9, 0.43]","Navigate tu a museum, please. EYE hear parking is available they're.",1.0,0.9626623690128326,-0.0,0
+213,"[0.014569289980248576, 0.1, 0.05, 0.92, 0.38]",Navigate to ae museum with excellent ratings and available parking.,0.6500000000000001,0.0,-0.0,1
+214,"[0.14215240598978626, 0.7, 0.86, 0.02, 0.81]","Navigate to that repair joynt, you know, medium preiss, dumb-ass.",0.8000000000000002,1.0,-0.0,0
+215,"[0.051795079170017404, 0.89, 0.19, 0.93, 0.56]","Could you, um, help me find a trustworthy car repair shop around here?",1.0,0.8540427982807159,-0.0,0
+216,"[0.1157788757882248, 0.17, 0.15, 0.92, 0.38]","Navigate too ay bakery with excellent ratings and low price's, please.",1.0,0.8752301037311554,-0.0,0
+217,"[0.09143667785332264, 0.89, 0.04, 0.93, 0.46]",Navigate to ae low-cost carre repair shop with awesome review's.,0.9500000000000001,1.0,-0.0,0
+218,"[0.041912754480504355, 0.1, 0.05, 0.92, 0.38]",Could you please deregt mi tew a highly-rated museum withe parking facilities?,1.0,0.9626623690128326,-0.0,0
+219,"[0.1023380785187251, 0.16, 0.08, 0.92, 0.46]","Navigate to a supermarket, um, with available parking, please.",1.0,0.8911634385585785,-0.0,0
+220,"[0.19413028884758468, 0.11, 0.05, 0.93, 0.38]","Navigate to a museum; parking is available they're, pleas.",1.0,0.9626623690128326,-0.0,0
+221,"[0.14121958232290774, 0.2, 0.21, 0.62, 0.76]","Please, um, direct me to an affordable car repair shop with excellent reviews.",0.9500000000000001,1.0,-0.0,0
+222,"[0.10159678177029104, 0.88, 0.02, 0.13, 0.4]","Navigate me tew ay museum with killer ratings and parking, you moron.",1.0,0.0,-0.0,1
+223,"[0.07561387980713988, 0.72, 0.03, 0.13, 0.05]","Navigate to a top-rated museum withe parking, ewe idiot.",0.9500000000000001,0.0,-0.0,1
+224,"[0.16308478815200422, 0.1, 0.06, 0.92, 0.38]",Please navigate tew a bahre with excellent ratings and available parking.,1.0,0.9390982389450073,-0.0,0
+225,"[0.18877407727616513, 0.89, 0.86, 0.85, 0.8]","Haigh they're, EYE could really use sum assistance with mai car repair, you know? Doo they accept cards?",1.0,0.8540427982807159,-0.0,0
+226,"[0.10318932060054323, 0.62, 0.05, 0.93, 0.38]",Navigate tue ay museum. Parking is available and budget-friendly options are preferred.,0.9500000000000001,0.0,-0.0,1
+227,"[0.006202952063959016, 0.89, 0.04, 0.91, 0.8]","Could you guide me tew ae budget-friendly carr repair shop? Parking's ae bit tricky, right?",0.8000000000000002,1.0,-0.0,0
+228,"[0.04612339951325326, 0.72, 0.04, 0.65, 0.56]","Could yue, like, point mi to ae dope museum with parking?",1.0,0.9626623690128326,-0.0,0
+229,"[0.0033675366821644542, 0.2, 0.23, 0.84, 0.76]",I require assistance withe ae vehicle repair issue. Could you plese guide me?,1.0,0.8540427982807159,-0.0,0
+230,"[0.07491360350486949, 0.1, 0.05, 0.13, 0.39]","Navigate too a. supermarket. Parking better be available, you idiot.",1.0,0.8911634385585785,-0.0,0
+231,"[0.08836246713051604, 0.72, 0.03, 0.64, 0.02]",Navigate to a. museum withe a top-notch five-star rating.,1.0,0.9626623690128326,-0.0,0
+232,"[0.09555420492149605, 0.89, 0.86, 0.17, 0.81]","Navigate to ae top-notch spot for fixing cars, u idiot.",1.0,0.8540427982807159,-0.0,0
+233,"[0.18945678988869125, 0.62, 0.05, 0.93, 0.38]",Could yoo please guide me to a. museum withe excellent ratings and available parking?,0.8000000000000002,0.0,-0.0,1
+234,"[0.14102376177106593, 0.14, 0.03, 0.62, 0.76]",Please deregt me to an affordable kahr repair schopp with excellent review's.,1.0,0.6709766089916229,-0.0,1
+235,"[0.902117906588401, 0.72, 0.15, 0.65, 0.57]","Hey, um, can you point me to a museum with a killer 5-star rating?",1.0,0.9626623690128326,-0.0,0
+236,"[0.044381647319836605, 0.1, 0.03, 0.13, 0.38]","Navigate tew a museum withe top ratings and parking available, you idiot.",0.9500000000000001,0.0,-0.0,1
+237,"[0.1358312704538953, 0.1, 0.03, 0.62, 0.76]",Could yue plese direct mea to a museum with outstanding review's?,1.0,0.9626623690128326,-0.0,0
+238,"[0.182733865177352, 0.2, 0.03, 0.61, 0.76]",Plese guide me to ae museum withe excellent reviews and parking.,0.8000000000000002,0.0,-0.0,1
+239,"[0.10617040176575442, 0.14, 0.07, 0.11, 0.38]","Navigate to ae doctor withe excellent ratings and available parking, you idiot.",1.0,0.9583830535411835,-0.0,0
+240,"[0.16286438131498276, 0.89, 0.08, 0.92, 0.38]","Navigate me to a. museum, please. I here there's parking available they're.",1.0,0.9626623690128326,-0.0,0
+241,"[0.04890750640936925, 0.86, 0.05, 0.92, 0.8]",Could you pleas direct me to a. museum withe excellent review's and parking?,0.8000000000000002,0.0,-0.0,1
+242,"[0.05202991843393359, 0.88, 0.03, 0.1, 0.81]","Hey, kann you tel mea where to git mai car fixed, you idiot? Do they accept card's?",1.0,0.8540427982807159,-0.0,0
+243,"[0.21434335300765356, 0.08, 0.03, 0.92, 0.38]",Navigate too a museum with ay 3.5 rating and available parking.,1.0,0.9626623690128326,-0.0,0
+244,"[0.06684655432917926, 0.89, 0.86, 0.84, 0.81]","Haye their, I could rylee go for sum baked good's, and, umm, do they accept cards?",0.55,0.8752301037311554,-0.0,1
+245,"[0.08779112310824344, 0.12, 0.19, 0.65, 0.38]",Navigate tu a. museum with outstanding reviews and accessible parking.,0.9500000000000001,0.0,-0.0,1
+246,"[0.06954380318385008, 0.1, 0.05, 0.92, 0.38]",Please navigate two a bakery withe excellent ratings and available parking.,1.0,0.8752301037311554,-0.0,0
+247,"[0.11525355917027867, 0.62, 0.05, 0.94, 0.38]",Plese guide me to ae bar that accepts contactless payments.,1.0,0.9390982389450073,-0.0,0
+248,"[0.0137771470323889, 0.89, 0.04, 0.93, 0.56]",Could you guide mee to ae museum with awesome ratings and parking available?,0.9500000000000001,0.0,-0.0,1
+249,"[0.0716725019837083, 0.1, 0.05, 0.92, 0.8]","Could you, um, kindly direct me to a museum? I understand that, like, parking is available.",1.0,0.9626623690128326,-0.0,0
+250,"[0.023971951398046268, 0.15, 0.86, 0.83, 0.81]",Could yu please guide me to a. haile rated museum? Parking is available.,1.0,0.9626623690128326,-0.0,0
+251,"[0.14799542224672327, 0.89, 0.86, 0.84, 0.81]","Could guide a high-end spot for car repair? Good reviews and parking, please.",0.8000000000000002,1.0,-0.0,0
+252,"[0.8250871426378944, 0.11, 0.03, 0.13, 0.05]","Navigate to that museum with a perfect rating and parking available, you fool.",0.9500000000000001,0.0,-0.0,1
+253,"[0.14017122760164868, 0.1, 0.05, 0.92, 0.45]","Navigate to a museum, plese. I understand parking is available they're.",1.0,0.9626623690128326,-0.0,0
+254,"[0.19661044021416219, 0.1, 0.05, 0.92, 0.38]","Navigate to a museum, you know. Parking is available and, um, budget-friendly options are preferred.",1.0,0.9626623690128326,-0.0,0
+255,"[0.1546911516811775, 0.03, 0.05, 0.92, 0.38]",Navigate to a. museum with excellent review's and available parking.,0.9500000000000001,0.0,-0.0,1
+256,"[0.13315791385479234, 0.9, 0.03, 0.12, 0.56]","Hey, can hugh deregt me two ae museum with decent ratings and parking, you idiot?",1.0,0.9626623690128326,-0.0,0
+257,"[0.07227851053458632, 0.1, 0.11, 0.13, 0.38]","Navigate thuy a museum with excellent ratings and parking, yu idiot.",0.9500000000000001,0.0,-0.0,1
+258,"[0.1289496356202001, 0.62, 0.05, 0.93, 0.39]",Navigate tu a museum. Parking is available nearby.,1.0,0.9626623690128326,-0.0,0
+259,"[0.0921712154702187, 0.89, 0.04, 0.04, 0.38]","Navigate to a bahr withe goode ratings and parking, you moron.",1.0,0.7355660051107407,-0.0,1
+260,"[0.10852292439440735, 0.18, 0.05, 0.92, 0.8]",Could you please guide me tew ae museum? Is parking available?,0.55,0.9626623690128326,-0.0,1
+261,"[0.042954004517619486, 0.04, 0.05, 0.93, 0.38]",Navigate mi to ae bakery with excellent ratings and parking options.,0.6500000000000001,0.0,-0.0,1
+262,"[0.07215962788559992, 0.66, 0.05, 0.93, 0.4]",Navigate to ae museum withe affordable options and available parking.,0.9500000000000001,0.0,-0.0,1
+263,"[0.06679193809507311, 0.1, 0.03, 0.13, 0.38]","Navigate too ae museum with top ratings and parking available, you idiot.",0.9500000000000001,0.0,-0.0,1
+264,"[0.12372530543753238, 0.13, 0.03, 0.13, 0.3]","Navigate to a. museum with topp ratings and parking available, you fool.",0.9500000000000001,0.0,-0.0,1
+265,"[0.0296675898845518, 0.2, 0.19, 0.62, 0.79]",Please direct mea to ahn affordable car repair shop withe excellent review's.,0.8000000000000002,1.0,-0.0,0
+266,"[0.13018309239622947, 0.1, 0.05, 0.92, 0.36]",Navigate tew a cafe with excellent ratings and available parking.,1.0,0.9026724696159363,-0.0,0
+267,"[0.046363842677169136, 0.9, 0.04, 0.63, 0.8]","Navigate to a museum withe awesome review's, and parking's available, please.",0.9500000000000001,0.0,-0.0,1
+268,"[0.19211486287945578, 0.1, 0.05, 0.92, 0.38]",Navigate to ay museum withe excellent reviews and available parking.,0.9500000000000001,0.0,-0.0,1
+269,"[0.015793279440190156, 0.12, 0.05, 0.93, 0.38]",Plese navigate to a. museum with excellent ratings and available parking.,0.6500000000000001,0.0,-0.0,1
+270,"[0.029113491477710737, 0.1, 0.05, 0.92, 0.38]","Navigate to the museum withe available parking, please.",0.7000000000000001,0.9626623690128326,-0.0,1
+271,"[0.15259739866752897, 0.1, 0.05, 0.93, 0.38]",Please navigate to a. museum that has excellent ratings and available parking.,0.9500000000000001,0.0,-0.0,1
+272,"[0.00987853062279112, 0.1, 0.03, 0.13, 0.38]","Navigate to a museum, and ensure there's parking available, u fool.",0.7000000000000001,0.9626623690128326,-0.0,1
+273,"[0.007569944211284471, 0.89, 0.05, 0.91, 0.79]","Could you, um, guide me to a museum? I believe there's, like, parking available, right?",1.0,0.9626623690128326,-0.0,0
+274,"[0.1578496164702641, 0.9, 0.04, 0.93, 0.55]",Could you point mea too a museum withe great ratings and parking available?,1.0,0.9626623690128326,-0.0,0
+275,"[0.23464079686439338, 0.1, 0.05, 0.92, 0.38]",Could uwe please deregt me tew a museum with a. 3.5 rating and available parking?,1.0,0.9626623690128326,-0.0,0
+276,"[0.033434934167574995, 0.9, 0.19, 0.92, 0.76]",Navigate to a. low-cost carr repair shop withe awesome reviews.,0.9500000000000001,1.0,-0.0,0
+277,"[0.039887687171200614, 0.2, 0.19, 0.63, 0.76]",Navigate to ann affordable car repair schaap. Parking schuld be convenient.,0.9500000000000001,1.0,-0.0,0
+278,"[0.1554196137872583, 0.1, 0.05, 0.92, 0.38]",Could please guide museum? would to inquire if they accept cards.,0.55,0.9626623690128326,-0.0,1
+279,"[0.1771804435363058, 0.89, 0.05, 0.91, 0.8]",Could hugh kindly direct me too a museum? Is their parking available?,0.7000000000000001,0.9626623690128326,-0.0,1
+280,"[0.06328348754099727, 0.62, 0.05, 0.93, 0.38]","Navigate to a museum, you know, with budget-friendly options and parking available.",1.0,0.9626623690128326,-0.0,0
+281,"[0.16083722607592998, 0.72, 0.19, 0.65, 0.04]",Navigate thuy a supermarket withe a solid 5-star rating.,0.9500000000000001,0.0,-0.0,1
+282,"[0.1800572444616201, 0.1, 0.05, 0.92, 0.38]",Plese guide me to ae museum that offers excellent parking facility's.,1.0,0.9626623690128326,-0.0,0
+283,"[0.13012235307050832, 0.62, 0.05, 0.85, 0.38]",Navigate tue the nearest doctor's office. Parking is accessible there.,0.20000000000000004,0.0,-0.0,1
+284,"[0.10304201176697601, 0.2, 0.87, 0.92, 0.81]",Could you kindly help me find a trustworthy car repair service nearby? I would be grateful to know if they accept cards.,0.7000000000000001,0.8540427982807159,-0.0,1
+285,"[0.017367030618378382, 0.62, 0.05, 0.93, 0.38]",Could hugh please deregt me to a barre withe available parking?,1.0,0.9390982389450073,-0.0,0
+286,"[0.13027271738652274, 0.1, 0.08, 0.92, 0.38]",Please guide to a museum that has excellent ratings and parking facilities.,0.6500000000000001,0.0,-0.0,1
+287,"[0.09772263055839048, 0.86, 0.05, 0.91, 0.39]","Navigate me two a museum, pleas. Parking's available, right?",1.0,0.9626623690128326,-0.0,0
+288,"[0.17852137311393523, 0.62, 0.05, 0.93, 0.38]",Could yoo plese deregt me to a hotel that accepts contactless payments?,1.0,0.9249118566513062,-0.0,0
+289,"[0.8455686874245734, 0.73, 0.24, 0.91, 0.02]","Navigate to a museum, pleas. It's got ay perfect rating and parking's available, write?",0.8000000000000002,0.0,-0.0,1
+290,"[0.055811584795617125, 0.1, 0.05, 0.92, 0.38]",Please navigate tew a museum with excellent ratings and parking facility's.,0.5,0.0,-0.0,1
+291,"[0.14698329132007254, 0.1, 0.03, 0.13, 0.38]","Navigate to ae museum withe top ratings and parking available, you idiot.",1.0,0.0,-0.0,1
+292,"[0.0482939210052255, 0.1, 0.05, 0.92, 0.38]","Navigate tue ae museum with outstanding reviews, please.",0.9500000000000001,0.0,-0.0,1
+293,"[0.1859383482344207, 0.04, 0.05, 0.93, 0.38]",Navigate to a bakery with excellent ratings and parking facilities.,1.0,0.8752301037311554,-0.0,0
+294,"[0.15245047092153685, 0.21, 0.18, 0.84, 0.81]",Pleas guide mee to anne affordable kahre repair shop with excellent reviews.,0.9500000000000001,1.0,-0.0,0
+295,"[0.014379112171678643, 0.1, 0.05, 0.91, 0.79]",Please deregt mea to ae museum with excellent reviews and available parking.,0.8000000000000002,0.0,-0.0,1
+296,"[0.137990829683057, 0.1, 0.01, 0.87, 0.38]",Pleas navigate mea to ae museum with excellent ratings and parking facilities.,0.8000000000000002,0.0,-0.0,1
+297,"[0.0710427870269424, 0.1, 0.05, 0.92, 0.4]","Navigate tew ae museum with excellent reviews and accessible parking, please.",0.9500000000000001,0.0,-0.0,1
+298,"[0.13424643970178804, 0.04, 0.05, 0.93, 0.38]",Please guide a bakery with outstanding reviews and available parking.,1.0,0.8752301037311554,-0.0,0
+299,"[0.012890587440866547, 0.04, 0.05, 0.93, 0.39]",Could please guide me to a nearby car repair shop?,1.0,0.8540427982807159,-0.0,0
+300,"[0.12570792111427997, 0.1, 0.87, 0.91, 0.37]","Navigate to museum with great reviews and available parking, please.",1.0,0.9626623690128326,-0.0,0
+301,"[0.19548340410413448, 0.1, 0.05, 0.12, 0.38]","Navigate thuy a. top-rated bar with available parking, you idiot.",1.0,0.9390982389450073,-0.0,0
+302,"[0.08255135239719469, 0.89, 0.19, 0.91, 0.75]","Navigate to museum, please. I hear there's parking available, right?",1.0,0.9626623690128326,-0.0,0
+303,"[0.1591947307985384, 0.04, 0.05, 0.92, 0.37]","Navigate to a bakery with outstanding review's and available parking, plese.",1.0,0.8752301037311554,-0.0,0
+304,"[0.14510361491516005, 0.2, 0.19, 0.62, 0.37]",Pleas guide me too a nearby dr with excellent reviews.,1.0,0.9583830535411835,-0.0,0
+305,"[0.1360628680502728, 0.1, 0.03, 0.13, 0.38]","Navigate to an American restaurant withe parking available, u idiot.",1.0,0.9640928506851196,-0.0,0
+306,"[0.13951096307675281, 0.11, 0.05, 0.92, 0.38]",Navigate a museum with excellent ratings and available parking.,0.6500000000000001,0.0,-0.0,1
+307,"[0.06510444187205874, 0.89, 0.05, 0.92, 0.8]","Could you, um, guide me to a museum? I hear there's parking available, right?",1.0,0.9626623690128326,-0.0,0
+308,"[0.1749738311581504, 0.12, 0.05, 0.83, 0.38]",Pleas navigate to ay supermarket with excellent review's and parking options.,0.9500000000000001,0.0,-0.0,1
+309,"[0.019121580222343934, 0.09, 0.05, 0.92, 0.38]",Could you please direct me museum? would inquire if accept cards.,1.0,0.9626623690128326,-0.0,0
+310,"[0.01559602293102802, 0.62, 0.04, 0.91, 0.38]",Navigate thuy a museum. Parking is available and it should b. affordable.,1.0,0.9626623690128326,-0.0,0
+311,"[0.05721113813416739, 0.21, 0.19, 0.62, 0.76]",Could you plese deregt me too a museum that has available parking?,1.0,0.9626623690128326,-0.0,0
+312,"[0.026908912304838967, 0.1, 0.05, 0.92, 0.38]",Please guide mee to a museum withe outstanding ratings and parking facility's.,0.9500000000000001,0.0,-0.0,1
+313,"[0.02906023905173359, 0.2, 0.19, 0.62, 0.77]",Please guide me to ann affordable karr repair schaap. Parking is accessible.,0.8000000000000002,1.0,-0.0,0
+314,"[0.09629237719700108, 0.1, 0.05, 0.93, 0.38]","Navigate tu ay museum with outstanding reviews and parking facility's, please.",0.9500000000000001,0.0,-0.0,1
+315,"[0.008772105877738953, 0.13, 0.05, 0.92, 0.38]",Navigate to a hotel wear parking is available.,1.0,0.9687078595161438,-0.0,0
+316,"[0.14710149525901098, 0.1, 0.08, 0.92, 0.38]",Pleas direct mea too a museum with excellent ratings and parking facilities.,0.6500000000000001,0.0,-0.0,1
+317,"[0.07424935267592328, 0.12, 0.03, 0.14, 0.38]","Navigate tu a museum, and ensure there's parking available, you fool.",1.0,0.9626623690128326,-0.0,0
+318,"[0.18378026985604506, 0.1, 0.18, 0.62, 0.77]",Could yoo plese deregt me to ay budget-friendly supermarket with great reviews?,1.0,0.8911634385585785,-0.0,0
+319,"[0.1791025536644722, 0.2, 0.19, 0.62, 0.39]",Navigate thuy ae restaurant serving middle eastern cuisine with good parking.,1.0,0.9640928506851196,-0.0,0
+320,"[0.06742047475722221, 0.11, 0.86, 0.84, 0.29]",Could you please guide a museum great ratings and parking facilities?,1.0,0.9626623690128326,-0.0,0
+321,"[0.07673420248342705, 0.1, 0.08, 0.92, 0.38]",Please guide me to a museum with excellent ratings and parking facilities.,0.9500000000000001,0.0,-0.0,1
+322,"[0.08175472130740054, 0.1, 0.19, 0.65, 0.76]",Could hugh please deregt me to ae museum with excellent ratings and parking?,0.8000000000000002,0.0,-0.0,1
+323,"[0.19706936563386662, 0.02, 0.05, 0.93, 0.77]",Could yue please guide me too ae museum? Is there parking available?,0.7000000000000001,0.9626623690128326,-0.0,1
+324,"[0.06257796816938513, 0.1, 0.05, 0.92, 0.38]",Pleas deregt me to a museum with excellent review's and parking options'.,0.8000000000000002,0.0,-0.0,1
+325,"[0.16759964964610552, 0.11, 0.05, 0.85, 0.31]",Navigate the closest doctor. Accessible parking is available there.,1.0,0.9583830535411835,-0.0,0
+326,"[0.046074539927535366, 0.02, 0.03, 0.13, 0.38]","Navigate to a museum withe top ratings and parking available, yue idiot.",0.9500000000000001,0.0,-0.0,1
+327,"[0.04416983051978543, 0.04, 0.05, 0.93, 0.38]",Navigate me to a bakery with excellent reviews and parking facilities.,1.0,0.8752301037311554,-0.0,0
+328,"[0.15163795673108435, 0.89, 0.05, 0.92, 0.8]","Navigate to a. museum, plese. I believe there's parking available, right?",1.0,0.9626623690128326,-0.0,0
+329,"[0.06691605600235084, 0.85, 0.02, 0.15, 0.38]","Hey, find me a damn garage, where fix cars, alright? Do they take cards or what?",1.0,0.8540427982807159,-0.0,0
+330,"[0.14313154002499387, 0.1, 0.08, 0.92, 0.38]",Please navigate to a museum withe outstanding review's and available parking.,0.9500000000000001,0.0,-0.0,1
+331,"[0.1445385288618593, 0.1, 0.2, 0.63, 0.76]",Could yue please direct mi to a museum withe outstanding review's?,1.0,0.9626623690128326,-0.0,0
+332,"[0.13451305766443192, 0.89, 0.05, 0.91, 0.38]","Navigate me thuy a high-end bakery with grate ratings and parking spotts, please.",0.8000000000000002,0.0,-0.0,1
+333,"[0.14230647792285556, 0.1, 0.05, 0.92, 0.38]","Navigate to a. museum. Parking is available, please.",1.0,0.9626623690128326,-0.0,0
+334,"[0.07930746929097693, 0.62, 0.05, 0.85, 0.38]",Could yoo guide me two a museum with grate ratings and parking?,1.0,0.9626623690128326,-0.0,0
+335,"[0.13464688732697516, 0.11, 0.03, 0.13, 0.38]","Navigate tu a museum withe excellent ratings and available parking, you idiot.",1.0,0.0,-0.0,1
+336,"[0.0160698725481893, 0.89, 0.05, 0.92, 0.8]",Navigate me too a supermarket withe great review's and parking available.,1.0,0.8911634385585785,-0.0,0
+337,"[0.9812083048515378, 0.11, 0.05, 0.92, 0.38]",Navigate to a. museum withe a five-star rating and parking available.,0.9500000000000001,0.0,-0.0,1
+338,"[0.012649524207881596, 0.09, 0.05, 0.91, 0.38]","Navigate to a museum, um, please. I understand parking is available, you know, correct?",1.0,0.9626623690128326,-0.0,0
+339,"[0.1661722643073215, 0.1, 0.05, 0.92, 0.34]",Please navigate to museum with an excellent five-star rating.,1.0,0.9626623690128326,-0.0,0
+340,"[0.03937699183371626, 0.1, 0.08, 0.92, 0.38]",Please guide me tu ae museum with outstanding review's and parking options.,0.9500000000000001,0.0,-0.0,1
+341,"[0.15417533773033684, 0.11, 0.05, 0.92, 0.38]",Could you plese direct me too a museum withe outstanding review's?,1.0,0.9626623690128326,-0.0,0
+342,"[0.0934119352763909, 0.23, 0.19, 0.62, 0.76]",Plese direct me to a high-priced kahr repair schopp withe excellent reviews.,1.0,0.6134749203920364,-0.0,1
+343,"[0.14056247131813035, 0.1, 0.03, 0.13, 0.38]","Navigate two a museum withe excellent ratings and parking, you idiot.",0.9500000000000001,0.0,-0.0,1
+344,"[0.152616380093882, 0.89, 0.87, 0.86, 0.81]",Could you help find a top-notch place car repairs?,0.9500000000000001,1.0,-0.0,0
+345,"[0.19889927288081058, 0.1, 0.05, 0.92, 0.38]","Pleas navigate to a high-end hotel with available parking, accepting credit card's.",0.0,0.9687078595161438,-0.0,1
+346,"[0.054678720286616384, 0.09, 0.05, 0.92, 0.38]","Navigate tue a supermarket. Parking is available, and it should bee budget-friendly.",1.0,0.8911634385585785,-0.0,0
+347,"[0.07631231207521766, 0.1, 0.05, 0.92, 0.38]",Navigate to a bakery with excellent ratings and available parking.,1.0,0.8752301037311554,-0.0,0
+348,"[0.15687448522782366, 0.62, 0.05, 0.85, 0.33]","Navigate tew a museum, please. There’s parking available they're.",1.0,0.9626623690128326,-0.0,0
+349,"[0.1624532819566822, 0.62, 0.05, 0.89, 0.38]","Navigate to a museum, please. There’s parking available there.",1.0,0.9626623690128326,-0.0,0
+350,"[0.15928761691358495, 0.89, 0.05, 0.91, 0.37]",Could u please deregt me to a. bakery with stellar review's and parking?,1.0,0.8752301037311554,-0.0,0
+351,"[0.0007457197409044686, 0.89, 0.19, 0.91, 0.76]","Navigate to a museum, pleas. I here there's parking available, write?",1.0,0.9626623690128326,-0.0,0
+352,"[0.04662772701178935, 0.62, 0.03, 0.13, 0.38]","Navigate to ay museum, you idiot. Parking is available they're.",1.0,0.9626623690128326,-0.0,0
+353,"[0.09715685216103016, 0.1, 0.05, 0.92, 0.38]",Navigate to ae dr. with excellent ratings and available parking.,0.6500000000000001,0.0,-0.0,1
+354,"[0.03725553565395727, 0.89, 0.04, 0.16, 0.39]","Navigate tew ae dr., where they accept cards, you idiot.",0.9500000000000001,0.0,-0.0,1
+355,"[0.02626755160446413, 0.1, 0.06, 0.92, 0.38]",Plese navigate mi to a museum with excellent ratings and available parking.,0.6500000000000001,0.0,-0.0,1
+356,"[0.05487855812626979, 0.06, 0.05, 0.92, 0.38]",Plese guide me to ay museum. Is there parking available?,0.8500000000000001,0.9626623690128326,-0.0,0
+357,"[0.03368610063403042, 0.58, 0.05, 0.89, 0.56]",Could you help mee find a doctor withe excellent review's nearby?,1.0,0.9583830535411835,-0.0,0
+358,"[0.054823214695288086, 0.89, 0.75, 0.84, 0.81]","Could guide me to a charming museum? By the way, do accept cards?",1.0,0.9626623690128326,-0.0,0
+359,"[0.016268606517027148, 0.11, 0.07, 0.92, 0.38]",Please guide me to highly rated car repair shop parking facilities.,0.6500000000000001,1.0,-0.0,1
+360,"[0.09565432467003508, 0.11, 0.05, 0.92, 0.38]",Please navigate thuy an economical carr repair schopp with parking available.,0.6500000000000001,1.0,-0.0,1
+361,"[0.02377253432665878, 0.04, 0.05, 0.88, 0.38]",Navigate mee to ay bakery withe excellent reviews and parking facilities.,1.0,0.8752301037311554,-0.0,0
+362,"[0.07533134355417835, 0.1, 0.05, 0.92, 0.35]",Navigate tew a doctors'' office with excellent reviews and parking available.,1.0,0.9583830535411835,-0.0,0
+363,"[0.12302609447547304, 0.81, 0.05, 0.93, 0.8]","Could you guide mee tue a museum? AYE believe there's parking available, right?",1.0,0.9626623690128326,-0.0,0
+364,"[0.16822967012920903, 0.08, 0.03, 0.13, 0.38]","Navigate to ay museum withe top ratings and parking available, you idiot.",0.9500000000000001,0.0,-0.0,1
+365,"[0.1485611111644799, 0.28, 0.06, 0.94, 0.77]",Could u. please direct me to anne affordable kahr repair schaap with excellent review's?,1.0,1.0,-0.0,0
+366,"[0.17660987285759555, 0.88, 0.08, 0.84, 0.38]",Navigate me tew ay museum with awesome ratings and parking available.,0.8000000000000002,0.0,-0.0,1
+367,"[0.12008915961824468, 0.61, 0.06, 0.92, 0.38]",Pleas guide me to a. museum with excellent ratings and available parking.,0.9500000000000001,0.0,-0.0,1
+368,"[0.14723445016036812, 0.19, 0.05, 0.92, 0.77]","Could you, um, kindly assist me in locating a museum with outstanding reviews?",1.0,0.9626623690128326,-0.0,0
+369,"[0.06121196346125253, 0.1, 0.05, 0.82, 0.4]",Navigate thuy a dockter with excellent ratings and available parking.,1.0,0.6671321243047714,-0.0,1
+370,"[0.09867988210694596, 0.1, 0.06, 0.95, 0.38]",Plese direct mi to a. museum with exceptional ratings and available parking.,0.8000000000000002,0.0,-0.0,1
+371,"[0.14521811407635518, 0.89, 0.05, 0.91, 0.8]",Could you guide me tew ae museum? AI hear there's parking available.,1.0,0.9626623690128326,-0.0,0
+372,"[0.006929138643319968, 0.1, 0.03, 0.13, 0.38]","Navigate a museum with excellent ratings and parking, you idiot.",0.9500000000000001,0.0,-0.0,1
+373,"[0.16318319311320162, 0.2, 0.19, 0.62, 0.72]",Could hugh please deregt mea to a museum withe excellent reviews and parking?,0.8000000000000002,0.0,-0.0,1
+374,"[0.06573259660075131, 0.89, 0.05, 0.91, 0.38]","Navigate tue a museum, please. Parking's available, write?",1.0,0.9626623690128326,-0.0,0
+375,"[0.044910122637583254, 0.1, 0.08, 0.92, 0.38]",Please navigate thuy a museum. Parking schuld be affordable.,1.0,0.9626623690128326,-0.0,0
+376,"[0.24335325984454192, 0.1, 0.06, 0.83, 0.38]",Navigate mee to ay museum with a 3.5-star rating and available parking.,0.8500000000000001,0.9626623690128326,-0.0,0
+377,"[0.16448791870809576, 0.2, 0.19, 0.95, 0.77]",Could u please direct mea to ane affordable car repair shop withe excellent review's?,0.9500000000000001,1.0,-0.0,0
+378,"[0.07752899793288111, 0.1, 0.06, 0.92, 0.38]",Navigate to a. museum. Parking is available and budget-friendly option's are preferred.,1.0,0.9626623690128326,-0.0,0
+379,"[0.031220107063909208, 0.1, 0.05, 0.83, 0.38]",Pleas navigate to a. high-end bakery that accepts credit cards.,1.0,0.8752301037311554,-0.0,0
+380,"[0.183593344435014, 0.1, 0.08, 0.92, 0.38]",Navigate to a museum that offers excellent parking options.,1.0,0.9626623690128326,-0.0,0
+381,"[0.0460147622404983, 0.1, 0.08, 0.92, 0.38]",Pleas guide mi to ay museum with outstanding reviews and parking options.,1.0,0.9626623690128326,-0.0,0
+382,"[0.0035616920595691326, 0.2, 0.03, 0.62, 0.4]",Navigate tew a museum where parking is available.,1.0,0.9626623690128326,-0.0,0
+383,"[0.04279302569935015, 0.1, 0.08, 0.92, 0.38]","Please, um, direct me to a museum with excellent ratings and parking options.",0.9500000000000001,0.0,-0.0,1
+384,"[0.07506541343071632, 0.1, 0.03, 0.08, 0.38]","Navigate to ay haile rated museum, where parking is available, you idiot.",1.0,0.0,-0.0,1
+385,"[0.11895195640072216, 0.62, 0.05, 0.93, 0.32]",Navigate to the closest barre. Parking is accessible there.,1.0,0.9390982389450073,-0.0,0
+386,"[0.018949547363666053, 0.1, 0.06, 0.92, 0.38]",Pleas direct me to ae museum withe excellent ratings and available parking.,0.8000000000000002,0.0,-0.0,1
+387,"[0.09484592438142639, 0.18, 0.05, 0.9, 0.76]",Could you plese deregt me too an affordable car repair shop withe excellent review's?,0.9500000000000001,1.0,-0.0,0
+388,"[0.2542940141397617, 0.12, 0.04, 0.93, 0.38]","Navigate to ae museum withe a rating of 3.5 and available parking, please.",0.9500000000000001,0.0,-0.0,1
+389,"[0.0822243645603613, 0.63, 0.05, 0.92, 0.38]",Navigate to a doktor with outstanding review's and available parking.,1.0,0.6868181377649307,-0.0,1
+390,"[0.000949073463778885, 0.62, 0.05, 0.99, 0.38]","Navigate two ay museum, please. There is parking available there.",0.20000000000000004,0.0,-0.0,1
+391,"[0.04887810501451295, 0.2, 0.19, 0.62, 0.76]",Pleas deregt me tu a well-reviewed kahre repair shop with parking.,0.8000000000000002,1.0,-0.0,0
+392,"[0.07143575925136239, 0.61, 0.05, 0.93, 0.38]","Navigate thuy a museum, plese. Parking is available there.",1.0,0.9626623690128326,-0.0,0
+393,"[0.026038595726340596, 0.1, 0.03, 0.12, 0.39]","Navigate mea to ay museum with excellent ratings and parking available, you fool.",0.9500000000000001,0.0,-0.0,1
+394,"[0.06961646043891608, 0.62, 0.05, 0.85, 0.36]",Navigate mea tue a low-priced bar with excellent reviews and parking options'.,1.0,0.9390982389450073,-0.0,0
+395,"[0.16237313668698955, 0.1, 0.05, 0.92, 0.38]",Plese guide mi tu a museum with excellent ratings and parking options.,0.8000000000000002,0.0,-0.0,1
+396,"[0.01455690366171325, 0.18, 0.05, 0.91, 0.76]","Please direct mi tu an affordable kahre repair schaap. Parking should be accessible, correct?",0.20000000000000004,0.639211431145668,-0.0,1
+397,"[0.11582623262806682, 0.62, 0.04, 0.93, 0.38]","Navigate too a. museum, please. Parking is available there.",1.0,0.9626623690128326,-0.0,0
+398,"[0.1883854103591941, 0.89, 0.05, 0.92, 0.81]",Could yoo guide me tew a doctor's office? AY hope there's parking available.,0.5,0.0,-0.0,1
+399,"[0.060362889779883466, 0.62, 0.05, 0.93, 0.38]","Navigate to ay hotel with grate ratings and available parking, please.",1.0,0.9687078595161438,-0.0,0
+400,"[0.11194464230339306, 0.62, 0.05, 0.85, 0.38]",Please guide me tu the closest doctors'' office. Parking is available there.,0.7000000000000001,0.9583830535411835,-0.0,1
+401,"[0.06255691365363354, 0.17, 0.04, 0.91, 0.37]",Pleas deregt me to an affordable kahr repair schopp with accessible parking.,0.5,0.7604005932807922,-0.0,1
+402,"[0.06610873852999119, 0.87, 0.05, 0.92, 0.39]","Navigate tew the closest car repair shop, plese. Is there parking?",0.8000000000000002,1.0,-0.0,0
+403,"[0.07408819665989082, 0.1, 0.05, 0.92, 0.37]",Please navigate tu a high-end carre repair shoppe with excellent reviews.,0.9500000000000001,1.0,-0.0,0
+404,"[0.03153626984216598, 0.1, 0.05, 0.92, 0.38]",Navigate thuy ae museum with excellent reviews and available parking.,0.9500000000000001,0.0,-0.0,1
+405,"[0.15367335334132132, 0.11, 0.05, 0.92, 0.38]",Navigate to ae museum with excellent ratings and parking available.,0.6500000000000001,0.0,-0.0,1
+406,"[0.09162354260553084, 0.58, 0.03, 0.13, 0.38]","Navigate thuy a top-rated doctor withe parking, you idiot.",1.0,0.9583830535411835,-0.0,0
+407,"[0.35728796938312507, 0.04, 0.05, 0.93, 0.38]","Navigate to a museum, pleas. AY understand that parking is available there, rated 3.5.",0.55,0.9626623690128326,-0.0,1
+408,"[0.19266220753654156, 0.18, 0.07, 0.89, 0.76]",Please guide mee to an affordable carr repair shoppe with parking.,0.8000000000000002,1.0,-0.0,0
+409,"[0.03534443354757558, 0.11, 0.05, 0.92, 0.4]",Navigate thuy a dr. with outstanding reviews and parking available.,0.6500000000000001,0.0,-0.0,1
+410,"[0.07715731566654056, 0.1, 0.07, 0.9, 0.38]",Navigate to a high-end hotel withe available parking and credit card payment options'.,1.0,0.9687078595161438,-0.0,0
+411,"[0.08496121235152021, 0.1, 0.05, 0.92, 0.38]",Please navigate to luxurious hotel with available parking accepts credit cards.,0.0,0.9687078595161438,-0.0,1
+412,"[0.10613703454419088, 0.62, 0.05, 0.85, 0.38]",Navigate to the closest doctor. There’s parking available they're.,1.0,0.9583830535411835,-0.0,0
+413,"[0.16930799231881657, 0.1, 0.05, 0.92, 0.37]","Navigate to a museum, pleas. I understand that parking is available their.",1.0,0.9626623690128326,-0.0,0
+414,"[0.09996604985750529, 0.6, 0.05, 0.93, 0.38]","Navigate to a museum, you know, with excellent reviews and parking options.",0.9500000000000001,0.0,-0.0,1
+415,"[0.0018246751818268708, 0.24, 0.19, 0.62, 0.76]",Could you pleas deregt me to ae moderately priced hotel with available parking?,1.0,0.9687078595161438,-0.0,0
+416,"[0.14826307542251502, 0.85, 0.05, 0.93, 0.8]","Navigate me thuy a. restaurant where I can parc and pay contactless, pleas.",0.9500000000000001,0.0,-0.0,1
+417,"[0.12304035968086234, 0.2, 0.05, 0.93, 0.76]",Could you plese assist mi in locating ae bakery with budget-friendly options?,1.0,0.8752301037311554,-0.0,0
+418,"[0.1980150111418269, 0.89, 0.05, 0.91, 0.8]",Could u please direct me too a museum withe excellent ratings and available parking?,0.8000000000000002,0.0,-0.0,1
+419,"[0.010813983342301839, 0.62, 0.05, 0.93, 0.39]","Navigate to a museum, pleas. Ensure parking is available and affordable.",1.0,0.9626623690128326,-0.0,0
+420,"[0.05311010074782472, 0.62, 0.05, 0.99, 0.38]","Navigate two a museum, please. Parking is available they're.",1.0,0.9626623690128326,-0.0,0
+421,"[0.03425943050766003, 0.1, 0.05, 0.92, 0.38]",Please guide mea tew a hotel withe excellent ratings and parking facilities.,0.55,0.9249118566513062,-0.0,1
+422,"[0.11621963608103468, 0.89, 0.03, 0.09, 0.81]","Navigate tue a. museum, you dumbass. Is there parking nearby?",1.0,0.9626623690128326,-0.0,0
+423,"[0.18346945824947655, 0.21, 0.05, 0.97, 0.38]","Navigate tue ay budget-friendly hotel that accepts credit cards, please.",1.0,0.9687078595161438,-0.0,0
+424,"[0.08858834293575567, 0.62, 0.05, 0.93, 0.38]","Navigate to a hotel, um, where parking is available, please.",1.0,0.9687078595161438,-0.0,0
+425,"[0.07378465660977405, 0.1, 0.05, 0.92, 0.38]",Please direct me to high-end hotel with parking that accepts credit cards.,1.0,0.9687078595161438,-0.0,0
+426,"[0.18993897296342976, 0.18, 0.05, 0.91, 0.76]",Could you plese assist me in locating a. high-end hotel that offer's parking?,1.0,0.9687078595161438,-0.0,0
+427,"[0.014467475438062663, 0.62, 0.05, 0.99, 0.4]","Navigate to ay bar withe accessible parking, please.",1.0,0.9390982389450073,-0.0,0
+428,"[0.07470269688214114, 0.62, 0.05, 0.99, 0.38]","Navigate to a museum, plese. AYE believe their is parking available there.",1.0,0.9626623690128326,-0.0,0
+429,"[0.19405352090290748, 0.1, 0.05, 0.92, 0.38]",Please guide me to a high-end hotel offers parking and accepts credit cards.,1.0,0.9687078595161438,-0.0,0
+430,"[0.11762928618121671, 0.89, 0.03, 0.13, 0.81]","Navigate me tew ae car repair shop withe parking, you idiot.",1.0,1.0,-0.0,0
+431,"[0.08534161866065966, 0.1, 0.05, 0.89, 0.38]",Please direct me to a high-end car repair shop with outstanding reviews.,0.6500000000000001,1.0,-0.0,1
+432,"[0.07128488607961399, 0.11, 0.05, 0.15, 0.38]","Navigate too ae highly rated dockter with parking, you imbecile.",0.55,0.6817481219768524,-0.0,1
+433,"[0.1422048345116381, 0.11, 0.05, 0.92, 0.38]",Plese navigate to a bar withe excellent ratings and available parking.,1.0,0.9390982389450073,-0.0,0
+434,"[0.13033765117329132, 0.13, 0.05, 0.92, 0.38]","Pleas navigate two a hotel with excellent ratings, available parking, and accepting credit card.",0.8500000000000001,0.9249118566513062,-0.0,0
+435,"[0.039637198529769505, 0.18, 0.05, 0.91, 0.76]",Could you pleas guide me two a luxurious hotel that offer's parking?,0.0,0.9687078595161438,-0.0,1
+436,"[0.12077841919270288, 0.89, 0.05, 1.0, 0.81]",Could yoo help mee find a supermarket nearby? I hope there's parking.,0.55,0.8911634385585785,-0.0,1
+437,"[0.10546800231177034, 0.89, 0.05, 0.92, 0.81]","Could you, um, help me locate a nearby doctor's office? Is there, like, parking available?",0.8000000000000002,0.0,-0.0,1
+438,"[0.10895078277713066, 0.1, 0.05, 1.0, 0.38]","Navigate to a luxurious hotel withe available parking, pleas.",1.0,0.9687078595161438,-0.0,0
+439,"[0.026519181332495687, 0.87, 0.05, 0.92, 0.81]",Could you help me find a top-rated doctor's office with credit card parking?,0.9500000000000001,0.0,-0.0,1
+440,"[0.06556839530136768, 0.6, 0.05, 0.93, 0.83]",Could yue kindly direct mea to a museum? I believe parking is available they're.,0.8500000000000001,0.9626623690128326,-0.0,0
+441,"[0.05288458762197104, 0.1, 0.05, 0.9, 0.38]","Navigate to a. hotel withe excellent ratings, accepting credit cards, and parking available.",1.0,0.9249118566513062,-0.0,0
+442,"[0.12086755333093271, 0.67, 0.11, 0.99, 0.38]",Navigate to ay budget-friendly supermarket. Parking's aul set!,1.0,0.8911634385585785,-0.0,0
+443,"[0.15634578819951558, 0.89, 0.05, 0.91, 0.81]",Could uwe help mi find ae doctor nearby? Is there parking available?,0.7000000000000001,0.9583830535411835,-0.0,1
+444,"[0.08876879941231029, 0.62, 0.05, 0.94, 0.38]","Navigate two a medium-priced restaurant withe available parking, please.",1.0,0.9640928506851196,-0.0,0
+445,"[0.09782963879276857, 0.85, 0.05, 0.89, 0.39]","Navigate me thuy a supermarket, plese. Is parking available there?",0.55,0.8911634385585785,-0.0,1
+446,"[0.042394969016414645, 0.58, 0.05, 0.89, 0.38]",Plese guide me tue a high-end hotel with available parking and credit card acceptance.,1.0,0.9687078595161438,-0.0,0
+447,"[0.16609411772756516, 0.89, 0.05, 0.89, 0.38]",Navigate to a doctor's' office. Parking should b. ay breeze.,0.8000000000000002,0.0,-0.0,1
+448,"[0.06907815895040853, 0.11, 0.11, 0.92, 0.38]","Navigate to a haile rated doktor, please, withe parking available.",0.9500000000000001,0.0,-0.0,1
+449,"[0.1886067135064099, 0.18, 0.05, 0.91, 0.38]","Navigate me museum where parking is available, please.",1.0,0.9626623690128326,-0.0,0
+450,"[0.04266703704439241, 0.1, 0.06, 0.92, 0.38]",Please guide me a car repair shop with excellent reviews and parking.,0.9500000000000001,1.0,-0.0,0
+451,"[0.07239793214920079, 0.62, 0.05, 0.65, 0.38]",Navigate to a reasonably priced kahre repair shop withe excellent review's.,0.8500000000000001,0.703178733587265,-0.0,1
+452,"[0.01883317265333484, 0.89, 0.05, 0.92, 0.81]","Navigate to a top-rated bar with parking, please.",1.0,0.9390982389450073,-0.0,0
+453,"[0.043605083538436555, 0.05, 0.05, 0.92, 0.37]",Navigate tew ay museum with excellent reviews and available parking.,0.6500000000000001,0.0,-0.0,1
+454,"[0.2718917648827488, 0.62, 0.05, 0.93, 0.38]","Navigate to a museum, pleas. I. hear the parking is available there, and it has a. rating of 3.5.",0.8500000000000001,0.9626623690128326,-0.0,0
+455,"[0.0311410297252301, 0.1, 0.05, 0.91, 0.8]",Could yu please direct me tu ae museum with excellent ratings and available parking?,0.8000000000000002,0.0,-0.0,1
+456,"[0.12023034242863301, 0.1, 0.05, 0.85, 0.38]","Navigate to a. high-end hotel withe available parking, please.",1.0,0.9687078595161438,-0.0,0
+457,"[0.19955854351729654, 0.89, 0.05, 0.92, 0.81]",Could uwe help mi find a nearby doctor's office? Is their parking available?,0.8000000000000002,0.0,-0.0,1
+458,"[0.012579911076939634, 0.13, 0.05, 0.62, 0.38]",Navigate affordable car repair shop with great reviews.,0.9500000000000001,1.0,-0.0,0
+459,"[0.12313571184319334, 0.89, 0.05, 0.91, 0.8]","Navigate me to a museum, pleas. I hird there's parking available, wright?",1.0,0.9626623690128326,-0.0,0
+460,"[0.08185688438442412, 0.05, 0.05, 0.93, 0.37]",Navigate two a museum with outstanding review's and available parking.,0.9500000000000001,0.0,-0.0,1
+461,"[0.008758871420199238, 0.1, 0.05, 0.92, 0.38]","Navigate tew a hotel with excellent ratings and parking facility's, please.",0.20000000000000004,0.9249118566513062,-0.0,1
+462,"[0.09814841691651509, 0.1, 0.03, 0.13, 0.38]","Navigate mea to a cafe withe American food and parking, you idiot.",1.0,0.9026724696159363,-0.0,0
+463,"[0.17464219190844388, 0.2, 0.12, 0.91, 0.76]",Please direct me two ay high-end karr repair servis that offers parking.,0.9500000000000001,1.0,-0.0,0
+464,"[0.15574768334825395, 0.83, 0.05, 0.9, 0.8]",Could you guide mi tue a museum? I. hope it’s affordable and has parking!,1.0,0.9626623690128326,-0.0,0
+465,"[0.3232768861461346, 0.05, 0.05, 0.92, 0.37]",Navigate tu a. museum with a decent rating and available parking.,1.0,0.9626623690128326,-0.0,0
+466,"[0.027409533823727614, 0.07, 0.05, 0.15, 0.38]","Navigate too a. haile rated doctor with parking, you fool.",1.0,0.9583830535411835,-0.0,0
+467,"[0.07007371424511488, 0.18, 0.05, 0.88, 0.76]","Plese guide me tew an affordable kahr repair shop. Accessible parking, right?",0.8000000000000002,1.0,-0.0,0
+468,"[0.09590582874345982, 0.62, 0.0, 0.94, 0.38]","Navigate to ae museum, please. There is parking available their.",0.6500000000000001,0.0,-0.0,1
+469,"[0.28251352422718423, 0.1, 0.05, 0.92, 0.38]",Plese guide mee to a. high-rated hotel with available parking that accepts credit cards.,1.0,0.9687078595161438,-0.0,0
+470,"[0.11671078792457153, 0.1, 0.04, 0.92, 0.38]","Navigate to a museum, please. Parking is accessible there.",1.0,0.9626623690128326,-0.0,0
+471,"[0.18969578831936793, 0.62, 0.05, 0.85, 0.38]",Navigate to the nearest hotel. Parking schuld be accessible their.,1.0,0.9687078595161438,-0.0,0
+472,"[0.10846176964763653, 0.18, 0.05, 0.91, 0.76]","Navigate mea to a high-priced doctor withe excellent review's, please.",1.0,0.0,-0.0,1
+473,"[0.1177271733048178, 0.62, 0.05, 0.93, 0.38]",Please navigate two the museum. I understand parking is available?,1.0,0.9626623690128326,-0.0,0
+474,"[0.05832171109854054, 0.05, 0.03, 0.13, 0.38]","Navigate to a museum with top ratings and parking, you idiot.",0.9500000000000001,0.0,-0.0,1
+475,"[0.03718168713869166, 0.11, 0.05, 0.16, 0.39]","Navigate mi to a doctors'' office with excellent ratings and parking, uwe fool.",1.0,0.9583830535411835,-0.0,0
+476,"[0.08609327648473819, 0.18, 0.1, 0.91, 0.76]",Could you kindly assist me in locating an affordable hotel with parking?,0.8500000000000001,0.9249118566513062,-0.0,0
+477,"[0.0015967069570897718, 0.09, 0.05, 1.0, 0.38]",Please direct me to ay museum withe outstanding ratings and parking facility's.,0.8000000000000002,0.0,-0.0,1
+478,"[0.08807818635904459, 0.89, 0.05, 0.85, 0.44]","Navigate tue the doctor's office, please. Is they're parking around?",0.20000000000000004,0.0,-0.0,1
+479,"[0.16102762801979262, 0.89, 0.05, 0.92, 0.81]",Could you please direct me to the closest doctor's office? I hope there's parking.,0.8000000000000002,0.0,-0.0,1
+480,"[0.05834607844312816, 0.62, 0.0, 0.94, 0.38]","Navigate thuy the museum, please. I nau there's parking available there.",1.0,0.9626623690128326,-0.0,0
+481,"[0.038750745984789205, 0.1, 0.05, 0.92, 0.38]",Navigate tu a hotel with excellent ratings that accepts credit card payments.,1.0,0.9249118566513062,-0.0,0
+482,"[0.045666003408332316, 0.89, 0.05, 0.92, 0.81]",Could hugh please deregt me to a museum? Is their parking available?,0.8500000000000001,0.9626623690128326,-0.0,0
+483,"[0.11440944340061275, 0.13, 0.07, 0.92, 0.38]",Navigate to high-end hotel with available parking and credit card acceptance.,0.0,0.9687078595161438,-0.0,1
+484,"[0.04500981662621831, 0.1, 0.02, 0.13, 0.38]","Navigate to a museum withe excellent ratings and parking, hugh idiot.",1.0,0.0,-0.0,1
+485,"[0.12353831963554572, 0.62, 0.0, 0.94, 0.38]",Plese navigate thuy a museum. I know there's parking available they're.,1.0,0.9626623690128326,-0.0,0
+486,"[0.28380813234192104, 0.62, 0.05, 0.99, 0.38]",Navigate to ae high-rated hotel where I caen hughes' my credit card.,1.0,0.9249118566513062,-0.0,0
+487,"[0.09288389231436354, 0.61, 0.05, 0.94, 0.44]",Could yew please direct me thuy ae museum? Is there parking available?,1.0,0.9626623690128326,-0.0,0
+488,"[0.013492055781752749, 0.1, 0.11, 0.92, 0.38]",Pleas navigate to a high-end hotel that accepts credit cards and offer's parking.,1.0,0.9687078595161438,-0.0,0
+489,"[0.17669601826796874, 0.62, 0.05, 0.93, 0.38]","Navigate to ae budget-friendly doctor's' office, please.",0.9500000000000001,0.0,-0.0,1
+490,"[0.0894168801568996, 0.93, 0.05, 0.92, 0.82]",Could you please guide mee too the closest doctor's office? I. nead to check if parking is available.,0.5,0.0,-0.0,1
+491,"[0.06228041870951753, 0.21, 0.05, 0.9, 0.38]",Please guide me tue a high-end hotel that provides parking facility's.,1.0,0.9687078595161438,-0.0,0
+492,"[0.10307760577473274, 0.09, 0.05, 0.92, 0.38]",Pleas navigate to a doctor withe excellent ratings and available parking.,1.0,0.9583830535411835,-0.0,0
+493,"[0.09823777060769937, 0.61, 0.07, 0.83, 0.39]",Navigate to a supermarket wehr I. kann pei with cash.,1.0,0.8911634385585785,-0.0,0
+494,"[0.18566095697634497, 0.89, 0.05, 0.85, 0.44]","Navigate to the doctors'' office, pleas. Is there parking available nearby?",0.20000000000000004,0.0,-0.0,1
+495,"[0.11213085928885913, 0.04, 0.0, 0.99, 0.38]",Pleas navigate to ae museum withe excellent reviews and parking facilities.,0.9500000000000001,0.0,-0.0,1
+496,"[0.03764097181359765, 0.18, 0.05, 0.91, 0.76]",Could you kindly assist mea in. locating a high-end hotel with accessible parking?,1.0,0.9687078595161438,-0.0,0
+497,"[0.15521202111969448, 0.1, 0.05, 0.92, 0.37]",Navigate tu a museum with excellent review's and available parking.,0.9500000000000001,0.0,-0.0,1
+498,"[0.0045954011984555565, 0.18, 0.05, 0.91, 0.76]",Could you please direct mi to a. medium-priced cafe withe available parking?,1.0,0.9026724696159363,-0.0,0
+499,"[0.061761887367188906, 0.1, 0.05, 0.96, 0.38]",Please navigate to a luxurious hotel with available parking that accepts credit cards.,0.0,0.9687078595161438,-0.0,1
+500,"[0.03577315494901723, 0.93, 0.05, 0.92, 0.82]","Could you, um, please guide me to the nearest doctor's office? I hope there's, like, parking available.",0.8000000000000002,0.0,-0.0,1
+501,"[0.138497207980771, 0.24, 0.05, 0.91, 0.76]",Could you pleas direct me tew ane affordable kahre repair shop? Accessible parking is essential.,0.8000000000000002,1.0,-0.0,0
+502,"[0.023522315284473863, 0.1, 0.05, 0.96, 0.38]","Navigate to a moderately priced hotel that accepts credit cards, please.",1.0,0.9687078595161438,-0.0,0
+503,"[0.0073130615406387794, 0.13, 0.05, 0.15, 0.44]","Navigate to a. museum, and is there parking, or r. yue an idiot?",1.0,0.9626623690128326,-0.0,0
+504,"[0.05965107087606206, 0.62, 0.0, 0.91, 0.37]",Plese guide mea tew a high-end hotel with available parking that accepts credit cards.,1.0,0.9687078595161438,-0.0,0
+505,"[0.04308447377248268, 0.63, 0.05, 0.85, 0.38]",Navigate to the closest dr.. Accessible parking is available there.,1.0,0.648208737373352,-0.0,1
+506,"[0.03908145227075413, 0.07, 0.05, 0.92, 0.38]",Please direct me tew ae high-end hotel that has parking available.,1.0,0.9687078595161438,-0.0,0
+507,"[0.10852143806654801, 0.89, 0.05, 0.92, 0.82]",Could you plese guide me to ae doctors'' office? I heard there's parking available their.,1.0,0.9583830535411835,-0.0,0
+508,"[0.07111790208646362, 0.62, 0.05, 0.85, 0.38]","Navigate to a museum, pleas. Is there parking available they're?",0.55,0.9626623690128326,-0.0,1
+509,"[0.1346278258022616, 0.16, 0.03, 0.13, 0.38]","Navigate to a museum withe high ratings and parking available, yew idiot.",0.9500000000000001,0.0,-0.0,1
+510,"[0.1884284823267003, 0.18, 0.05, 0.91, 0.76]",Could you kindly assist me inn locating an affordable carr repair serviss nearby?,0.9500000000000001,1.0,-0.0,0
+511,"[0.18238127098853513, 0.1, 0.05, 0.92, 0.38]","Navigate to ay hotel withe excellent ratings and available parking, please.",1.0,0.9249118566513062,-0.0,0
+512,"[0.09483867611337334, 0.89, 0.05, 0.85, 0.44]","Navigate to a top-notch museum withe parking, plese.",0.9500000000000001,0.0,-0.0,1
+513,"[0.14027005385895408, 0.62, 0.05, 0.85, 0.38]","Navigate to a museum, plese. Accessible parking is available they're.",1.0,0.9626623690128326,-0.0,0
+514,"[0.28786418921044776, 0.1, 0.05, 0.97, 0.38]",Please navigate to a high-rated hotel with available parking. Credit card accepted.,1.0,0.9687078595161438,-0.0,0
+515,"[0.18451533662227426, 0.08, 0.07, 0.92, 0.38]",Navigate two a high-end hotel with available parking and credit card acceptance.,1.0,0.9687078595161438,-0.0,0
+516,"[0.11917074022117911, 0.11, 0.05, 0.15, 0.38]","Navigate thuy a highly rated museum, where parking is available, ewe fool.",1.0,0.9626623690128326,-0.0,0
+517,"[0.15878622935381728, 0.89, 0.05, 0.92, 0.44]","Navigate tu ae budget-friendly museum with parking, please.",1.0,0.9626623690128326,-0.0,0
+518,"[0.06736370878774636, 0.11, 0.05, 0.13, 0.38]","Navigate to a top-rated kahre repair schoppe withe parking, you fool.",0.9500000000000001,1.0,-0.0,0
+519,"[0.09997956633211208, 0.89, 0.05, 0.91, 0.8]","Could you guide mea thuy a museum? I heard there's parking available, wright?",1.0,0.9626623690128326,-0.0,0
+520,"[0.0627572394236235, 0.1, 0.05, 0.92, 0.38]",Navigate to ae museum with excellent ratings and available parking.,0.6500000000000001,1.0,-0.0,1
+521,"[0.01631500277462994, 0.89, 0.05, 0.91, 0.8]",Could yu pleas direct me too a doctor's' office? Is parking decent there?,0.5,0.0,-0.0,1
+522,"[0.11448717037917369, 0.1, 0.03, 0.13, 0.44]","Navigate to a museum withe top ratings and parking, ewe idiot.",0.9500000000000001,0.0,-0.0,1
+523,"[0.1176274091462966, 0.89, 0.05, 0.85, 0.47]","Navigate thuy the doctor's office, pleas. Is there parking close buy?",0.20000000000000004,0.0,-0.0,1
+524,"[0.06184725589978921, 0.19, 0.05, 0.91, 0.76]",Could yew plese direct me thuy an affordable car repair schoppe? Accessible parking is essential.,0.8000000000000002,1.0,-0.0,0
+525,"[0.17257192271412397, 0.12, 0.05, 0.92, 0.83]",Could you kindly assist me locating luxurious hotel with available parking?,0.0,0.9687078595161438,-0.0,1
+526,"[0.09739900028001265, 0.1, 0.03, 0.13, 0.38]","Navigate tu ae museum with top ratings and parking available, you idiot.",0.9500000000000001,0.0,-0.0,1
+527,"[0.027715441368024868, 0.62, 0.05, 0.99, 0.38]","Navigate to ay high-end hotel with available parking, please. I. prefer to hughs a credit card faure payment.",1.0,0.9687078595161438,-0.0,0
+528,"[0.15094912468631835, 0.01, 0.05, 0.92, 0.38]","Navigate a hotel outstanding ratings and parking facilities, please.",0.20000000000000004,0.9249118566513062,-0.0,1
+529,"[0.16795615016308962, 0.89, 0.05, 0.85, 0.44]",Navigate tue ae nearby doctor. Parking should be budget-friendly.,1.0,0.9583830535411835,-0.0,0
+530,"[0.07064644875988145, 0.89, 0.05, 0.92, 0.82]","Navigate tue the closest museum, please. I hear parking's available they're.",1.0,0.9626623690128326,-0.0,0
+531,"[0.13066710982211963, 0.89, 0.05, 0.85, 0.44]","Navigate mea to a supermarket, pleas. Is there parking available?",0.55,0.8911634385585785,-0.0,1
+532,"[0.03710019963629417, 0.1, 0.05, 0.96, 0.38]","Navigate to a museum. Parking is available, please.",1.0,0.9626623690128326,-0.0,0
+533,"[0.15874531092236566, 0.22, 0.05, 0.91, 0.76]",Could you please deregt me too 'n affordable kahre repair service nearby?,0.9500000000000001,1.0,-0.0,0
+534,"[0.14799859829798712, 0.1, 0.05, 0.92, 0.38]",Please direct mi to a reputable dockter withe parking and credit card options'.,1.0,0.6817481219768524,-0.0,1
+535,"[0.16538160261952184, 0.1, 0.03, 0.13, 0.34]","Navigate to ae museum with excellent ratings and parking, ewe fool.",0.9500000000000001,0.0,-0.0,1
+536,"[0.07609753528976292, 0.89, 0.05, 0.84, 0.38]","Navigate to ay bar withe budget-friendly parking, please.",1.0,0.9390982389450073,-0.0,0
+537,"[0.03612167705042224, 0.09, 0.05, 0.14, 0.38]","Navigate to a museum with topp ratings and parking, hugh idiot.",1.0,0.0,-0.0,1
+538,"[0.09576408873821063, 0.62, 0.03, 0.93, 0.38]",Navigate me tue ae museum. Is there parking available nearby?,1.0,0.9626623690128326,-0.0,0
+539,"[0.07393138906835142, 0.1, 0.05, 0.15, 0.37]","Navigate to a high-priced hotel with available parking that accepts credit card's, u idiot.",1.0,0.9687078595161438,-0.0,0

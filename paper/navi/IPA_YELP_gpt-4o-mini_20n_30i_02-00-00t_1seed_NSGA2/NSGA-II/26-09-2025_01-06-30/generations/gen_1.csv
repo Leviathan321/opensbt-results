@@ -1,0 +1,21 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Navigate to ae supermarket with contactless payment and parking available, idiot.",0.9500000000000001,0.0,-0.0,1
+1,"Navigate to a museum, you know, with a perfect rating and parking.",0.9500000000000001,0.0,-0.0,1
+2,"Hey, can find me a high-end bar with contactless payment and a 5-star rating? Parking should be available too.",1.0,0.7290890216827393,-0.0,1
+3,"Could you help me find a medium-priced Thai place top ratings? Mobile payment, please!",0.9500000000000001,1.0,-0.0,0
+4,Could you help find a low-priced Chinese restaurant with a contactless payment option? should have a perfect rating.,0.9500000000000001,1.0,-0.0,0
+5,I'm craving some middle eastern food at a cozy spot with a decent rating. Do they take contactless payments?,1.0,0.832989513874054,-0.0,0
+6,"I need some assistance with a car issue, but it might cost a bit.",1.0,0.8540427982807159,-0.0,0
+7,"Hey, find me a place to fix my ride without breaking the bank, idiot.",1.0,0.8540427982807159,-0.0,0
+8,"Could you, um, help me locate a low-priced bakery nearby?",1.0,0.8752301037311554,-0.0,0
+9,"Yo, um, I need a solid bakery with medium prices. Can you help?",1.0,0.8752301037311554,-0.0,0
+10,"Navigate too a supermarket wehr I caen pay contactless, idiot.",1.0,0.8911634385585785,-0.0,0
+11,"Could you, um, help me find a high-end cafe that accepts contactless payments?",1.0,0.9026724696159363,-0.0,0
+12,"Please, um, guide me to a bar with low prices, good rating, and mobile payment options.",1.0,0.9390982389450073,-0.0,0
+13,"Navigate to a bar withe kasch payment, 3.5 star's, parking available, cheap.",1.0,0.9390982389450073,-0.0,0
+14,"Could you, um, assist me in locating a nearby medical professional?",1.0,0.9583830535411835,-0.0,0
+15,Could you please guide me to the nearest doctor? Thanks!,1.0,0.9583830535411835,-0.0,0
+16,"Navigate to, um, an American restaurant with available parking, accepting credit cards.",1.0,0.9640928506851196,-0.0,0
+17,"Navigate to a, um, top-rated Japanese restaurant that takes contactless payments, you idiot.",1.0,0.9640928506851196,-0.0,0
+18,"Hey, can you, like, find me a medium-priced American restaurant with a solid 4.5 rating? Oh, and parking should be available, right?",1.0,0.9640928506851196,-0.0,0
+19,Could you help me find a. low-priced hotel withe ae decent rating?,1.0,0.9687078595161438,-0.0,0

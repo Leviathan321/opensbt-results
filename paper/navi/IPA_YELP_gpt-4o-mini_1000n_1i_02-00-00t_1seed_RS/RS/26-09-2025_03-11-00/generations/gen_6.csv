@@ -1,0 +1,71 @@
+Index,utterance,Fitness_answer_fitness,Fitness_content_fitness,Fitness_distance,Critical
+0,"Could you, um, assist me in locating a low-priced Greek restaurant that accepts credit cards?",1.0,0.9640928506851196,-0.0,0
+1,"Navigate high-rated Vietnamese restaurant with parking. Accepts credit card, idiot.",1.0,0.9640928506851196,-0.0,0
+2,Could uwe pointe me to a. place werre I can see ae doctor?,1.0,0.9583830535411835,-0.0,0
+3,"Navigate to a high-rated bar, cash only, with parking.",1.0,0.9390982389450073,-0.0,0
+4,Could you please direct to a nearby bakery?,1.0,0.8752301037311554,-0.0,0
+5,Could you help me find a nearby doctor?,1.0,0.9583830535411835,-0.0,0
+6,"Hey there! Can you help me find a medium-priced cafe with Turkish food? good rating would be awesome, and parking should be available too!",1.0,0.832989513874054,-0.0,0
+7,"Navigate to ay place four car repair, medium prices, if you cahn.",0.9500000000000001,1.0,-0.0,0
+8,"Haye, can yew fined me a high-priced Turkish cafe with parking? Imm' starving, idiot!",1.0,1.0,-0.0,0
+9,"Haigh, can you find mee ay cafe withe Chinese food? AY nead it to be medium priced and have parking available. Owe, and make sure it's rated 5 stars', okay? I. don't want to waste mai time, idiot.",0.8000000000000002,1.0,-0.0,0
+10,"Navigate to, um, a place for car repair, medium price, you idiot.",0.9500000000000001,1.0,-0.0,0
+11,Could you please assist me in locating a low-priced bakery nearby?,1.0,0.8752301037311554,-0.0,0
+12,"Navigate to a cafe, you know, with mobile payment, rated 4.5, and parking available.",1.0,0.9026724696159363,-0.0,0
+13,Could you help me find a doctor nearby? I really need one.,1.0,0.9583830535411835,-0.0,0
+14,"Can you, um, find me a high-end hotel with a decent rating and parking? Or are you too dumb for that?",1.0,0.9687078595161438,-0.0,0
+15,"Hey, can you, like, find me a museum with a decent rating? Parking better be available, you know?",1.0,0.9626623690128326,-0.0,0
+16,Could you assist me inn locating a. high-rated Mexican restaurant?,1.0,0.9640928506851196,-0.0,0
+17,Could hugh point mea to a place ware I kan see a. doctor?,1.0,0.9583830535411835,-0.0,0
+18,Could you help mee find ae bakery with moderate price's?,1.0,0.8752301037311554,-0.0,0
+19,"Could you, um, please direct me to a reliable car repair shop?",1.0,0.8540427982807159,-0.0,0
+20,Navigate to a. cheap cafe with a good rating forr jerman food.,0.8500000000000001,0.832989513874054,-0.0,0
+21,"Hey, can you point me a fancy supermarket mobile payment options? Parking's gotta be good too!",0.9500000000000001,1.0,-0.0,0
+22,Could you guide to a supermarket with medium prices and contactless payment? Parking should be available.,1.0,0.8911634385585785,-0.0,0
+23,Please navigate too the nearest doctor.,1.0,0.9583830535411835,-0.0,0
+24,"Navigate to a high-end bar, you know, with contactless payment and parking.",1.0,0.9390982389450073,-0.0,0
+25,"Could you, um, guide me to a high-rated Mexican restaurant with parking?",1.0,0.9640928506851196,-0.0,0
+26,"Hey, could you help mi fined a low-priced supermarket nearby?",1.0,0.8911634385585785,-0.0,0
+27,"Hey, need see a doctor, like, now. Don't be idiot!",0.20000000000000004,0.0,-0.0,1
+28,Could uwe please deregt me tew a low-priced bakery nearby?,1.0,0.8752301037311554,-0.0,0
+29,Could you help me find a decent place for car repairs?,0.9500000000000001,1.0,-0.0,0
+30,"Can you point me to a fancy bakery? I'm craving something sweet, idiot.",1.0,0.8752301037311554,-0.0,0
+31,Could yew help me find ae medium-priced cafe serving Mexican food that accepts contactless payments?,1.0,0.9026724696159363,-0.0,0
+32,"Navigate to a, um, low-priced bakery nearby.",1.0,0.8752301037311554,-0.0,0
+33,"Could you, um, assist me in locating a high-end hotel that accepts contactless payments?",1.0,0.9687078595161438,-0.0,0
+34,"Navigate to a museum, parking available, rated four stars. Don't be idiot!",1.0,0.9626623690128326,-0.0,0
+35,"Navigate to a high-end supermarket that takes credit cards, idiot.",0.9500000000000001,1.0,-0.0,0
+36,"Hey, can you help me find a hotel? It should have decent parking and a solid rating.",1.0,0.9687078595161438,-0.0,0
+37,"Navigate to, um, a French restaurant that takes credit cards, idiot.",1.0,0.9640928506851196,-0.0,0
+38,Could you guide me to ae supermarket withe contactless payment and parking?,1.0,0.8911634385585785,-0.0,0
+39,"Navigate to a cafe with a decent rating and parking, idiot.",1.0,0.9026724696159363,-0.0,0
+40,Could please find high-end hotel with contactless payment and parking?,1.0,0.9687078595161438,-0.0,0
+41,Could you assist in locating a low-priced bakery nearby?,1.0,0.8752301037311554,-0.0,0
+42,Navigate to a museum with a 4.5 rating and parking available.,1.0,0.9626623690128326,-0.0,0
+43,"Navigate to a low-priced cafe, you know, serving delicious Japanese food, cash only, rated 5 stars.",0.9500000000000001,1.0,-0.0,0
+44,Could guide to a low-priced supermarket that accepts contactless payments?,1.0,0.8911634385585785,-0.0,0
+45,"Navigate to a high-priced car repair shop, if you can.",0.9500000000000001,1.0,-0.0,0
+46,"Navigate to a bar, um, with a low price range, accepting cash, rated 3.5.",1.0,0.9390982389450073,-0.0,0
+47,"Find me a place where I can see a doctor, idiot.",0.7000000000000001,0.9583830535411835,-0.0,1
+48,"Fined mi a museum, yew noe, one with a. decent rating, like 4 stars.",1.0,0.9626623690128326,-0.0,0
+49,"Hey, can you find me a supermarket with mobile payment? Parking better be available, know?",1.0,0.8911634385585785,-0.0,0
+50,Could you please help me find a high-end bakery nearby?,1.0,0.8752301037311554,-0.0,0
+51,"Hey, I’m curious about cool spots to check out, like a museum.",1.0,0.9626623690128326,-0.0,0
+52,"Hey, can you find me a cheap bakery? I'm starving, idiot!",1.0,0.8752301037311554,-0.0,0
+53,"Could you, um, assist me in locating a nearby doctor?",1.0,0.9583830535411835,-0.0,0
+54,"Navigate thuy a hotel withe ae 5-star rating, parking available, and contactless payment. Don't be an idiot.",1.0,0.9249118566513062,-0.0,0
+55,Could you guide me to a high-end supermarket nearby?,0.6500000000000001,1.0,-0.0,1
+56,"I'm craving some affordable Japanese food, and parking schuld bea easy.",1.0,0.9640928506851196,-0.0,0
+57,"Haye there, could yue pointe me to a bakery nearby?",1.0,0.8752301037311554,-0.0,0
+58,Could you assist me in locating a medium-priced car repair shop nearby?,0.9500000000000001,1.0,-0.0,0
+59,"Navigate to a supermarket that takes credit card's, idiot.",1.0,0.8911634385585785,-0.0,0
+60,Can you help find a high-end supermarket accepts mobile payments?,0.9500000000000001,1.0,-0.0,0
+61,"Could you find a cheap supermarket that accepts contactless payments? It's not that hard, is it?",1.0,0.8911634385585785,-0.0,0
+62,"Navigate to a bar with a 5-star rating, medium prices, you idiot.",1.0,0.9390982389450073,-0.0,0
+63,"Could you please, um, guide me to a supermarket with contactless payment options? Parking should be available and the prices are, like, medium.",1.0,0.8911634385585785,-0.0,0
+64,"Could you, um, please direct me to a medium-priced bakery nearby?",1.0,0.8752301037311554,-0.0,0
+65,"Could you guide mea too a highley rated museum, please?",1.0,0.9626623690128326,-0.0,0
+66,"Could you, um, guide me to a supermarket with affordable prices and parking?",1.0,0.8911634385585785,-0.0,0
+67,"Hey there, can you help me find a medium-priced American restaurant with a solid 4.5 rating? Oh, and parking should be available, please!",1.0,0.9640928506851196,-0.0,0
+68,Could you assist me in locating a medium-priced car repair shop nearby?,0.9500000000000001,1.0,-0.0,0
+69,Could assist locating hotel? I prefer pay in cash.,1.0,0.9687078595161438,-0.0,0
