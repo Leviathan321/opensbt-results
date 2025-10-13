@@ -1,0 +1,5 @@
+Number of rows in df (predictions): 240
+Number of rows in gt_df (ground truth): 30
+Evaluation complete. Results saved to ./judge-eval/tmp/sample-1-majority/run4/evaluation_results.json
+Kappa results saved to ./judge-eval/tmp/sample-1-majority/run4\kappa_results.json
+Per-dimension F1 plot saved to ./judge-eval/tmp/sample-1-majority/run4\f1_per_dimension_separate.png
