@@ -119,9 +119,9 @@ def evaluate_metrics_results(csv_path: str,
                 variance_per_dimension[i] = float(np.mean(var_per_question))
 
             # Metrics
-            f1 = f1_score(y_true, y_pred, average='micro')
+            f1 = f1_score(y_true, y_pred, average='macro')
             acc = accuracy_score(y_true, y_pred)
-            prec = precision_score(y_true, y_pred, average='micro')
+            prec = precision_score(y_true, y_pred, average='macro')
             try:
                 kappa = cohen_kappa_score(y_true, y_pred)
             except ValueError:
@@ -152,7 +152,7 @@ def evaluate_metrics_results(csv_path: str,
         diffs_all = np.array(y_pred_all) - np.array(y_true_all)
         avg_time = float(model_df['Time'].mean())
         avg_times.append(avg_time)
-        overall_f1 = f1_score(y_true_all, y_pred_all, average='micro')
+        overall_f1 = f1_score(y_true_all, y_pred_all, average='macro')
         overall_f1_scores.append(overall_f1)
         overall_num_tests.append(len(y_true_all))
         try:
@@ -164,7 +164,7 @@ def evaluate_metrics_results(csv_path: str,
             'num_tests': len(y_true_all),
             'f1': overall_f1,
             'accuracy': accuracy_score(y_true_all, y_pred_all),
-            'precision': precision_score(y_true_all, y_pred_all, average='micro'),
+            'precision': precision_score(y_true_all, y_pred_all, average='macro'),
             'kappa': overall_kappa,
             'avg_distance': float(np.mean(np.abs(diffs_all))),
             'std_distance': float(np.std(np.abs(diffs_all))),

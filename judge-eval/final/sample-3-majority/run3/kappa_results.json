@@ -1,0 +1,66 @@
+{
+    "gpt-35-turbo (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.5822784810126582,
+            "Directness": 0.19266055045871566,
+            "Proactivity": 0.7461538461538462
+        },
+        "overall": 0.586283185840708
+    },
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.6071428571428572,
+            "Proactivity": 0.8382352941176471
+        },
+        "overall": 0.6294736842105264
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.30379746835443033,
+            "Directness": 0.467741935483871,
+            "Proactivity": 0.75
+        },
+        "overall": 0.5723055934515688
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.25077399380804966,
+            "Directness": 0.37735849056603776,
+            "Proactivity": 0.835820895522388
+        },
+        "overall": 0.5607705779334501
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.30379746835443033,
+            "Directness": 0.5849056603773586,
+            "Proactivity": 0.7480916030534351
+        },
+        "overall": 0.6047904191616766
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.30379746835443033,
+            "Directness": 0.15384615384615397,
+            "Proactivity": 0.7659574468085106
+        },
+        "overall": 0.5241528478731075
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.9269102990033222,
+            "Directness": 0.04807692307692313,
+            "Proactivity": 0.44303797468354433
+        },
+        "overall": 0.56
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.42105263157894735,
+            "Directness": 0.15384615384615397,
+            "Proactivity": 0.5448275862068965
+        },
+        "overall": 0.48628613787991104
+    }
+}

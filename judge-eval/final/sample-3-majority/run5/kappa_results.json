@@ -1,0 +1,66 @@
+{
+    "gpt-35-turbo (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.5141955835962144,
+            "Directness": 0.13725490196078438,
+            "Proactivity": 0.7461538461538462
+        },
+        "overall": 0.5575418994413408
+    },
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.4159292035398231,
+            "Proactivity": 0.8382352941176471
+        },
+        "overall": 0.5822784810126582
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.4253731343283583,
+            "Proactivity": 0.75
+        },
+        "overall": 0.5529969522519471
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": 0.5849056603773586,
+            "Proactivity": 0.835820895522388
+        },
+        "overall": 0.6512856639661853
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.3831775700934579,
+            "Proactivity": 0.835820895522388
+        },
+        "overall": 0.5813953488372092
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.35922330097087385,
+            "Directness": 0.15384615384615397,
+            "Proactivity": 0.7659574468085106
+        },
+        "overall": 0.5471289274106175
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.8543046357615894,
+            "Directness": -0.010204081632652962,
+            "Proactivity": 0.5032258064516129
+        },
+        "overall": 0.552710843373494
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4917491749174918,
+            "Directness": 0.0,
+            "Proactivity": 0.674074074074074
+        },
+        "overall": 0.5369276218611522
+    }
+}

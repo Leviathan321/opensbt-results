@@ -14,13 +14,13 @@ def collect_json_files(base_dir: str):
                 json_files.append(os.path.join(root, f))
     return json_files
 
+
 def aggregate_metrics(json_files):
     """
     Aggregates metrics across all seeds/runs.
     Returns a dictionary:
         { model_name: {metric_name: (mean, std), ...}, ... }
     """
-    # Nested dict: model_name -> list of dicts (one per run)
     model_data = {}
 
     for json_file in json_files:
@@ -32,11 +32,10 @@ def aggregate_metrics(json_files):
                 model_data[model_name] = []
             model_data[model_name].append(metrics)
 
-    # Compute mean/std for each model
     aggregated_results = {}
 
     for model_name, runs in model_data.items():
-        # Aggregate overall metrics
+        # ---- Aggregate overall metrics ----
         overall_metrics = {}
         overall_keys = runs[0]['overall'].keys()
         for key in overall_keys:
@@ -53,15 +52,34 @@ def aggregate_metrics(json_files):
             overall_metrics[key + "_mean"] = mean_val
             overall_metrics[key + "_std"] = std_val
 
+        # ---- Aggregate per-category kappa values ----
+        category_kappas = {"Request-oriented": [], "Directness": [], "Proactivity": []}
+        for run in runs:
+            per_cat = run.get("per_category", {})
+            for cat_name in category_kappas.keys():
+                if cat_name in per_cat and isinstance(per_cat[cat_name].get("kappa"), (int, float)):
+                    category_kappas[cat_name].append(per_cat[cat_name]["kappa"])
+
+        # Compute mean/std for each category kappa
+        for cat_name, kappas in category_kappas.items():
+            if len(kappas) > 0:
+                overall_metrics[f"kappa_{cat_name}_mean"] = float(np.nanmean(kappas))
+                overall_metrics[f"kappa_{cat_name}_std"] = float(np.nanstd(kappas))
+            else:
+                overall_metrics[f"kappa_{cat_name}_mean"] = np.nan
+                overall_metrics[f"kappa_{cat_name}_std"] = np.nan
+
         aggregated_results[model_name] = overall_metrics
 
     return aggregated_results
+
 
 def save_to_csv(aggregated_results, output_file):
     df = pd.DataFrame.from_dict(aggregated_results, orient="index")
     df.index.name = "Model"
     df.to_csv(output_file, float_format="%.4f")
     print(f"Aggregated metrics saved to {output_file}")
+
 
 # ---------------- Main ----------------
 if __name__ == "__main__":

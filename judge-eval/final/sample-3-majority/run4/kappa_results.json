@@ -1,0 +1,66 @@
+{
+    "gpt-35-turbo (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.44303797468354433,
+            "Directness": 0.19266055045871566,
+            "Proactivity": 0.7461538461538462
+        },
+        "overall": 0.5376106194690266
+    },
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": 0.3418803418803419,
+            "Proactivity": 0.8382352941176471
+        },
+        "overall": 0.5822784810126582
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.5172413793103448,
+            "Directness": 0.29032258064516137,
+            "Proactivity": 0.75
+        },
+        "overall": 0.5902035184546395
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.46601941747572817,
+            "Proactivity": 0.835820895522388
+        },
+        "overall": 0.6039534062830921
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": 0.5,
+            "Proactivity": 0.7480916030534351
+        },
+        "overall": 0.6039534062830921
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.35922330097087385,
+            "Directness": 0.06382978723404253,
+            "Proactivity": 0.7659574468085106
+        },
+        "overall": 0.525179856115108
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.9269102990033222,
+            "Directness": -0.010204081632652962,
+            "Proactivity": 0.5448275862068965
+        },
+        "overall": 0.6055285767650356
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4950819672131147,
+            "Directness": 0.2978723404255319,
+            "Proactivity": 0.5111111111111111
+        },
+        "overall": 0.5369276218611522
+    }
+}
