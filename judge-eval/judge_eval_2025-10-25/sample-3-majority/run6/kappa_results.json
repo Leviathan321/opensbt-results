@@ -1,0 +1,66 @@
+{
+    "gpt-35-turbo (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.5111111111111111,
+            "Directness": 0.13725490196078438,
+            "Proactivity": 0.7461538461538462
+        },
+        "overall": 0.5611377909124492
+    },
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.432258064516129,
+            "Directness": 0.49541284403669716,
+            "Proactivity": 0.8382352941176471
+        },
+        "overall": 0.650053022269353
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.44654088050314455,
+            "Directness": 0.32307692307692304,
+            "Proactivity": 0.674074074074074
+        },
+        "overall": 0.5514780835881754
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.25077399380804966,
+            "Directness": 0.5,
+            "Proactivity": 0.8382352941176471
+        },
+        "overall": 0.5822784810126582
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.25077399380804966,
+            "Directness": 0.49541284403669716,
+            "Proactivity": 0.9219858156028369
+        },
+        "overall": 0.6056239015817224
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.35922330097087385,
+            "Directness": 0.15384615384615397,
+            "Proactivity": 0.7659574468085106
+        },
+        "overall": 0.5471289274106175
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.9269102990033222,
+            "Directness": -0.010204081632652962,
+            "Proactivity": 0.432258064516129
+        },
+        "overall": 0.5545556805399325
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4917491749174918,
+            "Directness": 0.15384615384615397,
+            "Proactivity": 0.6071428571428572
+        },
+        "overall": 0.5379513633014001
+    }
+}

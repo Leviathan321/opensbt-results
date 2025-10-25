@@ -1,0 +1,18 @@
+{
+  "experiment_name": "sample-3-majority-run4",
+  "timestamp": "2025-10-01_01-35-28",
+  "dataset_path": "./data/ipa_response_dataset_dim_09-09-25_30_only.json",
+  "n_samples": 3,
+  "n_questions": 1000,
+  "models": [
+    "gpt-35-turbo",
+    "DeepSeek-V3-0324",
+    "gpt-4o-mini",
+    "gpt-4",
+    "gpt-4o",
+    "gpt-5-chat",
+    "mistral",
+    "deepseek-v2"
+  ],
+  "aggregator": "majority"
+}

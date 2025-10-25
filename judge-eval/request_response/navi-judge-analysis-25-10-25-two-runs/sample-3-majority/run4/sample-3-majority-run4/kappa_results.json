@@ -1,0 +1,66 @@
+{
+    "gpt-35-turbo (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.44303797468354433,
+            "Directness": -0.08450704225352101,
+            "Proactivity": 0.824
+        },
+        "overall": 0.5594817432273262
+    },
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": 0.20618556701030932,
+            "Proactivity": 0.9172932330827067
+        },
+        "overall": 0.5991425509110397
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.5172413793103448,
+            "Directness": 0.3125,
+            "Proactivity": 0.6615384615384616
+        },
+        "overall": 0.5681818181818181
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.025316455696202556,
+            "Proactivity": 0.7490494296577948
+        },
+        "overall": 0.5248380129589634
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": 0.25,
+            "Proactivity": 0.8274509803921568
+        },
+        "overall": 0.5961123110151187
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.35922330097087385,
+            "Directness": -0.13793103448275867,
+            "Proactivity": 0.8411552346570397
+        },
+        "overall": 0.5867403314917128
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.9269102990033222,
+            "Directness": -0.10000000000000009,
+            "Proactivity": 0.6113074204946997
+        },
+        "overall": 0.6890459363957597
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4950819672131147,
+            "Directness": -0.13793103448275867,
+            "Proactivity": 0.5895522388059702
+        },
+        "overall": 0.5373831775700935
+    }
+}

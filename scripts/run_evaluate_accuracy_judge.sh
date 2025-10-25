@@ -2,16 +2,15 @@
 set -euo pipefail
 
 # ---------------- Configuration ----------------
-BASE_DIR="../opensbt-results/judge-eval/request_response/judge_eval_2025-10-01_00-00-58/navi-judge-analysis_2025-10-01_00-00-58"
+BASE_DIR="../opensbt-results/judge-eval/request_response/navi-judge-analysis-25-10-25-two-runs"
 GT_CSV="../opensbt-results/human-aggregated/equal_aggregated_mean/question/survey_results_aggregated.csv"
-
 SAVE_DIR="./judge-eval/tmp"
 
 mkdir -p "$SAVE_DIR"
 
 # List of sample configurations and runs
 SAMPLES=("sample-1-majority" "sample-3-majority")
-RUNS=("run1" "run2" "run3" "run4" "run5")
+RUNS=("run1" "run2" "run3" "run4" "run5" "run6" "run7")
 
 echo "===================================================="
 echo " Running evaluation for all samples and runs"

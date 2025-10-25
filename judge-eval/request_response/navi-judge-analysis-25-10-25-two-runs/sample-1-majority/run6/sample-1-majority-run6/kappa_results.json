@@ -1,0 +1,66 @@
+{
+    "gpt-35-turbo (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4394904458598726,
+            "Directness": -0.06451612903225801,
+            "Proactivity": 0.824
+        },
+        "overall": 0.5887850467289719
+    },
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.2325581395348837,
+            "Proactivity": 0.9172932330827067
+        },
+        "overall": 0.5961123110151187
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.44654088050314455,
+            "Directness": 0.22535211267605637,
+            "Proactivity": 0.5895522388059702
+        },
+        "overall": 0.4919678714859438
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": -0.18918918918918926,
+            "Proactivity": 0.9172932330827067
+        },
+        "overall": 0.5657894736842105
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.44654088050314455,
+            "Directness": -0.14925373134328357,
+            "Proactivity": 1.0
+        },
+        "overall": 0.6296296296296297
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.25077399380804966,
+            "Directness": -0.13793103448275867,
+            "Proactivity": 0.8411552346570397
+        },
+        "overall": 0.5381215469613261
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.7850162866449512,
+            "Directness": -0.037735849056603765,
+            "Proactivity": 0.5629139072847682
+        },
+        "overall": 0.6401869158878504
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3508196721311475,
+            "Directness": 0.0,
+            "Proactivity": 0.38675958188153303
+        },
+        "overall": 0.4558303886925795
+    }
+}

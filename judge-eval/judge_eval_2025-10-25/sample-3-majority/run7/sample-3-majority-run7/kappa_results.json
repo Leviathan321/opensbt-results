@@ -1,0 +1,66 @@
+{
+    "gpt-35-turbo (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.5111111111111111,
+            "Directness": -0.06451612903225801,
+            "Proactivity": 0.824
+        },
+        "overall": 0.6113074204946997
+    },
+    "DeepSeek-V3-0324 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": 0.2325581395348837,
+            "Proactivity": 0.8411552346570397
+        },
+        "overall": 0.5961123110151187
+    },
+    "gpt-4o-mini (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.32098765432098764,
+            "Directness": 0.2666666666666667,
+            "Proactivity": 0.6615384615384616
+        },
+        "overall": 0.4883720930232558
+    },
+    "gpt-4 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.3753943217665615,
+            "Directness": -0.2222222222222221,
+            "Proactivity": 0.9109311740890689
+        },
+        "overall": 0.5624309392265194
+    },
+    "gpt-4o (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.25077399380804966,
+            "Directness": 0.2325581395348837,
+            "Proactivity": 1.0
+        },
+        "overall": 0.5961123110151187
+    },
+    "gpt-5-chat (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.35922330097087385,
+            "Directness": -0.10000000000000009,
+            "Proactivity": 0.8411552346570397
+        },
+        "overall": 0.5867403314917128
+    },
+    "mistral (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.8533333333333333,
+            "Directness": -0.14925373134328357,
+            "Proactivity": 0.5510204081632653
+        },
+        "overall": 0.6176129779837776
+    },
+    "deepseek-v2 (I/O)": {
+        "per_category": {
+            "Request-oriented": 0.4248366013071896,
+            "Directness": -0.13793103448275867,
+            "Proactivity": 0.3465346534653466
+        },
+        "overall": 0.41839080459770117
+    }
+}
